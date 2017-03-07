@@ -1,0 +1,2329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NTCIR-11 RITE-VAL, System Validation, Traditional Chinese BC Training Dataset
+  -->
+<dataset>
+  <pair id="1" label="Y" revlabel="Y" category="abbreviation">
+    <t1>历史上没有吉力马札罗山火山喷发的记录。</t1>
+    <t2>历史上没有吉力马札罗火山喷发的记录。</t2>
+  </pair>
+  <pair id="2" label="Y" revlabel="Y" category="abbreviation">
+    <t1>乔治·卢卡斯最着名的作品是《星际大战》和《法柜奇兵》系列。</t1>
+    <t2>乔治·卢卡斯最着名的作品是《星战》和《法柜》系列。</t2>
+  </pair>
+  <pair id="3" label="Y" revlabel="Y" category="abbreviation">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区包括原东南亚国家协会国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t2>
+  </pair>
+  <pair id="4" label="Y" revlabel="Y" category="abbreviation">
+    <t1>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t1>
+    <t2>1992年提出的东协自由贸易区(ASEAN Free Trade Are)简称AFTA。</t2>
+  </pair>
+  <pair id="5" label="Y" revlabel="N" category="abbreviation">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区包括原东协6国(泰、菲、印尼、马来西亚、新加坡、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)</t2>
+  </pair>
+  <pair id="6" label="Y" revlabel="N" category="abbreviation">
+    <t1>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t1>
+    <t2>AFTA于1992年提出。</t2>
+  </pair>
+  <pair id="7" label="N" revlabel="N" category="antonym">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>对不少男性而言，干物女不修边幅，又长袖善舞，所以缺乏吸引力。</t2>
+  </pair>
+  <pair id="8" label="N" revlabel="N" category="antonym">
+    <t1>铅笔与其他笔的不同之处在于它的笔迹很容易被擦掉。</t1>
+    <t2>铅笔与其他笔的共通处在于它的笔迹很容易被擦掉。</t2>
+  </pair>
+  <pair id="9" label="N" revlabel="N" category="antonym">
+    <t1>词汇是不同国家的手语差异最大的地方。</t1>
+    <t2>词汇是不同国家的手语差异最细微的地方。</t2>
+  </pair>
+  <pair id="10" label="N" revlabel="N" category="antonym">
+    <t1>现今水蕴草已可供人养殖，栽培方式多半是利用雄性植株的无性生殖。</t1>
+    <t2>现今水蕴草已可供人养殖，栽培方式多半是利用雌性植株的无性生殖。</t2>
+  </pair>
+  <pair id="11" label="N" revlabel="N" category="antonym">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>干物女为传入日本的流行语。</t2>
+  </pair>
+  <pair id="12" label="N" revlabel="N" category="antonym">
+    <t1>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t1>
+    <t2>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的男性。</t2>
+  </pair>
+  <pair id="13" label="N" revlabel="N" category="antonym">
+    <t1>约瑟夫·傅立叶于1768年3月21日在法国约讷省欧塞尔出生。</t1>
+    <t2>约瑟夫·傅立叶于1768年3月21日在法国约讷省欧塞尔过世。</t2>
+  </pair>
+  <pair id="14" label="N" revlabel="N" category="antonym">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区除去原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t2>
+  </pair>
+  <pair id="15" label="N" revlabel="N" category="antonym">
+    <t1>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t1>
+    <t2>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年撤销。</t2>
+  </pair>
+  <pair id="16" label="N" revlabel="N" category="antonym">
+    <t1>吉力马札罗山的部分山区被指定为吉力马札罗国家公园，并登录为世界遗产。</t1>
+    <t2>吉力马札罗山的部分山区被指定为吉力马札罗国家公园，并退出世界遗产。</t2>
+  </pair>
+  <pair id="17" label="N" revlabel="N" category="antonym">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山位于赤道与南纬3度之间，在西非大裂谷以西160千米处。</t2>
+  </pair>
+  <pair id="18" label="N" revlabel="N" category="antonym">
+    <t1>石墨添加得越多，铅笔笔芯越软，颜色越黑；而粘土添加得越多，笔芯则越硬，颜色越浅。</t1>
+    <t2>石墨添加得越少，铅笔笔芯越软，颜色越黑；而粘土添加得越少，笔芯则越硬，颜色越浅。</t2>
+  </pair>
+  <pair id="19" label="N" revlabel="N" category="antonym">
+    <t1>水蕴草适合生长在营养及光线充足的环境中。</t1>
+    <t2>水蕴草适合生长在营养及缺乏光线的环境中。</t2>
+  </pair>
+  <pair id="20" label="N" revlabel="N" category="antonym">
+    <t1>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t1>
+    <t2>水蕴草原产地是在南美洲气温较低的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t2>
+  </pair>
+  <pair id="21" label="N" revlabel="N" category="antonym">
+    <t1>水蕴草为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t1>
+    <t2>水蕴草为雌雄同株的植物，其雌花和雄花不会出现在同一植株中。</t2>
+  </pair>
+  <pair id="22" label="N" revlabel="N" category="antonym">
+    <t1>水蕴草可生长在水深4公尺以内的水域，总长可以长达2公尺。</t1>
+    <t2>水蕴草可生长在水深4公尺以上的水域，总长可以长达2公尺。</t2>
+  </pair>
+  <pair id="23" label="N" revlabel="N" category="antonym">
+    <t1>水蕴草（Egeria densa）别名蜈蚣草。</t1>
+    <t2>水蕴草（Egeria densa）谬称蜈蚣草。</t2>
+  </pair>
+  <pair id="24" label="N" revlabel="N" category="antonym">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回少量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t2>
+  </pair>
+  <pair id="25" label="N" revlabel="N" category="antonym">
+    <t1>拉力赛是采用公共或者私人道路，使用改装过的或者是特别制造的汽车进行的比赛。</t1>
+    <t2>拉力赛是采用公共或者私人道路，使用原厂的或者是特别制造的汽车进行的比赛。</t2>
+  </pair>
+  <pair id="26" label="N" revlabel="N" category="antonym">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>铅笔除了书写，其中较不值一提的可以算是鉴别钻石的真伪。</t2>
+  </pair>
+  <pair id="27" label="Y" revlabel="Y" category="apposition">
+    <t1>历史上没有吉力马札罗山火山喷发的记录。</t1>
+    <t2>历史上没有吉力马札罗山喷发的记录。</t2>
+  </pair>
+  <pair id="28" label="Y" revlabel="Y" category="apposition">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>对不少男性而言，干物女这种人不修边幅，又不擅社交，所以缺乏吸引力。</t2>
+  </pair>
+  <pair id="29" label="Y" revlabel="Y" category="apposition">
+    <t1>铅笔的原型可以追溯至古罗马时代。</t1>
+    <t2>铅笔的原型可以追溯至古罗马。</t2>
+  </pair>
+  <pair id="30" label="Y" revlabel="Y" category="apposition">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>干物女这个词来自于日本的流行语。</t2>
+  </pair>
+  <pair id="31" label="Y" revlabel="Y" category="apposition">
+    <t1>干炒牛河是广东菜色的一种。</t1>
+    <t2>干炒牛河这道菜是广东菜色的一种。</t2>
+  </pair>
+  <pair id="32" label="Y" revlabel="N" category="apposition">
+    <t1>水蕴草（Egeria densa）别名蜈蚣草。</t1>
+    <t2>水蕴草别名蜈蚣草。</t2>
+  </pair>
+  <pair id="33" label="N" revlabel="N" category="apposition">
+    <t1>历史上没有吉力马札罗山火山喷发的记录。</t1>
+    <t2>历史上没有火山喷发的记录。</t2>
+  </pair>
+  <pair id="34" label="Y" revlabel="Y" category="case_alternation">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>钻石的真伪可以被铅笔鉴别。</t2>
+  </pair>
+  <pair id="35" label="Y" revlabel="Y" category="case_alternation">
+    <t1>历史上没有吉力马札罗山火山喷发的记录。</t1>
+    <t2>历史上吉力马札罗山火山的喷发没有被记录。</t2>
+  </pair>
+  <pair id="36" label="Y" revlabel="Y" category="case_alternation">
+    <t1>铅笔与其他笔的不同之处在于它的笔迹很容易被擦掉。</t1>
+    <t2>铅笔与其他笔的不同之处在于它的笔迹很容易擦掉。</t2>
+  </pair>
+  <pair id="37" label="Y" revlabel="Y" category="case_alternation">
+    <t1>词汇是不同国家的手语差异最大的地方。</t1>
+    <t2>词汇被认为是不同国家的手语差异最大的地方。</t2>
+  </pair>
+  <pair id="38" label="Y" revlabel="Y" category="case_alternation">
+    <t1>乔治·卢卡斯最着名的作品是《星际大战》和《法柜奇兵》系列。</t1>
+    <t2>乔治·卢卡斯最着名的作品被认为是《星际大战》和《法柜奇兵》系列。</t2>
+  </pair>
+  <pair id="39" label="Y" revlabel="Y" category="case_alternation">
+    <t1>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t1>
+    <t2>干物女被用来指一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t2>
+  </pair>
+  <pair id="40" label="Y" revlabel="Y" category="case_alternation">
+    <t1>干炒牛河是广东菜色的一种。</t1>
+    <t2>干炒牛河被归类为广东菜色的一种。</t2>
+  </pair>
+  <pair id="41" label="Y" revlabel="Y" category="case_alternation">
+    <t1>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t1>
+    <t2>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并被应用于热传导理论与振动理论。</t2>
+  </pair>
+  <pair id="42" label="Y" revlabel="Y" category="case_alternation">
+    <t1>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t1>
+    <t2>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年被提出。</t2>
+  </pair>
+  <pair id="43" label="Y" revlabel="Y" category="case_alternation">
+    <t1>拉力赛参赛者和他的副驾驶在一些控制点之间的路段上驾驶。</t1>
+    <t2>拉力赛参赛者和他的副驾驶被规定在一些控制点之间的路段上驾驶。</t2>
+  </pair>
+  <pair id="44" label="Y" revlabel="Y" category="case_alternation">
+    <t1>现今水蕴草已可供人养殖，栽培方式多半是利用雄性植株的无性生殖。</t1>
+    <t2>利用雄性植株的无性生殖，现今水蕴草已可被人工养殖。</t2>
+  </pair>
+  <pair id="45" label="Y" revlabel="Y" category="case_alternation">
+    <t1>有时候，生产商会在铅笔的一端装上橡皮擦。</t1>
+    <t2>有时候，铅笔的一端会被生产商装上橡皮擦。</t2>
+  </pair>
+  <pair id="46" label="Y" revlabel="Y" category="case_alternation">
+    <t1>吉力马札罗山的部分山区被指定为吉力马札罗国家公园，并登录为世界遗产。</t1>
+    <t2>吉力马札罗山的部分山区被指定为吉力马札罗国家公园，并被选为世界遗产。</t2>
+  </pair>
+  <pair id="47" label="Y" revlabel="Y" category="case_alternation">
+    <t1>吉力马札罗山常被称为「非洲屋脊」、「非洲之王」。</t1>
+    <t2>吉力马札罗山又称为「非洲屋脊」、「非洲之王」。</t2>
+  </pair>
+  <pair id="48" label="Y" revlabel="Y" category="case_alternation">
+    <t1>水蕴草为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t1>
+    <t2>水蕴草被归类为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t2>
+  </pair>
+  <pair id="49" label="Y" revlabel="Y" category="case_alternation">
+    <t1>水蕴草（Egeria densa）别名蜈蚣草。</t1>
+    <t2>水蕴草（Egeria densa）又被称为蜈蚣草。</t2>
+  </pair>
+  <pair id="50" label="Y" revlabel="Y" category="case_alternation">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>手语主要被失聪者使用。</t2>
+  </pair>
+  <pair id="51" label="Y" revlabel="Y" category="case_alternation">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得欧洲人确认吉力马札罗山的存在。</t2>
+  </pair>
+  <pair id="52" label="Y" revlabel="N" category="case_alternation">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t2>
+  </pair>
+  <pair id="53" label="Y" revlabel="N" category="case_alternation">
+    <t1>现代铅笔以石墨和粘土来制造。</t1>
+    <t2>石墨和粘土可被制造成铅笔。</t2>
+  </pair>
+  <pair id="54" label="Y" revlabel="N" category="case_alternation">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>手势可被用来表达意思。</t2>
+  </pair>
+  <pair id="55" label="Y" revlabel="Y" category="clause">
+    <t1>水蕴草为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t1>
+    <t2>雌雄异株的水蕴草，其雌花和雄花不会出现在同一植株中。</t2>
+  </pair>
+  <pair id="56" label="Y" revlabel="Y" category="clause">
+    <t1>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t1>
+    <t2>将钻石润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t2>
+  </pair>
+  <pair id="57" label="Y" revlabel="Y" category="clause">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区参与的国家包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t2>
+  </pair>
+  <pair id="58" label="Y" revlabel="Y" category="clause">
+    <t1>吉力马札罗山常被称为「非洲屋脊」、「非洲之王」。</t1>
+    <t2>「非洲屋脊」吉力马札罗山常被称为「非洲之王」。</t2>
+  </pair>
+  <pair id="59" label="Y" revlabel="N" category="clause">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>手语不使用语音而使用手势、身体动作、脸部表情来表达意思。</t2>
+  </pair>
+  <pair id="60" label="Y" revlabel="N" category="clause">
+    <t1>水蕴草为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t1>
+    <t2>雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t2>
+  </pair>
+  <pair id="61" label="Y" revlabel="N" category="clause">
+    <t1>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t1>
+    <t2>干物女指的是一群认为很多事情都很麻烦而凑合着过的女性。</t2>
+  </pair>
+  <pair id="62" label="Y" revlabel="N" category="clause">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>干物女来自于日本。</t2>
+  </pair>
+  <pair id="63" label="Y" revlabel="N" category="clause">
+    <t1>拉力赛参赛者在一个或者几个起点上，按照规定间隔出发。</t1>
+    <t2>拉力赛参赛者按照规定间隔出发。</t2>
+  </pair>
+  <pair id="64" label="Y" revlabel="N" category="clause">
+    <t1>拉力赛参赛者和他的副驾驶在一些控制点之间的路段上驾驶。</t1>
+    <t2>拉力赛参赛者在一些控制点之间的路段上驾驶。</t2>
+  </pair>
+  <pair id="65" label="Y" revlabel="N" category="clause">
+    <t1>拉力赛是采用公共或者私人道路，使用改装过的或者是特别制造的汽车进行的比赛。</t1>
+    <t2>拉力赛是采用公共或者私人道路进行的汽车比赛。</t2>
+  </pair>
+  <pair id="66" label="Y" revlabel="N" category="clause">
+    <t1>吉力马札罗山的部分山区被指定为吉力马札罗国家公园，并登录为世界遗产。</t1>
+    <t2>吉力马札罗国家公园为世界遗产之一。</t2>
+  </pair>
+  <pair id="67" label="Y" revlabel="N" category="clause">
+    <t1>吉力马札罗山的部分山区被指定为吉力马札罗国家公园，并登录为世界遗产。</t1>
+    <t2>吉力马札罗山的部分山区被指定为世界遗产。</t2>
+  </pair>
+  <pair id="68" label="Y" revlabel="N" category="clause">
+    <t1>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t1>
+    <t2>水蕴草原产地是在南美洲，包括巴西的东南部、阿根廷、乌拉圭等地。</t2>
+  </pair>
+  <pair id="69" label="Y" revlabel="N" category="clause">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>手语是一种不使用语音的语言。</t2>
+  </pair>
+  <pair id="70" label="N" revlabel="N" category="clause">
+    <t1>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t1>
+    <t2>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦的女性。</t2>
+  </pair>
+  <pair id="71" label="N" revlabel="Y" category="clause">
+    <t1>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t1>
+    <t2>东协于1992年提出东协自由贸易区(ASEAN Free Trade Area，简称AFTA)。</t2>
+  </pair>
+  <pair id="72" label="N" revlabel="N" category="clause">
+    <t1>拉力赛是采用公共或者私人道路，使用改装过的或者是特别制造的汽车进行的比赛。</t1>
+    <t2>拉力赛是采用公共或者私人道路，使用改装过的汽车进行的比赛。</t2>
+  </pair>
+  <pair id="73" label="Y" revlabel="N" category="clause">
+    <t1>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t1>
+    <t2>干物女指的是那些认为很多事情都很麻烦而凑合着过的女性。</t2>
+  </pair>
+  <pair id="74" label="Y" revlabel="Y" category="clause">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>手语主要使用者是有听觉障碍的失聪者。</t2>
+  </pair>
+  <pair id="75" label="Y" revlabel="N" category="clause">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>约瑟夫·傅立叶是物理学家。</t2>
+  </pair>
+  <pair id="76" label="Y" revlabel="N" category="clause">
+    <t1>拉力赛参赛者和他的副驾驶在一些控制点之间的路段上驾驶。</t1>
+    <t2>拉力赛参赛者和他的副驾驶在一些路段上驾驶。</t2>
+  </pair>
+  <pair id="77" label="Y" revlabel="N" category="clause">
+    <t1>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t1>
+    <t2>水蕴草原产地是在南美洲区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t2>
+  </pair>
+  <pair id="78" label="Y" revlabel="N" category="clause">
+    <t1>水蕴草可生长在水深4公尺以内的水域，总长可以长达2公尺。</t1>
+    <t2>水蕴草可生长在水中，总长可以长达2公尺。</t2>
+  </pair>
+  <pair id="79" label="Y" revlabel="Y" category="coreference">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏男性吸引力。</t2>
+  </pair>
+  <pair id="80" label="Y" revlabel="Y" category="coreference">
+    <t1>铅笔与其他笔的不同之处在于它的笔迹很容易被擦掉。</t1>
+    <t2>铅笔与其他笔的不同之处在于铅笔的笔迹很容易被擦掉。</t2>
+  </pair>
+  <pair id="81" label="Y" revlabel="Y" category="coreference">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>美国的乔治·卢卡斯是电影导演、制片人和编剧。</t2>
+  </pair>
+  <pair id="82" label="Y" revlabel="Y" category="coreference">
+    <t1>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t1>
+    <t2>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将Fourier series应用于热传导理论与振动理论。</t2>
+  </pair>
+  <pair id="83" label="Y" revlabel="Y" category="coreference">
+    <t1>拉力赛参赛者和他的副驾驶在一些控制点之间的路段上驾驶。</t1>
+    <t2>拉力赛参赛者和车手的副驾驶在一些控制点之间的路段上驾驶。</t2>
+  </pair>
+  <pair id="84" label="Y" revlabel="Y" category="coreference">
+    <t1>水蕴草其根部会紧紧插在泥土里，其茎并不会露出水面。</t1>
+    <t2>水蕴草其根部会紧紧插在泥土里，水蕴草其茎并不会露出水面。</t2>
+  </pair>
+  <pair id="85" label="Y" revlabel="N" category="coreference">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山在东非大裂谷以东160千米处。</t2>
+  </pair>
+  <pair id="86" label="Y" revlabel="N" category="coreference">
+    <t1>水蕴草为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t1>
+    <t2>水蕴草的雌花和雄花不会出现在同一植株中。</t2>
+  </pair>
+  <pair id="87" label="Y" revlabel="N" category="coreference">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量吉力马札罗山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t2>
+  </pair>
+  <pair id="88" label="N" revlabel="N" category="coreference">
+    <t1>水蕴草是一种水生植物，主要分布在湖边。</t1>
+    <t2>水生植物主要分布在湖边。</t2>
+  </pair>
+  <pair id="89" label="N" revlabel="N" category="coreference">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量基博峰的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t2>
+  </pair>
+  <pair id="90" label="Y" revlabel="Y" category="lexical_entailment">
+    <t1>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t1>
+    <t2>约瑟夫·傅立叶发现傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t2>
+  </pair>
+  <pair id="91" label="Y" revlabel="Y" category="lexical_entailment">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个成员。</t2>
+  </pair>
+  <pair id="92" label="Y" revlabel="Y" category="lexical_entailment">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区包括原东协成员国(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t2>
+  </pair>
+  <pair id="93" label="Y" revlabel="Y" category="lexical_entailment">
+    <t1>拉力赛参赛者在一个或者几个起点上，按照规定间隔出发。</t1>
+    <t2>拉力赛参赛车辆在一个或者几个起点上，按照规定间隔出发。</t2>
+  </pair>
+  <pair id="94" label="Y" revlabel="Y" category="lexical_entailment">
+    <t1>拉力赛参赛者和他的副驾驶在一些控制点之间的路段上驾驶。</t1>
+    <t2>拉力赛车手和他的副驾驶在一些控制点之间的路段上驾驶。</t2>
+  </pair>
+  <pair id="95" label="Y" revlabel="Y" category="lexical_entailment">
+    <t1>吉力马札罗山的部分山区被指定为吉力马札罗国家公园，并登录为世界遗产。</t1>
+    <t2>吉力马札罗山的部分山区被划分为吉力马札罗国家公园，并登录为世界遗产。</t2>
+  </pair>
+  <pair id="96" label="Y" revlabel="Y" category="paraphrase">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>吉力马札罗山位于坦尚尼亚东北，与肯亚边界遥遥相对，是非洲的最高山。</t2>
+  </pair>
+  <pair id="97" label="Y" revlabel="Y" category="lexical_entailment">
+    <t1>水蕴草为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t1>
+    <t2>水蕴草为雌雄异株的植物，其雌花和雄花不会长在同一植株中。</t2>
+  </pair>
+  <pair id="98" label="Y" revlabel="Y" category="lexical_entailment">
+    <t1>水蕴草其根部会紧紧插在泥土里，其茎并不会露出水面。</t1>
+    <t2>水蕴草其根部会紧紧插在泥土里，其茎并不会超过水面。</t2>
+  </pair>
+  <pair id="99" label="Y" revlabel="Y" category="lexical_entailment">
+    <t1>水蕴草可生长在水深4公尺以内的水域，总长可以长达2公尺。</t1>
+    <t2>水蕴草可生长在水深4公尺以内的水域，整株可以长达2公尺。</t2>
+  </pair>
+  <pair id="100" label="Y" revlabel="Y" category="lexical_entailment">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>手语是一种不依赖语音，而使用手势、身体动作、脸部表情表达意思的语言。</t2>
+  </pair>
+  <pair id="101" label="Y" revlabel="N" category="paraphrase">
+    <t1>铅笔与其他笔的不同之处在于它的笔迹很容易被擦掉。</t1>
+    <t2>铅笔与其他笔的不同之处在于它的笔迹很容易消除。</t2>
+  </pair>
+  <pair id="102" label="N" revlabel="N" category="lexical_entailment">
+    <t1>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t1>
+    <t2>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年成立。</t2>
+  </pair>
+  <pair id="103" label="Y" revlabel="Y" category="paraphrase">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>对不少男性而言，干物女不修边幅，又不擅与人相处，所以缺乏吸引力。</t2>
+  </pair>
+  <pair id="104" label="Y" revlabel="Y" category="paraphrase">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>干物女为日本输出的流行语。</t2>
+  </pair>
+  <pair id="105" label="Y" revlabel="Y" category="paraphrase">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>干物女是日本人发明的流行语。</t2>
+  </pair>
+  <pair id="106" label="Y" revlabel="Y" category="paraphrase">
+    <t1>吉力马札罗山常被称为「非洲屋脊」、「非洲之王」。</t1>
+    <t2>吉力马札罗山有着「非洲屋脊」、「非洲之王」的别名。</t2>
+  </pair>
+  <pair id="107" label="Y" revlabel="Y" category="paraphrase">
+    <t1>水蕴草适合生长在营养及光线充足的环境中。</t1>
+    <t2>水蕴草的生长需要在营养及光线充足的环境中。</t2>
+  </pair>
+  <pair id="108" label="Y" revlabel="Y" category="lexical_entailment">
+    <t1>水蕴草在较冷的水族箱中生长良好，也很容易利用扦插方式来繁殖。</t1>
+    <t2>水蕴草在较低温的水族箱中生长较佳，也很容易利用扦插方式来繁殖。</t2>
+  </pair>
+  <pair id="109" label="Y" revlabel="Y" category="paraphrase">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>手语是一种不使用语音，而使用手势、身体动作、脸部表情相互沟通的语言。</t2>
+  </pair>
+  <pair id="110" label="Y" revlabel="N" category="inference">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>位于赤道附近的吉力马札罗山，在东非大裂谷以东160千米处。</t2>
+  </pair>
+  <pair id="111" label="Y" revlabel="N" category="paraphrase">
+    <t1>有时候，铅笔的一端会装上橡皮擦。</t1>
+    <t2>有部分的铅笔会装上橡皮擦。</t2>
+  </pair>
+  <pair id="112" label="Y" revlabel="N" category="paraphrase">
+    <t1>石墨添加得越多，铅笔笔芯越软，颜色越黑。</t1>
+    <t2>石墨添加得越多，铅笔笔迹颜色越黑。</t2>
+  </pair>
+  <pair id="113" label="Y" revlabel="N" category="paraphrase">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>手语主要使用者是有听觉障碍的人。</t2>
+  </pair>
+  <pair id="114" label="Y" revlabel="N" category="inference">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒确认了吉力马札罗山的存在。</t2>
+  </pair>
+  <pair id="115" label="Y" revlabel="Y" category="hypernymy">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>干物女是来自于亚洲的流行语。</t2>
+  </pair>
+  <pair id="116" label="Y" revlabel="Y" category="hypernymy">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个地区。</t2>
+  </pair>
+  <pair id="117" label="Y" revlabel="Y" category="hypernymy">
+    <t1>拉力赛参赛者和他的副驾驶在一些控制点之间的路段上驾驶。</t1>
+    <t2>拉力赛参赛者和他的副驾驶在一些控制点之间的区域上驾驶。</t2>
+  </pair>
+  <pair id="118" label="Y" revlabel="Y" category="hypernymy">
+    <t1>用铅笔刻划用玻璃、水晶、电力石等制作的假钻石会留下痕迹。</t1>
+    <t2>用铅笔刻划用玻璃、石英、电力石等制作的假钻石会留下痕迹。</t2>
+  </pair>
+  <pair id="119" label="Y" revlabel="Y" category="hypernymy">
+    <t1>水蕴草在较冷的水族箱中生长良好，也很容易利用扦插方式来繁殖。</t1>
+    <t2>水蕴草在较冷的环境中生长良好，也很容易利用扦插方式来繁殖。</t2>
+  </pair>
+  <pair id="120" label="Y" revlabel="Y" category="hypernymy">
+    <t1>水蕴草可生长在水深4公尺以内的水域，总长可以长达2公尺。</t1>
+    <t2>水蕴草可生长在深度4公尺以内的水域，长度可以长达2公尺。</t2>
+  </pair>
+  <pair id="121" label="Y" revlabel="Y" category="hypernymy">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>手语是一种不使用声音，而使用手势、身体动作、脸部表情表达意思的语言。</t2>
+  </pair>
+  <pair id="122" label="Y" revlabel="N" category="hypernymy">
+    <t1>手语并不是世界共通的。</t1>
+    <t2>语言并不是世界共通的。</t2>
+  </pair>
+  <pair id="123" label="Y" revlabel="N" category="hypernymy">
+    <t1>词汇是不同国家的手语差异最大的地方。</t1>
+    <t2>词汇是不同地区的手语差异最大的地方。</t2>
+  </pair>
+  <pair id="124" label="Y" revlabel="N" category="hypernymy">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>乔治·卢卡斯是美国的电影从业人员。</t2>
+  </pair>
+  <pair id="125" label="Y" revlabel="N" category="hypernymy">
+    <t1>现代铅笔以石墨和粘土来制造。</t1>
+    <t2>现代铅笔以碳和粘土来制造。</t2>
+  </pair>
+  <pair id="126" label="Y" revlabel="N" category="hypernymy">
+    <t1>干炒牛河是广东菜色的一种。</t1>
+    <t2>干炒牛河是中国菜色的一种。</t2>
+  </pair>
+  <pair id="127" label="Y" revlabel="N" category="hypernymy">
+    <t1>约瑟夫·傅立叶男爵（Joseph Fourier，1768年3月21日－1830年5月16日）。</t1>
+    <t2>约瑟夫·傅立叶爵士（Joseph Fourier，1768年3月21日－1830年5月16日）。</t2>
+  </pair>
+  <pair id="128" label="Y" revlabel="N" category="hypernymy">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>约瑟夫·傅立叶是欧洲数学家、物理学家。</t2>
+  </pair>
+  <pair id="129" label="Y" revlabel="N" category="hypernymy">
+    <t1>拉力赛是采用公共或者私人道路，使用改装过的或者是特别制造的汽车进行的比赛。</t1>
+    <t2>拉力赛是采用公共或者私人道路，使用改装过的或者是特别制造的车辆进行的比赛。</t2>
+  </pair>
+  <pair id="130" label="Y" revlabel="N" category="hypernymy">
+    <t1>有时候，生产商会在铅笔的一端装上橡皮擦。</t1>
+    <t2>有时候，商人会在铅笔的一端装上橡皮擦。</t2>
+  </pair>
+  <pair id="131" label="Y" revlabel="N" category="hypernymy">
+    <t1>水蕴草为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t1>
+    <t2>水蕴草为雌雄异株的生物，其雌花和雄花不会出现在同一植株中。</t2>
+  </pair>
+  <pair id="132" label="Y" revlabel="N" category="hypernymy">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>手语主要使用者包括失聪者。</t2>
+  </pair>
+  <pair id="133" label="Y" revlabel="N" category="hypernymy">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，取得大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t2>
+  </pair>
+  <pair id="134" label="N" revlabel="N" category="hypernymy">
+    <t1>铅笔与其他笔的不同之处在于它的笔迹很容易被擦掉。</t1>
+    <t2>钢笔与其他笔的不同之处在于它的笔迹很容易被擦掉。</t2>
+  </pair>
+  <pair id="135" label="N" revlabel="N" category="hypernymy">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>对不少人而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t2>
+  </pair>
+  <pair id="136" label="N" revlabel="N" category="hypernymy">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>铅笔除了书写，其中最重要的可以算是鉴别矿物的真伪。</t2>
+  </pair>
+  <pair id="137" label="N" revlabel="N" category="hypernymy">
+    <t1>词汇是不同国家的手语差异最大的地方。</t1>
+    <t2>词汇是不同国家的语言差异最大的地方。</t2>
+  </pair>
+  <pair id="138" label="N" revlabel="N" category="hypernymy">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t2>
+  </pair>
+  <pair id="139" label="N" revlabel="N" category="hypernymy">
+    <t1>铅笔的原型可以追溯至古罗马时代。</t1>
+    <t2>笔的原型可以追溯至古罗马时代。</t2>
+  </pair>
+  <pair id="140" label="N" revlabel="N" category="hypernymy">
+    <t1>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t1>
+    <t2>将钻石用水润湿，用笔在上面刻划一下，如果钻石是真的，其表面不会留下笔划过的痕迹。</t2>
+  </pair>
+  <pair id="141" label="N" revlabel="N" category="hypernymy">
+    <t1>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t1>
+    <t2>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的人。</t2>
+  </pair>
+  <pair id="142" label="N" revlabel="N" category="hypernymy">
+    <t1>有时候，生产商会在铅笔的一端装上橡皮擦。</t1>
+    <t2>有时候，厂商会在笔的一端装上橡皮擦。</t2>
+  </pair>
+  <pair id="143" label="N" revlabel="N" category="hypernymy">
+    <t1>水蕴草是一种水生植物，主要分布在湖边。</t1>
+    <t2>水蕴草是一种水生植物，主要分布在水边。</t2>
+  </pair>
+  <pair id="144" label="N" revlabel="N" category="hypernymy">
+    <t1>水蕴草为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t1>
+    <t2>水生植物为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t2>
+  </pair>
+  <pair id="145" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>铅笔除了书写，其中最重要的可以算是鉴别水晶的真伪。</t2>
+  </pair>
+  <pair id="146" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t1>
+    <t2>将钻石用酒精润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t2>
+  </pair>
+  <pair id="147" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>钻石除了书写，其中最重要的可以算是鉴别铅笔的真伪。</t2>
+  </pair>
+  <pair id="148" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>干炒牛河是广东菜色的一种。</t1>
+    <t2>广东菜色是干炒牛河的一种。</t2>
+  </pair>
+  <pair id="149" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>语言是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的手语。</t2>
+  </pair>
+  <pair id="150" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>语言主要使用者是失聪者。</t2>
+  </pair>
+  <pair id="151" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>对不少不修边幅男性而言，干物女又不擅社交，所以缺乏吸引力。</t2>
+  </pair>
+  <pair id="152" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>铅笔除了书写，其中最重要的可以算是鉴别钻石的切工。</t2>
+  </pair>
+  <pair id="153" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>铅笔的原型可以追溯至古罗马时代。</t1>
+    <t2>铅笔的原型可以追溯至古希腊。</t2>
+  </pair>
+  <pair id="154" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>乔治·卢卡斯是电影美国的导演、制片人和编剧。</t2>
+  </pair>
+  <pair id="155" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>约瑟夫·傅立叶被广泛公认为温室效应的发现者。</t1>
+    <t2>傅立叶·约瑟夫被广泛公认为温室效应的发现者。</t2>
+  </pair>
+  <pair id="156" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>现代铅笔以石墨和粘土来制造。</t1>
+    <t2>现代粘土以石墨和铅笔来制造。</t2>
+  </pair>
+  <pair id="157" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t1>
+    <t2>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是真的，铅笔表面不会留下铅笔划过的痕迹。</t2>
+  </pair>
+  <pair id="158" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t1>
+    <t2>干物女指的是一群对恋爱提不起劲，认为很多女性都很麻烦而凑合着过的事情。</t2>
+  </pair>
+  <pair id="159" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>干物女是来自于流行的日本语。</t2>
+  </pair>
+  <pair id="160" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>干炒牛河以芽菜、河粉、牛肉等炒成。</t1>
+    <t2>干炒牛河以芽菜、河粉、猪肉等炒成。</t2>
+  </pair>
+  <pair id="161" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t2>
+  </pair>
+  <pair id="162" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>书写可以鉴别钻石的真伪。</t2>
+  </pair>
+  <pair id="163" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>约瑟夫与傅立叶是法国数学家与物理学家。</t2>
+  </pair>
+  <pair id="164" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t1>
+    <t2>约瑟夫·傅立叶质疑傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t2>
+  </pair>
+  <pair id="165" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t1>
+    <t2>约瑟夫·傅立叶提出热传导理论与振动理论。</t2>
+  </pair>
+  <pair id="166" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t1>
+    <t2>约瑟夫·傅立叶提出热传导理论(Fourier series)，并将其应用于傅立叶级数与振动理论。</t2>
+  </pair>
+  <pair id="167" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t1>
+    <t2>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将立叶级数应用于热传导理论与振动理论。</t2>
+  </pair>
+  <pair id="168" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>约瑟夫·傅立叶被广泛公认为温室效应的发现者。</t1>
+    <t2>约瑟夫·傅立叶被广泛公认为蝴蝶效应的发现者。</t2>
+  </pair>
+  <pair id="169" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>约瑟夫·傅立叶是法国数学家、生物学家。</t2>
+  </pair>
+  <pair id="170" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>干炒牛河以芽菜、河粉、牛肉等炒成。</t1>
+    <t2>芽菜牛河以河粉、牛肉等干炒而成。</t2>
+  </pair>
+  <pair id="171" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>乔治·卢卡斯最着名的作品是《星际大战》和《法柜奇兵》系列。</t1>
+    <t2>法柜奇兵最着名的作品是《星际大战》和《乔治·卢卡斯》系列。</t2>
+  </pair>
+  <pair id="172" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>东非大裂谷位于赤道与南纬3度之间，在吉力马札罗山以东160千米处。</t2>
+  </pair>
+  <pair id="173" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区包括新东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个原成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t2>
+  </pair>
+  <pair id="174" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t1>
+    <t2>东协自由贸易区(AOSAN Free Trade Area，简称AFTA)于1992年提出。</t2>
+  </pair>
+  <pair id="175" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>拉力赛是采用公共或者私人道路，使用改装过的或者是特别制造的汽车进行的比赛。</t1>
+    <t2>拉力赛是采用公共或者私人道路，使用改装过的或者是特别制造的自行车进行的比赛。</t2>
+  </pair>
+  <pair id="176" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>拉力赛不是在环形赛道上，而是在点到点之间的赛道上比赛。</t1>
+    <t2>拉力赛不是在点到点之间的赛道上，而是在环形赛道上比赛。</t2>
+  </pair>
+  <pair id="177" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>赤道在东非大裂谷以东160千米处。</t2>
+  </pair>
+  <pair id="178" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>吉力马札罗山常被称为「非洲屋脊」、「非洲之王」。</t1>
+    <t2>吉力马札罗常被称为「非洲之王」。</t2>
+  </pair>
+  <pair id="179" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>吉力马札罗山常被称为「非洲屋脊」、「非洲之王」。</t1>
+    <t2>吉力马札罗山常被称为「世界屋脊」、「世界之王」。</t2>
+  </pair>
+  <pair id="180" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>吉力马札罗山的部分山区被指定为吉力马札罗国家公园，并登录为世界遗产。</t1>
+    <t2>吉力马札罗山的部分山区被指定为吉力马札罗国家公园，并登录为国家遗产。</t2>
+  </pair>
+  <pair id="181" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>水蕴草适合生长在营养及光线充足的环境中。</t1>
+    <t2>光线适合生长在营养及水蕴草充足的环境中。</t2>
+  </pair>
+  <pair id="182" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t1>
+    <t2>水蕴草原产地是在气温较高的南美洲，包括巴西的东南部、阿根廷、乌拉圭等地。</t2>
+  </pair>
+  <pair id="183" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t1>
+    <t2>水蕴草原产地是在南美洲的东南部。</t2>
+  </pair>
+  <pair id="184" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>水蕴草（Egeria densa）别名蜈蚣草。</t1>
+    <t2>水蕴草是蜈蚣草的一种。</t2>
+  </pair>
+  <pair id="185" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>水蕴草其根部会紧紧插在泥土里，其茎并不会露出水面。</t1>
+    <t2>水蕴草其茎会紧紧插在泥土里，其根部并不会露出水面。</t2>
+  </pair>
+  <pair id="186" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>水蕴草在较冷的水族箱中生长良好，也很容易利用扦插方式来繁殖。</t1>
+    <t2>水蕴草在较冷的沙地中生长良好，也很容易利用扦插方式来繁殖。</t2>
+  </pair>
+  <pair id="187" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>水蕴草是一种水生植物，主要分布在湖边。</t1>
+    <t2>水生植物是一种水蕴草，主要分布在湖边。</t2>
+  </pair>
+  <pair id="188" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>词汇是不同国家的手语差异最大的地方。</t1>
+    <t2>手语是不同国家的词汇差异最大的地方。</t2>
+  </pair>
+  <pair id="189" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>手语是一种不使用脸部表情，而使用手势、身体动作、语音表达意思的语言。</t2>
+  </pair>
+  <pair id="190" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>手语是一种不使用语音的表情。</t2>
+  </pair>
+  <pair id="191" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>手语使用者是失聪者。</t2>
+  </pair>
+  <pair id="192" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>手语主要使用者是失明者。</t2>
+  </pair>
+  <pair id="193" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>不少男性缺乏吸引力。</t2>
+  </pair>
+  <pair id="194" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>拉力赛参赛者在一个或者几个起点上，按照规定间隔出发。</t1>
+    <t2>一个或者几个拉力赛参赛者在起点上，按照规定间隔出发。</t2>
+  </pair>
+  <pair id="195" label="N" revlabel="N" category="exclusion:predicate_argument">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，德国地理学家汉·斯迈尔和奥地利登山家路德维·希普·特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t2>
+  </pair>
+  <pair id="196" label="N" revlabel="N" category="exclusion:common_sense">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>铅笔仅能书写，没有其他功能。</t2>
+  </pair>
+  <pair id="197" label="N" revlabel="N" category="exclusion:common_sense">
+    <t1>石墨添加得越多，铅笔笔芯越软，颜色越黑；而粘土添加得越多，笔芯则越硬，颜色越浅。</t1>
+    <t2>铅笔笔芯的硬度与石墨以及粘土的比例无关。</t2>
+  </pair>
+  <pair id="198" label="N" revlabel="N" category="exclusion:common_sense">
+    <t1>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t1>
+    <t2>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的新娘。</t2>
+  </pair>
+  <pair id="199" label="N" revlabel="N" category="exclusion:common_sense">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>干物女她来自于日本。</t2>
+  </pair>
+  <pair id="200" label="N" revlabel="N" category="exclusion:common_sense">
+    <t1>干炒牛河以芽菜、河粉、牛肉等炒成。</t1>
+    <t2>干炒牛河可以用面取代河粉。</t2>
+  </pair>
+  <pair id="201" label="N" revlabel="N" category="exclusion:common_sense">
+    <t1>约瑟夫·傅立叶被广泛公认为温室效应的发现者。</t1>
+    <t2>约瑟夫·傅立叶被广泛公认为温室效应的发明者。</t2>
+  </pair>
+  <pair id="202" label="N" revlabel="N" category="exclusion:common_sense">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>非洲的最高山在肯亚。</t2>
+  </pair>
+  <pair id="203" label="N" revlabel="N" category="exclusion:common_sense">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>只有日本有干物女这个流行语。</t2>
+  </pair>
+  <pair id="204" label="N" revlabel="N" category="exclusion:modality">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>对不少男性而言，干物女不修边幅，又不擅社交，却也缺乏吸引力。</t2>
+  </pair>
+  <pair id="205" label="N" revlabel="N" category="exclusion:modality">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>乔治·卢卡斯是美国的电影导演、制片人或编剧。</t2>
+  </pair>
+  <pair id="206" label="N" revlabel="N" category="exclusion:modality">
+    <t1>现今水蕴草已可供人养殖，栽培方式多半是利用雄性植株的无性生殖。</t1>
+    <t2>现今水蕴草已可供人养殖，栽培方式都是利用雄性植株的无性生殖。</t2>
+  </pair>
+  <pair id="207" label="N" revlabel="N" category="exclusion:modality">
+    <t1>干炒牛河以芽菜、河粉、牛肉等炒成。</t1>
+    <t2>干炒牛河多以芽菜、河粉、牛肉等炒成。</t2>
+  </pair>
+  <pair id="208" label="N" revlabel="N" category="exclusion:modality">
+    <t1>约瑟夫·傅立叶被广泛公认为温室效应的发现者。</t1>
+    <t2>约瑟夫·傅立叶被部分学界认为温室效应的发现者。</t2>
+  </pair>
+  <pair id="209" label="N" revlabel="N" category="exclusion:modality">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>约瑟夫·傅立叶是法国数学家、物理学家只是误传。</t2>
+  </pair>
+  <pair id="210" label="N" revlabel="N" category="exclusion:modality">
+    <t1>吉力马札罗山常被称为「非洲屋脊」、「非洲之王」。</t1>
+    <t2>吉力马札罗山偶而被称为「非洲屋脊」、「非洲之王」。</t2>
+  </pair>
+  <pair id="211" label="N" revlabel="N" category="exclusion:modality">
+    <t1>有时候，生产商会在铅笔的一端装上橡皮擦。</t1>
+    <t2>生产商很少在铅笔的一端装上橡皮擦。</t2>
+  </pair>
+  <pair id="212" label="N" revlabel="N" category="exclusion:modality">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>只有失聪者使用手语。</t2>
+  </pair>
+  <pair id="213" label="N" revlabel="N" category="exclusion:modality">
+    <t1>水蕴草是一种水生植物，主要分布在湖边。</t1>
+    <t2>水蕴草是一种水生植物，少数分布在湖边。</t2>
+  </pair>
+  <pair id="214" label="N" revlabel="N" category="exclusion:modifier">
+    <t1>水蕴草其根部会紧紧插在泥土里，其茎并不会露出水面。</t1>
+    <t2>水蕴草其根部会浅浅插在泥土里，其茎并不会露出水面。</t2>
+  </pair>
+  <pair id="215" label="N" revlabel="N" category="negation">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>手语是一种适度搭配语音，并使用手势、身体动作、脸部表情表达意思的语言。</t2>
+  </pair>
+  <pair id="216" label="N" revlabel="N" category="exclusion:modality">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>手语主要使用者都是失聪者。</t2>
+  </pair>
+  <pair id="217" label="N" revlabel="N" category="negation">
+    <t1>手语并不是世界共通的。</t1>
+    <t2>一般认为手语是世界共通的。</t2>
+  </pair>
+  <pair id="218" label="N" revlabel="N" category="exclusion:modality">
+    <t1>对一般男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>对少数男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t2>
+  </pair>
+  <pair id="219" label="N" revlabel="N" category="exclusion:modifier">
+    <t1>约瑟夫·傅立叶被广泛公认为温室效应的发现者。</t1>
+    <t2>约瑟夫·傅立叶自认为温室效应的发现者。</t2>
+  </pair>
+  <pair id="220" label="N" revlabel="N" category="exclusion:modifier">
+    <t1>历史上没有吉力马札罗山火山喷发的记录。</t1>
+    <t2>历史上吉力马札罗山火山的喷发没有被记录。</t2>
+  </pair>
+  <pair id="221" label="N" revlabel="N" category="exclusion:modifier">
+    <t1>词汇是不同国家的手语差异最大的地方。</t1>
+    <t2>词汇是不同国家的手语差异第二大的地方。</t2>
+  </pair>
+  <pair id="222" label="N" revlabel="N" category="exclusion:modifier">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>乔治·卢卡斯是美国的电影副导演、制片人和编剧。</t2>
+  </pair>
+  <pair id="223" label="N" revlabel="N" category="exclusion:modifier">
+    <t1>现今水蕴草已可供人养殖，栽培方式多半是利用雄性植株的无性生殖。</t1>
+    <t2>现今水蕴草已可供人养殖，栽培方式多半是利用雄性植株的有性生殖。</t2>
+  </pair>
+  <pair id="224" label="N" revlabel="N" category="exclusion:modifier">
+    <t1>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t1>
+    <t2>东协免费贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t2>
+  </pair>
+  <pair id="225" label="N" revlabel="N" category="exclusion:modifier">
+    <t1>拉力赛参赛者和他的副驾驶在一些控制点之间的路段上驾驶。</t1>
+    <t2>拉力赛参赛者和他的正驾驶在一些控制点之间的路段上驾驶。</t2>
+  </pair>
+  <pair id="226" label="N" revlabel="N" category="exclusion:modifier">
+    <t1>拉力赛参赛者在一个或者几个起点上，按照规定间隔出发。</t1>
+    <t2>拉力赛参赛者在一个或者几个起点上，按照规定同时出发。</t2>
+  </pair>
+  <pair id="227" label="N" revlabel="N" category="exclusion:modifier">
+    <t1>拉力赛是采用公共或者私人道路，使用改装过的或者是特别制造的汽车进行的比赛。</t1>
+    <t2>拉力赛是采用私人道路，使用改装过的或者是特别制造的汽车进行的比赛。</t2>
+  </pair>
+  <pair id="228" label="N" revlabel="N" category="exclusion:modifier">
+    <t1>吉力马札罗山的部分山区被指定为吉力马札罗国家公园，并登录为世界遗产。</t1>
+    <t2>吉力马札罗山被指定为吉力马札罗国家公园，并登录为世界遗产。</t2>
+  </pair>
+  <pair id="229" label="N" revlabel="N" category="exclusion:modifier">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的次高山。</t2>
+  </pair>
+  <pair id="230" label="N" revlabel="N" category="exclusion:modifier">
+    <t1>吉力马札罗山常被称为「非洲屋脊」、「非洲之王」。</t1>
+    <t2>吉力马札罗山自称「非洲屋脊」、「非洲之王」。</t2>
+  </pair>
+  <pair id="231" label="N" revlabel="N" category="exclusion:modifier">
+    <t1>水蕴草是一种水生植物，主要分布在湖边。</t1>
+    <t2>水蕴草是一种陆生植物，主要分布在湖边。</t2>
+  </pair>
+  <pair id="232" label="N" revlabel="N" category="exclusion:quantity">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共十二个国家。</t2>
+  </pair>
+  <pair id="233" label="N" revlabel="N" category="exclusion:quantity">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区中，参与的东协国家共6个。</t2>
+  </pair>
+  <pair id="234" label="N" revlabel="N" category="exclusion:quantity">
+    <t1>有时候，生产商会在铅笔的一端装上橡皮擦。</t1>
+    <t2>有时候，生产商会在铅笔的两端装上橡皮擦。</t2>
+  </pair>
+  <pair id="235" label="N" revlabel="N" category="exclusion:quantity">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东16公里处。</t2>
+  </pair>
+  <pair id="236" label="N" revlabel="N" category="exclusion:quantity">
+    <t1>水蕴草可生长在水深4公尺以内的水域，总长可以长达2公尺。</t1>
+    <t2>水蕴草可生长在水深4公尺以内的水域，总长可以长达2公分。</t2>
+  </pair>
+  <pair id="237" label="N" revlabel="N" category="exclusion:quantity">
+    <t1>水蕴草可生长在水深4公尺以内的水域，总长可以长达2公尺。</t1>
+    <t2>水蕴草可生长在水深2公尺以内的水域，总长可以长达4公尺。</t2>
+  </pair>
+  <pair id="238" label="N" revlabel="N" category="exclusion:spatial">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>约瑟夫·傅立叶是德国数学家、物理学家。</t2>
+  </pair>
+  <pair id="239" label="N" revlabel="N" category="exclusion:spatial">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，奥地利地理学家汉斯·迈尔和德国登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t2>
+  </pair>
+  <pair id="240" label="N" revlabel="N" category="exclusion:spatial">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>乔治·卢卡斯是英国的电影导演、制片人和编剧。</t2>
+  </pair>
+  <pair id="241" label="N" revlabel="N" category="exclusion:spatial">
+    <t1>干炒牛河是广东菜色的一种。</t1>
+    <t2>干炒牛河是广西菜色的一种。</t2>
+  </pair>
+  <pair id="242" label="N" revlabel="N" category="exclusion:spatial">
+    <t1>约瑟夫·傅立叶于1768年3月21日在法国约讷省欧塞尔出生。</t1>
+    <t2>约瑟夫·傅立叶于1768年3月21日在法国欧塞尔约讷省出生。</t2>
+  </pair>
+  <pair id="243" label="N" revlabel="N" category="exclusion:spatial">
+    <t1>约瑟夫·傅立叶男爵（Joseph Fourier，1768年3月21日－1830年5月16日）。</t1>
+    <t2>约瑟夫·傅立叶男爵（Joseph Fourier，1768年5月21日－1830年3月16日）。</t2>
+  </pair>
+  <pair id="244" label="N" revlabel="N" category="exclusion:spatial">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>吉力马札罗山位于肯亚东北，临近坦尚尼亚边界，是非洲的最高山。</t2>
+  </pair>
+  <pair id="245" label="N" revlabel="N" category="exclusion:spatial">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>吉力马札罗山位于坦尚尼亚东北，临近安哥拉边界，是非洲的最高山。</t2>
+  </pair>
+  <pair id="246" label="N" revlabel="N" category="exclusion:spatial">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山位于赤道与南纬3度之间，往东160千米为东非大裂谷。</t2>
+  </pair>
+  <pair id="247" label="N" revlabel="N" category="exclusion:spatial">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山位于赤道与南纬300度之间，在东非大裂谷以东160千米处。</t2>
+  </pair>
+  <pair id="248" label="N" revlabel="N" category="exclusion:spatial">
+    <t1>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t1>
+    <t2>水蕴草原产地是在美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t2>
+  </pair>
+  <pair id="249" label="N" revlabel="N" category="exclusion:spatial">
+    <t1>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t1>
+    <t2>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、巴拉圭等地。</t2>
+  </pair>
+  <pair id="250" label="N" revlabel="N" category="exclusion:spatial">
+    <t1>水蕴草是一种水生植物，主要分布在湖边。</t1>
+    <t2>水蕴草是一种水生植物，主要分布在溪边。</t2>
+  </pair>
+  <pair id="251" label="N" revlabel="N" category="exclusion:spatial">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了博基峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t2>
+  </pair>
+  <pair id="252" label="N" revlabel="N" category="exclusion:temporal">
+    <t1>铅笔的原型可以追溯至古罗马时代。</t1>
+    <t2>铅笔的原型可以追溯至东罗马时代。</t2>
+  </pair>
+  <pair id="253" label="N" revlabel="N" category="exclusion:temporal">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>约瑟夫·傅立叶是17世纪法国数学家、物理学家。</t2>
+  </pair>
+  <pair id="254" label="N" revlabel="N" category="exclusion:temporal">
+    <t1>约瑟夫·傅立叶于1768年3月21日在法国约讷省欧塞尔出生。</t1>
+    <t2>约瑟夫·傅立叶于3年1768月21日在法国约讷省欧塞尔出生。</t2>
+  </pair>
+  <pair id="255" label="N" revlabel="N" category="exclusion:temporal">
+    <t1>约瑟夫·傅立叶男爵（Joseph Fourier，1768年3月21日－1830年5月16日）。</t1>
+    <t2>约瑟夫·傅立叶男爵（Joseph Fourier，1830年5月16日－1768年3月21日）。</t2>
+  </pair>
+  <pair id="256" label="N" revlabel="N" category="exclusion:temporal">
+    <t1>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t1>
+    <t2>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)早在1982年就已提出。</t2>
+  </pair>
+  <pair id="257" label="N" revlabel="N" category="exclusion:temporal">
+    <t1>现代铅笔以石墨和粘土来制造。</t1>
+    <t2>古代铅笔以石墨和粘土来制造。</t2>
+  </pair>
+  <pair id="258" label="N" revlabel="N" category="exclusion:temporal">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1898年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t2>
+  </pair>
+  <pair id="259" label="Y" revlabel="Y" category="inference">
+    <t1>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t1>
+    <t2>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是假的，其表面会留下铅笔划过的痕迹。</t2>
+  </pair>
+  <pair id="260" label="Y" revlabel="Y" category="inference">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>美国的乔治·卢卡斯曾执导、制作过电影，也曾负责编剧的工作。</t2>
+  </pair>
+  <pair id="261" label="Y" revlabel="Y" category="inference">
+    <t1>现今水蕴草已可供人养殖，栽培方式多半是利用雄性植株的无性生殖。</t1>
+    <t2>利用雄性植株的无性生殖是现今水蕴草的人工栽培方式之一。</t2>
+  </pair>
+  <pair id="262" label="Y" revlabel="Y" category="inference">
+    <t1>有时候，生产商会在铅笔的一端装上橡皮擦。</t1>
+    <t2>有时候，生产商会在铅笔的两端其中之一装上橡皮擦。</t2>
+  </pair>
+  <pair id="263" label="Y" revlabel="Y" category="inference">
+    <t1>铅笔的原型可以追溯至古罗马时代。</t1>
+    <t2>古罗马时代就有铅笔原型的记载。</t2>
+  </pair>
+  <pair id="264" label="Y" revlabel="Y" category="inference">
+    <t1>铅笔与其他笔的不同之处在于它的笔迹很容易被擦掉。</t1>
+    <t2>不像铅笔，其他笔的笔迹不容易消除。</t2>
+  </pair>
+  <pair id="265" label="Y" revlabel="N" category="inference">
+    <t1>水蕴草为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t1>
+    <t2>植物的花有雌雄之分。</t2>
+  </pair>
+  <pair id="266" label="Y" revlabel="N" category="inference">
+    <t1>约瑟夫·傅立叶男爵（Joseph Fourier，1768年3月21日－1830年5月16日）。</t1>
+    <t2>约瑟夫·傅立叶男爵是白羊座。</t2>
+  </pair>
+  <pair id="267" label="Y" revlabel="N" category="inference">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山距离东非大裂谷160公里。</t2>
+  </pair>
+  <pair id="268" label="Y" revlabel="N" category="inference">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>钻石有假的。</t2>
+  </pair>
+  <pair id="269" label="Y" revlabel="N" category="inference">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>语言可以是语音、手势、身体动作、及脸部表情。</t2>
+  </pair>
+  <pair id="270" label="Y" revlabel="N" category="inference">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>汉斯·迈尔和路德维希·普特舍勒带着相机登上了基博峰。</t2>
+  </pair>
+  <pair id="271" label="Y" revlabel="N" category="inference">
+    <t1>石墨添加得越多，铅笔笔芯越软，颜色越黑；而粘土添加得越多，笔芯则越硬，颜色越浅。</t1>
+    <t2>铅笔笔芯的硬度与石墨以及粘土的比例有关。</t2>
+  </pair>
+  <pair id="272" label="Y" revlabel="N" category="inference">
+    <t1>有时候，生产商会在铅笔的一端装上橡皮擦。</t1>
+    <t2>铅笔的一端装上橡皮擦并不少见。</t2>
+  </pair>
+  <pair id="273" label="Y" revlabel="N" category="inference">
+    <t1>现代铅笔以石墨和粘土来制造。</t1>
+    <t2>铅笔中含有碳的成分。</t2>
+  </pair>
+  <pair id="274" label="Y" revlabel="N" category="inference">
+    <t1>水蕴草为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t1>
+    <t2>植物的雌花和雄花不一定会出现在同一植株中。</t2>
+  </pair>
+  <pair id="275" label="Y" revlabel="N" category="inference">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>基博峰位于赤道附近。</t2>
+  </pair>
+  <pair id="276" label="Y" revlabel="N" category="inference">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>干物女原本是日本话。</t2>
+  </pair>
+  <pair id="277" label="Y" revlabel="N" category="inference">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>干物女不修边幅，又不擅社交，所以无法吸引男性。</t2>
+  </pair>
+  <pair id="278" label="Y" revlabel="N" category="inference">
+    <t1>干炒牛河以芽菜、河粉、牛肉等炒成。</t1>
+    <t2>干炒牛河中的河指的是河粉。</t2>
+  </pair>
+  <pair id="279" label="Y" revlabel="N" category="inference">
+    <t1>约瑟夫·傅立叶男爵（Joseph Fourier，1768年3月21日－1830年5月16日）。</t1>
+    <t2>约瑟夫·傅立叶曾被授与爵位。</t2>
+  </pair>
+  <pair id="280" label="Y" revlabel="N" category="inference">
+    <t1>约瑟夫·傅立叶于1768年3月21日在法国约讷省欧塞尔出生。</t1>
+    <t2>法国是约瑟夫·傅立叶的祖国。</t2>
+  </pair>
+  <pair id="281" label="Y" revlabel="N" category="inference">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区仅东协成员国得以加入。</t2>
+  </pair>
+  <pair id="282" label="Y" revlabel="N" category="inference">
+    <t1>拉力赛是采用公共或者私人道路，使用改装过的或者是特别制造的汽车进行的比赛。</t1>
+    <t2>拉力赛属于汽车的比赛。</t2>
+  </pair>
+  <pair id="283" label="Y" revlabel="N" category="inference">
+    <t1>拉力赛参赛者和他的副驾驶在一些控制点之间的路段上驾驶。</t1>
+    <t2>拉力赛至少需要两个人参赛。</t2>
+  </pair>
+  <pair id="284" label="Y" revlabel="N" category="inference">
+    <t1>拉力赛是采用公共或者私人道路，使用改装过的或者是特别制造的汽车进行的比赛。</t1>
+    <t2>拉力赛以公共或者私人道路做为赛道。</t2>
+  </pair>
+  <pair id="285" label="Y" revlabel="N" category="inference">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>坦尚尼亚与肯亚两国相邻。</t2>
+  </pair>
+  <pair id="286" label="Y" revlabel="N" category="inference">
+    <t1>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t1>
+    <t2>没有男性的干物女。</t2>
+  </pair>
+  <pair id="287" label="Y" revlabel="N" category="inference">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>有人可以身兼数学家与物理学家。</t2>
+  </pair>
+  <pair id="288" label="Y" revlabel="N" category="inference">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>在非洲，没有山比吉力马札罗山更高了。</t2>
+  </pair>
+  <pair id="289" label="Y" revlabel="N" category="inference">
+    <t1>吉力马札罗山的部分山区被指定为吉力马札罗国家公园，并登录为世界遗产。</t1>
+    <t2>吉力马札罗山的部分山区未被划分为吉力马札罗国家公园。</t2>
+  </pair>
+  <pair id="290" label="Y" revlabel="N" category="inference">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山位于南半球。</t2>
+  </pair>
+  <pair id="291" label="Y" revlabel="N" category="inference">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山地处热带。</t2>
+  </pair>
+  <pair id="292" label="Y" revlabel="N" category="inference">
+    <t1>手语并不是世界共通的。</t1>
+    <t2>全世界的手语不只一种。</t2>
+  </pair>
+  <pair id="293" label="Y" revlabel="N" category="inference">
+    <t1>用铅笔刻划用玻璃、水晶、电力石等制作的假钻石会留下痕迹。</t1>
+    <t2>用铅笔划玻璃会留下痕迹。</t2>
+  </pair>
+  <pair id="294" label="Y" revlabel="N" category="inference">
+    <t1>水蕴草在较冷的水族箱中生长良好，也很容易利用扦插方式来繁殖。</t1>
+    <t2>用扦插方式来繁殖水蕴草并不困难。</t2>
+  </pair>
+  <pair id="295" label="Y" revlabel="N" category="inference">
+    <t1>干炒牛河是广东菜色的一种。</t1>
+    <t2>去广东餐馆可能可以吃到干炒牛河。</t2>
+  </pair>
+  <pair id="296" label="Y" revlabel="N" category="inference">
+    <t1>手语并不是世界共通的。</t1>
+    <t2>世界上有人使用不同的手语。</t2>
+  </pair>
+  <pair id="297" label="Y" revlabel="N" category="inference">
+    <t1>水蕴草其根部会紧紧插在泥土里，其茎并不会露出水面。</t1>
+    <t2>水蕴草是一种水生植物。</t2>
+  </pair>
+  <pair id="298" label="Y" revlabel="N" category="inference">
+    <t1>水蕴草是一种水生植物，主要分布在湖边。</t1>
+    <t2>水蕴草长在水里。</t2>
+  </pair>
+  <pair id="299" label="Y" revlabel="N" category="inference">
+    <t1>水蕴草在较冷的水族箱中生长良好，也很容易利用扦插方式来繁殖。</t1>
+    <t2>水蕴草好低温。</t2>
+  </pair>
+  <pair id="300" label="Y" revlabel="N" category="inference">
+    <t1>现今水蕴草已可供人养殖，栽培方式多半是利用雄性植株的无性生殖。</t1>
+    <t2>水蕴草可采无性生殖。</t2>
+  </pair>
+  <pair id="301" label="Y" revlabel="N" category="inference">
+    <t1>水蕴草其根部会紧紧插在泥土里，其茎并不会露出水面。</t1>
+    <t2>水蕴草不会接触空气。</t2>
+  </pair>
+  <pair id="302" label="Y" revlabel="N" category="inference">
+    <t1>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t1>
+    <t2>巴西的东南部、阿根廷、乌拉圭等地气温较高。</t2>
+  </pair>
+  <pair id="303" label="Y" revlabel="N" category="inference">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>不见得只有失聪者使用手语。</t2>
+  </pair>
+  <pair id="304" label="Y" revlabel="N" category="inference">
+    <t1>词汇是不同国家的手语差异最大的地方。</t1>
+    <t2>不同国家的手语会有不同的词汇。</t2>
+  </pair>
+  <pair id="305" label="Y" revlabel="N" category="inference">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年之前，欧洲人无法确认吉力马札罗山的存在。</t2>
+  </pair>
+  <pair id="306" label="Y" revlabel="N" category="inference">
+    <t1>吉力马札罗山常被称为「非洲屋脊」、「非洲之王」。</t1>
+    <t2>「非洲屋脊」指的是吉力马札罗山。</t2>
+  </pair>
+  <pair id="307" label="N" revlabel="N" category="inference">
+    <t1>铅笔的原型可以追溯至古罗马时代。</t1>
+    <t2>罗马人发明铅笔。</t2>
+  </pair>
+  <pair id="308" label="N" revlabel="N" category="inference">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>铅笔可以找出大部分的假钻石。</t2>
+  </pair>
+  <pair id="309" label="N" revlabel="N" category="inference">
+    <t1>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t1>
+    <t2>铅笔比钻石来的硬，会留下铅笔划过的痕迹。</t2>
+  </pair>
+  <pair id="310" label="N" revlabel="N" category="inference">
+    <t1>乔治·卢卡斯最着名的作品是《星际大战》和《法柜奇兵》系列。</t1>
+    <t2>乔治·卢卡斯执导过《星际大战》和《法柜奇兵》系列。</t2>
+  </pair>
+  <pair id="311" label="N" revlabel="N" category="inference">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>乔治·卢卡斯是美国籍。</t2>
+  </pair>
+  <pair id="312" label="N" revlabel="N" category="inference">
+    <t1>铅笔的原型可以追溯至古罗马时代。</t1>
+    <t2>第一支铅笔出现在古罗马时代。</t2>
+  </pair>
+  <pair id="313" label="N" revlabel="N" category="inference">
+    <t1>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t1>
+    <t2>现在去南美洲可以找到水蕴草。</t2>
+  </pair>
+  <pair id="314" label="N" revlabel="N" category="inference">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>干物女在日本出生。</t2>
+  </pair>
+  <pair id="315" label="N" revlabel="N" category="inference">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>干物女只要避免不修边幅，并且擅于社交，就可以吸引男性。</t2>
+  </pair>
+  <pair id="316" label="N" revlabel="N" category="inference">
+    <t1>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t1>
+    <t2>干物女不恋爱。</t2>
+  </pair>
+  <pair id="317" label="N" revlabel="N" category="inference">
+    <t1>干炒牛河以芽菜、河粉、牛肉等炒成。</t1>
+    <t2>干炒牛河可以用洋葱取代芽菜。</t2>
+  </pair>
+  <pair id="318" label="N" revlabel="N" category="inference">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>约瑟夫·傅立叶出生于十九世纪。</t2>
+  </pair>
+  <pair id="319" label="N" revlabel="N" category="inference">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区成立后，印尼、马来西亚、菲律宾、新加坡、泰国、汶莱等国家贸易发展逐步成长。</t2>
+  </pair>
+  <pair id="320" label="N" revlabel="N" category="inference">
+    <t1>拉力赛参赛者和他的副驾驶在一些控制点之间的路段上驾驶。</t1>
+    <t2>拉力赛的副驾驶也必须负责驾驶。</t2>
+  </pair>
+  <pair id="321" label="N" revlabel="N" category="inference">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>使用手语的人都不会使用语音</t2>
+  </pair>
+  <pair id="322" label="N" revlabel="N" category="inference">
+    <t1>水蕴草是一种水生植物，主要分布在湖边。</t1>
+    <t2>在湖边都能找到水蕴草。</t2>
+  </pair>
+  <pair id="323" label="N" revlabel="N" category="inference">
+    <t1>历史上没有吉力马札罗山火山喷发的记录。</t1>
+    <t2>吉力马札罗山是死火山。</t2>
+  </pair>
+  <pair id="324" label="N" revlabel="N" category="inference">
+    <t1>历史上没有吉力马札罗山火山喷发的记录。</t1>
+    <t2>吉力马札罗山火山不曾喷发。</t2>
+  </pair>
+  <pair id="325" label="N" revlabel="N" category="inference">
+    <t1>用铅笔刻划用玻璃、水晶、电力石等制作的假钻石会留下痕迹。</t1>
+    <t2>可用铅笔在玻璃上书写。</t2>
+  </pair>
+  <pair id="326" label="N" revlabel="N" category="inference">
+    <t1>现代铅笔以石墨和粘土来制造。</t1>
+    <t2>古代也有铅笔，但成分与今日不同。</t2>
+  </pair>
+  <pair id="327" label="N" revlabel="N" category="inference">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>大多数手语使用者是失聪者。</t2>
+  </pair>
+  <pair id="328" label="N" revlabel="N" category="inference">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年那年吉力马札罗山下了雪。</t2>
+  </pair>
+  <pair id="329" label="N" revlabel="N" category="inference">
+    <t1>乔治·卢卡斯最着名的作品是《星际大战》和《法柜奇兵》系列。</t1>
+    <t2>乔治·卢卡斯的作品只有《星际大战》和《法柜奇兵》系列。</t2>
+  </pair>
+  <pair id="330" label="N" revlabel="N" category="inference">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>不使用语音，使用手势、身体动作、脸部表情表达意思就是手语。</t2>
+  </pair>
+  <pair id="331" label="Y" revlabel="N" category="inference">
+    <t1>乔治·卢卡斯最着名的作品是《星际大战》和《法柜奇兵》系列。</t1>
+    <t2>乔治·卢卡斯的作品《法柜奇兵》不只一部。</t2>
+  </pair>
+  <pair id="332" label="Y" revlabel="Y" category="list">
+    <t1>干炒牛河以芽菜、河粉、牛肉等炒成。</t1>
+    <t2>干炒牛河里有芽菜、河粉、牛肉等。</t2>
+  </pair>
+  <pair id="333" label="Y" revlabel="N" category="list">
+    <t1>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t1>
+    <t2>巴西为水蕴草原产地。</t2>
+  </pair>
+  <pair id="334" label="Y" revlabel="N" category="list">
+    <t1>现代铅笔以石墨和粘土来制造。</t1>
+    <t2>铅笔会以石墨来制造。</t2>
+  </pair>
+  <pair id="335" label="Y" revlabel="N" category="list">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>铅笔的功能包括书写及鉴别钻石的真伪。</t2>
+  </pair>
+  <pair id="336" label="Y" revlabel="N" category="list">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>奥地利登山家路德维希·普特舍勒曾登上了基博峰，拍摄并带回大量赤道雪山的照片。</t2>
+  </pair>
+  <pair id="337" label="Y" revlabel="N" category="list">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>乔治·卢卡斯是电影导演与编剧。</t2>
+  </pair>
+  <pair id="338" label="Y" revlabel="N" category="list">
+    <t1>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t1>
+    <t2>傅立叶级数可应用于振动理论。</t2>
+  </pair>
+  <pair id="339" label="Y" revlabel="N" category="list">
+    <t1>干炒牛河以芽菜、河粉、牛肉等炒成。</t1>
+    <t2>干炒牛河算是道牛肉料理。</t2>
+  </pair>
+  <pair id="340" label="Y" revlabel="N" category="list">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>除了手势、身体动作以外、脸部表情也是手语的一部份。</t2>
+  </pair>
+  <pair id="341" label="Y" revlabel="N" category="list">
+    <t1>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t1>
+    <t2>阿根廷、乌拉圭等地为水蕴草原产地。</t2>
+  </pair>
+  <pair id="342" label="Y" revlabel="N" category="list">
+    <t1>拉力赛不是在环形赛道上，而是在点到点之间的赛道上比赛。</t1>
+    <t2>拉力赛在点到点之间的赛道上比赛。</t2>
+  </pair>
+  <pair id="343" label="Y" revlabel="N" category="list">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>印尼、马来西亚及新加坡都加入东协自由贸易区。</t2>
+  </pair>
+  <pair id="344" label="Y" revlabel="N" category="list">
+    <t1>用铅笔刻划用玻璃、水晶、电力石等制作的假钻石会留下痕迹。</t1>
+    <t2>用铅笔刻划用玻璃作的假钻石会留下痕迹。</t2>
+  </pair>
+  <pair id="345" label="Y" revlabel="N" category="list">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>台湾不在东协自由贸易区成员国名单中。</t2>
+  </pair>
+  <pair id="346" label="Y" revlabel="N" category="list">
+    <t1>水蕴草适合生长在营养及光线充足的环境中。</t1>
+    <t2>水蕴草的生长需要充足的光线。</t2>
+  </pair>
+  <pair id="347" label="Y" revlabel="N" category="list">
+    <t1>吉力马札罗山常被称为「非洲屋脊」、「非洲之王」。</t1>
+    <t2>人称吉力马札罗山为「非洲屋脊」。</t2>
+  </pair>
+  <pair id="348" label="Y" revlabel="N" category="list">
+    <t1>乔治·卢卡斯最着名的作品是《星际大战》和《法柜奇兵》系列。</t1>
+    <t2>《星际大战》系列是乔治·卢卡斯的作品</t2>
+  </pair>
+  <pair id="349" label="N" revlabel="N" category="list">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>乔治·卢卡斯没演过电影。</t2>
+  </pair>
+  <pair id="350" label="N" revlabel="N" category="list">
+    <t1>现代铅笔以石墨和粘土来制造。</t1>
+    <t2>现代铅笔中含有铅的成分。</t2>
+  </pair>
+  <pair id="351" label="N" revlabel="N" category="list">
+    <t1>拉力赛是采用公共或者私人道路，使用改装过的或者是特别制造的汽车进行的比赛。</t1>
+    <t2>拉力赛为改装过的汽车进行的比赛。</t2>
+  </pair>
+  <pair id="352" label="N" revlabel="N" category="meronymy">
+    <t1>水蕴草为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t1>
+    <t2>水蕴草为雌雄异株的植物，其雌蕊和雄蕊不会出现在同一植株中。</t2>
+  </pair>
+  <pair id="353" label="N" revlabel="N" category="meronymy">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>手势主要使用者是失聪者。</t2>
+  </pair>
+  <pair id="354" label="Y" revlabel="Y" category="meronymy">
+    <t1>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t1>
+    <t2>将钻石用水润湿，用铅笔芯在上面刻划一下，如果钻石是真的，其表面不会留下铅笔芯划过的痕迹。</t2>
+  </pair>
+  <pair id="355" label="Y" revlabel="Y" category="meronymy">
+    <t1>水蕴草其根部会紧紧插在泥土里，其茎并不会露出水面。</t1>
+    <t2>水蕴草其根部会紧紧插在泥土里，水蕴草并不会露出水面。</t2>
+  </pair>
+  <pair id="356" label="Y" revlabel="Y" category="modifier">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>对不少男性而言，干物女不仅不修边幅，又不擅社交，所以缺乏吸引力。</t2>
+  </pair>
+  <pair id="357" label="Y" revlabel="Y" category="modifier">
+    <t1>铅笔的原型可以追溯至古罗马时代。</t1>
+    <t2>最早铅笔的原型可以追溯至古罗马时代。</t2>
+  </pair>
+  <pair id="358" label="Y" revlabel="Y" category="modifier">
+    <t1>现今水蕴草已可供人养殖，栽培方式多半是利用雄性植株的无性生殖。</t1>
+    <t2>现今水蕴草已可供人养殖，栽培方式多是利用雄性植株的无性生殖。</t2>
+  </pair>
+  <pair id="359" label="Y" revlabel="Y" category="modifier">
+    <t1>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t1>
+    <t2>干物女指的是对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t2>
+  </pair>
+  <pair id="360" label="Y" revlabel="Y" category="modifier">
+    <t1>干炒牛河是广东菜色的一种。</t1>
+    <t2>干炒牛河是中国菜中广东菜色的一种。</t2>
+  </pair>
+  <pair id="361" label="Y" revlabel="Y" category="modifier">
+    <t1>干炒牛河以芽菜、河粉、牛肉等炒成。</t1>
+    <t2>干炒牛河的做法以芽菜、河粉、牛肉等炒成。</t2>
+  </pair>
+  <pair id="362" label="Y" revlabel="Y" category="modifier">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>约瑟夫·傅立叶是十九世纪法国知名数学家、物理学家。</t2>
+  </pair>
+  <pair id="363" label="Y" revlabel="Y" category="modifier">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，一共10个国家。</t2>
+  </pair>
+  <pair id="364" label="Y" revlabel="Y" category="modifier">
+    <t1>拉力赛参赛者和他的副驾驶在一些控制点之间的路段上驾驶。</t1>
+    <t2>拉力赛参赛者和他的副驾驶一同在一些控制点之间的路段上驾驶。</t2>
+  </pair>
+  <pair id="365" label="Y" revlabel="Y" category="modifier">
+    <t1>拉力赛参赛者在一个或者几个起点上，按照规定间隔出发。</t1>
+    <t2>拉力赛参赛者在一个或者几个起点上，按照规定时间间隔出发。</t2>
+  </pair>
+  <pair id="366" label="Y" revlabel="Y" category="modifier">
+    <t1>拉力赛是采用公共或者私人道路，使用改装过的或者是特别制造的汽车进行的比赛。</t1>
+    <t2>拉力赛是采用公共或者私人道路，使用特别改装过的或者是特别制造的汽车进行的比赛。</t2>
+  </pair>
+  <pair id="367" label="Y" revlabel="Y" category="modifier">
+    <t1>有时候，生产商会在铅笔的一端装上橡皮擦。</t1>
+    <t2>有时候，生产商不会在铅笔的一端装上橡皮擦。</t2>
+  </pair>
+  <pair id="368" label="Y" revlabel="Y" category="modifier">
+    <t1>吉力马札罗山常被称为「非洲屋脊」、「非洲之王」。</t1>
+    <t2>吉力马札罗山常被人们称为「非洲屋脊」、「非洲之王」。</t2>
+  </pair>
+  <pair id="369" label="Y" revlabel="Y" category="modifier">
+    <t1>吉力马札罗山的部分山区被指定为吉力马札罗国家公园，并登录为世界遗产。</t1>
+    <t2>吉力马札罗山的部分山区被该国指定为吉力马札罗国家公园，并登录为世界遗产。</t2>
+  </pair>
+  <pair id="370" label="Y" revlabel="Y" category="modifier">
+    <t1>石墨添加得越多，铅笔笔芯越软，颜色越黑；而粘土添加得越多，笔芯则越硬，颜色越浅。</t1>
+    <t2>石墨添加得越少，铅笔笔芯越硬，颜色越浅；而粘土添加得越少，笔芯则越软，颜色越黑。</t2>
+  </pair>
+  <pair id="371" label="Y" revlabel="Y" category="modifier">
+    <t1>水蕴草是一种水生植物，主要分布在湖边。</t1>
+    <t2>水蕴草是水生植物，主要分布在湖边。</t2>
+  </pair>
+  <pair id="372" label="Y" revlabel="Y" category="modifier">
+    <t1>水蕴草可生长在水深4公尺以内的水域，总长可以长达2公尺。</t1>
+    <t2>水蕴草可生长在深4公尺以内的水域，总长可以长达2公尺。</t2>
+  </pair>
+  <pair id="373" label="Y" revlabel="Y" category="modifier">
+    <t1>水蕴草为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t1>
+    <t2>水蕴草不是雌雄同株的植物，其雌花和雄花不会出现在同一植株中。</t2>
+  </pair>
+  <pair id="374" label="Y" revlabel="Y" category="modifier">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>手语是一种不使用语音，而使用手势、动作、表情表达意思的语言。</t2>
+  </pair>
+  <pair id="375" label="Y" revlabel="Y" category="modifier">
+    <t1>手语并不是世界共通的。</t1>
+    <t2>手语并不是全世界共通的。</t2>
+  </pair>
+  <pair id="376" label="Y" revlabel="Y" category="modifier">
+    <t1>历史上没有吉力马札罗山火山喷发的记录。</t1>
+    <t2>人类历史上没有吉力马札罗山火山喷发的记录。</t2>
+  </pair>
+  <pair id="377" label="Y" revlabel="Y" category="modifier">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在被欧洲人确认。</t2>
+  </pair>
+  <pair id="378" label="Y" revlabel="N" category="modifier">
+    <t1>词汇是不同国家的手语差异最大的地方。</t1>
+    <t2>词汇是不同国家的手语差异比较大的地方。</t2>
+  </pair>
+  <pair id="379" label="Y" revlabel="N" category="modifier">
+    <t1>词汇是不同国家的手语差异最大的地方。</t1>
+    <t2>词汇是不同国家的手语有差异的地方之一。</t2>
+  </pair>
+  <pair id="380" label="Y" revlabel="N" category="modifier">
+    <t1>有时候，生产商会在铅笔的一端装上橡皮擦。</t1>
+    <t2>有时候，生产商会在2B铅笔的一端装上橡皮擦。</t2>
+  </pair>
+  <pair id="381" label="Y" revlabel="N" category="modifier">
+    <t1>水蕴草是一种水生植物，主要分布在湖边。</t1>
+    <t2>水蕴草是一种植物，主要分布在湖边。</t2>
+  </pair>
+  <pair id="382" label="Y" revlabel="N" category="modifier">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>2B铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t2>
+  </pair>
+  <pair id="383" label="N" revlabel="N" category="modifier">
+    <t1>词汇是不同国家的手语差异最大的地方。</t1>
+    <t2>词汇是不同的手语差异最大的地方。</t2>
+  </pair>
+  <pair id="384" label="N" revlabel="N" category="modifier">
+    <t1>干炒牛河是广东菜色的一种。</t1>
+    <t2>炒牛河是广东菜色的一种。</t2>
+  </pair>
+  <pair id="385" label="Y" revlabel="Y" category="modifier">
+    <t1>拉力赛参赛者和他的副驾驶在一些控制点之间的路段上驾驶。</t1>
+    <t2>拉力赛参赛者和副驾驶在一些控制点之间的路段上驾驶。</t2>
+  </pair>
+  <pair id="386" label="Y" revlabel="N" category="modifier">
+    <t1>乔治·卢卡斯最着名的作品是《星际大战》和《法柜奇兵》系列。</t1>
+    <t2>乔治·卢卡斯的作品有《星际大战》和《法柜奇兵》系列。</t2>
+  </pair>
+  <pair id="387" label="Y" revlabel="N" category="modifier">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t2>
+  </pair>
+  <pair id="388" label="N" revlabel="N" category="modifier">
+    <t1>用铅笔刻划用玻璃、水晶、电力石等制作的假钻石会留下痕迹。</t1>
+    <t2>用铅笔刻划假钻石会留下痕迹。</t2>
+  </pair>
+  <pair id="389" label="N" revlabel="N" category="negation">
+    <t1>历史上没有吉力马札罗山火山喷发的记录。</t1>
+    <t2>历史上曾有吉力马札罗山火山喷发的记录。</t2>
+  </pair>
+  <pair id="390" label="N" revlabel="N" category="negation">
+    <t1>铅笔与其他笔的不同之处在于它的笔迹很容易被擦掉。</t1>
+    <t2>铅笔与其他笔的不同之处在于它的笔迹不太容易被擦掉。</t2>
+  </pair>
+  <pair id="391" label="N" revlabel="N" category="negation">
+    <t1>词汇是不同国家的手语差异最大的地方。</t1>
+    <t2>词汇并非不同国家的手语差异最大的地方。</t2>
+  </pair>
+  <pair id="392" label="N" revlabel="N" category="negation">
+    <t1>乔治·卢卡斯最着名的作品是《星际大战》和《法柜奇兵》系列。</t1>
+    <t2>乔治·卢卡斯最着名的作品不是《星际大战》和《法柜奇兵》系列。</t2>
+  </pair>
+  <pair id="393" label="N" revlabel="N" category="negation">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>干物女不是来自于日本的流行语。</t2>
+  </pair>
+  <pair id="394" label="N" revlabel="N" category="negation">
+    <t1>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t1>
+    <t2>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，但并未应用于热传导理论与振动理论。</t2>
+  </pair>
+  <pair id="395" label="N" revlabel="N" category="negation">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>约瑟夫·傅立叶是法国数学家而非物理学家。</t2>
+  </pair>
+  <pair id="396" label="N" revlabel="N" category="negation">
+    <t1>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t1>
+    <t2>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)不是于1992年提出。</t2>
+  </pair>
+  <pair id="397" label="N" revlabel="N" category="negation">
+    <t1>拉力赛参赛者在一个或者几个起点上，按照规定间隔出发。</t1>
+    <t2>拉力赛参赛者在一个或者几个起点上，不需按照规定间隔出发。</t2>
+  </pair>
+  <pair id="398" label="N" revlabel="N" category="negation">
+    <t1>拉力赛是采用公共或者私人道路，使用改装过的或者是特别制造的汽车进行的比赛。</t1>
+    <t2>拉力赛是不采用公共或者私人道路，也不使用改装过的或者是特别制造的汽车进行的比赛。</t2>
+  </pair>
+  <pair id="399" label="N" revlabel="N" category="negation">
+    <t1>用铅笔刻划用玻璃、水晶、电力石等制作的假钻石会留下痕迹。</t1>
+    <t2>用铅笔刻划用玻璃、水晶、电力石等制作的假钻石不会留下痕迹。</t2>
+  </pair>
+  <pair id="400" label="N" revlabel="N" category="negation">
+    <t1>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t1>
+    <t2>水蕴草原产地是在美洲气温较低的区域，不包括巴西的东南部、阿根廷、乌拉圭等地。</t2>
+  </pair>
+  <pair id="401" label="N" revlabel="N" category="negation">
+    <t1>水蕴草其根部会紧紧插在泥土里，其茎并不会露出水面。</t1>
+    <t2>水蕴草其根部会紧紧插在泥土里，其茎露出水面。</t2>
+  </pair>
+  <pair id="402" label="N" revlabel="N" category="negation">
+    <t1>水蕴草可生长在水深4公尺以内的水域，总长可以长达2公尺。</t1>
+    <t2>水蕴草可生长在水深4公尺以内的水域，总长不超过2公尺。</t2>
+  </pair>
+  <pair id="403" label="N" revlabel="N" category="negation">
+    <t1>水蕴草（Egeria densa）别名蜈蚣草。</t1>
+    <t2>水蕴草（Egeria densa）别名并非蜈蚣草。</t2>
+  </pair>
+  <pair id="404" label="N" revlabel="N" category="negation">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>手语是一种使用语音、手势、身体动作、脸部表情表达意思的语言。</t2>
+  </pair>
+  <pair id="405" label="N" revlabel="N" category="negation">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>手语主要使用者不是失聪者。</t2>
+  </pair>
+  <pair id="406" label="N" revlabel="N" category="negation">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>手语不包括使用身体动作。</t2>
+  </pair>
+  <pair id="407" label="Y" revlabel="Y" category="quantity">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)。</t2>
+  </pair>
+  <pair id="408" label="Y" revlabel="Y" category="quantity">
+    <t1>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t1>
+    <t2>将钻石用水润湿，用铅笔在上面刻划几下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t2>
+  </pair>
+  <pair id="409" label="Y" revlabel="Y" category="quantity">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共十个国家。</t2>
+  </pair>
+  <pair id="410" label="Y" revlabel="Y" category="quantity">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东一百六十公里处。</t2>
+  </pair>
+  <pair id="411" label="Y" revlabel="Y" category="quantity">
+    <t1>水蕴草可生长在水深4公尺以内的水域，总长可以长达2公尺。</t1>
+    <t2>水蕴草可生长在水深四公尺以内的水域，总长可以长达两公尺。</t2>
+  </pair>
+  <pair id="412" label="Y" revlabel="Y" category="quantity">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>手语是壹种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t2>
+  </pair>
+  <pair id="413" label="Y" revlabel="N" category="quantity">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和越南、寮国、缅甸、柬埔寨，共10个国家。</t2>
+  </pair>
+  <pair id="414" label="Y" revlabel="N" category="quantity">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区中，原东协国家共6个。</t2>
+  </pair>
+  <pair id="415" label="Y" revlabel="N" category="quantity">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山位于赤道与南纬30度之间，在东非大裂谷以东160千米处。</t2>
+  </pair>
+  <pair id="416" label="Y" revlabel="N" category="quantity">
+    <t1>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t1>
+    <t2>不只一位女性是干物女。</t2>
+  </pair>
+  <pair id="417" label="N" revlabel="N" category="quantity">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>十个国家组成了东协。</t2>
+  </pair>
+  <pair id="418" label="Y" revlabel="Y" category="relative_clause">
+    <t1>根据记载，最早的铅笔原型可以追溯至古罗马时代。</t1>
+    <t2>最早列入记载的铅笔原型可以追溯至古罗马时代。</t2>
+  </pair>
+  <pair id="419" label="Y" revlabel="Y" category="relative_clause">
+    <t1>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t1>
+    <t2>将钻石用水润湿，用铅笔在上面刻划一下，真的钻石其表面不会留下痕迹。</t2>
+  </pair>
+  <pair id="420" label="Y" revlabel="Y" category="modifier">
+    <t1>干炒牛河是广东菜色的一种。</t1>
+    <t2>干炒牛河是广东菜。</t2>
+  </pair>
+  <pair id="421" label="Y" revlabel="Y" category="relative_clause">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>位于坦尚尼亚东北的吉力马札罗山临近肯亚边界，是非洲的最高山。</t2>
+  </pair>
+  <pair id="422" label="Y" revlabel="Y" category="relative_clause">
+    <t1>水蕴草适合生长在营养以及光线充足的环境中。</t1>
+    <t2>水蕴草适合生长在光线充足的营养环境中。</t2>
+  </pair>
+  <pair id="423" label="Y" revlabel="Y" category="relative_clause">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>临近肯亚边界的吉力马札罗山位于坦尚尼亚东北，是非洲的最高山。</t2>
+  </pair>
+  <pair id="424" label="Y" revlabel="N" category="relative_clause">
+    <t1>现今水蕴草已可供人养殖，栽培方式多半是利用雄性植株的无性生殖。</t1>
+    <t2>现今水蕴草栽培方式多采雄性植株的无性生殖。</t2>
+  </pair>
+  <pair id="425" label="Y" revlabel="Y" category="scrambling">
+    <t1>水蕴草可生长在水深4公尺以内的水域，总长可以长达2公尺。</t1>
+    <t2>水蕴草总长可以长达2公尺，在水深4公尺以内的水域可生长。</t2>
+  </pair>
+  <pair id="426" label="N" revlabel="N" category="scrambling">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>乔治·卢卡斯是电影美国的导演、制片人和编剧。</t2>
+  </pair>
+  <pair id="427" label="Y" revlabel="Y" category="scrambling">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>对不少男性而言，干物女不擅社交，又不修边幅，所以缺乏吸引力。</t2>
+  </pair>
+  <pair id="428" label="Y" revlabel="Y" category="scrambling">
+    <t1>水蕴草（Egeria densa）别名蜈蚣草。</t1>
+    <t2>蜈蚣草（Egeria densa）别名水蕴草。</t2>
+  </pair>
+  <pair id="429" label="Y" revlabel="Y" category="scrambling">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>乔治·卢卡斯是美国的电影编剧、制片人和导演。</t2>
+  </pair>
+  <pair id="430" label="Y" revlabel="Y" category="scrambling">
+    <t1>石墨添加得越多，铅笔笔芯越软，颜色越黑；而粘土添加得越多，笔芯则越硬，颜色越浅。</t1>
+    <t2>粘土添加得越多，铅笔笔芯越硬，颜色越浅；而石墨添加得越多，笔芯则越软，颜色越黑</t2>
+  </pair>
+  <pair id="431" label="Y" revlabel="Y" category="scrambling">
+    <t1>现今水蕴草已可供人养殖，栽培方式多半是利用雄性植株的无性生殖。</t1>
+    <t2>现今水蕴草已可供人栽培，养殖方式多半是利用雄性植株的无性生殖。</t2>
+  </pair>
+  <pair id="432" label="Y" revlabel="Y" category="scrambling">
+    <t1>历史上没有吉力马札罗山火山喷发的记录。</t1>
+    <t2>记录上没有吉力马札罗山火山喷发的历史。</t2>
+  </pair>
+  <pair id="433" label="Y" revlabel="Y" category="scrambling">
+    <t1>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t1>
+    <t2>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并于热传导理论与振动理论将其应用。</t2>
+  </pair>
+  <pair id="434" label="Y" revlabel="Y" category="scrambling">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>非洲的最高山是吉力马札罗山，位于坦尚尼亚东北，临近肯亚边界。</t2>
+  </pair>
+  <pair id="435" label="Y" revlabel="Y" category="scrambling">
+    <t1>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t1>
+    <t2>于1992年提出东协自由贸易区(ASEAN Free Trade Area，简称AFTA)。</t2>
+  </pair>
+  <pair id="436" label="Y" revlabel="Y" category="scrambling">
+    <t1>拉力赛是采用公共或者私人道路，使用改装过的或者是特别制造的汽车进行的比赛。</t1>
+    <t2>拉力赛是使用改装过的或者是特别制造的汽车，采用公共或者私人道路进行的比赛。</t2>
+  </pair>
+  <pair id="437" label="Y" revlabel="Y" category="scrambling">
+    <t1>约瑟夫·傅立叶于1768年3月21日在法国约讷省欧塞尔出生。</t1>
+    <t2>在1768年3月21日约瑟夫·傅立叶出生于法国约讷省欧塞尔。</t2>
+  </pair>
+  <pair id="438" label="Y" revlabel="Y" category="scrambling">
+    <t1>吉力马札罗山常被称为「非洲屋脊」、「非洲之王」。</t1>
+    <t2>吉力马札罗山常被称为「非洲之王」、「非洲屋脊」。</t2>
+  </pair>
+  <pair id="439" label="Y" revlabel="Y" category="scrambling">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山位于南纬3度与赤道之间，在东非大裂谷以东160千米处。</t2>
+  </pair>
+  <pair id="440" label="Y" revlabel="Y" category="scrambling">
+    <t1>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t1>
+    <t2>用水润湿钻石，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t2>
+  </pair>
+  <pair id="441" label="Y" revlabel="Y" category="scrambling">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>失聪者是手语主要使用者。</t2>
+  </pair>
+  <pair id="442" label="Y" revlabel="Y" category="scrambling">
+    <t1>水蕴草可生长在水深4公尺以内的水域，总长可以长达2公尺。</t1>
+    <t2>水蕴草总长可以长达2公尺，在水深4公尺以内的水域可生长。</t2>
+  </pair>
+  <pair id="443" label="Y" revlabel="Y" category="scrambling">
+    <t1>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t1>
+    <t2>水蕴草原产地是在气温较高的南美洲区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t2>
+  </pair>
+  <pair id="444" label="Y" revlabel="Y" category="scrambling">
+    <t1>水蕴草为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t1>
+    <t2>水蕴草为雌雄异株的植物，其雄花和雌花不会出现在同一植株中。</t2>
+  </pair>
+  <pair id="445" label="Y" revlabel="Y" category="scrambling">
+    <t1>手语是一种不使用语音，而使用手势、身体动作、脸部表情表达意思的语言。</t1>
+    <t2>手语是一种不使用语音，而使用手势、脸部动作、身体表情表达意思的语言。</t2>
+  </pair>
+  <pair id="446" label="Y" revlabel="Y" category="scrambling">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒登上了基博峰亲自拍摄，并带回赤道雪山的大量照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t2>
+  </pair>
+  <pair id="447" label="Y" revlabel="Y" category="scrambling">
+    <t1>乔治·卢卡斯最着名的作品是《星际大战》和《法柜奇兵》系列。</t1>
+    <t2>《星际大战》和《法柜奇兵》系列是乔治·卢卡斯最着名的作品。</t2>
+  </pair>
+  <pair id="448" label="Y" revlabel="N" category="scrambling">
+    <t1>干炒牛河以芽菜、河粉、牛肉等炒成。</t1>
+    <t2>以芽菜、河粉、牛肉等炒成干炒牛河。</t2>
+  </pair>
+  <pair id="449" label="N" revlabel="N" category="scrambling">
+    <t1>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t1>
+    <t2>干物女指的是一群对很多事情提不起劲，认为恋爱都很麻烦而凑合着过的女性。</t2>
+  </pair>
+  <pair id="450" label="N" revlabel="N" category="scrambling">
+    <t1>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t1>
+    <t2>东协于1992年提出自由贸易区(ASEAN Free Trade Area，简称AFTA)。</t2>
+  </pair>
+  <pair id="451" label="N" revlabel="N" category="scrambling">
+    <t1>有时候，生产商会在铅笔的一端装上橡皮擦。</t1>
+    <t2>有时候，生产商会在橡皮擦的一端装上铅笔。</t2>
+  </pair>
+  <pair id="452" label="Y" revlabel="N" category="spatial">
+    <t1>约瑟夫·傅立叶于1768年3月21日在法国约讷省欧塞尔出生。</t1>
+    <t2>约瑟夫·傅立叶于1768年3月21日诞生。</t2>
+  </pair>
+  <pair id="453" label="Y" revlabel="Y" category="spatial">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山位于南纬0度与3度之间，在东非大裂谷以东160千米处。</t2>
+  </pair>
+  <pair id="454" label="Y" revlabel="Y" category="spatial">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>干物女是来自于亚洲日本的流行语。</t2>
+  </pair>
+  <pair id="455" label="Y" revlabel="Y" category="spatial">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是坦尚尼亚的最高山。</t2>
+  </pair>
+  <pair id="456" label="Y" revlabel="N" category="spatial">
+    <t1>约瑟夫·傅立叶于1768年3月21日在法国约讷省欧塞尔出生。</t1>
+    <t2>约瑟夫·傅立叶是法国出身。</t2>
+  </pair>
+  <pair id="457" label="Y" revlabel="N" category="spatial">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>吉力马札罗山位于坦尚尼亚。</t2>
+  </pair>
+  <pair id="458" label="Y" revlabel="N" category="spatial">
+    <t1>铅笔的原型可以追溯至古罗马时代。</t1>
+    <t2>铅笔的原型可以追溯至古代欧洲。</t2>
+  </pair>
+  <pair id="459" label="Y" revlabel="N" category="spatial">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>乔治·卢卡斯不是来自亚洲的电影导演。</t2>
+  </pair>
+  <pair id="460" label="Y" revlabel="N" category="spatial">
+    <t1>干炒牛河是广东菜色的一种。</t1>
+    <t2>干炒牛河是两广菜色的一种。</t2>
+  </pair>
+  <pair id="461" label="Y" revlabel="N" category="spatial">
+    <t1>约瑟夫·傅立叶于1768年3月21日在法国约讷省欧塞尔出生。</t1>
+    <t2>约瑟夫·傅立叶是欧塞尔人。</t2>
+  </pair>
+  <pair id="462" label="Y" revlabel="N" category="spatial">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>肯亚位于坦尚尼亚东北。</t2>
+  </pair>
+  <pair id="463" label="Y" revlabel="N" category="spatial">
+    <t1>约瑟夫·傅立叶于1768年3月21日在法国约讷省欧塞尔出生。</t1>
+    <t2>法国有个约讷省。</t2>
+  </pair>
+  <pair id="464" label="Y" revlabel="N" category="spatial">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>东非大裂谷位于赤道与南纬3度之间。</t2>
+  </pair>
+  <pair id="465" label="Y" revlabel="N" category="spatial">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>东非大裂谷位于吉力马札罗山的西方。</t2>
+  </pair>
+  <pair id="466" label="Y" revlabel="N" category="spatial">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山位于赤道以南，在东非大裂谷以东一百六十公里处。</t2>
+  </pair>
+  <pair id="467" label="Y" revlabel="N" category="spatial">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，欧洲地理学家汉斯·迈尔和登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t2>
+  </pair>
+  <pair id="468" label="N" revlabel="Y" category="spatial">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>干物女是来自于日本东京的流行语。</t2>
+  </pair>
+  <pair id="469" label="N" revlabel="N" category="spatial">
+    <t1>手语并不是世界共通的。</t1>
+    <t2>手语并不是亚洲共通的。</t2>
+  </pair>
+  <pair id="470" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>手语并不是世界共通的。</t1>
+    <t2>各国的手语并不是共通的。</t2>
+  </pair>
+  <pair id="471" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>历史上没有吉力马札罗山火山喷发的记录。</t1>
+    <t2>历史上没有吉力马札罗山火山爆发的记录。</t2>
+  </pair>
+  <pair id="472" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>对不少男性来说，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t2>
+  </pair>
+  <pair id="473" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>对不少男性而言，干物女不修边幅，又不擅社交，所以没有吸引力。</t2>
+  </pair>
+  <pair id="474" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>对不少男人而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t2>
+  </pair>
+  <pair id="475" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>铅笔与其他笔的不同之处在于它的笔迹很容易被擦掉。</t1>
+    <t2>铅笔与其他笔的不同之处在于它的字迹很容易被擦掉。</t2>
+  </pair>
+  <pair id="476" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>铅笔除了书写，其中最重要的可以算是鉴别钻石的真假。</t2>
+  </pair>
+  <pair id="477" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>铅笔除了书写，其中最重要的可以算是辨识钻石的真伪。</t2>
+  </pair>
+  <pair id="478" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>铅笔的原型可以追溯至古罗马时代。</t1>
+    <t2>铅笔的原型可以追溯至罗马时代。</t2>
+  </pair>
+  <pair id="479" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>词汇是不同国家的手语差异最大的地方。</t1>
+    <t2>词汇是不同国家的手语差异最大的部分。</t2>
+  </pair>
+  <pair id="480" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>乔治·卢卡斯最着名的作品是《星际大战》和《法柜奇兵》系列。</t1>
+    <t2>乔治·卢卡斯最出名的作品是《星际大战》和《法柜奇兵》系列。</t2>
+  </pair>
+  <pair id="481" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>现代铅笔以石墨和粘土来制造。</t1>
+    <t2>现代铅笔以石墨和黏土来制造。</t2>
+  </pair>
+  <pair id="482" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>现今水蕴草已可供人养殖，栽培方式多半是利用雄性植株的无性生殖。</t1>
+    <t2>现今水蕴草已可供人栽培，栽培方式多半是利用雄性植株的无性生殖。</t2>
+  </pair>
+  <pair id="483" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t1>
+    <t2>将金钢石用水润湿，用铅笔在上面刻划一下，如果金钢石是真的，其表面不会留下铅笔划过的痕迹。</t2>
+  </pair>
+  <pair id="484" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t1>
+    <t2>干物女指的是一群对恋爱提不起劲，认为很多事情皆很麻烦而凑合着过的女性。</t2>
+  </pair>
+  <pair id="485" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>干物女是来自于东洋的流行语。</t2>
+  </pair>
+  <pair id="486" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>干炒牛河是广东菜色的一种。</t1>
+    <t2>干炒牛河是广东菜的一种。</t2>
+  </pair>
+  <pair id="487" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>干炒牛河以芽菜、河粉、牛肉等炒成。</t1>
+    <t2>干炒牛河以豆芽菜、河粉、牛肉等炒成。</t2>
+  </pair>
+  <pair id="488" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>约瑟夫·傅立叶被广泛公认为温室效应的发现者。</t1>
+    <t2>约瑟夫傅立叶被广泛公认为温室效应的发现者。</t2>
+  </pair>
+  <pair id="489" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>约瑟夫傅立叶是十九世纪法国数学家、物理学家。</t2>
+  </pair>
+  <pair id="490" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>约瑟夫·傅立叶于1768年3月21日在法国约讷省欧塞尔出生。</t1>
+    <t2>约瑟夫‧傅立叶于1768年3月21日在法国约讷省欧塞尔出生。</t2>
+  </pair>
+  <pair id="491" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t1>
+    <t2>东南亚国家协会自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t2>
+  </pair>
+  <pair id="492" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>拉力赛参赛者和他的副驾驶在一些控制点之间的路段上驾驶。</t1>
+    <t2>拉力赛参赛者和他的副手在一些控制点之间的路段上驾驶。</t2>
+  </pair>
+  <pair id="493" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>拉力赛参赛者在一个或者几个起点上，按照规定间隔出发。</t1>
+    <t2>拉力赛参赛者在一个或者数个起点上，按照规定间隔出发。</t2>
+  </pair>
+  <pair id="494" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>拉力赛不是在环形赛道上，而是在点到点之间的赛道上比赛。</t1>
+    <t2>拉力赛不是在环形赛道上，而是在点到点之间的赛道上竞技。</t2>
+  </pair>
+  <pair id="495" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>有时候，生产商会在铅笔的一端装上橡皮擦。</t1>
+    <t2>有时候，厂商会在铅笔的一端装上橡皮擦。</t2>
+  </pair>
+  <pair id="496" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>吉力马札罗山常被称为「非洲屋脊」、「非洲之王」。</t1>
+    <t2>吉力马札罗山常被叫做「非洲屋脊」、「非洲之王」。</t2>
+  </pair>
+  <pair id="497" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>吉力马札罗山座落于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t2>
+  </pair>
+  <pair id="498" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>吉力马札罗山位于坦尚尼亚东北，靠近肯亚边界，是非洲的最高山。</t2>
+  </pair>
+  <pair id="499" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160公里处。</t2>
+  </pair>
+  <pair id="500" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>石墨添加得越多，铅笔笔芯越软，颜色越黑；而粘土添加得越多，笔芯则越硬，颜色越浅。</t1>
+    <t2>石墨添加得越多，铅笔笔心越软，颜色越黑；而粘土添加得越多，笔心则越硬，颜色越浅。</t2>
+  </pair>
+  <pair id="501" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>用铅笔刻划用玻璃、水晶、电力石等制作的假钻石会留下痕迹。</t1>
+    <t2>用铅笔刻划用玻璃、水晶、电力石等制作的冒牌钻石会留下痕迹。</t2>
+  </pair>
+  <pair id="502" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>水蕴草适合生长在营养及光线充足的环境中。</t1>
+    <t2>水蕴草适合生长在营养及光照充足的环境中。</t2>
+  </pair>
+  <pair id="503" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>水蕴草其根部会紧紧插在泥土里，其茎并不会露出水面。</t1>
+    <t2>水蕴草其根部会紧紧插在土壤里，其茎并不会露出水面。</t2>
+  </pair>
+  <pair id="504" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>水蕴草其根部会紧紧插在泥土里，其茎并不会露出水面。</t1>
+    <t2>水蕴草其根部会牢牢插在泥土里，其茎并不会超过水面。</t2>
+  </pair>
+  <pair id="505" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>水蕴草在较冷的水族箱中生长良好，也很容易利用扦插方式来繁殖。</t1>
+    <t2>水蕴草在较冷的水族箱中生长良好，也很容易利用插枝方式来繁殖。</t2>
+  </pair>
+  <pair id="506" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>水蕴草在较冷的水族箱中生长良好，也很容易利用扦插方式来繁殖。</t1>
+    <t2>水蕴草在较低温的水族箱中生长良好，也很容易利用扦插方式来繁殖。</t2>
+  </pair>
+  <pair id="507" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>手语并不是世界共通的。</t1>
+    <t2>手语并非世界共通的。</t2>
+  </pair>
+  <pair id="508" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>手语并不是世界共通的。</t1>
+    <t2>手语并不是全球共通的。</t2>
+  </pair>
+  <pair id="509" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>手语主要使用者是聋人。</t2>
+  </pair>
+  <pair id="510" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>手语主要使用者是失聪者。</t1>
+    <t2>手语主要使用者是听障人士</t2>
+  </pair>
+  <pair id="511" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>干炒牛河是广东菜色的一种。</t1>
+    <t2>干炒牛河是广东菜色的一种。</t2>
+  </pair>
+  <pair id="512" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的相片，才使得吉力马札罗山的存在最后被欧洲人确认。</t2>
+  </pair>
+  <pair id="513" label="Y" revlabel="N" category="synonymy:lex">
+    <t1>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t1>
+    <t2>傅立叶提出傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t2>
+  </pair>
+  <pair id="514" label="Y" revlabel="N" category="synonymy:lex">
+    <t1>约瑟夫·傅立叶被广泛公认为温室效应的发现者。</t1>
+    <t2>傅立叶被广泛公认为温室效应的发现者。</t2>
+  </pair>
+  <pair id="515" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>约瑟夫‧傅立叶是十九世纪法国数学家、物理学家。</t2>
+  </pair>
+  <pair id="516" label="Y" revlabel="Y" category="synonymy:lex">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，德国地理学家汉斯迈尔和奥地利登山家路德维希普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的相片，才使得吉力马札罗山的存在最后被欧洲人确认。</t2>
+  </pair>
+  <pair id="517" label="N" revlabel="N" category="synonymy:lex">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>乔治·卢卡斯担任美国的电影导演、制片人和编剧。</t2>
+  </pair>
+  <pair id="518" label="Y" revlabel="Y" category="paraphrase">
+    <t1>现今水蕴草已可供人养殖，栽培方式多半是利用雄性植株的无性生殖。</t1>
+    <t2>现今供人养殖的水蕴草栽培方式多半是利用雄性植株的无性生殖。</t2>
+  </pair>
+  <pair id="519" label="Y" revlabel="Y" category="paraphrase">
+    <t1>干物女指的是一群对恋爱提不起劲，认为很多事情都很麻烦而凑合着过的女性。</t1>
+    <t2>干物女指的是女性对恋爱提不起劲，认为很多事情都很麻烦而凑合着过。</t2>
+  </pair>
+  <pair id="520" label="Y" revlabel="Y" category="paraphrase">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山位于东非大裂谷以东160千米之处，介于赤道与南纬3度之间。</t2>
+  </pair>
+  <pair id="521" label="Y" revlabel="Y" category="paraphrase">
+    <t1>约瑟夫·傅立叶被广泛公认为温室效应的发现者。</t1>
+    <t2>约瑟夫·傅立叶被广泛公认首先发现温室效应。</t2>
+  </pair>
+  <pair id="522" label="Y" revlabel="Y" category="paraphrase">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家及物理学家。</t1>
+    <t2>十九世纪法国的约瑟夫·傅立叶是数学家、物理学家。</t2>
+  </pair>
+  <pair id="523" label="Y" revlabel="Y" category="paraphrase">
+    <t1>水蕴草适合生长在营养及光线充足的环境中。</t1>
+    <t2>营养及光线充足的环境适合水蕴草生长。</t2>
+  </pair>
+  <pair id="524" label="Y" revlabel="Y" category="paraphrase">
+    <t1>铅笔与其他笔的不同之处在于它的笔迹很容易被擦掉。</t1>
+    <t2>铅笔与其他笔的差别在于它的笔迹很容易被擦掉</t2>
+  </pair>
+  <pair id="525" label="Y" revlabel="Y" category="paraphrase">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>铅笔除了可以拿来写字，其中最重要的可以算是鉴别钻石的真伪。</t2>
+  </pair>
+  <pair id="526" label="Y" revlabel="Y" category="paraphrase">
+    <t1>历史上没有吉力马札罗山火山喷发的记录。</t1>
+    <t2>过去没有吉力马札罗山火山喷发的记录。</t2>
+  </pair>
+  <pair id="527" label="Y" revlabel="Y" category="paraphrase">
+    <t1>词汇是不同国家的手语差异最大的地方。</t1>
+    <t2>词汇是不同国家的手语间最大的差异。</t2>
+  </pair>
+  <pair id="528" label="Y" revlabel="Y" category="paraphrase">
+    <t1>乔治·卢卡斯最着名的作品是《星际大战》和《法柜奇兵》系列。</t1>
+    <t2>乔治·卢卡斯最为人所知的作品是《星际大战》和《法柜奇兵》系列。</t2>
+  </pair>
+  <pair id="529" label="Y" revlabel="Y" category="paraphrase">
+    <t1>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t1>
+    <t2>傅立叶级数(Fourier series)为约瑟夫·傅立叶提出并将其应用于热传导理论与振动理论。</t2>
+  </pair>
+  <pair id="530" label="Y" revlabel="Y" category="paraphrase">
+    <t1>约瑟夫·傅立叶被广泛公认为温室效应的发现者。</t1>
+    <t2>被广泛公认的温室效应的发现者是约瑟夫·傅立叶。</t2>
+  </pair>
+  <pair id="531" label="Y" revlabel="Y" category="paraphrase">
+    <t1>现今水蕴草已可供人养殖，栽培方式多半是利用雄性植株的无性生殖。</t1>
+    <t2>现今水蕴草已可人工养殖，栽培方式多半是利用雄性植株的无性生殖。</t2>
+  </pair>
+  <pair id="532" label="Y" revlabel="Y" category="paraphrase">
+    <t1>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t1>
+    <t2>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面看不到铅笔划过的痕迹。</t2>
+  </pair>
+  <pair id="533" label="Y" revlabel="Y" category="paraphrase">
+    <t1>干物女来自于日本的流行语。</t1>
+    <t2>干物女是来自于日本的流行语。</t2>
+  </pair>
+  <pair id="534" label="Y" revlabel="Y" category="paraphrase">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>干物女不修边幅，又不擅社交，对不少男性而言缺乏吸引力。</t2>
+  </pair>
+  <pair id="535" label="Y" revlabel="Y" category="paraphrase">
+    <t1>干炒牛河是广东菜色的一种。</t1>
+    <t2>干炒牛河是一种广东菜色。</t2>
+  </pair>
+  <pair id="536" label="Y" revlabel="Y" category="paraphrase">
+    <t1>约瑟夫·傅立叶被广泛公认为温室效应的发现者。</t1>
+    <t2>约瑟夫·傅立叶被广泛公认为首位提出温室效应的人。</t2>
+  </pair>
+  <pair id="537" label="Y" revlabel="Y" category="paraphrase">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>约瑟夫·傅立叶是十九世纪法国数学家与物理学家。</t2>
+  </pair>
+  <pair id="538" label="Y" revlabel="Y" category="paraphrase">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>约瑟夫·傅立叶是十九世纪法国数学家兼物理学家。</t2>
+  </pair>
+  <pair id="539" label="Y" revlabel="Y" category="paraphrase">
+    <t1>拉力赛是采用公共或者私人道路，使用改装过的或者是特别制造的汽车进行的比赛。</t1>
+    <t2>拉力赛是采用公共或者私人道路，使用改装车或是特制车进行比赛。</t2>
+  </pair>
+  <pair id="540" label="Y" revlabel="Y" category="paraphrase">
+    <t1>乔治·卢卡斯是美国的电影导演、制片人和编剧。</t1>
+    <t2>来自美国的乔治·卢卡斯是电影导演、制片人和编剧。</t2>
+  </pair>
+  <pair id="541" label="Y" revlabel="Y" category="paraphrase">
+    <t1>历史上没有吉力马札罗山火山喷发的记录。</t1>
+    <t2>没有吉力马札罗山火山喷发的历史记录。</t2>
+  </pair>
+  <pair id="542" label="Y" revlabel="Y" category="paraphrase">
+    <t1>有时候，生产商会在铅笔的一端装上橡皮擦。</t1>
+    <t2>有时候，铅笔公司会在铅笔的一端装上橡皮擦。</t2>
+  </pair>
+  <pair id="543" label="Y" revlabel="Y" category="paraphrase">
+    <t1>吉力马札罗山的部分山区被指定为吉力马札罗国家公园，并登录为世界遗产。</t1>
+    <t2>吉力马札罗山的部分山区被指定为吉力马札罗国家公园，并荣登世界遗产的行列。</t2>
+  </pair>
+  <pair id="544" label="Y" revlabel="Y" category="paraphrase">
+    <t1>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲的最高山。</t1>
+    <t2>吉力马札罗山位于坦尚尼亚东北，临近肯亚边界，是非洲第一高峰。</t2>
+  </pair>
+  <pair id="545" label="Y" revlabel="Y" category="paraphrase">
+    <t1>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米处。</t1>
+    <t2>吉力马札罗山位于赤道与南纬3度之间，在东非大裂谷以东160千米的地方。</t2>
+  </pair>
+  <pair id="546" label="Y" revlabel="Y" category="paraphrase">
+    <t1>石墨添加得越多，铅笔笔芯越软，颜色越黑；而粘土添加得越多，笔芯则越硬，颜色越浅。</t1>
+    <t2>石墨添加得越多，铅笔笔芯硬度越低，颜色越黑；而粘土添加得越多，笔芯硬度越高，颜色越浅。</t2>
+  </pair>
+  <pair id="547" label="Y" revlabel="Y" category="paraphrase">
+    <t1>将钻石用水润湿，用铅笔在上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t1>
+    <t2>用铅笔在湿钻石上面刻划一下，如果钻石是真的，其表面不会留下铅笔划过的痕迹。</t2>
+  </pair>
+  <pair id="548" label="Y" revlabel="Y" category="paraphrase">
+    <t1>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t1>
+    <t2>水蕴草分布在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t2>
+  </pair>
+  <pair id="549" label="Y" revlabel="Y" category="paraphrase">
+    <t1>水蕴草（Egeria densa）别名蜈蚣草。</t1>
+    <t2>水蕴草（Egeria densa）又称蜈蚣草。</t2>
+  </pair>
+  <pair id="550" label="Y" revlabel="Y" category="paraphrase">
+    <t1>现代铅笔以石墨和粘土来制造。</t1>
+    <t2>今日的铅笔以石墨和粘土来制造。</t2>
+  </pair>
+  <pair id="551" label="Y" revlabel="Y" category="paraphrase">
+    <t1>对不少男性而言，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t1>
+    <t2>不少男性认为，干物女不修边幅，又不擅社交，所以缺乏吸引力。</t2>
+  </pair>
+  <pair id="552" label="Y" revlabel="N" category="modifier">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>数学与物理学家约瑟夫·傅立叶是法国出身。</t2>
+  </pair>
+  <pair id="553" label="Y" revlabel="N" category="modifier">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>铅笔除了书写，还可以鉴别钻石的真伪。</t2>
+  </pair>
+  <pair id="554" label="Y" revlabel="Y" category="paraphrase">
+    <t1>约瑟夫·傅立叶男爵（Joseph Fourier，1768年3月21日－1830年5月16日）。</t1>
+    <t2>约瑟夫·傅立叶男爵（Joseph Fourier）生于1768年3月21日，卒于1830年5月16日。</t2>
+  </pair>
+  <pair id="555" label="Y" revlabel="N" category="paraphrase">
+    <t1>干物女是来自于日本的流行语。</t1>
+    <t2>流行语「干物女」起源自日本。</t2>
+  </pair>
+  <pair id="556" label="Y" revlabel="N" category="modifier">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区包括印尼、马来西亚、菲律宾、新加坡、泰国、汶莱、越南、寮国、缅甸、柬埔寨，共10个国家。</t2>
+  </pair>
+  <pair id="557" label="Y" revlabel="N" category="clause">
+    <t1>吉力马札罗山的部分山区被指定为吉力马札罗国家公园，并登录为世界遗产。</t1>
+    <t2>吉力马札罗国家公园涵盖吉力马札罗山的部分山区。</t2>
+  </pair>
+  <pair id="558" label="Y" revlabel="Y" category="temporal">
+    <t1>约瑟夫·傅立叶是十九世纪法国数学家、物理学家。</t1>
+    <t2>约瑟夫·傅立叶是19世纪法国数学家、物理学家。</t2>
+  </pair>
+  <pair id="559" label="Y" revlabel="N" category="temporal">
+    <t1>约瑟夫·傅立叶男爵（Joseph Fourier，1768年3月21日－1830年5月16日）。</t1>
+    <t2>约瑟夫·傅立叶男爵死于法国七月革命那年。</t2>
+  </pair>
+  <pair id="560" label="Y" revlabel="N" category="temporal">
+    <t1>铅笔的原型可以追溯至古罗马时代。</t1>
+    <t2>铅笔的原型可以追溯至西元前。</t2>
+  </pair>
+  <pair id="561" label="Y" revlabel="N" category="temporal">
+    <t1>约瑟夫·傅立叶于1768年3月21日在法国约讷省欧塞尔出生。</t1>
+    <t2>约瑟夫·傅立叶于1769年3月21日满周岁。</t2>
+  </pair>
+  <pair id="562" label="Y" revlabel="N" category="temporal">
+    <t1>约瑟夫·傅立叶男爵（Joseph Fourier，1768年3月21日－1830年5月16日）。</t1>
+    <t2>约瑟夫·傅立叶男爵出生于1830年。</t2>
+  </pair>
+  <pair id="563" label="Y" revlabel="N" category="temporal">
+    <t1>约瑟夫·傅立叶男爵（Joseph Fourier，1768年3月21日－1830年5月16日）。</t1>
+    <t2>约瑟夫·傅立叶男爵一生横跨18及19世纪。</t2>
+  </pair>
+  <pair id="564" label="Y" revlabel="N" category="temporal">
+    <t1>约瑟夫·傅立叶男爵（Joseph Fourier，1768年3月21日－1830年5月16日）。</t1>
+    <t2>约瑟夫·傅立叶男爵（Joseph Fourier，1768－1830）。</t2>
+  </pair>
+  <pair id="565" label="Y" revlabel="N" category="temporal">
+    <t1>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)于1992年提出。</t1>
+    <t2>东协自由贸易区(ASEAN Free Trade Area，简称AFTA)提出距今已超过20年。</t2>
+  </pair>
+  <pair id="566" label="Y" revlabel="N" category="temporal">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>十九世纪末，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t2>
+  </pair>
+  <pair id="567" label="Y" revlabel="N" category="temporal">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>20世纪之前，欧洲人就已确认吉力马札罗山的存在。</t2>
+  </pair>
+  <pair id="568" label="N" revlabel="N" category="temporal">
+    <t1>约瑟夫·傅立叶于1768年3月21日在法国约讷省欧塞尔出生。</t1>
+    <t2>约瑟夫·傅立叶生于十八世纪。</t2>
+  </pair>
+  <pair id="569" label="Y" revlabel="Y" category="transparent_head">
+    <t1>铅笔的原型可以追溯至古罗马时代。</t1>
+    <t2>铅笔可以追溯至古罗马时代。</t2>
+  </pair>
+  <pair id="570" label="Y" revlabel="Y" category="transparent_head">
+    <t1>词汇是不同国家的手语差异最大的地方。</t1>
+    <t2>词汇的差异是不同国家的手语差异最大的地方。</t2>
+  </pair>
+  <pair id="571" label="Y" revlabel="Y" category="transparent_head">
+    <t1>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将其应用于热传导理论与振动理论。</t1>
+    <t2>约瑟夫·傅立叶提出傅立叶级数(Fourier series)，并将其应用于热传导与振动理论。</t2>
+  </pair>
+  <pair id="572" label="Y" revlabel="Y" category="transparent_head">
+    <t1>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个国家。</t1>
+    <t2>东协自由贸易区包括原东协国家(印尼、马来西亚、菲律宾、新加坡、泰国、汶莱)和4个新成员国(越南、寮国、缅甸、柬埔寨)，共10个。</t2>
+  </pair>
+  <pair id="573" label="Y" revlabel="Y" category="transparent_head">
+    <t1>拉力赛参赛者和他的副驾驶在一些控制点之间的路段上驾驶。</t1>
+    <t2>拉力赛参赛者和他的副驾驶在一些控制点之间驾驶。</t2>
+  </pair>
+  <pair id="574" label="Y" revlabel="Y" category="transparent_head">
+    <t1>水蕴草为雌雄异株的植物，其雌花和雄花不会出现在同一植株中。</t1>
+    <t2>水蕴草为雌雄异株，其雌花和雄花不会出现在同一植株中。</t2>
+  </pair>
+  <pair id="575" label="Y" revlabel="Y" category="transparent_head">
+    <t1>水蕴草可生长在水深4公尺以内的水域，总长可以长达2公尺。</t1>
+    <t2>水蕴草可生长在水深4公尺以内，总长可以长达2公尺。</t2>
+  </pair>
+  <pair id="576" label="Y" revlabel="Y" category="transparent_head">
+    <t1>手语并不是世界共通的。</t1>
+    <t2>手语并不是世界共通的语言。</t2>
+  </pair>
+  <pair id="577" label="Y" revlabel="Y" category="transparent_head">
+    <t1>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山的存在最后被欧洲人确认。</t1>
+    <t2>1889年，德国地理学家汉斯·迈尔和奥地利登山家路德维希·普特舍勒亲自登上了基博峰，拍摄并带回大量赤道雪山的照片，才使得吉力马札罗山最后被欧洲人确认。</t2>
+  </pair>
+  <pair id="578" label="Y" revlabel="N" category="transparent_head">
+    <t1>铅笔除了书写，其中最重要的可以算是鉴别钻石的真伪。</t1>
+    <t2>铅笔除了书写，其中最重要的可以算是鉴别钻石。</t2>
+  </pair>
+  <pair id="579" label="Y" revlabel="N" category="transparent_head">
+    <t1>乔治·卢卡斯最着名的作品是《星际大战》和《法柜奇兵》系列。</t1>
+    <t2>乔治·卢卡斯最着名的是《星际大战》和《法柜奇兵》系列。</t2>
+  </pair>
+  <pair id="580" label="Y" revlabel="N" category="transparent_head">
+    <t1>有时候，生产商会在铅笔的一端装上橡皮擦。</t1>
+    <t2>有时候，生产商会为铅笔装上橡皮擦。</t2>
+  </pair>
+  <pair id="581" label="Y" revlabel="N" category="transparent_head">
+    <t1>水蕴草原产地是在南美洲气温较高的区域，包括巴西的东南部、阿根廷、乌拉圭等地。</t1>
+    <t2>水蕴草原产地是在南美洲气温较高的区域，包括巴西、阿根廷、乌拉圭等地。</t2>
+  </pair>
+</dataset>
