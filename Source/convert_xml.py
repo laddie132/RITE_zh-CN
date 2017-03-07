@@ -55,4 +55,4 @@ def convertTo(xmlName, resultName):
 
 
 if __name__ == '__main__':
-    convertTo('../Data/train_data.xml', '../Data/xml提取/train_data.txt')
+    convertTo('../Data/train.xml', '../Data/train.txt')
