@@ -46,7 +46,8 @@ def convert_to(xmlName, resultName):
     data_handler = DataHandler()
 
     xml_file = open(xmlName, encoding='utf-8')
-    xml.sax.parseString(xml_file.read(), data_handler)
+    xml_file_read = xml_file.read().replace('&', '%')  # & has another means in xml file
+    xml.sax.parseString(xml_file_read, data_handler)
     xml_file.close()
 
     result_file = open(resultName, 'w', encoding='utf-8')

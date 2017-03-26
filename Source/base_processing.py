@@ -21,6 +21,6 @@ def split_word(textPair):
 
 
 if __name__ == '__main__':
-    pairList = text_pair.read_text('../Data/train.txt')
+    pairList = text_pair.read_text('../Data/test.txt')
     splitPairList = [split_word(t) for t in pairList]
-    text_pair.save_text('../Data/train_cut.txt', splitPairList)
+    text_pair.save_text('../Data/test_cut.txt', splitPairList)
