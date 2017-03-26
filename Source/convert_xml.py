@@ -35,7 +35,7 @@ class DataHandler(xml.sax.ContentHandler):
         self.__currentData = content
 
 
-def convertTo(xmlName, resultName):
+def convert_to(xmlName, resultName):
     """
     function to use for converting
     :param xmlName: original xml file path
@@ -43,16 +43,16 @@ def convertTo(xmlName, resultName):
     :return: none
     """
 
-    dataHandler = DataHandler()
+    data_handler = DataHandler()
 
-    xmlFile = open(xmlName, encoding='utf-8')
-    xml.sax.parseString(xmlFile.read(), dataHandler)
-    xmlFile.close()
+    xml_file = open(xmlName, encoding='utf-8')
+    xml.sax.parseString(xml_file.read(), data_handler)
+    xml_file.close()
 
-    resultFile = open(resultName, 'w', encoding='utf-8')
-    resultFile.writelines(dataHandler.result)
-    resultFile.close()
+    result_file = open(resultName, 'w', encoding='utf-8')
+    result_file.writelines(data_handler.result)
+    result_file.close()
 
 
 if __name__ == '__main__':
-    convertTo('../Data/train.xml', '../Data/train.txt')
+    convert_to('../Data/train.xml', '../Data/train.txt')

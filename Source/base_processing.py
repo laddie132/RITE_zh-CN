@@ -1,10 +1,14 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+"""Third step for RITE: sentence split and grammar analysis"""
+
+
 import jieba
 import text_pair
 
-def splitWord(textPair):
+
+def split_word(textPair):
     jieba.setLogLevel('INFO')
 
     ger1 = jieba.cut(textPair.t1)
@@ -15,7 +19,8 @@ def splitWord(textPair):
 
     return text_pair.TextPair(t1, t2, textPair.label)
 
+
 if __name__ == '__main__':
-    pairList = text_pair.readFromText('../Data/train.txt')
-    splitPairList = [splitWord(t) for t in pairList]
-    text_pair.saveToText('../Data/train_cut.txt', splitPairList)
+    pairList = text_pair.read_text('../Data/train.txt')
+    splitPairList = [split_word(t) for t in pairList]
+    text_pair.save_text('../Data/train_cut.txt', splitPairList)

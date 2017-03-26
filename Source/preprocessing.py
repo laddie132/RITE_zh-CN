@@ -3,31 +3,32 @@
 
 """Second step for RITE: preprocess data"""
 
-import jieba
 import text_pair
 
 
-def convertTime():
+def convert_time():
     pass
 
-def convertNum():
+
+def convert_num(textPair):
     pass
 
-def convertChar(textPair):
+
+def convert_char(textPair):
     """
     replace '两' and '双' to '二'
     :param textPair: 
     :return: 
     """
 
-    idiomWithTwo1 = ['国士无双', '比翼双飞', '才貌双全', '才气无双', '慈明无双', '当世无双', '德艺双馨',
+    idiom_with_two1 = ['国士无双', '比翼双飞', '才貌双全', '才气无双', '慈明无双', '当世无双', '德艺双馨',
                      '雕玉双联', '福禄双全', '福无双至', '福慧双修', '盖世无双', '寡二少双', '海内无双',
                      '举世无双', '名利双收', '日下无双', '双瞳剪水', '双斧伐孤树', '双管齐下', '双柑斗酒',
                      '天下无双', '文武双全', '一双两好', '智勇双全', '一箭双雕', '成双成对', '成双作对',
                      '斗酒双柑', '福寿双全', '福无双至，祸不单行', '贯斗双龙', '进退双难', '绝世无双',
                      '双凫一雁', '双桂联芳', '双宿双飞', '双喜临门', '双足重茧', '形单影双', '一雕双兔',
                      '一矢双穿', '一语双关', '才貌双绝', '双栖双宿', '好事成双']
-    idiomWithTwo2 = ['半斤八两', '掂斤播两', '公私两济', '两次三番', '两肋插刀', '两意三心', '磨盘两圆',
+    idiom_with_two2 = ['半斤八两', '掂斤播两', '公私两济', '两次三番', '两肋插刀', '两意三心', '磨盘两圆',
                      '搬斤播两', '秤斤注两', '此地无银三百两', '二心两意', '分斤掰两', '公私两便',
                      '汉贼不两立', '脚踏两只船', '进退两难', '两全其美', '两手空空', '两瞽相扶', '两脚书橱',
                      '两相情愿', '两面二舌', '两小无猜', '两袖清风', '两世为人', '两部鼓吹', '两面三刀', '两败俱伤',
@@ -52,31 +53,32 @@ def convertChar(textPair):
     t1List = textPair.t1.split(' ')
     t2List = textPair.t2.split(' ')
 
-    def replaceTwo(tList):
+    def replace_two(tList):
         for i in range(len(tList)):
             if '双' not in tList[i] and '两' not in tList[i]:
                 continue
 
-            if tList[i] not in idiomWithTwo1:
+            if tList[i] not in idiom_with_two1:
                 tList[i] = tList[i].replace('双', '二')
-            if tList[i] not in idiomWithTwo2:
+            if tList[i] not in idiom_with_two2:
                 tList[i] = tList[i].replace('两', '二')
 
-    replaceTwo(t1List)
-    replaceTwo(t2List)
+    replace_two(t1List)
+    replace_two(t2List)
 
-    newTextPair = text_pair.TextPair(' '.join(t1List), ' '.join(t2List), textPair.label)
-    return newTextPair
+    new_text_pair = text_pair.TextPair(' '.join(t1List), ' '.join(t2List), textPair.label)
+    return new_text_pair
 
 
-def convertUnit():
+def convert_unit():
     pass
+
 
 if __name__ == '__main__':
     # pairList = text_pair.readFromText('../Data/train.txt')
 
     textPair = text_pair.TextPair('两个 一双', '车位成为', 'Y')
-    newText = convertChar(textPair)
+    newText = convert_char(textPair)
     print(newText.t1, newText.t2, newText.label, sep='\n')
 
     pass

@@ -15,7 +15,7 @@ class TextPair:
         self.label = label
 
 
-def readFromText(fileName):
+def read_text(fileName):
     f = open(fileName, encoding='utf-8')
     lines = f.readlines()
     pairs = int(len(lines) / 3)
@@ -39,7 +39,7 @@ def readFromText(fileName):
     return pairList
 
 
-def saveToText(filename, pairList):
+def save_text(filename, pairList):
     f = open(filename, 'w', encoding='utf-8')
     for i in range(len(pairList)):
         f.write(str(i*3) + ' ' + pairList[i].t1 + '\n')
