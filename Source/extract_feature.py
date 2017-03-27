@@ -6,7 +6,6 @@
 import text_pair
 import re
 
-
 MAX_EDIT_DISTANCE = 45.0
 
 
@@ -24,16 +23,6 @@ def extract_all_fea(text, text_cut, text_entity, text_lex):
     t2_cut = text_cut.t2.split()
 
     return [fea_quotation(t1, t2)]
-
-
-def has_alpha(simple_text):
-    """ judge str whether has english char"""
-
-    for uchar in simple_text:
-        if (u'\u0041' <= uchar <= u'\u005a') or (u'\u0061' <= uchar <= u'\u007a'):
-            return True
-
-    return False
 
 
 def n_gram_overlap(t1, t2):
@@ -109,25 +98,87 @@ def fea_longer4(t1_cut, t2_cut):
 
 
 def fea_part(t1, t2):
-    pass
+    """
+    whether t2 is part of t1 
+    """
+
+    sym = ['，', ',', ';', '；', '。']
+
+    pos = t1.index(t2)
+    if pos != -1:
+        sym_pos = pos + len(t2)
+        if sym_pos < len(t1) and t1[sym_pos] in sym:
+            return 1
+
+    return 0
 
 
 def fea_time_equal(t1, t2):
-    pass
+    """
+    whether has same time
+    """
+
+    patten_year = re.compile(r'\d\d\d\d-\d\d-\d\d')
+    patten_hour = re.compile(r'\d\d:\d\d:\d\d')
+
+    for year in re.findall(patten_year, t2):
+        if year not in t1:
+            return 0
+
+    for hour in re.findall(patten_hour, t2):
+        if hour not in t1:
+            return 0
+
+    return 1
 
 
 def fea_num_equal(t1, t2):
-    pass
+    """
+    whether has same number
+    """
+
+    patten = re.compile(r'\d+')
+
+    for num in re.findall(patten, t2):
+        if num not in t1:
+            return 0
+
+    return 1
 
 
 def fea_num(t1, t2):
-    pass
+    """
+    whether has number together
+    """
+
+    def has_num(simple_text):
+        """ judge str whether has number"""
+        for uchar in simple_text:
+            if uchar.isdigit():
+                return True
+
+        return False
+
+    if not has_num(t1) and has_num(t2):
+        return 1
+
+    return 0
 
 
 def fea_english(t1, t2):
     """
     whether has english words together
     """
+
+    def has_alpha(simple_text):
+        """ judge str whether has english char"""
+
+        for uchar in simple_text:
+            if (u'\u0041' <= uchar <= u'\u005a') or (u'\u0061' <= uchar <= u'\u007a'):
+                return True
+
+        return False
+
     if not has_alpha(t1) and has_alpha(t2):
         return 1
 
@@ -135,7 +186,27 @@ def fea_english(t1, t2):
 
 
 def fea_bracket(t1, t2):
-    pass
+    """
+    whether bracket`s contents in t2 are not in t1
+    """
+
+    patten = re.compile(r'\[(.+?)\]|\((.+?)\)|【(.+?)】|（(.+?)）|{(.+?)}|\<(.+?)\>|〔(.+?)〕|《(.+?)》')
+    bracket_cont_t = re.findall(patten, t2)
+
+    def str_in_tuple(tu):
+        for i in range(len(tu)):
+            if tu[i] is not '':
+                return tu[i]
+
+        return ''
+
+    bracket_cont = [str_in_tuple(tu) for tu in bracket_cont_t]
+
+    for ele in bracket_cont:
+        if ele not in t1:
+            return 1
+
+    return 0
 
 
 def fea_quotation(t1, t2):
@@ -156,11 +227,23 @@ def fea_allentity(t1, t2):
 
 
 def fea_and(t1, t2):
-    pass
+    """
+    whether t1 and t2 has '和' together
+    """
+    if '和' in t1 and '和' in t2:
+        return 1
+
+    return 0
 
 
 def fea_or(t1, t2):
-    pass
+    """
+    whether t1 and t2 has '或' together
+    """
+    if '或' in t1 and '或' in t2:
+        return 1
+
+    return 0
 
 
 def fea_antonym(t1, t2):
@@ -204,11 +287,14 @@ def fea_hfall(t1, t2):
 
 
 if __name__ == '__main__':
-    text_all = text_pair.read_text('../Data/test.txt')
-    text_cut_all = text_pair.read_text('../Data/test_cut.txt')
+    # text_all = text_pair.read_text('../Data/test.txt')
+    # text_cut_all = text_pair.read_text('../Data/test_cut.txt')
+    #
+    # if len(text_all) != len(text_cut_all):
+    #     exit(-1)
+    #
+    # for i in range(len(text_all)):
+    #     extract_all_fea(text_all[i], text_cut_all[i], 0, 0)
 
-    if len(text_all) != len(text_cut_all):
-        exit(-1)
-
-    for i in range(len(text_all)):
-        extract_all_fea(text_all[i], text_cut_all[i], 0, 0)
+    fea = fea_bracket('14策1925-10-00委1925-10-15，会ewfewfew 05:10:00', '14策(策)-（10）-【0】0委1《92》5-<1>0-1{5}')
+    print(fea)

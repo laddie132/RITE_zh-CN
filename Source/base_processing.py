@@ -20,7 +20,11 @@ def split_word(textPair):
     return text_pair.TextPair(t1, t2, textPair.label)
 
 
+def sign_tagger(text):
+    pass
+
+
 if __name__ == '__main__':
     pairList = text_pair.read_text('../Data/test.txt')
-    splitPairList = [split_word(t) for t in pairList]
-    text_pair.save_text('../Data/test_cut.txt', splitPairList)
+    splitPairList = [sign_tagger(t) for t in pairList]
+    # text_pair.save_text('../Data/test_cut.txt', splitPairList)
