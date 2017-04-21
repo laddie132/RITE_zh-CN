@@ -91,5 +91,5 @@ ENV/
 # Pycharm setting
 .idea
 
-
-./Data/stanfordNLP
+# stanford NLP tools, it`s too big
+Data/stanfordNLP/
