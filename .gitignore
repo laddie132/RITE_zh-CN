@@ -90,3 +90,6 @@ ENV/
 
 # Pycharm setting
 .idea
+
+
+./Data/stanfordNLP
