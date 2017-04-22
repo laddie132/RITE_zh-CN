@@ -1,0 +1,1743 @@
+0 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+1 历史#O 上#O 没有#O 吉力#O 马札罗#PERSON 火山#O 喷发#O 的#O 记录#O 。#O
+Y
+3 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+4 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 是#O 《#O 星战#MISC 》#O 和#O 《#O 法柜#ORGANIZATION 》#O 系列#O 。#O
+Y
+6 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+7 东协#LOCATION 自由贸易区#LOCATION 包括#O 原#O 东南亚#LOCATION 国家#O 协会#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+Y
+9 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+10 1992#MISC 年#MISC 提出#O 的#O 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Are#O )#O 简称#O AFTA#O 。#O
+Y
+12 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+13 东协#LOCATION 自由贸易区#LOCATION 包括#O 原东协#MISC 6#MISC 国#O (#O 泰#O 、#O 菲#GPE 、#O 印尼#GPE 、#O 马来西亚#GPE 、#O 新加坡#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O
+Y
+15 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+16 AFTA#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+Y
+18 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+19 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 长袖善舞#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+N
+21 铅笔#O 与#O 其他#O 笔#O 的#O 不同之处#O 在于#O 它#O 的#O 笔迹#O 很#O 容易#O 被#O 擦掉#O 。#O
+22 铅笔#O 与#O 其他#O 笔#O 的#O 共通#O 处#O 在于#O 它#O 的#O 笔迹#O 很#O 容易#O 被#O 擦掉#O 。#O
+N
+24 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+25 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最#O 细微#O 的#O 地方#O 。#O
+N
+27 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+28 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雌性#O 植株#O 的#O 无性生殖#O 。#O
+N
+30 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+31 干物#O 女为#O 传入#O 日本#GPE 的#O 流行语#O 。#O
+N
+33 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+34 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 男性#O 。#O
+N
+36 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#PERSON 出生#O 。#O
+37 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#LOCATION 过世#O 。#O
+N
+39 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+40 东协#O 自由贸易区#O 除去#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+N
+42 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+43 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 撤销#O 。#O
+N
+45 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 登录#O 为#O 世界遗产#O 。#O
+46 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 退出#O 世界遗产#O 。#O
+N
+48 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+49 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 西非#LOCATION 大#O 裂谷#O 以西#O 160#MISC 千米#MISC 处#O 。#O
+N
+51 石墨#O 添加#O 得#O 越#O 多#O ，#O 铅笔#O 笔芯#O 越软#O ，#O 颜色#O 越#O 黑#O ；#O 而#O 粘土#O 添加#O 得#O 越#O 多#O ，#O 笔芯#O 则#O 越#O 硬#O ，#O 颜色#O 越浅#O 。#O
+52 石墨#O 添加#O 得#O 越少#O ，#O 铅笔#O 笔芯#O 越软#O ，#O 颜色#O 越#O 黑#O ；#O 而#O 粘土#O 添加#O 得#O 越少#O ，#O 笔芯#O 则#O 越#O 硬#O ，#O 颜色#O 越浅#O 。#O
+N
+54 水蕴草#O 适合#O 生长#O 在#O 营养#O 及#O 光线#O 充足#O 的#O 环境#O 中#O 。#O
+55 水蕴草#O 适合#O 生长#O 在#O 营养#O 及#O 缺乏#O 光线#O 的#O 环境#O 中#O 。#O
+N
+57 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+58 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 低#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+N
+60 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+61 水蕴#O 草为#O 雌雄同株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+N
+63 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+64 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以上#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+N
+66 水蕴草#PERSON （#O Egeria#ORGANIZATION densa#ORGANIZATION ）#O 别名#O 蜈蚣草#O 。#O
+67 水蕴草#PERSON （#O Egeria#ORGANIZATION densa#ORGANIZATION ）#O 谬称#O 蜈蚣草#O 。#O
+N
+69 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+70 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 少量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+N
+72 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+73 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 原厂#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+N
+75 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+76 铅笔#O 除了#O 书写#O ，#O 其中#O 较#O 不值一提#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+N
+78 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+79 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 喷发#O 的#O 记录#O 。#O
+Y
+81 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+82 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 这种#O 人#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+Y
+84 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+85 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 。#O
+Y
+87 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+88 干物#O 女#O 这个#O 词#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+Y
+90 干#O 炒#O 牛河#LOCATION 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+91 干#O 炒#O 牛河#LOCATION 这#O 道菜#O 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+Y
+93 水蕴草#PERSON （#O Egeria#ORGANIZATION densa#ORGANIZATION ）#O 别名#O 蜈蚣草#O 。#O
+94 水蕴草#PERSON 别名#O 蜈蚣草#O 。#O
+Y
+96 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+97 历史#O 上#O 没有#O 火山#O 喷发#O 的#O 记录#O 。#O
+N
+99 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+100 钻石#O 的#O 真伪#O 可以#O 被#O 铅笔#O 鉴别#O 。#O
+Y
+102 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+103 历史#O 上吉力#FACILITY 马#FACILITY 札#FACILITY 罗山#FACILITY 火山#FACILITY 的#O 喷发#O 没有#O 被#O 记录#O 。#O
+Y
+105 铅笔#O 与#O 其他#O 笔#O 的#O 不同之处#O 在于#O 它#O 的#O 笔迹#O 很#O 容易#O 被#O 擦掉#O 。#O
+106 铅笔#O 与#O 其他#O 笔#O 的#O 不同之处#O 在于#O 它#O 的#O 笔迹#O 很#O 容易#O 擦掉#O 。#O
+Y
+108 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+109 词汇#O 被#O 认为#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+Y
+111 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+112 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 被#O 认为#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+Y
+114 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+115 干物#O 女#O 被#O 用来#O 指#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+Y
+117 干#O 炒#O 牛河#LOCATION 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+118 干#O 炒#O 牛河#LOCATION 被#O 归类#O 为#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+Y
+120 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+121 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 被#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+Y
+123 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+124 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 被#O 提出#O 。#O
+Y
+126 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+127 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 被#O 规定#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+Y
+129 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+130 利用#O 雄性#O 植株#O 的#O 无性生殖#O ，#O 现今#O 水蕴草#O 已#O 可#O 被#O 人工#O 养殖#O 。#O
+Y
+132 有时候#O ，#O 生产商#O 会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+133 有时候#O ，#O 铅笔#O 的#O 一端#O 会#O 被#O 生产商#O 装#O 上#O 橡皮擦#O 。#O
+Y
+135 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 登录#O 为#O 世界遗产#O 。#O
+136 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 被选为#O 世界遗产#O 。#O
+Y
+138 吉力#O 马#O 札#O 罗山#O 常#O 被#O 称为#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+139 吉力#O 马#O 札#O 罗山#O 又#O 称为#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+Y
+141 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+142 水蕴草#PERSON 被#O 归类#O 为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+Y
+144 水蕴草#PERSON （#O Egeria#ORGANIZATION densa#ORGANIZATION ）#O 别名#O 蜈蚣草#O 。#O
+145 水蕴草#PERSON （#O Egeria#PERSON densa#PERSON ）#O 又#O 被#O 称为#O 蜈蚣草#O 。#O
+Y
+147 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+148 手语#O 主要#O 被#O 失聪者#O 使用#O 。#O
+Y
+150 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+151 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 欧洲人#DEMONYM 确认#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 。#O
+Y
+153 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+154 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+Y
+156 现代#O 铅笔#O 以#O 石墨#O 和#O 粘土#O 来#O 制造#O 。#O
+157 石墨#O 和#O 粘土#O 可#O 被#O 制造#O 成#O 铅笔#O 。#O
+Y
+159 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+160 手势#O 可#O 被#O 用来#O 表达#O 意思#O 。#O
+Y
+162 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+163 雌雄异株#O 的#O 水#O 蕴草#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+Y
+165 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+166 将#O 钻石#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+Y
+168 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+169 东协#LOCATION 自由贸易区#LOCATION 参与#O 的#O 国家#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+Y
+171 吉力#O 马#O 札#O 罗山#O 常#O 被#O 称为#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+172 「#O 非洲#LOCATION 屋脊#O 」#O 吉力#O 马#O 札#O 罗山#O 常#O 被#O 称为#O 「#O 非洲#LOCATION 之王#O 」#O 。#O
+Y
+174 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+175 手语#O 不#O 使用#O 语音#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 来#O 表达#O 意思#O 。#O
+Y
+177 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+178 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+Y
+180 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+181 干物#O 女#O 指#O 的#O 是#O 一群#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+Y
+183 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+184 干物#O 女#O 来自#O 于#O 日本#GPE 。#O
+Y
+186 拉力赛#O 参赛者#O 在#O 一个#O 或者#O 几个#O 起点#O 上#O ，#O 按照#O 规定#O 间隔#O 出发#O 。#O
+187 拉力赛#O 参赛者#O 按照#O 规定#O 间隔#O 出发#O 。#O
+Y
+189 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+190 拉力赛#O 参赛者#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+Y
+192 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+193 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O 进行#O 的#O 汽车#O 比赛#O 。#O
+Y
+195 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 登录#O 为#O 世界遗产#O 。#O
+196 吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY 为#O 世界遗产#O 之一#MISC 。#O
+Y
+198 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 登录#O 为#O 世界遗产#O 。#O
+199 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为#O 世界遗产#O 。#O
+Y
+201 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+202 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+Y
+204 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+205 手语#O 是#O 一种#O 不#O 使用#O 语音#O 的#O 语言#O 。#O
+Y
+207 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+208 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 的#O 女性#O 。#O
+N
+210 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+211 东协于#O 1992#MISC 年#MISC 提出#O 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 。#O
+N
+213 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+214 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+N
+216 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+217 干物#O 女#O 指#O 的#O 是#O 那些#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+Y
+219 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+220 手语#O 主要#O 使用者#O 是#O 有#O 听觉#O 障碍#O 的#O 失聪者#O 。#O
+Y
+222 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+223 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 物理学家#O 。#O
+Y
+225 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+226 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 路段#O 上#O 驾驶#O 。#O
+Y
+228 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+229 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+Y
+231 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+232 水蕴草#O 可#O 生长#O 在#O 水中#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+Y
+234 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+235 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 男性#O 吸引力#O 。#O
+Y
+237 铅笔#O 与#O 其他#O 笔#O 的#O 不同之处#O 在于#O 它#O 的#O 笔迹#O 很#O 容易#O 被#O 擦掉#O 。#O
+238 铅笔#O 与#O 其他#O 笔#O 的#O 不同之处#O 在于#O 铅笔#O 的#O 笔迹#O 很#O 容易#O 被#O 擦掉#O 。#O
+Y
+240 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+241 美国#GPE 的#O 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+Y
+243 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+244 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O Fourier#PERSON series#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+Y
+246 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+247 拉力赛#O 参赛者#O 和#O 车手#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+Y
+249 水蕴草#O 其#O 根部#O 会#O 紧紧#O 插#O 在#O 泥土#O 里#O ，#O 其茎#O 并#O 不会#O 露出#O 水面#O 。#O
+250 水蕴草#O 其#O 根部#O 会#O 紧紧#O 插#O 在#O 泥土#O 里#O ，#O 水蕴草#O 其#O 茎#O 并#O 不会#O 露出#O 水面#O 。#O
+Y
+252 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+253 吉力#O 马#O 札#O 罗山#O 在#O 东非大裂谷#LOCATION 以东#O 160#MISC 千米#MISC 处#O 。#O
+Y
+255 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+256 水蕴草#O 的#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+Y
+258 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+259 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 吉力#O 马#O 札#O 罗山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+Y
+261 水蕴草#PERSON 是#O 一种#O 水生植物#O ，#O 主要#O 分布#O 在#O 湖边#O 。#O
+262 水生植物#O 主要#O 分布#O 在#O 湖边#O 。#O
+N
+264 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+265 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 基博#O 峰#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+N
+267 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+268 约瑟夫#PERSON ·#O 傅立叶#PERSON 发现#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+Y
+270 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+271 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 成员#O 。#O
+Y
+273 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+274 东协#LOCATION 自由贸易区#LOCATION 包括#O 原东协#O 成员国#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+Y
+276 拉力赛#O 参赛者#O 在#O 一个#O 或者#O 几个#O 起点#O 上#O ，#O 按照#O 规定#O 间隔#O 出发#O 。#O
+277 拉力赛#O 参赛#O 车辆#O 在#O 一个#O 或者#O 几个#O 起点#O 上#O ，#O 按照#O 规定#O 间隔#O 出发#O 。#O
+Y
+279 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+280 拉力赛#O 车手#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+Y
+282 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 登录#O 为#O 世界遗产#O 。#O
+283 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 划分#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 登录#O 为#O 世界遗产#O 。#O
+Y
+285 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+286 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 与#O 肯亚#GPE 边界#O 遥遥相对#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+Y
+288 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+289 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 长#O 在#O 同一#O 植株#O 中#O 。#O
+Y
+291 水蕴草#O 其#O 根部#O 会#O 紧紧#O 插#O 在#O 泥土#O 里#O ，#O 其茎#O 并#O 不会#O 露出#O 水面#O 。#O
+292 水蕴草#O 其#O 根部#O 会#O 紧紧#O 插#O 在#O 泥土#O 里#O ，#O 其茎#O 并#O 不会#O 超过#O 水面#O 。#O
+Y
+294 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+295 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 整株#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+Y
+297 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+298 手语#O 是#O 一种#O 不#O 依赖#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+Y
+300 铅笔#O 与#O 其他#O 笔#O 的#O 不同之处#O 在于#O 它#O 的#O 笔迹#O 很#O 容易#O 被#O 擦掉#O 。#O
+301 铅笔#O 与#O 其他#O 笔#O 的#O 不同之处#O 在于#O 它#O 的#O 笔迹#O 很#O 容易#O 消除#O 。#O
+Y
+303 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+304 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 成立#O 。#O
+N
+306 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+307 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 与#O 人#O 相处#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+Y
+309 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+310 干物#O 女为#O 日本#GPE 输出#O 的#O 流行语#O 。#O
+Y
+312 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+313 干物#O 女#O 是#O 日本#DEMONYM 人#O 发明#O 的#O 流行语#O 。#O
+Y
+315 吉力#O 马#O 札#O 罗山#O 常#O 被#O 称为#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+316 吉力#O 马#O 札#O 罗山#O 有着#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#LOCATION 之王#O 」#O 的#O 别名#O 。#O
+Y
+318 水蕴草#O 适合#O 生长#O 在#O 营养#O 及#O 光线#O 充足#O 的#O 环境#O 中#O 。#O
+319 水蕴草#O 的#O 生长#O 需要#O 在#O 营养#O 及#O 光线#O 充足#O 的#O 环境#O 中#O 。#O
+Y
+321 水蕴草#PERSON 在#O 较#O 冷#O 的#O 水族箱#O 中#O 生长#O 良好#O ，#O 也#O 很#O 容易#O 利用#O 扦插#O 方式#O 来#O 繁殖#O 。#O
+322 水蕴草#PERSON 在#O 较#O 低温#O 的#O 水族箱#O 中#O 生长#O 较佳#O ，#O 也#O 很#O 容易#O 利用#O 扦插#O 方式#O 来#O 繁殖#O 。#O
+Y
+324 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+325 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 相互#O 沟通#O 的#O 语言#O 。#O
+Y
+327 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+328 位于#O 赤道#O 附近#O 的#O 吉力#O 马#O 札#O 罗山#O ，#O 在#O 东非大裂谷#LOCATION 以东#O 160#MISC 千米#MISC 处#O 。#O
+Y
+330 有时候#O ，#O 铅笔#O 的#O 一端#O 会装#O 上#O 橡皮擦#O 。#O
+331 有#O 部分#O 的#O 铅笔#O 会装#O 上#O 橡皮擦#O 。#O
+Y
+333 石墨#O 添加#O 得#O 越#O 多#O ，#O 铅笔#O 笔芯#O 越软#O ，#O 颜色#O 越#O 黑#O 。#O
+334 石墨#O 添加#O 得#O 越#O 多#O ，#O 铅笔#O 笔迹#O 颜色#O 越#O 黑#O 。#O
+Y
+336 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+337 手语#O 主要#O 使用者#O 是#O 有#O 听觉#O 障碍#O 的#O 人#O 。#O
+Y
+339 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+340 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 确认#O 了#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 。#O
+Y
+342 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+343 干物#O 女#O 是#O 来自#O 于#O 亚洲#LOCATION 的#O 流行语#O 。#O
+Y
+345 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+346 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#MISC 地区#O 。#O
+Y
+348 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+349 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 区域#O 上#O 驾驶#O 。#O
+Y
+351 用#O 铅笔#O 刻划#O 用#O 玻璃#O 、#O 水晶#O 、#O 电力#O 石等#O 制作#O 的#O 假#O 钻石#O 会#O 留下#O 痕迹#O 。#O
+352 用#O 铅笔#O 刻划#O 用#O 玻璃#O 、#O 石英#PERSON 、#O 电力#O 石等#O 制作#O 的#O 假#O 钻石#O 会#O 留下#O 痕迹#O 。#O
+Y
+354 水蕴草#PERSON 在#O 较#O 冷#O 的#O 水族箱#O 中#O 生长#O 良好#O ，#O 也#O 很#O 容易#O 利用#O 扦插#O 方式#O 来#O 繁殖#O 。#O
+355 水蕴草#PERSON 在#O 较#O 冷#O 的#O 环境#O 中#O 生长#O 良好#O ，#O 也#O 很#O 容易#O 利用#O 扦插#O 方式#O 来#O 繁殖#O 。#O
+Y
+357 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+358 水蕴草#O 可#O 生长#O 在#O 深度#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 长度#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+Y
+360 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+361 手语#O 是#O 一种#O 不#O 使用#O 声音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+Y
+363 手语#O 并#O 不是#O 世界#O 共通#O 的#O 。#O
+364 语言#O 并#O 不是#O 世界#O 共通#O 的#O 。#O
+Y
+366 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+367 词汇#O 是#O 不同#O 地区#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+Y
+369 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+370 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 从业人员#O 。#O
+Y
+372 现代#O 铅笔#O 以#O 石墨#O 和#O 粘土#O 来#O 制造#O 。#O
+373 现代#O 铅笔#O 以碳#O 和#O 粘土#O 来#O 制造#O 。#O
+Y
+375 干#O 炒#O 牛河#LOCATION 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+376 干#O 炒#O 牛河#LOCATION 是#O 中国#GPE 菜色#O 的#O 一种#O 。#O
+Y
+378 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O （#O Joseph#MISC Fourier#MISC ，#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC －#MISC 1830#MISC 年#MISC 5#MISC 月#MISC 16#MISC 日#MISC ）#O 。#O
+379 约瑟夫#PERSON ·#O 傅立叶#PERSON 爵士#O （#O Joseph#MISC Fourier#MISC ，#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC －#MISC 1830#MISC 年#MISC 5#MISC 月#MISC 16#MISC 日#MISC ）#O 。#O
+Y
+381 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+382 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 欧洲#LOCATION 数学家#O 、#O 物理学家#O 。#O
+Y
+384 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+385 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 车辆#O 进行#O 的#O 比赛#O 。#O
+Y
+387 有时候#O ，#O 生产商#O 会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+388 有时候#O ，#O 商人#O 会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+Y
+390 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+391 水蕴#O 草为#O 雌雄异株#O 的#O 生物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+Y
+393 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+394 手语#O 主要#O 使用者#O 包括#O 失聪者#O 。#O
+Y
+396 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+397 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 取得#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+Y
+399 铅笔#O 与#O 其他#O 笔#O 的#O 不同之处#O 在于#O 它#O 的#O 笔迹#O 很#O 容易#O 被#O 擦掉#O 。#O
+400 钢笔#O 与#O 其他#O 笔#O 的#O 不同之处#O 在于#O 它#O 的#O 笔迹#O 很#O 容易#O 被#O 擦掉#O 。#O
+N
+402 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+403 对#O 不少#O 人#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+N
+405 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+406 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 矿物#O 的#O 真伪#O 。#O
+N
+408 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+409 词汇#O 是#O 不同#O 国家#O 的#O 语言#O 差异#O 最大#O 的#O 地方#O 。#O
+N
+411 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+412 笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+N
+414 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+415 笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+N
+417 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+418 将#O 钻石#O 用水#O 润湿#O ，#O 用笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 笔划#O 过#O 的#O 痕迹#O 。#O
+N
+420 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+421 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 人#O 。#O
+N
+423 有时候#O ，#O 生产商#O 会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+424 有时候#O ，#O 厂商会#O 在#O 笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+N
+426 水蕴草#PERSON 是#O 一种#O 水生植物#O ，#O 主要#O 分布#O 在#O 湖边#O 。#O
+427 水蕴草#PERSON 是#O 一种#O 水生植物#O ，#O 主要#O 分布#O 在#O 水边#O 。#O
+N
+429 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+430 水生植物#O 为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+N
+432 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+433 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 水晶#O 的#O 真伪#O 。#O
+N
+435 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+436 将#O 钻石#O 用#O 酒精#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+N
+438 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+439 钻石#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 铅笔#O 的#O 真伪#O 。#O
+N
+441 干#O 炒#O 牛河#LOCATION 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+442 广东#GPE 菜色#O 是#O 干#O 炒#O 牛河#LOCATION 的#O 一种#O 。#O
+N
+444 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+445 语言#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 手语#O 。#O
+N
+447 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+448 语言#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+N
+450 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+451 对#O 不少#O 不修边幅#O 男性#O 而言#O ，#O 干物#O 女#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+N
+453 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+454 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 切工#O 。#O
+N
+456 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+457 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古希腊#O 。#O
+N
+459 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+460 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 电影#O 美国#GPE 的#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+N
+462 约瑟夫#PERSON ·#O 傅立叶#PERSON 被#O 广泛#O 公认#O 为#O 温室效应#O 的#O 发现者#O 。#O
+463 傅立叶#PERSON ·#O 约瑟夫#PERSON 被#O 广泛#O 公认#O 为#O 温室效应#O 的#O 发现者#O 。#O
+N
+465 现代#O 铅笔#O 以#O 石墨#O 和#O 粘土#O 来#O 制造#O 。#O
+466 现代#O 粘土#O 以#O 石墨#O 和#O 铅笔#O 来#O 制造#O 。#O
+N
+468 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+469 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 铅笔#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+N
+471 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+472 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 女性#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 事情#O 。#O
+N
+474 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+475 干物#O 女#O 是#O 来自#O 于#O 流行#O 的#O 日本语#GPE 。#O
+N
+477 干#O 炒#O 牛河#LOCATION 以芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 炒成#O 。#O
+478 干#O 炒#O 牛河#LOCATION 以芽菜#O 、#O 河粉#O 、#O 猪肉#O 等#O 炒成#O 。#O
+N
+480 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+481 马札#FACILITY 罗山#FACILITY 位于#FACILITY 坦尚#FACILITY 尼亚#FACILITY 东北#FACILITY ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+N
+483 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+484 书写#O 可以#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+N
+486 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+487 约瑟夫#PERSON 与#O 傅立叶#PERSON 是#O 法国#DEMONYM 数学家#O 与#O 物理学家#O 。#O
+N
+489 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+490 约瑟夫#PERSON ·#O 傅立叶#PERSON 质疑#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+N
+492 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+493 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+N
+495 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+496 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 热传导#O 理论#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 傅立叶#O 级数#O 与#O 振动#O 理论#O 。#O
+N
+498 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+499 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 立叶#O 级数#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+N
+501 约瑟夫#PERSON ·#O 傅立叶#PERSON 被#O 广泛#O 公认#O 为#O 温室效应#O 的#O 发现者#O 。#O
+502 约瑟夫#PERSON ·#O 傅立叶#PERSON 被#O 广泛#O 公认#O 为#O 蝴蝶效应#O 的#O 发现者#O 。#O
+N
+504 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+505 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 法国#DEMONYM 数学家#O 、#O 生物学家#O 。#O
+N
+507 干#O 炒#O 牛河#LOCATION 以芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 炒成#O 。#O
+508 芽#O 菜牛#O 河以#O 河粉#O 、#O 牛肉#O 等#O 干#O 炒#O 而#O 成#O 。#O
+N
+510 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+511 法柜奇兵#PERSON 最着#O 名#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 乔治#PERSON ·#O 卢卡斯#PERSON 》#O 系列#O 。#O
+N
+513 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+514 东非大裂谷#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 吉力#O 马#O 札#O 罗山#O 以东#O 160#MISC 千米#MISC 处#O 。#O
+N
+516 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+517 东协#O 自由贸易区#O 包括#O 新东协#ORGANIZATION 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个原#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+N
+519 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+520 东协#O 自由贸易区#O (#O AOSAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+N
+522 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+523 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 自行车#O 进行#O 的#O 比赛#O 。#O
+N
+525 拉力赛#O 不是#O 在#O 环形#O 赛道#O 上#O ，#O 而是#O 在#O 点到点#O 之间#O 的#O 赛道#O 上#O 比赛#O 。#O
+526 拉力赛#O 不是#O 在#O 点到点#O 之间#O 的#O 赛道#O 上#O ，#O 而是#O 在#O 环形#O 赛道#O 上#O 比赛#O 。#O
+N
+528 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+529 赤道#O 在#O 东非大裂谷#LOCATION 以东#O 160#MISC 千米#MISC 处#O 。#O
+N
+531 吉力#O 马#O 札#O 罗山#O 常#O 被#O 称为#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+532 吉力#O 马札罗常#O 被#O 称为#O 「#O 非洲#LOCATION 之王#O 」#O 。#O
+N
+534 吉力#O 马#O 札#O 罗山#O 常#O 被#O 称为#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+535 吉力#O 马#O 札#O 罗山#O 常#O 被#O 称为#O 「#O 世界屋脊#O 」#O 、#O 「#O 世界#O 之王#O 」#O 。#O
+N
+537 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 登录#O 为#O 世界遗产#O 。#O
+538 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 登录#O 为#O 国家#O 遗产#O 。#O
+N
+540 水蕴草#O 适合#O 生长#O 在#O 营养#O 及#O 光线#O 充足#O 的#O 环境#O 中#O 。#O
+541 光线#O 适合#O 生长#O 在#O 营养#O 及水#O 蕴草#O 充足#O 的#O 环境#O 中#O 。#O
+N
+543 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+544 水蕴#O 草原#O 产地#O 是#O 在#O 气温#O 较#O 高#O 的#O 南美洲#LOCATION ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+N
+546 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+547 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 的#O 东南部#O 。#O
+N
+549 水蕴草#PERSON （#O Egeria#ORGANIZATION densa#ORGANIZATION ）#O 别名#O 蜈蚣草#O 。#O
+550 水蕴草#O 是#O 蜈蚣草#O 的#O 一种#O 。#O
+N
+552 水蕴草#O 其#O 根部#O 会#O 紧紧#O 插#O 在#O 泥土#O 里#O ，#O 其茎#O 并#O 不会#O 露出#O 水面#O 。#O
+553 水蕴草#O 其#O 茎#O 会#O 紧紧#O 插#O 在#O 泥土#O 里#O ，#O 其#O 根部#O 并#O 不会#O 露出#O 水面#O 。#O
+N
+555 水蕴草#PERSON 在#O 较#O 冷#O 的#O 水族箱#O 中#O 生长#O 良好#O ，#O 也#O 很#O 容易#O 利用#O 扦插#O 方式#O 来#O 繁殖#O 。#O
+556 水蕴草#PERSON 在#O 较#O 冷#O 的#O 沙地#O 中#O 生长#O 良好#O ，#O 也#O 很#O 容易#O 利用#O 扦插#O 方式#O 来#O 繁殖#O 。#O
+N
+558 水蕴草#PERSON 是#O 一种#O 水生植物#O ，#O 主要#O 分布#O 在#O 湖边#O 。#O
+559 水生植物#O 是#O 一种#O 水蕴草#O ，#O 主要#O 分布#O 在#O 湖边#O 。#O
+N
+561 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+562 手语#O 是#O 不同#O 国家#O 的#O 词汇#O 差异#O 最大#O 的#O 地方#O 。#O
+N
+564 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+565 手语#O 是#O 一种#O 不#O 使用#O 脸部#O 表情#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 语音#O 表达#O 意思#O 的#O 语言#O 。#O
+N
+567 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+568 手语#O 是#O 一种#O 不#O 使用#O 语音#O 的#O 表情#O 。#O
+N
+570 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+571 手语#O 使用者#O 是#O 失聪者#O 。#O
+N
+573 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+574 手语#O 主要#O 使用者#O 是#O 失明#O 者#O 。#O
+N
+576 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+577 不少#O 男性#O 缺乏#O 吸引力#O 。#O
+N
+579 拉力赛#O 参赛者#O 在#O 一个#O 或者#O 几个#O 起点#O 上#O ，#O 按照#O 规定#O 间隔#O 出发#O 。#O
+580 一个#O 或者#O 几个#O 拉力赛#O 参赛者#O 在#O 起点#O 上#O ，#O 按照#O 规定#O 间隔#O 出发#O 。#O
+N
+582 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+583 1889#MISC 年#MISC ，#O 德国#GPE 地理学家#O 汉#PERSON ·#O 斯#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德#PERSON 维#O ·#O 希普#PERSON ·#O 特#O 舍勒#O 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+N
+585 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+586 铅笔#O 仅能#O 书写#O ，#O 没有#O 其他#O 功能#O 。#O
+N
+588 石墨#O 添加#O 得#O 越#O 多#O ，#O 铅笔#O 笔芯#O 越软#O ，#O 颜色#O 越#O 黑#O ；#O 而#O 粘土#O 添加#O 得#O 越#O 多#O ，#O 笔芯#O 则#O 越#O 硬#O ，#O 颜色#O 越浅#O 。#O
+589 铅笔#O 笔芯#O 的#O 硬度#O 与#O 石墨#O 以及#O 粘土#O 的#O 比例#O 无关#O 。#O
+N
+591 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+592 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 新娘#O 。#O
+N
+594 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+595 干物#O 女#O 她#O 来自#O 于#O 日本#GPE 。#O
+N
+597 干#O 炒#O 牛河#LOCATION 以芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 炒成#O 。#O
+598 干#O 炒#O 牛河#LOCATION 可以#O 用面#O 取代#O 河粉#O 。#O
+N
+600 约瑟夫#PERSON ·#O 傅立叶#PERSON 被#O 广泛#O 公认#O 为#O 温室效应#O 的#O 发现者#O 。#O
+601 约瑟夫#PERSON ·#O 傅立叶#PERSON 被#O 广泛#O 公认#O 为#O 温室效应#O 的#O 发明者#O 。#O
+N
+603 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+604 非洲#LOCATION 的#O 最高#O 山#O 在#O 肯亚#O 。#O
+N
+606 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+607 只有#O 日本#GPE 有#O 干物#O 女#O 这个#O 流行语#O 。#O
+N
+609 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+610 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 却#O 也#O 缺乏#O 吸引力#O 。#O
+N
+612 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+613 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 或#O 编剧#O 。#O
+N
+615 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+616 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 都#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+N
+618 干#O 炒#O 牛河#LOCATION 以芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 炒成#O 。#O
+619 干#O 炒#O 牛河#LOCATION 多#O 以芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 炒成#O 。#O
+N
+621 约瑟夫#PERSON ·#O 傅立叶#PERSON 被#O 广泛#O 公认#O 为#O 温室效应#O 的#O 发现者#O 。#O
+622 约瑟夫#PERSON ·#O 傅立叶#PERSON 被#O 部分#O 学界#O 认为#O 温室效应#O 的#O 发现者#O 。#O
+N
+624 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+625 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 法国#DEMONYM 数学家#O 、#O 物理学家#O 只是#O 误传#O 。#O
+N
+627 吉力#O 马#O 札#O 罗山#O 常#O 被#O 称为#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+628 吉力#O 马#O 札#O 罗山#O 偶而#O 被#O 称为#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+N
+630 有时候#O ，#O 生产商#O 会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+631 生产商#O 很少#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+N
+633 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+634 只有#O 失聪者#O 使用#O 手语#O 。#O
+N
+636 水蕴草#PERSON 是#O 一种#O 水生植物#O ，#O 主要#O 分布#O 在#O 湖边#O 。#O
+637 水蕴草#O 是#O 一种#O 水生植物#O ，#O 少数#O 分布#O 在#O 湖边#O 。#O
+N
+639 水蕴草#O 其#O 根部#O 会#O 紧紧#O 插#O 在#O 泥土#O 里#O ，#O 其茎#O 并#O 不会#O 露出#O 水面#O 。#O
+640 水蕴草#O 其#O 根部#O 会#O 浅浅#O 插#O 在#O 泥土#O 里#O ，#O 其茎#O 并#O 不会#O 露出#O 水面#O 。#O
+N
+642 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+643 手语#O 是#O 一种#O 适度#O 搭配#O 语音#O ，#O 并#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+N
+645 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+646 手语#O 主要#O 使用者#O 都#O 是#O 失聪者#O 。#O
+N
+648 手语#O 并#O 不是#O 世界#O 共通#O 的#O 。#O
+649 一般#O 认为#O 手语#O 是#O 世界#O 共通#O 的#O 。#O
+N
+651 对#O 一般#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+652 对#O 少数#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+N
+654 约瑟夫#PERSON ·#O 傅立叶#PERSON 被#O 广泛#O 公认#O 为#O 温室效应#O 的#O 发现者#O 。#O
+655 约瑟夫#PERSON ·#O 傅立叶#PERSON 自#O 认为#O 温室效应#O 的#O 发现者#O 。#O
+N
+657 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+658 历史#O 上吉力#FACILITY 马#FACILITY 札#FACILITY 罗山#FACILITY 火山#FACILITY 的#O 喷发#O 没有#O 被#O 记录#O 。#O
+N
+660 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+661 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 第二#MISC 大#O 的#O 地方#O 。#O
+N
+663 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+664 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 副#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+N
+666 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+667 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 有性生殖#O 。#O
+N
+669 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+670 东协#O 免费#O 贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+N
+672 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+673 拉力赛#O 参赛者#O 和#O 他#O 的#O 正#O 驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+N
+675 拉力赛#O 参赛者#O 在#O 一个#O 或者#O 几个#O 起点#O 上#O ，#O 按照#O 规定#O 间隔#O 出发#O 。#O
+676 拉力赛#O 参赛者#O 在#O 一个#O 或者#O 几个#O 起点#O 上#O ，#O 按照#O 规定#O 同时#O 出发#O 。#O
+N
+678 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+679 拉力赛#O 是#O 采用#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+N
+681 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 登录#O 为#O 世界遗产#O 。#O
+682 吉力#O 马#O 札#O 罗山#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 登录#O 为#O 世界遗产#O 。#O
+N
+684 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+685 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#GPE 的#O 次#O 高山#O 。#O
+N
+687 吉力#O 马#O 札#O 罗山#O 常#O 被#O 称为#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+688 吉力#O 马#O 札#O 罗山#O 自称#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+N
+690 水蕴草#PERSON 是#O 一种#O 水生植物#O ，#O 主要#O 分布#O 在#O 湖边#O 。#O
+691 水蕴草#O 是#O 一种#O 陆生#O 植物#O ，#O 主要#O 分布#O 在#O 湖边#O 。#O
+N
+693 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+694 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 十二个#MISC 国家#O 。#O
+N
+696 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+697 东协#O 自由贸易区#O 中#O ，#O 参与#O 的#O 东协#O 国家#O 共#O 6#MISC 个#O 。#O
+N
+699 有时候#O ，#O 生产商#O 会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+700 有时候#O ，#O 生产商#O 会#O 在#O 铅笔#O 的#O 两端#O 装#O 上#O 橡皮擦#O 。#O
+N
+702 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+703 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#LOCATION 以东#O 16#MISC 公里#O 处#O 。#O
+N
+705 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+706 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 2#MISC 公分#O 。#O
+N
+708 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+709 水蕴草#O 可#O 生长#O 在#O 水深#O 2#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 4#MISC 公尺#O 。#O
+N
+711 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+712 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 德国#GPE 数学家#O 、#O 物理学家#O 。#O
+N
+714 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+715 1889#MISC 年#MISC ，#O 奥地利#GPE 地理学家#O 汉斯#PERSON ·#O 迈尔#PERSON 和#O 德国#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+N
+717 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+718 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 英国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+N
+720 干#O 炒#O 牛河#LOCATION 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+721 干#O 炒#O 牛河#LOCATION 是#O 广西#GPE 菜色#O 的#O 一种#O 。#O
+N
+723 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#PERSON 出生#O 。#O
+724 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 欧塞尔#O 约#O 讷#O 省#O 出生#O 。#O
+N
+726 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O （#O Joseph#MISC Fourier#MISC ，#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC －#MISC 1830#MISC 年#MISC 5#MISC 月#MISC 16#MISC 日#MISC ）#O 。#O
+727 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O （#O Joseph#MISC Fourier#MISC ，#O 1768#MISC 年#MISC 5#MISC 月#MISC 21#MISC 日#MISC －#MISC 1830#MISC 年#MISC 3#MISC 月#MISC 16#MISC 日#MISC ）#O 。#O
+N
+729 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+730 吉力#O 马#O 札#O 罗山#O 位于#O 肯亚#LOCATION 东北#LOCATION ，#O 临近#O 坦尚#O 尼亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+N
+732 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+733 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 安哥拉#GPE 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+N
+735 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+736 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 往东#O 160#MISC 千米#O 为#O 东非大裂谷#O 。#O
+N
+738 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+739 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 300#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+N
+741 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+742 水蕴#O 草原#O 产地#O 是#O 在#O 美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+N
+744 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+745 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 巴拉圭#GPE 等#O 地#O 。#O
+N
+747 水蕴草#PERSON 是#O 一种#O 水生植物#O ，#O 主要#O 分布#O 在#O 湖边#O 。#O
+748 水蕴草#PERSON 是#O 一种#O 水生植物#O ，#O 主要#O 分布#O 在#O 溪边#O 。#O
+N
+750 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+751 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 博#O 基峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+N
+753 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+754 铅笔#O 的#O 原型#O 可以#O 追溯#O 至东#O 罗马#GPE 时代#O 。#O
+N
+756 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+757 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 17#MISC 世纪#MISC 法国#GPE 数学家#O 、#O 物理学家#O 。#O
+N
+759 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#PERSON 出生#O 。#O
+760 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 3#MISC 年#MISC 1768#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#PERSON 出生#O 。#O
+N
+762 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O （#O Joseph#MISC Fourier#MISC ，#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC －#MISC 1830#MISC 年#MISC 5#MISC 月#MISC 16#MISC 日#MISC ）#O 。#O
+763 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O （#O Joseph#MISC Fourier#MISC ，#O 1830#MISC 年#MISC 5#MISC 月#MISC 16#MISC 日#MISC －#MISC 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC ）#O 。#O
+N
+765 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+766 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 早#O 在#O 1982#MISC 年#MISC 就#O 已#O 提出#O 。#O
+N
+768 现代#O 铅笔#O 以#O 石墨#O 和#O 粘土#O 来#O 制造#O 。#O
+769 古代#O 铅笔#O 以#O 石墨#O 和#O 粘土#O 来#O 制造#O 。#O
+N
+771 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+772 1898#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+N
+774 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+775 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 假#O 的#O ，#O 其#O 表面#O 会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+Y
+777 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+778 美国#GPE 的#O 乔治#PERSON ·#O 卢卡斯#PERSON 曾#O 执导#O 、#O 制作#O 过#O 电影#O ，#O 也#O 曾#O 负责#O 编剧#O 的#O 工作#O 。#O
+Y
+780 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+781 利用#O 雄性#O 植株#O 的#O 无性生殖#O 是#O 现今#O 水蕴草#O 的#O 人工#O 栽培#O 方式#O 之一#MISC 。#O
+Y
+783 有时候#O ，#O 生产商#O 会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+784 有时候#O ，#O 生产商#O 会#O 在#O 铅笔#O 的#O 两端#O 其中#O 之一#O 装#O 上#O 橡皮擦#O 。#O
+Y
+786 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+787 古罗马#O 时代#O 就#O 有#O 铅笔#O 原型#O 的#O 记载#O 。#O
+Y
+789 铅笔#O 与#O 其他#O 笔#O 的#O 不同之处#O 在于#O 它#O 的#O 笔迹#O 很#O 容易#O 被#O 擦掉#O 。#O
+790 不像#O 铅笔#O ，#O 其他#O 笔#O 的#O 笔迹#O 不#O 容易#O 消除#O 。#O
+Y
+792 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+793 植物#O 的#O 花#O 有#O 雌雄#O 之分#O 。#O
+Y
+795 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O （#O Joseph#MISC Fourier#MISC ，#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC －#MISC 1830#MISC 年#MISC 5#MISC 月#MISC 16#MISC 日#MISC ）#O 。#O
+796 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O 是#O 白羊座#O 。#O
+Y
+798 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+799 吉力#O 马#O 札#O 罗山#O 距离#O 东非大裂谷#MISC 160#MISC 公里#O 。#O
+Y
+801 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+802 钻石#O 有假#O 的#O 。#O
+Y
+804 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+805 语言#O 可以#O 是#O 语音#O 、#O 手势#O 、#O 身体#O 动作#O 、#O 及#O 脸部#O 表情#O 。#O
+Y
+807 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+808 汉斯#GPE ·#O 迈尔#PERSON 和#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 带#O 着#O 相机#O 登上#O 了#O 基博#O 峰#O 。#O
+Y
+810 石墨#O 添加#O 得#O 越#O 多#O ，#O 铅笔#O 笔芯#O 越软#O ，#O 颜色#O 越#O 黑#O ；#O 而#O 粘土#O 添加#O 得#O 越#O 多#O ，#O 笔芯#O 则#O 越#O 硬#O ，#O 颜色#O 越浅#O 。#O
+811 铅笔#O 笔芯#O 的#O 硬度#O 与#O 石墨#O 以及#O 粘土#O 的#O 比例#O 有关#O 。#O
+Y
+813 有时候#O ，#O 生产商#O 会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+814 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 并#O 不少#O 见#O 。#O
+Y
+816 现代#O 铅笔#O 以#O 石墨#O 和#O 粘土#O 来#O 制造#O 。#O
+817 铅笔#O 中#O 含有#O 碳#O 的#O 成分#O 。#O
+Y
+819 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+820 植物#O 的#O 雌花#O 和#O 雄花#O 不#O 一定#O 会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+Y
+822 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+823 基博#O 峰#O 位于#O 赤道#O 附近#O 。#O
+Y
+825 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+826 干物#O 女#O 原本#O 是#O 日本#GPE 话#O 。#O
+Y
+828 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+829 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 无法#O 吸引#O 男性#O 。#O
+Y
+831 干#O 炒#O 牛河#LOCATION 以芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 炒成#O 。#O
+832 干#O 炒#O 牛河#LOCATION 中#O 的#O 河指#O 的#O 是#O 河粉#O 。#O
+Y
+834 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O （#O Joseph#MISC Fourier#MISC ，#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC －#MISC 1830#MISC 年#MISC 5#MISC 月#MISC 16#MISC 日#MISC ）#O 。#O
+835 约瑟夫#PERSON ·#O 傅立叶#PERSON 曾#O 被#O 授与#O 爵位#O 。#O
+Y
+837 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#PERSON 出生#O 。#O
+838 法国#GPE 是#O 约瑟夫#PERSON ·#O 傅立叶#PERSON 的#O 祖国#O 。#O
+Y
+840 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+841 东协#LOCATION 自由贸易区#LOCATION 仅#O 东协#O 成员国#O 得以#O 加入#O 。#O
+Y
+843 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+844 拉力赛#O 属于#O 汽车#O 的#O 比赛#O 。#O
+Y
+846 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+847 拉力赛#O 至少#O 需要#O 两个#O 人#O 参赛#O 。#O
+Y
+849 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+850 拉力赛#O 以#O 公共#O 或者#O 私人#O 道路#O 做#O 为#O 赛道#O 。#O
+Y
+852 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+853 坦尚#PERSON 尼亚#PERSON 与#O 肯亚#GPE 两#O 国#O 相邻#O 。#O
+Y
+855 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+856 没有#O 男性#O 的#O 干物#O 女#O 。#O
+Y
+858 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+859 有人#O 可以#O 身兼#O 数学家#O 与#O 物理学家#O 。#O
+Y
+861 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+862 在#O 非洲#LOCATION ，#O 没有#O 山#O 比吉#O 力马#O 札#O 罗山#O 更#O 高#O 了#O 。#O
+Y
+864 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 登录#O 为#O 世界遗产#O 。#O
+865 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 未#O 被#O 划分#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY 。#O
+Y
+867 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+868 吉力#O 马#O 札#O 罗山#O 位于#O 南半球#LOCATION 。#O
+Y
+870 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+871 吉力#O 马#O 札#O 罗山#O 地处#O 热带#O 。#O
+Y
+873 手语#O 并#O 不是#O 世界#O 共通#O 的#O 。#O
+874 全世界#O 的#O 手语#O 不#O 只#O 一种#O 。#O
+Y
+876 用#O 铅笔#O 刻划#O 用#O 玻璃#O 、#O 水晶#O 、#O 电力#O 石等#O 制作#O 的#O 假#O 钻石#O 会#O 留下#O 痕迹#O 。#O
+877 用#O 铅笔#O 划#O 玻璃#O 会#O 留下#O 痕迹#O 。#O
+Y
+879 水蕴草#PERSON 在#O 较#O 冷#O 的#O 水族箱#O 中#O 生长#O 良好#O ，#O 也#O 很#O 容易#O 利用#O 扦插#O 方式#O 来#O 繁殖#O 。#O
+880 用#O 扦插#O 方式#O 来#O 繁殖#O 水蕴草#O 并#O 不#O 困难#O 。#O
+Y
+882 干#O 炒#O 牛河#LOCATION 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+883 去#O 广东#GPE 餐馆#O 可能#O 可以#O 吃#O 到#O 干#O 炒#O 牛河#LOCATION 。#O
+Y
+885 手语#O 并#O 不是#O 世界#O 共通#O 的#O 。#O
+886 世界#O 上#O 有人#O 使用#O 不同#O 的#O 手语#O 。#O
+Y
+888 水蕴草#O 其#O 根部#O 会#O 紧紧#O 插#O 在#O 泥土#O 里#O ，#O 其茎#O 并#O 不会#O 露出#O 水面#O 。#O
+889 水蕴草#O 是#O 一种#O 水生植物#O 。#O
+Y
+891 水蕴草#PERSON 是#O 一种#O 水生植物#O ，#O 主要#O 分布#O 在#O 湖边#O 。#O
+892 水蕴#O 草长#O 在#O 水里#O 。#O
+Y
+894 水蕴草#PERSON 在#O 较#O 冷#O 的#O 水族箱#O 中#O 生长#O 良好#O ，#O 也#O 很#O 容易#O 利用#O 扦插#O 方式#O 来#O 繁殖#O 。#O
+895 水蕴草#PERSON 好#O 低温#O 。#O
+Y
+897 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+898 水蕴草#O 可采#O 无性生殖#O 。#O
+Y
+900 水蕴草#O 其#O 根部#O 会#O 紧紧#O 插#O 在#O 泥土#O 里#O ，#O 其茎#O 并#O 不会#O 露出#O 水面#O 。#O
+901 水蕴草#O 不会#O 接触#O 空气#O 。#O
+Y
+903 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+904 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 气温#O 较#O 高#O 。#O
+Y
+906 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+907 不见得#O 只有#O 失聪者#O 使用#O 手语#O 。#O
+Y
+909 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+910 不同#O 国家#O 的#O 手语#O 会#O 有#O 不同#O 的#O 词汇#O 。#O
+Y
+912 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+913 1889#MISC 年#MISC 之前#MISC ，#O 欧洲人#DEMONYM 无法#O 确认#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 。#O
+Y
+915 吉力#O 马#O 札#O 罗山#O 常#O 被#O 称为#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+916 「#O 非洲#LOCATION 屋脊#O 」#O 指#O 的#O 是#O 吉力#O 马#O 札#O 罗山#O 。#O
+Y
+918 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+919 罗马#GPE 人#O 发明#O 铅笔#O 。#O
+N
+921 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+922 铅笔#O 可以#O 找出#O 大部分#O 的#O 假#O 钻石#O 。#O
+N
+924 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+925 铅笔#O 比#O 钻石#O 来#O 的#O 硬#O ，#O 会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+N
+927 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+928 乔治#PERSON ·#O 卢卡斯#PERSON 执导#O 过#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+N
+930 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+931 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 籍#O 。#O
+N
+933 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+934 第一支#MISC 铅笔#O 出现#O 在#O 古罗马#MISC 时代#MISC 。#O
+N
+936 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+937 现在#O 去#O 南美洲#LOCATION 可以#O 找到#O 水蕴草#O 。#O
+N
+939 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+940 干物#O 女#O 在#O 日本#GPE 出生#O 。#O
+N
+942 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+943 干物#O 女#O 只要#O 避免#O 不修边幅#O ，#O 并且#O 擅于#O 社交#O ，#O 就#O 可以#O 吸引#O 男性#O 。#O
+N
+945 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+946 干物#O 女#O 不#O 恋爱#O 。#O
+N
+948 干#O 炒#O 牛河#LOCATION 以芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 炒成#O 。#O
+949 干#O 炒#O 牛河#LOCATION 可以#O 用#O 洋葱#O 取代#O 芽菜#O 。#O
+N
+951 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+952 约瑟夫#PERSON ·#O 傅立叶#PERSON 出#O 生于#O 十九世纪#MISC 。#O
+N
+954 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+955 东协#O 自由贸易区#O 成立#O 后#O ，#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱等#O 国家#O 贸易#O 发展#O 逐步#O 成长#O 。#O
+N
+957 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+958 拉力赛#O 的#O 副驾驶#O 也#O 必须#O 负责#O 驾驶#O 。#O
+N
+960 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+961 使用#O 手语#O 的#O 人#O 都#O 不会#O 使用#O 语音#O
+N
+963 水蕴草#PERSON 是#O 一种#O 水生植物#O ，#O 主要#O 分布#O 在#O 湖边#O 。#O
+964 在#O 湖边#O 都#O 能#O 找到#O 水蕴草#O 。#O
+N
+966 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+967 吉力#O 马#O 札#O 罗山#O 是#O 死火山#O 。#O
+N
+969 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+970 吉力#O 马#O 札#O 罗山#O 火山#O 不曾#O 喷发#O 。#O
+N
+972 用#O 铅笔#O 刻划#O 用#O 玻璃#O 、#O 水晶#O 、#O 电力#O 石等#O 制作#O 的#O 假#O 钻石#O 会#O 留下#O 痕迹#O 。#O
+973 可用#O 铅笔#O 在#O 玻璃#O 上#O 书写#O 。#O
+N
+975 现代#O 铅笔#O 以#O 石墨#O 和#O 粘土#O 来#O 制造#O 。#O
+976 古代#O 也#O 有#O 铅笔#O ，#O 但#O 成分#O 与#O 今日#O 不同#O 。#O
+N
+978 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+979 大多数#O 手语#O 使用者#O 是#O 失聪者#O 。#O
+N
+981 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+982 1889#MISC 年#MISC 那年#MISC 吉力#O 马#O 札#O 罗山#O 下#O 了#O 雪#O 。#O
+N
+984 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+985 乔治#PERSON ·#O 卢卡斯#PERSON 的#O 作品#O 只有#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+N
+987 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+988 不#O 使用#O 语音#O ，#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 就是#O 手语#O 。#O
+N
+990 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+991 乔治#PERSON ·#O 卢卡斯#PERSON 的#O 作品#O 《#O 法柜奇兵#MISC 》#O 不#O 只#O 一部#O 。#O
+Y
+993 干#O 炒#O 牛河#LOCATION 以芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 炒成#O 。#O
+994 干#O 炒#O 牛#O 河里#O 有芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 。#O
+Y
+996 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+997 巴西#GPE 为#O 水蕴#O 草原#O 产地#O 。#O
+Y
+999 现代#O 铅笔#O 以#O 石墨#O 和#O 粘土#O 来#O 制造#O 。#O
+1000 铅笔#O 会以#O 石墨#O 来#O 制造#O 。#O
+Y
+1002 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+1003 铅笔#O 的#O 功能#O 包括#O 书写#O 及#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+Y
+1005 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+1006 奥地利#GPE 登山家#O 路德维希#PERSON ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 曾#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O 。#O
+Y
+1008 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+1009 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 电影#O 导演#O 与#O 编剧#O 。#O
+Y
+1011 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+1012 傅立叶#PERSON 级数#O 可#O 应用#O 于#O 振动#O 理论#O 。#O
+Y
+1014 干#O 炒#O 牛河#LOCATION 以芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 炒成#O 。#O
+1015 干#O 炒#O 牛河#LOCATION 算是#O 道#O 牛肉#O 料理#O 。#O
+Y
+1017 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+1018 除了#O 手势#O 、#O 身体#O 动作#O 以外#O 、#O 脸部#O 表情#O 也#O 是#O 手语#O 的#O 一部#O 份#O 。#O
+Y
+1020 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+1021 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 为#O 水蕴#O 草原#O 产地#O 。#O
+Y
+1023 拉力赛#O 不是#O 在#O 环形#O 赛道#O 上#O ，#O 而是#O 在#O 点到点#O 之间#O 的#O 赛道#O 上#O 比赛#O 。#O
+1024 拉力赛#O 在#O 点到点#O 之间#O 的#O 赛道#O 上#O 比赛#O 。#O
+Y
+1026 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+1027 印尼#GPE 、#O 马来西亚#GPE 及#O 新加坡#GPE 都#O 加入#O 东协#O 自由贸易区#O 。#O
+Y
+1029 用#O 铅笔#O 刻划#O 用#O 玻璃#O 、#O 水晶#O 、#O 电力#O 石等#O 制作#O 的#O 假#O 钻石#O 会#O 留下#O 痕迹#O 。#O
+1030 用#O 铅笔#O 刻划#O 用#O 玻璃#O 作#O 的#O 假#O 钻石#O 会#O 留下#O 痕迹#O 。#O
+Y
+1032 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+1033 台湾#GPE 不#O 在#O 东协#O 自由贸易区#O 成员国#O 名单#O 中#O 。#O
+Y
+1035 水蕴草#O 适合#O 生长#O 在#O 营养#O 及#O 光线#O 充足#O 的#O 环境#O 中#O 。#O
+1036 水蕴草#O 的#O 生长#O 需要#O 充足#O 的#O 光线#O 。#O
+Y
+1038 吉力#O 马#O 札#O 罗山#O 常#O 被#O 称为#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+1039 人称#O 吉力#O 马#O 札#O 罗山#O 为#O 「#O 非洲#LOCATION 屋脊#O 」#O 。#O
+Y
+1041 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+1042 《#O 星际大战#MISC 》#O 系列#O 是#O 乔治#PERSON ·#O 卢卡斯#PERSON 的#O 作品#O
+Y
+1044 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+1045 乔治#PERSON ·#O 卢卡斯#PERSON 没演#O 过#O 电影#O 。#O
+N
+1047 现代#O 铅笔#O 以#O 石墨#O 和#O 粘土#O 来#O 制造#O 。#O
+1048 现代#O 铅笔#O 中#O 含有#O 铅#O 的#O 成分#O 。#O
+N
+1050 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+1051 拉力赛#O 为#O 改装#O 过#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+N
+1053 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+1054 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌蕊#O 和#O 雄蕊#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+N
+1056 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+1057 手势#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+N
+1059 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+1060 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔芯#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔芯#O 划过#O 的#O 痕迹#O 。#O
+Y
+1062 水蕴草#O 其#O 根部#O 会#O 紧紧#O 插#O 在#O 泥土#O 里#O ，#O 其茎#O 并#O 不会#O 露出#O 水面#O 。#O
+1063 水蕴草#O 其#O 根部#O 会#O 紧紧#O 插#O 在#O 泥土#O 里#O ，#O 水蕴草#O 并#O 不会#O 露出#O 水面#O 。#O
+Y
+1065 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+1066 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不仅#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+Y
+1068 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+1069 最早#O 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+Y
+1071 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+1072 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 多#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+Y
+1074 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+1075 干物#O 女#O 指#O 的#O 是#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+Y
+1077 干#O 炒#O 牛河#LOCATION 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+1078 干#O 炒#O 牛河#LOCATION 是#O 中国#GPE 菜#O 中#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+Y
+1080 干#O 炒#O 牛河#LOCATION 以芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 炒成#O 。#O
+1081 干#O 炒#O 牛河#LOCATION 的#O 做法#O 以芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 炒成#O 。#O
+Y
+1083 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+1084 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#GPE 知名#O 数学家#O 、#O 物理学家#O 。#O
+Y
+1086 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+1087 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 一共#O 10#MISC 个#O 国家#O 。#O
+Y
+1089 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+1090 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 一同#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+Y
+1092 拉力赛#O 参赛者#O 在#O 一个#O 或者#O 几个#O 起点#O 上#O ，#O 按照#O 规定#O 间隔#O 出发#O 。#O
+1093 拉力赛#O 参赛者#O 在#O 一个#O 或者#O 几个#O 起点#O 上#O ，#O 按照#O 规定#O 时间#O 间隔#O 出发#O 。#O
+Y
+1095 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+1096 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 特别#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+Y
+1098 有时候#O ，#O 生产商#O 会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+1099 有时候#O ，#O 生产商#O 不会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+Y
+1101 吉力#O 马#O 札#O 罗山#O 常#O 被#O 称为#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+1102 吉力#O 马#O 札#O 罗山#O 常#O 被#O 人们#O 称为#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+Y
+1104 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 登录#O 为#O 世界遗产#O 。#O
+1105 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 该国#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 登录#O 为#O 世界遗产#O 。#O
+Y
+1107 石墨#O 添加#O 得#O 越#O 多#O ，#O 铅笔#O 笔芯#O 越软#O ，#O 颜色#O 越#O 黑#O ；#O 而#O 粘土#O 添加#O 得#O 越#O 多#O ，#O 笔芯#O 则#O 越#O 硬#O ，#O 颜色#O 越浅#O 。#O
+1108 石墨#O 添加#O 得#O 越少#O ，#O 铅笔#O 笔芯#O 越硬#O ，#O 颜色#O 越浅#O ；#O 而#O 粘土#O 添加#O 得#O 越少#O ，#O 笔芯#O 则#O 越#O 软#O ，#O 颜色#O 越#O 黑#O 。#O
+Y
+1110 水蕴草#PERSON 是#O 一种#O 水生植物#O ，#O 主要#O 分布#O 在#O 湖边#O 。#O
+1111 水蕴草#O 是#O 水生植物#O ，#O 主要#O 分布#O 在#O 湖边#O 。#O
+Y
+1113 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+1114 水蕴草#O 可#O 生长#O 在#O 深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+Y
+1116 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+1117 水蕴草#O 不是#O 雌雄同株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+Y
+1119 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+1120 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 动作#O 、#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+Y
+1122 手语#O 并#O 不是#O 世界#O 共通#O 的#O 。#O
+1123 手语#O 并#O 不是#O 全世界#O 共通#O 的#O 。#O
+Y
+1125 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+1126 人类#O 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+Y
+1128 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+1129 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+Y
+1131 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+1132 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 比较#O 大#O 的#O 地方#O 。#O
+Y
+1134 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+1135 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 有#O 差异#O 的#O 地方#O 之一#O 。#O
+Y
+1137 有时候#O ，#O 生产商#O 会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+1138 有时候#O ，#O 生产商#O 会#O 在#O 2B#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+Y
+1140 水蕴草#PERSON 是#O 一种#O 水生植物#O ，#O 主要#O 分布#O 在#O 湖边#O 。#O
+1141 水蕴草#O 是#O 一种#O 植物#O ，#O 主要#O 分布#O 在#O 湖边#O 。#O
+Y
+1143 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+1144 2B#O 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+Y
+1146 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+1147 词汇#O 是#O 不同#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+N
+1149 干#O 炒#O 牛河#LOCATION 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+1150 炒牛河#O 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+N
+1152 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+1153 拉力赛#O 参赛者#O 和#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+Y
+1155 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+1156 乔治#PERSON ·#O 卢卡斯#PERSON 的#O 作品#O 有#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+Y
+1158 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+1159 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+Y
+1161 用#O 铅笔#O 刻划#O 用#O 玻璃#O 、#O 水晶#O 、#O 电力#O 石等#O 制作#O 的#O 假#O 钻石#O 会#O 留下#O 痕迹#O 。#O
+1162 用#O 铅笔#O 刻划#O 假#O 钻石#O 会#O 留下#O 痕迹#O 。#O
+N
+1164 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+1165 历史#O 上#O 曾#O 有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+N
+1167 铅笔#O 与#O 其他#O 笔#O 的#O 不同之处#O 在于#O 它#O 的#O 笔迹#O 很#O 容易#O 被#O 擦掉#O 。#O
+1168 铅笔#O 与#O 其他#O 笔#O 的#O 不同之处#O 在于#O 它#O 的#O 笔迹#O 不太#O 容易#O 被#O 擦掉#O 。#O
+N
+1170 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+1171 词汇#O 并非#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+N
+1173 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+1174 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 不是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+N
+1176 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+1177 干物#O 女#O 不是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+N
+1179 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+1180 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 但#O 并未#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+N
+1182 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+1183 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 法国#GPE 数学家#O 而#O 非#O 物理学家#O 。#O
+N
+1185 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+1186 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 不是#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+N
+1188 拉力赛#O 参赛者#O 在#O 一个#O 或者#O 几个#O 起点#O 上#O ，#O 按照#O 规定#O 间隔#O 出发#O 。#O
+1189 拉力赛#O 参赛者#O 在#O 一个#O 或者#O 几个#O 起点#O 上#O ，#O 不需#O 按照#O 规定#O 间隔#O 出发#O 。#O
+N
+1191 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+1192 拉力赛#O 是#O 不#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 也#O 不#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+N
+1194 用#O 铅笔#O 刻划#O 用#O 玻璃#O 、#O 水晶#O 、#O 电力#O 石等#O 制作#O 的#O 假#O 钻石#O 会#O 留下#O 痕迹#O 。#O
+1195 、#O 电力#O 石等#O 制作#O 的#O 假#O 钻石#O 不会#O 留下#O 痕迹#O 。#O
+N
+1197 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+1198 水蕴#O 草原#O 产地#O 是#O 在#O 美洲#LOCATION 气温#O 较#O 低#O 的#O 区域#O ，#O 不#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+N
+1200 水蕴草#O 其#O 根部#O 会#O 紧紧#O 插#O 在#O 泥土#O 里#O ，#O 其茎#O 并#O 不会#O 露出#O 水面#O 。#O
+1201 水蕴草#O 其#O 根部#O 会#O 紧紧#O 插#O 在#O 泥土#O 里#O ，#O 其茎#O 露出#O 水面#O 。#O
+N
+1203 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+1204 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 不#O 超过#O 2#MISC 公尺#O 。#O
+N
+1206 水蕴草#PERSON （#O Egeria#ORGANIZATION densa#ORGANIZATION ）#O 别名#O 蜈蚣草#O 。#O
+1207 水蕴草#PERSON （#O Egeria#PERSON densa#PERSON ）#O 别名#O 并非#O 蜈蚣草#O 。#O
+N
+1209 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+1210 手语#O 是#O 一种#O 使用#O 语音#O 、#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+N
+1212 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+1213 手语#O 主要#O 使用者#O 不是#O 失聪者#O 。#O
+N
+1215 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+1216 手语#O 不#O 包括#O 使用#O 身体#O 动作#O 。#O
+N
+1218 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+1219 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O 。#O
+Y
+1221 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+1222 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 几下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+Y
+1224 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+1225 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 十个#MISC 国家#O 。#O
+Y
+1227 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+1228 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#LOCATION 以东#O 一百六十#MISC 公里#O 处#O 。#O
+Y
+1230 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+1231 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 四#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 两#MISC 公尺#O 。#O
+Y
+1233 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+1234 手语#O 是#O 壹种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+Y
+1236 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+1237 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE ，#O 共#O 10#MISC 个#O 国家#O 。#O
+Y
+1239 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+1240 东协#O 自由贸易区#O 中#O ，#O 原东协#O 国家#O 共#O 6#MISC 个#O 。#O
+Y
+1242 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+1243 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 30#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+Y
+1245 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+1246 不#O 只#O 一位#O 女性#O 是#O 干物#O 女#O 。#O
+Y
+1248 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+1249 十个#MISC 国家#O 组成#O 了#O 东协#O 。#O
+N
+1251 根据#O 记载#O ，#O 最早#O 的#O 铅笔#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+1252 最早#O 列入#O 记载#O 的#O 铅笔#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+Y
+1254 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+1255 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 真的#O 钻石#O 其#O 表面#O 不会#O 留下#O 痕迹#O 。#O
+Y
+1257 干#O 炒#O 牛河#LOCATION 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+1258 干#O 炒#O 牛河#LOCATION 是#O 广东菜#O 。#O
+Y
+1260 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+1261 位于#O 坦尚#FACILITY 尼亚#FACILITY 东北#FACILITY 的#O 吉力#O 马#O 札#O 罗山#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+Y
+1263 水蕴草#O 适合#O 生长#O 在#O 营养#O 以及#O 光线#O 充足#O 的#O 环境#O 中#O 。#O
+1264 水蕴草#O 适合#O 生长#O 在#O 光线#O 充足#O 的#O 营养#O 环境#O 中#O 。#O
+Y
+1266 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+1267 临近#O 肯亚#O 边界#O 的#O 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+Y
+1269 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+1270 现今#O 水蕴草#O 栽培#O 方式#O 多采#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+Y
+1272 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+1273 水蕴草#PERSON 总长#O 可以#O 长达#O 2#MISC 公尺#O ，#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O 可#O 生长#O 。#O
+Y
+1275 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+1276 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 电影#O 美国#GPE 的#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+N
+1278 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+1279 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不#O 擅#O 社交#O ，#O 又#O 不修边幅#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+Y
+1281 水蕴草#PERSON （#O Egeria#ORGANIZATION densa#ORGANIZATION ）#O 别名#O 蜈蚣草#O 。#O
+1282 蜈蚣草#O （#O Egeria#ORGANIZATION densa#ORGANIZATION ）#O 别名#O 水蕴草#O 。#O
+Y
+1284 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+1285 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 编剧#O 、#O 制片人#O 和#O 导演#O 。#O
+Y
+1287 石墨#O 添加#O 得#O 越#O 多#O ，#O 铅笔#O 笔芯#O 越软#O ，#O 颜色#O 越#O 黑#O ；#O 而#O 粘土#O 添加#O 得#O 越#O 多#O ，#O 笔芯#O 则#O 越#O 硬#O ，#O 颜色#O 越浅#O 。#O
+1288 粘土#O 添加#O 得#O 越#O 多#O ，#O 铅笔#O 笔芯#O 越硬#O ，#O 颜色#O 越浅#O ；#O 而#O 石墨#O 添加#O 得#O 越#O 多#O ，#O 笔芯#O 则#O 越#O 软#O ，#O 颜色#O 越#O 黑#O
+Y
+1290 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+1291 现今#O 水蕴草#O 已#O 可供#O 人#O 栽培#O ，#O 养殖#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+Y
+1293 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+1294 记录#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 历史#O 。#O
+Y
+1296 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+1297 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 将#O 其#O 应用#O 。#O
+Y
+1299 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+1300 非洲#LOCATION 的#O 最高#O 山是#O 吉力#O 马#O 札#O 罗山#O ，#O 位于#O 坦尚#O 尼亚#O 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O 。#O
+Y
+1302 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+1303 于#O 1992#MISC 年#MISC 提出#O 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 。#O
+Y
+1305 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+1306 拉力赛#O 是#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O ，#O 采用#O 公共#O 或者#O 私人#O 道路#O 进行#O 的#O 比赛#O 。#O
+Y
+1308 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#PERSON 出生#O 。#O
+1309 在#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 约瑟夫#PERSON ·#O 傅立叶#PERSON 出#O 生于#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#O 。#O
+Y
+1311 吉力#O 马#O 札#O 罗山#O 常#O 被#O 称为#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+1312 吉力#O 马#O 札#O 罗山#O 常#O 被#O 称为#O 「#O 非洲#LOCATION 之王#O 」#O 、#O 「#O 非洲#LOCATION 屋脊#O 」#O 。#O
+Y
+1314 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+1315 吉力#O 马#O 札#O 罗山#O 位于#O 南纬#O 3#MISC 度#O 与#O 赤道#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+Y
+1317 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+1318 用水#O 润湿#O 钻石#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+Y
+1320 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+1321 失聪者#O 是#O 手语#O 主要#O 使用者#O 。#O
+Y
+1323 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+1324 水蕴草#PERSON 总长#O 可以#O 长达#O 2#MISC 公尺#O ，#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O 可#O 生长#O 。#O
+Y
+1326 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+1327 水蕴#O 草原#O 产地#O 是#O 在#O 气温#O 较#O 高#O 的#O 南美洲#LOCATION 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+Y
+1329 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+1330 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雄花#O 和#O 雌花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+Y
+1332 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 身体#O 动作#O 、#O 脸部#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+1333 手语#O 是#O 一种#O 不#O 使用#O 语音#O ，#O 而#O 使用#O 手势#O 、#O 脸部#O 动作#O 、#O 身体#O 表情#O 表达#O 意思#O 的#O 语言#O 。#O
+Y
+1335 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+1336 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 登上#O 了#O 基博#O 峰#O 亲自#O 拍摄#O ，#O 并#O 带回#O 赤道#O 雪山#O 的#O 大量#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+Y
+1338 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+1339 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 是#O 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 。#O
+Y
+1341 干#O 炒#O 牛河#LOCATION 以芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 炒成#O 。#O
+1342 以芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 炒#O 成干#O 炒#O 牛河#LOCATION 。#O
+Y
+1344 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+1345 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 很多#O 事情#O 提不起#O 劲#O ，#O 认为#O 恋爱#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+N
+1347 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+1348 东协于#MISC 1992#MISC 年#MISC 提出#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 。#O
+N
+1350 有时候#O ，#O 生产商#O 会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+1351 有时候#O ，#O 生产商#O 会#O 在#O 橡皮擦#O 的#O 一端#O 装#O 上#O 铅笔#O 。#O
+N
+1353 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#PERSON 出生#O 。#O
+1354 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 诞生#O 。#O
+Y
+1356 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+1357 吉力#O 马#O 札#O 罗山#O 位于#O 南纬#MISC 0#MISC 度#O 与#O 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+Y
+1359 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+1360 干物#O 女#O 是#O 来自#O 于#O 亚洲#LOCATION 日本#GPE 的#O 流行语#O 。#O
+Y
+1362 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+1363 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 坦尚#O 尼亚#O 的#O 最高#O 山#O 。#O
+Y
+1365 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#PERSON 出生#O 。#O
+1366 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 法国#GPE 出身#O 。#O
+Y
+1368 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+1369 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#O 尼亚#O 。#O
+Y
+1371 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+1372 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古代#O 欧洲#LOCATION 。#O
+Y
+1374 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+1375 乔治#PERSON ·#O 卢卡斯#PERSON 不是#O 来自#O 亚洲#LOCATION 的#O 电影#O 导演#O 。#O
+Y
+1377 干#O 炒#O 牛河#LOCATION 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+1378 干#O 炒#O 牛河#LOCATION 是#O 两广#MISC 菜色#O 的#O 一种#O 。#O
+Y
+1380 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#PERSON 出生#O 。#O
+1381 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 欧塞尔#DEMONYM 人#O 。#O
+Y
+1383 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+1384 肯亚#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION 。#O
+Y
+1386 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#PERSON 出生#O 。#O
+1387 法国#GPE 有个#O 约#O 讷#O 省#O 。#O
+Y
+1389 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+1390 东非大裂谷#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O 。#O
+Y
+1392 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+1393 东非大裂谷#O 位于#O 吉力#O 马#O 札#O 罗山#O 的#O 西方#O 。#O
+Y
+1395 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+1396 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 以南#O ，#O 在#O 东非大裂谷#LOCATION 以东#O 一百六十#MISC 公里#O 处#O 。#O
+Y
+1398 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+1399 1889#MISC 年#MISC ，#O 欧洲#LOCATION 地理学家#O 汉斯#PERSON ·#O 迈尔#PERSON 和#O 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+Y
+1401 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+1402 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 东京#GPE 的#O 流行语#O 。#O
+N
+1404 手语#O 并#O 不是#O 世界#O 共通#O 的#O 。#O
+1405 手语#O 并#O 不是#O 亚洲#LOCATION 共通#O 的#O 。#O
+N
+1407 手语#O 并#O 不是#O 世界#O 共通#O 的#O 。#O
+1408 各国#O 的#O 手语#O 并#O 不是#O 共通#O 的#O 。#O
+Y
+1410 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+1411 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山爆发#O 的#O 记录#O 。#O
+Y
+1413 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+1414 对#O 不少#O 男性#O 来说#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+Y
+1416 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+1417 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 没有#O 吸引力#O 。#O
+Y
+1419 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+1420 对#O 不少#O 男人#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+Y
+1422 铅笔#O 与#O 其他#O 笔#O 的#O 不同之处#O 在于#O 它#O 的#O 笔迹#O 很#O 容易#O 被#O 擦掉#O 。#O
+1423 铅笔#O 与#O 其他#O 笔#O 的#O 不同之处#O 在于#O 它#O 的#O 字迹#O 很#O 容易#O 被#O 擦掉#O 。#O
+Y
+1425 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+1426 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真假#O 。#O
+Y
+1428 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+1429 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 辨识#O 钻石#O 的#O 真伪#O 。#O
+Y
+1431 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+1432 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 罗马#GPE 时代#O 。#O
+Y
+1434 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+1435 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 部分#O 。#O
+Y
+1437 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+1438 乔治#PERSON ·#O 卢卡斯#PERSON 最#O 出名#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+Y
+1440 现代#O 铅笔#O 以#O 石墨#O 和#O 粘土#O 来#O 制造#O 。#O
+1441 现代#O 铅笔#O 以#O 石墨#O 和#O 黏土#O 来#O 制造#O 。#O
+Y
+1443 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+1444 现今#O 水蕴草#O 已#O 可供#O 人#O 栽培#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+Y
+1446 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+1447 将#O 金钢石#PERSON 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 金钢石#PERSON 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+Y
+1449 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+1450 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 皆#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+Y
+1452 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+1453 干物#O 女#O 是#O 来自#O 于#O 东洋#O 的#O 流行语#O 。#O
+Y
+1455 干#O 炒#O 牛河#LOCATION 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+1456 干#O 炒#O 牛河#LOCATION 是#O 广东菜#O 的#O 一种#O 。#O
+Y
+1458 干#O 炒#O 牛河#LOCATION 以芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 炒成#O 。#O
+1459 干#O 炒#O 牛河#LOCATION 以#O 豆芽菜#O 、#O 河粉#O 、#O 牛肉#O 等#O 炒成#O 。#O
+Y
+1461 约瑟夫#PERSON ·#O 傅立叶#PERSON 被#O 广泛#O 公认#O 为#O 温室效应#O 的#O 发现者#O 。#O
+1462 约瑟夫#PERSON 傅立叶#PERSON 被#O 广泛#O 公认#O 为#O 温室效应#O 的#O 发现者#O 。#O
+Y
+1464 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+1465 约瑟夫#PERSON 傅立叶#MISC 是#MISC 十九世纪#MISC 法国#DEMONYM 数学家#O 、#O 物理学家#O 。#O
+Y
+1467 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#PERSON 出生#O 。#O
+1468 约瑟夫#PERSON ‧#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#PERSON 出生#O 。#O
+Y
+1470 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+1471 东南亚#ORGANIZATION 国家#ORGANIZATION 协会#ORGANIZATION 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+Y
+1473 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+1474 拉力赛#O 参赛者#O 和#O 他#O 的#O 副手#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+Y
+1476 拉力赛#O 参赛者#O 在#O 一个#O 或者#O 几个#O 起点#O 上#O ，#O 按照#O 规定#O 间隔#O 出发#O 。#O
+1477 拉力赛#O 参赛者#O 在#O 一个#O 或者#O 数个#O 起点#O 上#O ，#O 按照#O 规定#O 间隔#O 出发#O 。#O
+Y
+1479 拉力赛#O 不是#O 在#O 环形#O 赛道#O 上#O ，#O 而是#O 在#O 点到点#O 之间#O 的#O 赛道#O 上#O 比赛#O 。#O
+1480 拉力赛#O 不是#O 在#O 环形#O 赛道#O 上#O ，#O 而是#O 在#O 点到点#O 之间#O 的#O 赛道#O 上#O 竞技#O 。#O
+Y
+1482 有时候#O ，#O 生产商#O 会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+1483 有时候#O ，#O 厂商会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+Y
+1485 吉力#O 马#O 札#O 罗山#O 常#O 被#O 称为#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+1486 吉力#O 马#O 札#O 罗山#O 常#O 被#O 叫做#O 「#O 非洲#LOCATION 屋脊#O 」#O 、#O 「#O 非洲#MISC 之王#MISC 」#O 。#O
+Y
+1488 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+1489 吉力#O 马#O 札#O 罗山#O 座落#O 于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+Y
+1491 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+1492 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 靠近#O 肯亚#GPE 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+Y
+1494 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+1495 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#LOCATION 以东#O 160#MISC 公里#O 处#O 。#O
+Y
+1497 石墨#O 添加#O 得#O 越#O 多#O ，#O 铅笔#O 笔芯#O 越软#O ，#O 颜色#O 越#O 黑#O ；#O 而#O 粘土#O 添加#O 得#O 越#O 多#O ，#O 笔芯#O 则#O 越#O 硬#O ，#O 颜色#O 越浅#O 。#O
+1498 石墨#O 添加#O 得#O 越#O 多#O ，#O 铅笔#O 笔心#O 越软#O ，#O 颜色#O 越#O 黑#O ；#O 而#O 粘土#O 添加#O 得#O 越#O 多#O ，#O 笔心#O 则#O 越#O 硬#O ，#O 颜色#O 越浅#O 。#O
+Y
+1500 用#O 铅笔#O 刻划#O 用#O 玻璃#O 、#O 水晶#O 、#O 电力#O 石等#O 制作#O 的#O 假#O 钻石#O 会#O 留下#O 痕迹#O 。#O
+1501 用#O 铅笔#O 刻划#O 用#O 玻璃#O 、#O 水晶#O 、#O 电力#O 石等#O 制作#O 的#O 冒牌#O 钻石#O 会#O 留下#O 痕迹#O 。#O
+Y
+1503 水蕴草#O 适合#O 生长#O 在#O 营养#O 及#O 光线#O 充足#O 的#O 环境#O 中#O 。#O
+1504 水蕴草#O 适合#O 生长#O 在#O 营养#O 及#O 光照#O 充足#O 的#O 环境#O 中#O 。#O
+Y
+1506 水蕴草#O 其#O 根部#O 会#O 紧紧#O 插#O 在#O 泥土#O 里#O ，#O 其茎#O 并#O 不会#O 露出#O 水面#O 。#O
+1507 水蕴草#O 其#O 根部#O 会#O 紧紧#O 插#O 在#O 土壤#O 里#O ，#O 其茎#O 并#O 不会#O 露出#O 水面#O 。#O
+Y
+1509 水蕴草#O 其#O 根部#O 会#O 紧紧#O 插#O 在#O 泥土#O 里#O ，#O 其茎#O 并#O 不会#O 露出#O 水面#O 。#O
+1510 水蕴草#O 其#O 根部#O 会#O 牢牢#O 插#O 在#O 泥土#O 里#O ，#O 其茎#O 并#O 不会#O 超过#O 水面#O 。#O
+Y
+1512 水蕴草#PERSON 在#O 较#O 冷#O 的#O 水族箱#O 中#O 生长#O 良好#O ，#O 也#O 很#O 容易#O 利用#O 扦插#O 方式#O 来#O 繁殖#O 。#O
+1513 水蕴草#PERSON 在#O 较#O 冷#O 的#O 水族箱#O 中#O 生长#O 良好#O ，#O 也#O 很#O 容易#O 利用#O 插枝#O 方式#O 来#O 繁殖#O 。#O
+Y
+1515 水蕴草#PERSON 在#O 较#O 冷#O 的#O 水族箱#O 中#O 生长#O 良好#O ，#O 也#O 很#O 容易#O 利用#O 扦插#O 方式#O 来#O 繁殖#O 。#O
+1516 水蕴草#PERSON 在#O 较#O 低温#O 的#O 水族箱#O 中#O 生长#O 良好#O ，#O 也#O 很#O 容易#O 利用#O 扦插#O 方式#O 来#O 繁殖#O 。#O
+Y
+1518 手语#O 并#O 不是#O 世界#O 共通#O 的#O 。#O
+1519 手语#O 并非#O 世界#O 共通#O 的#O 。#O
+Y
+1521 手语#O 并#O 不是#O 世界#O 共通#O 的#O 。#O
+1522 手语#O 并#O 不是#O 全球#O 共通#O 的#O 。#O
+Y
+1524 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+1525 手语#O 主要#O 使用者#O 是#O 聋人#O 。#O
+Y
+1527 手语#O 主要#O 使用者#O 是#O 失聪者#O 。#O
+1528 手语#O 主要#O 使用者#O 是#O 听障#O 人士#O
+Y
+1530 干#O 炒#O 牛河#LOCATION 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+1531 干#O 炒#O 牛河#LOCATION 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+Y
+1533 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+1534 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 相片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+Y
+1536 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+1537 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+Y
+1539 约瑟夫#PERSON ·#O 傅立叶#PERSON 被#O 广泛#O 公认#O 为#O 温室效应#O 的#O 发现者#O 。#O
+1540 傅立叶#PERSON 被#O 广泛#O 公认#O 为#O 温室效应#O 的#O 发现者#O 。#O
+Y
+1542 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+1543 约瑟夫#PERSON ‧#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+Y
+1545 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+1546 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION 迈尔#ORGANIZATION 和#O 奥地利#GPE 登山家#O 路德维希#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 相片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+Y
+1548 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+1549 乔治#PERSON ·#O 卢卡斯#PERSON 担任#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+N
+1551 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+1552 现今#O 供#O 人#O 养殖#O 的#O 水#O 蕴草#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+Y
+1554 干物#O 女#O 指#O 的#O 是#O 一群#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 的#O 女性#O 。#O
+1555 干物#O 女#O 指#O 的#O 是#O 女性#O 对#O 恋爱#O 提不起#O 劲#O ，#O 认为#O 很多#O 事情#O 都#O 很#O 麻烦#O 而#O 凑合着#O 过#O 。#O
+Y
+1557 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+1558 吉力#O 马#O 札#O 罗山#O 位于#O 东非大裂谷#LOCATION 以东#O 160#MISC 千米#O 之#O 处#O ，#O 介于#O 赤道#MISC 与#MISC 南纬#MISC 3#MISC 度#O 之间#O 。#O
+Y
+1560 约瑟夫#PERSON ·#O 傅立叶#PERSON 被#O 广泛#O 公认#O 为#O 温室效应#O 的#O 发现者#O 。#O
+1561 约瑟夫#PERSON ·#O 傅立叶#PERSON 被#O 广泛#O 公认#O 首先#O 发现#O 温室效应#O 。#O
+Y
+1563 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#DEMONYM 数学家#O 及#O 物理学家#O 。#O
+1564 十九世纪#MISC 法国#GPE 的#O 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 数学家#O 、#O 物理学家#O 。#O
+Y
+1566 水蕴草#O 适合#O 生长#O 在#O 营养#O 及#O 光线#O 充足#O 的#O 环境#O 中#O 。#O
+1567 营养#O 及#O 光线#O 充足#O 的#O 环境#O 适合#O 水蕴草#O 生长#O 。#O
+Y
+1569 铅笔#O 与#O 其他#O 笔#O 的#O 不同之处#O 在于#O 它#O 的#O 笔迹#O 很#O 容易#O 被#O 擦掉#O 。#O
+1570 铅笔#O 与#O 其他#O 笔#O 的#O 差别#O 在于#O 它#O 的#O 笔迹#O 很#O 容易#O 被#O 擦掉#O
+Y
+1572 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+1573 铅笔#O 除了#O 可以#O 拿来#O 写字#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+Y
+1575 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+1576 过去#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+Y
+1578 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+1579 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 间#O 最大#O 的#O 差异#O 。#O
+Y
+1581 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+1582 乔治#PERSON ·#O 卢卡斯#PERSON 最#O 为人所知#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+Y
+1584 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+1585 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O 为#O 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+Y
+1587 约瑟夫#PERSON ·#O 傅立叶#PERSON 被#O 广泛#O 公认#O 为#O 温室效应#O 的#O 发现者#O 。#O
+1588 被#O 广泛#O 公认#O 的#O 温室效应#O 的#O 发现者#O 是#O 约瑟夫#PERSON ·#O 傅立叶#PERSON 。#O
+Y
+1590 现今#O 水蕴草#O 已#O 可供#O 人#O 养殖#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+1591 现今#O 水蕴草#O 已#O 可#O 人工#O 养殖#O ，#O 栽培#O 方式#O 多半#O 是#O 利用#O 雄性#O 植株#O 的#O 无性生殖#O 。#O
+Y
+1593 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+1594 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 看不到#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+Y
+1596 干物#O 女#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+1597 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+Y
+1599 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+1600 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 对#O 不少#O 男性#O 而言#O 缺乏#O 吸引力#O 。#O
+Y
+1602 干#O 炒#O 牛河#LOCATION 是#O 广东#GPE 菜色#O 的#O 一种#O 。#O
+1603 干#O 炒#O 牛河#LOCATION 是#O 一种#O 广东#GPE 菜色#O 。#O
+Y
+1605 约瑟夫#PERSON ·#O 傅立叶#PERSON 被#O 广泛#O 公认#O 为#O 温室效应#O 的#O 发现者#O 。#O
+1606 约瑟夫#PERSON ·#O 傅立叶#PERSON 被#O 广泛#O 公认#O 为#O 首位#O 提出#O 温室效应#O 的#O 人#O 。#O
+Y
+1608 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+1609 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#DEMONYM 数学家#O 与#O 物理学家#O 。#O
+Y
+1611 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+1612 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#DEMONYM 数学家#O 兼#O 物理学家#O 。#O
+Y
+1614 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装#O 过#O 的#O 或者#O 是#O 特别#O 制造#O 的#O 汽车#O 进行#O 的#O 比赛#O 。#O
+1615 拉力赛#O 是#O 采用#O 公共#O 或者#O 私人#O 道路#O ，#O 使用#O 改装车#O 或是#O 特制#O 车#O 进行#O 比赛#O 。#O
+Y
+1617 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 美国#GPE 的#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+1618 来自#O 美国#GPE 的#O 乔治#PERSON ·#O 卢卡斯#PERSON 是#O 电影#O 导演#O 、#O 制片人#O 和#O 编剧#O 。#O
+Y
+1620 历史#O 上#O 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 记录#O 。#O
+1621 没有#O 吉力#O 马#O 札#O 罗山#O 火山#O 喷发#O 的#O 历史记录#O 。#O
+Y
+1623 有时候#O ，#O 生产商#O 会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+1624 有时候#O ，#O 铅笔#O 公司#O 会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+Y
+1626 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 登录#O 为#O 世界遗产#O 。#O
+1627 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 荣登#O 世界遗产#O 的#O 行列#O 。#O
+Y
+1629 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 的#O 最高#O 山#O 。#O
+1630 吉力#O 马#O 札#O 罗山#O 位于#O 坦尚#LOCATION 尼亚#LOCATION 东北#LOCATION ，#O 临近#O 肯亚#O 边界#O ，#O 是#O 非洲#LOCATION 第一#MISC 高峰#O 。#O
+Y
+1632 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#GPE 以东#O 160#MISC 千米#MISC 处#O 。#O
+1633 吉力#O 马#O 札#O 罗山#O 位于#O 赤道#O 与#O 南纬#MISC 3#MISC 度#O 之间#O ，#O 在#O 东非大裂谷#LOCATION 以东#O 160#MISC 千米#O 的#O 地方#O 。#O
+Y
+1635 石墨#O 添加#O 得#O 越#O 多#O ，#O 铅笔#O 笔芯#O 越软#O ，#O 颜色#O 越#O 黑#O ；#O 而#O 粘土#O 添加#O 得#O 越#O 多#O ，#O 笔芯#O 则#O 越#O 硬#O ，#O 颜色#O 越浅#O 。#O
+1636 石墨#O 添加#O 得#O 越#O 多#O ，#O 铅笔#O 笔芯#O 硬度#O 越低#O ，#O 颜色#O 越#O 黑#O ；#O 而#O 粘土#O 添加#O 得#O 越#O 多#O ，#O 笔芯#O 硬度#O 越高#O ，#O 颜色#O 越浅#O 。#O
+Y
+1638 将#O 钻石#O 用水#O 润湿#O ，#O 用#O 铅笔#O 在#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+1639 用#O 铅笔#O 在#O 湿#O 钻石#O 上面#O 刻划#O 一下#O ，#O 如果#O 钻石#O 是#O 真的#O ，#O 其#O 表面#O 不会#O 留下#O 铅笔#O 划过#O 的#O 痕迹#O 。#O
+Y
+1641 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+1642 水蕴草#O 分布#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+Y
+1644 水蕴草#PERSON （#O Egeria#ORGANIZATION densa#ORGANIZATION ）#O 别名#O 蜈蚣草#O 。#O
+1645 水蕴草#PERSON （#O Egeria#ORGANIZATION densa#ORGANIZATION ）#O 又称#O 蜈蚣草#O 。#O
+Y
+1647 现代#O 铅笔#O 以#O 石墨#O 和#O 粘土#O 来#O 制造#O 。#O
+1648 今日#O 的#O 铅笔#O 以#O 石墨#O 和#O 粘土#O 来#O 制造#O 。#O
+Y
+1650 对#O 不少#O 男性#O 而言#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+1651 不少#O 男性#O 认为#O ，#O 干物#O 女#O 不修边幅#O ，#O 又#O 不#O 擅#O 社交#O ，#O 所以#O 缺乏#O 吸引力#O 。#O
+Y
+1653 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+1654 数学#O 与#O 物理学家#O 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 法国#GPE 出身#O 。#O
+Y
+1656 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+1657 铅笔#O 除了#O 书写#O ，#O 还#O 可以#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+Y
+1659 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O （#O Joseph#MISC Fourier#MISC ，#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC －#MISC 1830#MISC 年#MISC 5#MISC 月#MISC 16#MISC 日#MISC ）#O 。#O
+1660 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O （#O Joseph#PERSON Fourier#PERSON ）#O 生于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC ，#O 卒#O 于#O 1830#MISC 年#MISC 5#MISC 月#MISC 16#MISC 日#MISC 。#O
+Y
+1662 干物#O 女#O 是#O 来自#O 于#O 日本#GPE 的#O 流行语#O 。#O
+1663 流行语#O 「#O 干物#O 女#O 」#O 起源#O 自#O 日本#GPE 。#O
+Y
+1665 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+1666 东协#O 自由贸易区#O 包括#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE 、#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE ，#O 共#O 10#MISC 个#O 国家#O 。#O
+Y
+1668 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 被#O 指定#O 为吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY ，#O 并#O 登录#O 为#O 世界遗产#O 。#O
+1669 吉力#O 马札罗#FACILITY 国家#FACILITY 公园#FACILITY 涵盖#O 吉力#O 马#O 札#O 罗山#O 的#O 部分#O 山区#O 。#O
+Y
+1671 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 十九世纪#MISC 法国#MISC 数学家#MISC 、#O 物理学家#O 。#O
+1672 约瑟夫#PERSON ·#O 傅立叶#PERSON 是#O 19#MISC 世纪#MISC 法国#GPE 数学家#O 、#O 物理学家#O 。#O
+Y
+1674 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O （#O Joseph#MISC Fourier#MISC ，#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC －#MISC 1830#MISC 年#MISC 5#MISC 月#MISC 16#MISC 日#MISC ）#O 。#O
+1675 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O 死#O 于#O 法国#GPE 七月#MISC 革命#MISC 那年#MISC 。#O
+Y
+1677 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+1678 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 西元前#O 。#O
+Y
+1680 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#PERSON 出生#O 。#O
+1681 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1769#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日满#MISC 周岁#MISC 。#O
+Y
+1683 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O （#O Joseph#MISC Fourier#MISC ，#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC －#MISC 1830#MISC 年#MISC 5#MISC 月#MISC 16#MISC 日#MISC ）#O 。#O
+1684 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O 出#O 生于#O 1830#MISC 年#MISC 。#O
+Y
+1686 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O （#O Joseph#MISC Fourier#MISC ，#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC －#MISC 1830#MISC 年#MISC 5#MISC 月#MISC 16#MISC 日#MISC ）#O 。#O
+1687 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O 一生#O 横跨#O 18#MISC 及#MISC 19#MISC 世纪#MISC 。#O
+Y
+1689 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O （#O Joseph#MISC Fourier#MISC ，#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC －#MISC 1830#MISC 年#MISC 5#MISC 月#MISC 16#MISC 日#MISC ）#O 。#O
+1690 约瑟夫#PERSON ·#O 傅立叶#PERSON 男爵#O （#O Joseph#MISC Fourier#MISC ，#O 1768#MISC －#MISC 1830#MISC ）#O 。#O
+Y
+1692 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 于#O 1992#MISC 年#MISC 提出#O 。#O
+1693 东协#O 自由贸易区#O (#O ASEAN#O Free#O Trade#O Area#O ，#O 简称#O AFTA#O )#O 提出#O 距今#O 已#O 超过#MISC 20#MISC 年#MISC 。#O
+Y
+1695 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+1696 十九#MISC 世纪末#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+Y
+1698 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+1699 20#MISC 世纪#MISC 之前#MISC ，#O 欧洲人#DEMONYM 就#O 已#O 确认#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 。#O
+Y
+1701 约瑟夫#PERSON ·#O 傅立叶#PERSON 于#O 1768#MISC 年#MISC 3#MISC 月#MISC 21#MISC 日#MISC 在#O 法国#GPE 约#O 讷#O 省#O 欧塞尔#PERSON 出生#O 。#O
+1702 约瑟夫#PERSON ·#O 傅立叶#PERSON 生于#O 十八世纪#MISC 。#O
+N
+1704 铅笔#O 的#O 原型#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+1705 铅笔#O 可以#O 追溯#O 至#O 古罗马#O 时代#O 。#O
+Y
+1707 词汇#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+1708 词汇#O 的#O 差异#O 是#O 不同#O 国家#O 的#O 手语#O 差异#O 最大#O 的#O 地方#O 。#O
+Y
+1710 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 理论#O 与#O 振动#O 理论#O 。#O
+1711 约瑟夫#PERSON ·#O 傅立叶#PERSON 提出#O 傅立叶#PERSON 级数#O (#O Fourier#O series#O )#O ，#O 并#O 将#O 其#O 应用#O 于#O 热传导#O 与#O 振动#O 理论#O 。#O
+Y
+1713 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#O 国家#O 。#O
+1714 东协#O 自由贸易区#O 包括#O 原东协#O 国家#O (#O 印尼#GPE 、#O 马来西亚#GPE 、#O 菲律宾#GPE 、#O 新加坡#GPE 、#O 泰国#GPE 、#O 汶莱#GPE )#O 和#O 4#MISC 个#O 新#O 成员国#O (#O 越南#GPE 、#O 寮#O 国#O 、#O 缅甸#GPE 、#O 柬埔寨#GPE )#O ，#O 共#O 10#MISC 个#MISC 。#O
+Y
+1716 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 的#O 路段#O 上#O 驾驶#O 。#O
+1717 拉力赛#O 参赛者#O 和#O 他#O 的#O 副驾驶#O 在#O 一些#O 控制点#O 之间#O 驾驶#O 。#O
+Y
+1719 水蕴#O 草为#O 雌雄异株#O 的#O 植物#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+1720 水蕴#O 草为#O 雌雄异株#O ，#O 其#O 雌花#O 和#O 雄花#O 不会#O 出现#O 在#O 同一#O 植株#O 中#O 。#O
+Y
+1722 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O 的#O 水域#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+1723 水蕴草#PERSON 可#O 生长#O 在#O 水深#O 4#MISC 公尺#O 以内#O ，#O 总长#O 可以#O 长达#O 2#MISC 公尺#O 。#O
+Y
+1725 手语#O 并#O 不是#O 世界#O 共通#O 的#O 。#O
+1726 手语#O 并#O 不是#O 世界#O 共通#O 的#O 语言#O 。#O
+Y
+1728 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 的#O 存在#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+1729 1889#MISC 年#MISC ，#O 德国#ORGANIZATION 地理学家#ORGANIZATION 汉斯#ORGANIZATION ·#O 迈尔#PERSON 和#O 奥地利#GPE 登山家#O 路德维希#O ·#O 普特#ORGANIZATION 舍勒#ORGANIZATION 亲自#O 登上#O 了#O 基博#O 峰#O ，#O 拍摄#O 并#O 带回#O 大量#O 赤道#O 雪山#O 的#O 照片#O ，#O 才#O 使得#O 吉力#O 马#O 札#O 罗山#O 最后#O 被#O 欧洲人#DEMONYM 确认#O 。#O
+Y
+1731 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 的#O 真伪#O 。#O
+1732 铅笔#O 除了#O 书写#O ，#O 其中#O 最#O 重要#O 的#O 可以#O 算是#O 鉴别#O 钻石#O 。#O
+Y
+1734 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 作品#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+1735 乔治#PERSON ·#O 卢卡斯#PERSON 最着#O 名#O 的#O 是#O 《#O 星际大战#MISC 》#O 和#O 《#O 法柜奇兵#ORGANIZATION 》#O 系列#O 。#O
+Y
+1737 有时候#O ，#O 生产商#O 会#O 在#O 铅笔#O 的#O 一端#O 装#O 上#O 橡皮擦#O 。#O
+1738 有时候#O ，#O 生产商#O 会为#O 铅笔#O 装#O 上#O 橡皮擦#O 。#O
+Y
+1740 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 的#O 东南部#O 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+1741 水蕴#O 草原#O 产地#O 是#O 在#O 南美洲#LOCATION 气温#O 较#O 高#O 的#O 区域#O ，#O 包括#O 巴西#GPE 、#O 阿根廷#GPE 、#O 乌拉圭#GPE 等#O 地#O 。#O
+Y

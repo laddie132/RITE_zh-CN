@@ -3,14 +3,14 @@
 
 """Third step for RITE: sentence split and grammar analysis"""
 
-import jieba, os
+import jieba
 import text_pair
 from nltk.tag import StanfordNERTagger
 from nltk.tag import StanfordPOSTagger
 from nltk.parse.stanford import StanfordDependencyParser
 from nltk.tokenize.stanford_segmenter import StanfordSegmenter
 
-DEBUG = 1
+DEBUG = 0
 
 
 class NLPCore:
@@ -20,7 +20,7 @@ class NLPCore:
     """
 
     def __init__(self):
-        self.root_path = '../Data/stanfordNLP/'
+        self.root_path = '../Models/stanfordNLP/'
 
         # word segmenter
         self.segmenter = StanfordSegmenter(
@@ -32,7 +32,7 @@ class NLPCore:
 
         # pos tagger
         self.posTagger = StanfordPOSTagger(self.root_path + 'pos-tagger/chinese-distsim.tagger',
-                                           path_to_jar="../Data/stanfordNLP/stanford-postagger.jar")
+                                           path_to_jar=self.root_path + "stanford-postagger.jar")
 
         # named entity recognizer
         self.nerTagger = StanfordNERTagger(self.root_path + 'ner/chinese.misc.distsim.crf.ser.gz',
@@ -45,7 +45,8 @@ class NLPCore:
 
     def split_word_stanford(self, textPair):
         """
-        Stanford Word Segmenter
+        Stanford Word Segmenter, input should be raw text
+        :return: also TextPair with raw string of results
         """
         t1 = self.segmenter.segment(textPair.t1)
         t2 = self.segmenter.segment(textPair.t1)
@@ -68,7 +69,8 @@ class NLPCore:
 
     def pos_tag(self, textPair):
         """
-        Stanford POS Tagger
+        Stanford POS Tagger, input should be splitted
+        :return: also TextPair with raw string of results
         """
         t1_s = textPair.t1.split()
         t2_s = textPair.t2.split()
@@ -83,21 +85,54 @@ class NLPCore:
 
     def ner_tag(self, textPair):
         """
-        Stanford Named Entity Recognizer
+        Stanford Named Entity Recognizer, input should be splitted
+        :return: also TextPair with raw string of results
         """
-        pass
+        t1_s = textPair.t1.split()
+        t2_s = textPair.t2.split()
+
+        t1_ner = ' '.join([ele[0] + '#' + ele[1] for ele in self.nerTagger.tag(t1_s)])
+        t2_ner = ' '.join([ele[0] + '#' + ele[1] for ele in self.nerTagger.tag(t2_s)])
+
+        if DEBUG:
+            print(t1_ner, t2_ner)
+
+        return text_pair.TextPair(t1_ner, t2_ner, textPair.label)
 
     def depen_parse(self, textPair):
         """
-        Stanford Dependency Parser
+        Stanford Dependency Parser, input should be splitted
+        :return: also TextPair with raw string of results
         """
         print([p.tree() for p in self.parser.raw_parse(textPair.t1)])
         # print(list(self.parser.parse(textPair.t1.split())))
+
+
+class TextParse:
+
+    def __init__(self):
+        pass
+
+    @staticmethod
+    def from_segment(tsegment):
+        return tsegment.split()
+
+    @staticmethod
+    def from_pos(tpos):
+        return [ele.split('#') for ele in tpos.split()]
+
+    @staticmethod
+    def from_ner(tner):
+        return [ele.split('#') for ele in tner.split()]
+
+    @staticmethod
+    def from_dep(tdep):
+        pass
 
 
 if __name__ == '__main__':
     nlpcore = NLPCore()
 
     pairList = text_pair.read_text('../Data/test_cut.txt')
-    splitPairList = [nlpcore.pos_tag(t) for t in pairList]
-    text_pair.save_text('../Data/test_pos.txt', splitPairList)
+    splitPairList = [nlpcore.ner_tag(t) for t in pairList]
+    # text_pair.save_text('../Data/test_ner.txt', splitPairList)

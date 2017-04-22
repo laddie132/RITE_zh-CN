@@ -3,22 +3,20 @@
 
 """Second step for RITE: preprocess data"""
 
-import text_pair
+from text_pair import *
 
 
-def convert_time():
-    pass
+def _convert_time(text):
+    return text
 
 
-def convert_num(textPair):
-    pass
+def _convert_num(text):
+    return text
 
 
-def convert_char(textPair):
+def _convert_char(text):
     """
     replace '两' and '双' to '二'
-    :param textPair: 
-    :return: 
     """
 
     idiom_with_two1 = ['国士无双', '比翼双飞', '才貌双全', '才气无双', '慈明无双', '当世无双', '德艺双馨',
@@ -50,35 +48,48 @@ def convert_char(textPair):
                      '两情两愿', '取舍两难', '百两烂盈', '一举两失', '一身两任', '一马不跨两鞍', '扁担没扎，两头打塌',
                      '扁担脱，两头虚', '两虎共斗', '两虎相斗，必有一伤', '两贤相厄']
 
-    t1List = textPair.t1.split(' ')
-    t2List = textPair.t2.split(' ')
+    for i in range(len(idiom_with_two1)):
+        if idiom_with_two1[i] in text:
+            text = text.replace(idiom_with_two1[i], '<%d>' % i)
 
-    def replace_two(tList):
-        for i in range(len(tList)):
-            if '双' not in tList[i] and '两' not in tList[i]:
-                continue
+    for i in range(len(idiom_with_two2)):
+        if idiom_with_two2[i] in text:
+            text = text.replace(idiom_with_two2[i], '[%d]' % i)
 
-            if tList[i] not in idiom_with_two1:
-                tList[i] = tList[i].replace('双', '二')
-            if tList[i] not in idiom_with_two2:
-                tList[i] = tList[i].replace('两', '二')
+    text = text.replace('两', '二').replace('双', '二')
 
-    replace_two(t1List)
-    replace_two(t2List)
+    for i in range(len(idiom_with_two1)):
+        if '<%d>' % i in text:
+            text = text.replace('<%d>' % i, idiom_with_two1[i])
 
-    new_text_pair = text_pair.TextPair(' '.join(t1List), ' '.join(t2List), textPair.label)
-    return new_text_pair
+    for i in range(len(idiom_with_two2)):
+        if '[%d]' % i in text:
+            text = text.replace('[%d]' % i, idiom_with_two2[i])
+
+    return text
 
 
-def convert_unit():
-    pass
+def _convert_unit(text):
+    return text
+
+
+def preprocess(textPair):
+    """
+    preprocessing function for using
+    """
+    t1 = textPair.t1
+    t2 = textPair.t2
+
+    def _prepro(text):
+        text_n = _convert_num(text)
+        text_c = _convert_char(text_n)
+        text_m = _convert_time(text_c)
+        return _convert_unit(text_m)
+
+    return TextPair(_prepro(t1), _prepro(t2), textPair.label)
 
 
 if __name__ == '__main__':
-    # pairList = text_pair.readFromText('../Data/train.txt')
-
-    textPair = text_pair.TextPair('两个 一双', '车位成为', 'Y')
-    newText = convert_char(textPair)
+    textPair = TextPair('两个 一双 半斤八两', '车位成为', 'Y')
+    newText = preprocess(textPair)
     print(newText.t1, newText.t2, newText.label, sep='\n')
-
-    pass
