@@ -9,6 +9,7 @@ from convert_xml import *
 from extract_feature import *
 from base_processing import *
 from preprocessing import *
+from knowledge import *
 from sklearn import svm
 from sklearn.externals import joblib
 
@@ -16,42 +17,46 @@ from sklearn.externals import joblib
 # contruct nlp model
 nlpcore = NLPCore()
 
+# load knowedge library
+load_knowedge()
 
-def prepare_text():
+
+def prepare_text(file_prefix):
     """
-    prepare all the train and test txt for speed
+    prepare the train and test txt for speed
     """
 
-    # train-xml-file
-    convert_to('../Data/train.xml', '../Data/train.txt')
+    print("converting...")
+    convert_to('../Data/' + file_prefix + '.xml', '../Data/' + file_prefix + '.txt')
 
-    train_pair = text_pair.read_text('../Data/train.txt')
-    split_train_pair = [nlpcore.split_word_jieba(t) for t in train_pair]
-    text_pair.save_text('../Data/train_cut.txt', split_train_pair)
+    print("spliting...")
+    tpair = read_text('../Data/' + file_prefix + '.txt')
+    split_tpair = [nlpcore.split_sent_jieba(t) for t in tpair]
+    save_text('../Data/' + file_prefix + '_cut.txt', split_tpair)
 
-    pos_train_pair = [nlpcore.pos_tag(t) for t in split_train_pair]
-    text_pair.save_text('../Data/train_pos.txt', pos_train_pair)
+    print("pos_tagging...")
+    pos_tpair = nlpcore.pos_tag_pairs(split_tpair)
+    save_text('../Data/' + file_prefix + '_pos.txt', pos_tpair)
 
-    ner_train_pair = [nlpcore.ner_tag(t) for t in split_train_pair]
-    text_pair.save_text('../Data/train_ner.txt', ner_train_pair)
+    print("ner_taging...")
+    ner_tpair = nlpcore.ner_tag_pairs(split_tpair)
+    save_text('../Data/' + file_prefix + '_ner.txt', ner_tpair)
+    print("finished")
 
-    # test-xml-file
-    convert_to('../Data/test.xml', '../Data/test.txt')
 
-    test_pair = text_pair.read_text('../Data/test.txt')
-    split_test_pair = [nlpcore.split_word_jieba(t) for t in test_pair]
-    text_pair.save_text('../Data/test_cut.txt', split_test_pair)
-
-    pos_test_pair = [nlpcore.pos_tag(t) for t in split_test_pair]
-    text_pair.save_text('../Data/test_pos.txt', pos_test_pair)
-
-    ner_test_pair = [nlpcore.ner_tag(t) for t in split_test_pair]
-    text_pair.save_text('../Data/test_ner.txt', ner_test_pair)
+def merge_text(file1_prefix, file2_prefix, out_prefix):
+    """
+    merge two file to one
+    """
+    t1pair = read_text('../Data/' + file1_prefix + '.txt')
+    t2pair = read_text('../Data/' + file2_prefix + '.txt')
+    save_text('../Data/' + out_prefix + '.txt', t1pair + t2pair)
+    print("finished")
 
 
 def core(tpair):
     """
-    core function for rite
+    core function for test a pair of text
     :return: text feature vector
     """
 
@@ -59,86 +64,117 @@ def core(tpair):
     tpair = preprocess(tpair)
 
     # base processing
-    tpair_cut = nlpcore.split_word_jieba(tpair)
-    tpair_pos = nlpcore.pos_tag(tpair)
-    tpair_ner = nlpcore.ner_tag(tpair)
-    tpair_dep = nlpcore.depen_parse(tpair)
+    tpair_cut = nlpcore.split_sent_jieba(tpair)
+    tpair_pos = nlpcore.pos_tag(tpair_cut)
+    tpair_ner = nlpcore.ner_tag(tpair_cut)
+    tpair_dep = nlpcore.depen_parse(tpair_cut)
 
     # extract feature
     tfeature = TextFeature(tpair, tpair_cut, tpair_pos, tpair_ner, tpair_dep)
     return tfeature.feature
 
 
-def main(TRAIN=0, TEST=0, SHOW=1):
+def get_accuracy(initial_label, result_label):
+    result = [initial_label[i] == result_label[i] for i in range(len(initial_label))]
 
-    if TRAIN:
-        vec = []
-        label = []
+    num = 0
+    for ele in result:
+        if ele:
+            num += 1
 
-        train_all = text_pair.read_text('../Data/train.txt')
-        train_cut_all = text_pair.read_text('../Data/train_cut.txt')
-        train_pos_all = text_pair.read_text('../Data/train_pos.txt')
-        train_ner_all = text_pair.read_text('../Data/train_ner.txt')
+    return num * 1. / len(initial_label)
 
-        bigram.train(train_cut_all)
 
-        for i in range(len(train_all)):
-            tfea = TextFeature(train_all[i], train_cut_all[i], train_pos_all[i], train_ner_all[i], 0)
-            vec.append(tfea.feature)
-            label.append(train_all[i].label)
+def train(gamma=0.):
+    vec = []
+    label = []
 
-        # training
+    train_all = text_pair.read_text('../Data/train.txt')
+    train_cut_all = text_pair.read_text('../Data/train_cut.txt')
+    train_pos_all = text_pair.read_text('../Data/train_pos.txt')
+    train_ner_all = text_pair.read_text('../Data/train_ner.txt')
+
+    bigram.train(train_cut_all)
+
+    print("extracting feature...")
+    for i in range(len(train_all)):
+        tfea = TextFeature(train_all[i], train_cut_all[i], train_pos_all[i], train_ner_all[i], 0)
+        vec.append(tfea.feature)
+        label.append(train_all[i].label)
+
+        if i % 10 == 0:
+            print(" cur: ", i)
+
+    print("training...")
+    # training
+    if gamma:
+        clf = svm.SVC(gamma=gamma)
+    else:
         clf = svm.SVC()
-        clf.fit(vec, label)
+    clf.fit(vec, label)
 
-        # reserve
-        joblib.dump(clf, '../Models/svm_model.m')
+    # reserve
+    joblib.dump(clf, '../Models/svm_model.m')
+
+    result = clf.predict(vec)
+    rate = get_accuracy(label, result)
+    print("Accuracy: ", rate)
+
+
+def main(SHOW=1):
+    clf = joblib.load('../Models/svm_model.m')
+    bigram.load_model()
+
+    if not SHOW:
+        vec = []
+
+        test_all = text_pair.read_text('../Data/test.txt')
+        test_cut_all = text_pair.read_text('../Data/test_cut.txt')
+        test_pos_all = text_pair.read_text('../Data/test_pos.txt')
+        test_ner_all = text_pair.read_text('../Data/test_ner.txt')
+
+        print("extracting feature...")
+        for i in range(len(test_all)):
+            tfea = TextFeature(test_all[i], test_cut_all[i], test_pos_all[i], test_ner_all[i], 0)
+            vec.append(tfea.feature)
+
+            if i % 10 == 0:
+                print(" cur: ", i)
 
         result = clf.predict(vec)
-        print("Result: ", result)
+        label = [ele.label for ele in test_all]
+        rate = get_accuracy(label, result)
+
+        print("Accuracy: ", rate)
 
     else:
-        clf = joblib.load('../Models/svm_model.m')
-        bigram.load_model()
 
-        if TEST:
-            vec = []
+        # contruct text pair
+        t1 = input("text1: ")
+        t2 = input("text2: ")
+        tpair = TextPair(t1, t2)
 
-            test_all = text_pair.read_text('../Data/test.txt')
-            test_cut_all = text_pair.read_text('../Data/test_cut.txt')
-            test_pos_all = text_pair.read_text('../Data/test_pos.txt')
-            test_ner_all = text_pair.read_text('../Data/test_ner.txt')
+        # get feature
+        vec = core(tpair)
 
-            for i in range(len(test_all)):
-                tfea = TextFeature(test_all[i], test_cut_all[i], test_pos_all[i], test_ner_all[i], 0)
-                vec.append(tfea.feature)
-
-            label = clf.predict(vec)
-            result = [label[i] == test_all[i].label for i in range(len(label))]
-
-            num = 0
-            for ele in result:
-                if ele:
-                   num += 1
-
-            print("Result: ", num * 1. / len(result))
-
-        elif SHOW:
-
-            # contruct text pair
-            t1 = input("text1: ")
-            t2 = input("text2: ")
-            tpair = TextPair(t1, t2)
-
-            # get feature
-            vec = core(tpair)
-
-            # svm classfier
-            result = clf.predict([vec])
-            print("Result: ", result)
+        # svm classfier
+        result = clf.predict([vec])
+        print("Result: ", result)
 
 
 if __name__ == '__main__':
-    # prepare_text()
+    # prepare_text('test')
+    # prepare_text('train')
 
-    main(1, 1, 0)
+    # merge_text("train3", "train2", "train")
+    # merge_text("train3_cut", "train2_cut", "train_cut")
+    # merge_text("train3_pos", "train2_pos", "train_pos")
+    # merge_text("train3_ner", "train2_ner", "train_ner")
+
+    # train(0.4)
+    main(SHOW=1)
+
+    # for gamma in range(4, 5):
+    #     print(gamma / 10.0, end=' ')
+    #     train(gamma / 10.0)
+    #     main(SHOW=0)

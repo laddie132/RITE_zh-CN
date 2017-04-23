@@ -10,7 +10,7 @@ from nltk.tag import StanfordPOSTagger
 from nltk.parse.stanford import StanfordDependencyParser
 from nltk.tokenize.stanford_segmenter import StanfordSegmenter
 
-DEBUG = 0
+DEBUG = 1
 
 
 class NLPCore:
@@ -43,7 +43,7 @@ class NLPCore:
                                                path_to_models_jar=self.root_path + 'stanford-parser-3.7.0-models.jar',
                                                encoding='gbk')
 
-    def split_word_stanford(self, textPair):
+    def split_sent_stanford(self, textPair):
         """
         Stanford Word Segmenter, input should be raw text
         :return: also TextPair with raw string of results
@@ -56,7 +56,27 @@ class NLPCore:
 
         return text_pair.TextPair(t1, t2, textPair.label)
 
-    def split_word_jieba(self, textPair):
+    def split_sents_stanford(self, textPairs):
+        """
+        Stanford Word Segmenter, input should be list of sents
+        :return: also TextPair with raw string of results
+        """
+        sents1 = [textPair.t1 for textPair in textPairs]
+        sents2 = [textPair.t2 for textPair in textPairs]
+
+        split1 = self.segmenter.segment_sents(sents1).split('\n')
+        split2 = self.segmenter.segment_sents(sents2).split('\n')
+
+        rlist = []
+        for i in range(len(textPairs)):
+            rlist.append(text_pair.TextPair(split1[i], split2[i], textPairs[i].label))
+
+            if DEBUG:
+                print(split1[i], split2[i])
+
+        return rlist
+
+    def split_sent_jieba(self, textPair):
 
         jieba.setLogLevel('INFO')
         ger1 = jieba.cut(textPair.t1)
@@ -83,6 +103,29 @@ class NLPCore:
 
         return text_pair.TextPair(t1_tag, t2_tag, textPair.label)
 
+    def pos_tag_pairs(self, textPairs):
+        """
+        Stanford POS Tagger, input should be list of sents
+        :return: also TextPair with raw string of results
+        """
+        sents1 = [textPair.t1.split() for textPair in textPairs]
+        sents2 = [textPair.t2.split() for textPair in textPairs]
+
+        tag1 = self.posTagger.tag_sents(sents1)
+        tag2 = self.posTagger.tag_sents(sents2)
+
+        rlist = []
+        for i in range(len(tag1)):
+            t1_tag = ' '.join([ele[1] for ele in tag1[i]])
+            t2_tag = ' '.join([ele[1] for ele in tag2[i]])
+
+            rlist.append(text_pair.TextPair(t1_tag, t2_tag, textPairs[i].label))
+
+            if DEBUG:
+                print(t1_tag, t2_tag)
+
+        return rlist
+
     def ner_tag(self, textPair):
         """
         Stanford Named Entity Recognizer, input should be splitted
@@ -98,6 +141,29 @@ class NLPCore:
             print(t1_ner, t2_ner)
 
         return text_pair.TextPair(t1_ner, t2_ner, textPair.label)
+
+    def ner_tag_pairs(self, textPairs):
+        """
+        Stanford Named Entity Recognizer, input should be list of sents
+        :return: also TextPair with raw string of results
+        """
+        sents1 = [textPair.t1.split() for textPair in textPairs]
+        sents2 = [textPair.t2.split() for textPair in textPairs]
+
+        tag1 = self.nerTagger.tag_sents(sents1)
+        tag2 = self.nerTagger.tag_sents(sents2)
+
+        rlist = []
+        for i in range(len(tag1)):
+            t1_ner = ' '.join([ele[0] + '#' + ele[1] for ele in tag1[i]])
+            t2_ner = ' '.join([ele[0] + '#' + ele[1] for ele in tag2[i]])
+
+            rlist.append(text_pair.TextPair(t1_ner, t2_ner, textPairs[i].label))
+
+            if DEBUG:
+                print(t1_ner, t2_ner)
+
+        return rlist
 
     def depen_parse(self, textPair):
         """
@@ -133,6 +199,6 @@ class TextParse:
 if __name__ == '__main__':
     nlpcore = NLPCore()
 
-    pairList = text_pair.read_text('../Data/test_cut.txt')
-    splitPairList = [nlpcore.ner_tag(t) for t in pairList]
+    pairList = text_pair.read_text('../Data/test.txt')
+    splitPairList = nlpcore.split_sents_stanford(pairList)
     # text_pair.save_text('../Data/test_ner.txt', splitPairList)

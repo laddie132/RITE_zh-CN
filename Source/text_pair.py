@@ -42,8 +42,8 @@ def read_text(fileName):
 def save_text(filename, pairList):
     f = open(filename, 'w', encoding='utf-8')
     for i in range(len(pairList)):
-        f.write(str(i*3) + ' ' + pairList[i].t1 + '\n')
-        f.write(str(i*3 + 1) + ' ' + pairList[i].t2 + '\n')
+        f.write(str(i + 1) + ' ' + pairList[i].t1 + '\n')
+        f.write(str(i + 1) + ' ' + pairList[i].t2 + '\n')
         f.write(pairList[i].label + '\n')
 
     f.close()

@@ -1,0 +1,1221 @@
+1 据#P 他#PN 所知#VV ，#PU 这是#AD 查尔斯#NR 首次#AD 参加#VV 悉尼#NR -#PU 霍巴特#NR 帆船赛#NN ，#PU 而#AD 查尔斯#NR 一向#AD 是#VC 注重#VV 安全#NN 、#PU 非常#AD 谨慎#VA 的#DEC 人#NN ，#PU 他#PN 更#AD 想#VV 参加#VV 2000#CD 年#M 悉尼#NR 奥运#NR 帆船赛#NN 。#PU
+1 2000#CD 年#M 奥运#NR 在#P 悉尼#NR 举办#VV
+Y
+2 香港#NR 的#DEG 主权#NN 和#CC 领土#NN 是#VC 在#P 1997#NT 年#AD 由#P 英国#NR 归还给#VV 中国#NR 的#SP 。#PU
+2 1997#NT 年#AD 香港回归#VV 中国#NR
+Y
+3 一九九一年#NT 海湾战争#NR 结束#VV 时#LC ,#PU 雅辛#NR 又#AD 带#VV 着#AS 家人#NN 移居#VV 约旦#NR 。#PU
+3 海湾战争#NN 发生#VV 于#P 1991#NT 年#NN
+N
+4 思科公司#NN 是#VC 全球#NN 最大#JJ 的#DEG 互联网#NN 设备#NN 供应商#NN
+4 微软#NR 是#VC 全球#NN 最大#JJ 的#DEG 软件#NN 公司#NN
+N
+5 二次世界大战#NR 时#LC 日本#NR 广岛#NR 遭投#NN 原子弹#NN
+5 广岛#NR 在#P 二次世界大战#NR 时遭#NN 原子弹#NN 轰炸#VV
+Y
+6 由于#P 目前#NT 巴林#NR 国内#NN 局势#NN 紧张#VA ，#PU F1#VV 巴林#NR 大奖赛#NN 组委会#NN 在#P 本周一#NR 正式#AD 官方#NN 宣布#VV 取消#VV 原定#VV 在#P 3#CD 月#NN 11#CD 日至#NN 3#CD 月#NN 13#CD 日#M 在#P 巴林#NR 举行#VV 的#DEC 2011#NT 赛季#NN F1#NN 揭幕战#NN 。#PU
+6 因#P 当前#NT 国内#NN 局势#NN 紧张#VA ，#PU 巴林#NR 官方#NN 宣布#VV 取消#VV F1#NN 揭幕战#NN
+Y
+7 谷歌#NR 中国#NR 工程#NN 研究院#NN 前#JJ 副#JJ 院长#NN 刘骏#NR 已#AD 正式#AD 加入#VV 人民#NN 搜索#NN 网络#NN 股份公司#NN ，#PU 担任#VV 首席#JJ 科学家#NN ，#PU 并#CC 将#AD 全面#AD 领导#VV 公司#NN 技术#NN 相关#JJ 部门#NN 。#PU
+7 人民#NN 搜索#NN 副总经理#NN 宫玉国#NR 已经#AD 离开#VV 人民#NN 搜索#NN 。#PU
+N
+8 朴文#NR 垚#VV 首夺#VV 世界冠军#NN ，#PU 荣升#VV 中国#NR 第#OD 30#CD 位#M 九段#NN 围棋#NN 手#NN 。#PU
+8 朴文#NR 垚#VV 九段#NT 第#OD 30#CD 获得#VV 围棋#NN 世界冠军#NN 。#PU
+N
+9 最#AD 让#VV 她#PN 出名#VV 的#DEC 是#VC 她#PN 为#P 好莱坞#NR 大片#NN 《#PU 泰坦尼克号#NR 》#PU 演唱#VV 的#DEC 主题歌#NN 《#PU 我心依旧#NN 》#PU 和#CC 为#P 《#PU 美女#NN 与#CC 野兽#NN 》#PU 一片#AD 演唱#VV 的#DEC 主题歌#NN ,#PU 这#DT 两首歌#NN 都#AD 获得#VV 了#AS 奥斯卡奖#NR 。#PU
+9 《#PU 我心依旧#NN 》#PU 是#VC 好莱坞#NR 大片#NN 《#PU 泰坦尼克号#NR 》#PU 的#DEG 主题歌#NN
+Y
+10 1998#NT 年#NN 登陆#VV 内地#NN 的#DEC 《#PU 泰坦尼克号#NR 》#PU 曾#AD 获得#VV 3.2#CD 亿元#M 票房#NN
+10 1998#NT 年#NN 引进#VV 大陆#NN 的#DEC 《#PU 泰坦尼克号#NR 》#PU ，#PU 其#PN 票房#NN 是#VC 3.2#CD 亿元#NN
+Y
+11 《#PU 十面埋伏#NN 》#PU 是#VC 一部#NN 著名#JJ 影片#NN
+11 “#PU 十面埋伏#VV ”#PU 、#PU “#PU 鸿门宴#NR ”#PU 、#PU “#PU 楚河汉界#NN ”#PU 、#PU “#PU 四面楚歌#VV ”#PU 等#ETC 是#VC 家喻户晓#VV 的#DEC 中国#NR 历史#NN 典故#NN
+N
+12 张艺谋#NR 执导#VV 的#DEC 新作#NN 《#PU 十面埋伏#NN 》#PU 上映#VV 4#CD 天#M 票房#NN 已#AD 突破#VV 6300#CD 万元#M 人民币#NN ，#PU 超过#VV 同期#NN 《#PU 英雄#NN 》#PU 的#DEG 票房记录#NN 。#PU
+12 《#PU 十面埋伏#NN 》#PU 上映#VV 4#CD 天#M 票房#NN 突破#VV 6300#CD 万元#M 人民币#NN
+Y
+13 《#PU 十面埋伏#NN 》#PU 上映#VV 4#CD 天#M 票房#NN 已#AD 突破#VV 6300#CD 万元#M 人民币#NN ，#PU 超过#VV 同期#NN 《#PU 英雄#NN 》#PU 的#DEG 票房记录#NN 。#PU
+13 《#PU 英雄#NN 》#PU 上映#VV 4#CD 天#M 票房#NN 已#AD 突破#VV 6300#CD 万元#M 人民币#NN ，#PU 超过#VV 同期#NN 的#DEC 《#PU 十面埋伏#NN 》#PU 票房记录#NN 。#PU
+N
+14 著名#JJ 喜剧#NN 表演家#NN 查理#NR ・#NN 卓别林#NR 的#DEG 一根#NR 竹#NR 手杖#NN 14#CD 日#M 在#P 英国伦敦#NR 克里斯蒂#NR 拍卖行#NN 以#P 4.78#CD 万英镑#NR 的#DEG 高价#NN 成交#VV
+14 卓别林#NR 一根#VV 手杖#NN 以#P 4.78#CD 万英镑#NR 拍卖#NN
+Y
+15 有#VE “#PU 东方#NN 卓别林#NR ”#PU 之称#VV 的#DEC 滑稽#JJ 演员#NN 赵本山#NR ,#PU 连续#AD 数年#AD 夺得#VV 中央电视台#NR 春节#NN 联欢晚会#VV “#PU 最受#VV 观众#NN 喜爱#VV 的#DEC 节目#NN ”#PU 的#DEG 桂冠#NN
+15 卓别林#NR 连续#AD 数年#AD 夺得#VV 中央电视台#NR 春节#NN 联欢晚会#VV “#PU 最受#VV 观众#NN 喜爱#VV 的#DEC 节目#NN ”#PU 的#DEG 桂冠#NN
+N
+16 有#VE “#PU 东方#NN 卓别林#NR ”#PU 之称#VV 的#DEC 滑稽#JJ 演员#NN 赵本山#NR ,#PU 连续#AD 数年#AD 夺得#VV 中央电视台#NR 春节#NN 联欢晚会#VV “#PU 最受#VV 观众#NN 喜爱#VV 的#DEC 节目#NN ”#PU 的#DEG 桂冠#NN
+16 赵本山#NR 被#SB 称为#VV “#PU 东方#NN 卓别林#NR ”#PU ，#PU 他#PN 曾经#AD 多次#AD 在#P 中央电视台#NR 春节#NN 联欢晚会#NN 上#LC 演出#VV
+Y
+17 中国#NR 小将#NN 谢赫#NR 五段#NT 15#CD 日#M 在#P 韩国#NR 釜山#NR 进行#VV 的#DEC 第#OD 8#CD 届#M 三星#NR 火灾杯#NN 世界围棋#NN 公开赛#NN 中#LC ，#PU 以半#CD 目的#NN 优势#NN 击败#VV 李昌镐#NR 九段#NR
+17 中国围棋#NR 选手#NN 曾经#AD 战胜#VV 过#AS 李昌镐#NR
+Y
+18 韩国#NR 棋院#NN 1#CD 日#M 公布#VV 韩国#NR 职业#NN 围棋赛#NN 年度#NN 排名表#NN ，#PU 有#VE “#PU 世界围棋#NR 第一#OD 高手#NN ”#PU 之称#VV 的#DEC 李昌镐#NR 9#CD 段#M 稳居#NN 首位#NN 。#PU
+18 李昌镐#NR 九段#NT 有#VE “#PU 世界围棋#NR 第一#OD 高手#NN ”#PU 之称#VV
+Y
+19 微软#NR 表示#VV ，#PU 公司#NN 第二#OD 财政#NN 季度#NN 销售#VV 猛增#VV ，#PU 主要#AD 得益于#VV 新#JJ 推出#NN 的#DEG 视窗#NN XP#NN 操作系统#NN 软件#NN 和#CC XBox#NR 游戏机#NN 的#DEG 热销#NN 。#PU
+19 XBox#NR 是#VC 微软公司#VV 的#DEC 产品#NN
+Y
+20 微软#NR 表示#VV ，#PU 公司#NN 第二#OD 财政#NN 季度#NN 销售#VV 猛增#VV ，#PU 主要#AD 得益于#VV 新#JJ 推出#NN 的#DEG 视窗#NN XP#NN 操作系统#NN 软件#NN 和#CC Xbox#NR 游戏机#NN 的#DEG 热销#NN 。#PU
+20 XBox#NR 是#VC 索尼公司#VV 的#DEC 产品#NN
+N
+21 XBox#NR 是#VC 微软公司#VV 的#DEC 产品#NN
+21 XBox#NR 不是#CC 索尼公司#VV 的#DEC 产品#NN
+Y
+22 黄金周#NN 期间#NN ，#PU 国美#NR 、#PU 苏宁#NR 等#ETC 家电#NN 连锁#JJ 企业#NN 创造#VV 了#AS 较#AD 好#VA 的#DEC 销售#NN 业绩#NN
+22 苏宁#NR 和#CC 国美#NR 是#VC 家电#NN 连锁#JJ 企业#NN
+Y
+23 黄金周#NN 期间#NN ，#PU 国美#NR 、#PU 苏宁#NR 等#ETC 家电#NN 连锁#JJ 企业#NN 创造#VV 了#AS 较#AD 好#VA 的#DEC 销售#NN 业绩#NN
+23 国美#NR 和#CC 苏宁#NR 不是#CC 家电#NN 销售#NN 企业#NN
+N
+24 黄金周#NN 期间#NN ，#PU 国美#NR 、#PU 苏宁#NR 等#ETC 企业#NN 创造#VV 了#AS 较#AD 好#VA 的#DEC 销售#NN 业绩#NN
+24 黄金周#NN 期间#NN ，#PU 一些#CD 家电#NN 连锁#JJ 企业#NN 创造#VV 了#AS 较#AD 好#VA 的#DEC 销售#NN 业绩#NN
+Y
+25 据#P 海关#NN 统计#NN ，#PU 自#P 1997#NT 年#NN 7#CD 月#NN 1#CD 日#M 香港回归#VV 中国#NR 以来#LC ，#PU 截止#P 2002#CD 年底#NT ，#PU 广东#NR 与#CC 香港#NR 的#DEG 进出口#NN 贸易总额#NN 已#AD 突破#VV 两千#CD 亿美元#NN 。#PU
+25 香港#NR 于#P 2002#CD 年底#NT 回归#VV 中国#NR
+N
+26 九寨沟#NR 、#PU 黄龙#NR 旅游#NN 价格#NN 猛涨#VV 引发#VV 争议#NN
+26 九寨沟#NR 位于#VV 四川省#NR 南坪县#NR 中南部#NN ，#PU 素有#VV “#PU 人间仙境#NN 、#PU 童话世界#NN ”#PU 的#DEG 美誉#NN 。#PU
+N
+27 九寨沟#NR 位于#VV 四川省#NR 中南部#NN ，#PU 素有#VV “#PU 人间仙境#NN 、#PU 童话世界#NN ”#PU 的#DEG 美誉#NN 。#PU
+27 九寨沟#NR 位于#VV 四川省#NR 南坪县#NR 中南部#NN ，#PU 素有#VV “#PU 人间仙境#NN 、#PU 童话世界#NN ”#PU 的#DEG 美誉#NN 。#PU
+N
+28 九寨沟#NR 位于#VV 四川省#NR 南坪县#NR 中南部#NN ，#PU 素有#VV “#PU 人间仙境#NN 、#PU 童话世界#NN ”#PU 的#DEG 美誉#NN 。#PU
+28 九寨沟#NR 位于#VV 中国#NR 四川省#NR ，#PU 素有#VV “#PU 人间仙境#NN 、#PU 童话世界#NN ”#PU 的#DEG 美誉#NN 。#PU
+Y
+29 随着#P 经济#NN 的#DEG 快速#JJ 发展#NN 和#CC 人口#NN 的#DEG 继续#JJ 增长#NN ，#PU 2025#CD 年#M 中国#NR 的#DEG 碳#NN 排放#NN 有#VE 可能#NN 超过#VV 美国#NR ，#PU 成为#VV 世界#NN 第一#OD 。#PU
+29 中国#NR 二氧化碳#NN 排放量#NN 目前#NT 位居#VV 世界#NN 第二#OD 。#PU
+Y
+30 中国#NR 的#DEG 二氧化碳#NN 排放量#NN 目前#NT 位居#VV 世界#NN 第二#OD ，#PU 排#VV 在#P 美国#NR 之后#LC 。#PU
+30 美国#NR 和#CC 中国#NR 的#DEG 二氧化碳#NN 排放量#NN 目前#NT 分别#AD 居#VV 世界#NN 前#JJ 两位#NN 。#PU
+Y
+31 美国#NR 二氧化碳#NN 排放量#NN 目前#NT 位居#VV 世界#NN 第一#OD 。#PU
+31 中国#NR 二氧化碳#NN 排放量#NN 目前#NT 位居#VV 世界#NN 第二#OD 。#PU
+N
+32 美国#NR 二氧化碳#NN 排放量#NN 目前#NT 位居#VV 世界#NN 第二#OD 。#PU
+32 中国#NR 二氧化碳#NN 排放量#NN 目前#NT 位居#VV 世界#NN 第二#OD 。#PU
+N
+33 2003#CD 年#M ，#PU 小#JJ 威廉姆斯#NR 在#P 温布尔登#NR 网球#NN 公开赛#NN 女单#NN 决赛#NN 中#LC 击败#VV 了#AS 她#PN 的#DEG 姐姐#NN ，#PU 蝉联冠军#VV 。#PU
+33 2003#CD 年#M ，#PU 小#JJ 威廉姆斯#NR 在#P 温网#NN 公开赛#NN 女单#NN 决赛#NN 中#LC 击败#VV 了#AS 大#JJ 威廉姆斯#NR ，#PU 蝉联冠军#VV 。#PU
+Y
+34 2003#CD 年#M ，#PU 小#JJ 威廉姆斯#NR 在#P 温网#NN 公开赛#NN 女单#NN 决赛#NN 中#LC 击败#VV 了#AS 大#JJ 威廉姆斯#NR ，#PU 首次#AD 获得#VV 该#DT 赛事#NN 冠军#NN 。#PU
+34 2003#CD 年#M ，#PU 小#JJ 威廉姆斯#NR 在#P 温网#NN 公开赛#NN 女单#NN 决赛#NN 中#LC 击败#VV 了#AS 大#JJ 威廉姆斯#NR ，#PU 蝉联冠军#VV 。#PU
+N
+35 2003#CD 年#M ，#PU 小#JJ 威廉姆斯#NR 在#P 温网#NN 公开赛#NN 女单#NN 决赛#NN 中#LC 击败#VV 了#AS 大#JJ 威廉姆斯#NR ，#PU 蝉联冠军#VV 。#PU
+35 2003#CD 年#M ，#PU 小#JJ 威廉姆斯#NR 在#P 温网#NN 公开赛#NN 女单#NN 决赛#NN 中#LC 击败#VV 对手#NN ，#PU 蝉联冠军#VV 。#PU
+Y
+36 1996#NT 年#NN 9#CD 月#NN ，#PU 国际足联#NN 决定#VV 1998#NT 年#NN 世界杯#NR 参赛队#NN 增至#VV 32#CD 支#M ，#PU 比#P 1994#NT 年#NN 美国#NR 世界杯#NR 增加#VV 8#CD 个#M 名额#NN 。#PU
+36 1994#NT 年#NN 世界杯#NR 在#P 美国#NR 举办#VV
+Y
+37 1996#NT 年#NN 9#CD 月#NN ，#PU 国际足联#NN 决定#VV 1998#NT 年#NN 世界杯#NR 参赛队#NN 增至#VV 32#CD 支#M ，#PU 比#P 1994#NT 年#NN 美国#NR 世界杯#NR 增加#VV 8#CD 个#M 名额#NN 。#PU
+37 国际足联#NN 在#P 1996#NT 年#NN 9#CD 月#NN 决定#VV 1998#NT 年#NN 世界杯#NR 参赛队#NN 增至#VV 32#CD 支#M ，#PU 比#P 1994#NT 年#NN 美国#NR 世界杯#NR 增加#VV 8#CD 个#M 名额#NN 。#PU
+Y
+38 姚明#NR 在#P 2002#CD 年#M NBA#NR 选秀#NN 中#LC 被#SB 休斯敦#NR 火箭队#NR 选#VV 为#P 状元#NN 新秀#NN 。#PU
+38 姚明#NR 2002#CD 年#M 在#P NBA#NR 选秀#NN 中#LC 被选为#NR 状元#NN 新秀#NN 。#PU
+Y
+39 姚明#NR 在#P 2002#CD 年#M NBA#NR 选秀#NN 中#LC 被#SB 休斯敦#NR 火箭队#NR 选#VV 为#P 状元#NN 新秀#NN 。#PU
+39 姚明#NR 从#P 2001#CD 年#M 开始#VV 在#P NBA#NR 打球#VV 。#PU
+N
+40 姚明#NR 在#P 2002#CD 年#M NBA#NR 选秀#NN 中#LC 被#SB 休斯敦#NR 火箭队#NR 选#VV 为#P 状元#NN 新秀#NN 。#PU
+40 一个#CD 中国篮球#NN 运动员#NN 在#P 2002#CD 年#M NBA#NR 选秀#NN 中#LC 被#SB 休斯敦#NR 火箭队#NR 选#VV 为#P 状元#NN 新秀#NN 。#PU
+Y
+41 2005#CD 年#M 4#CD 月#NN 19#CD 日#M ，#PU 美军#NN 将#AD 关押#VV 在#P 关塔那摩#NR 美军基地#VV 的#DEC 17#CD 名#M 阿富汗#NR 战俘#NN 移交#VV 给#VV 阿富汗#NR 政府#NN 。#PU
+41 2005#CD 年#M 4#CD 月#NN 19#CD 日#M ，#PU 美军#NN 向#P 阿富汗#NR 政府#NN 移交#VV 十七名#NN 战俘#NN
+Y
+42 2005#CD 年#M 4#CD 月#NN 19#CD 日#M ，#PU 美军#NN 将#AD 关押#VV 在#P 关塔那摩#NR 美军基地#VV 的#DEC 17#CD 名#M 阿富汗#NR 战俘#NN 移交#VV 给#VV 阿富汗#NR 政府#NN 。#PU
+42 战俘#NN 移交#NN 仪式#NN 4#CD 月#NN 19#CD 日#M 在#P 阿富汗#NR 最高法院#NN 举行#VV 。#PU
+N
+43 “#PU 9#CD ・#NN 11#CD ”#PU 事件#NN 发生#VV 后#LC ，#PU 与#P 本#DT ・#NN 拉登#VV 的#DEC “#PU 基地#NN ”#PU 组织#NN 有#VE 牵连#NN 的#DEC 阿布沙#NR 耶夫#NN 被#LB 美国#NR 列为#VV 恐怖组织#VV 。#PU
+43 “#PU 9#CD ・#NN 11#CD ”#PU 事件#NN 发生#VV 后#LC ，#PU 美国#NR 把#BA 与#P 本#DT ・#NN 拉登#VV 的#DEC “#PU 基地#NN ”#PU 组织#NN 有#VE 牵连#NN 的#DEC 阿布沙#NR 耶夫#NN 列为#VV 恐怖组织#VV 。#PU
+Y
+44 “#PU 9#CD ・#NN 11#CD ”#PU 事件#NN 发生#VV 后#LC ，#PU 美国#NR 把#BA 与#P 本#DT ・#NN 拉丹#NR 的#DEG “#PU 基地#NN ”#PU 组织#NN 有#VE 牵连#NN 的#DEC 阿布沙#NR 耶夫#NN 列为#VV 恐怖组织#VV 。#PU
+44 “#PU 9#CD ・#NN 11#CD ”#PU 事件#NN 发生#VV 后#LC ，#PU 美国#NR 把#BA 与#P 本#DT ・#NN 拉登#VV 的#DEC “#PU 基地#NN ”#PU 组织#NN 有#VE 牵连#NN 的#DEC 阿布沙#NR 耶夫#NN 列为#VV 恐怖组织#VV 。#PU
+Y
+45 “#PU 9#CD ・#NN 11#CD ”#PU 事件#NN 发生#VV 后#LC ，#PU 美国#NR 把#BA 与#P 本#DT ・#NN 拉登#VV 的#DEC “#PU 基地#NN ”#PU 组织#NN 有#VE 牵连#NN 的#DEC 阿布沙#NR 耶夫#NN 列为#VV 恐怖组织#VV 。#PU
+45 阿布沙#NR 耶夫#NN 与#P 本#DT ・#NN 拉登#VV 的#DEC “#PU 基地#NN ”#PU 组织#NN 有#VE 牵连#NN 。#PU
+Y
+46 普京#NR 于#P 2000#CD 年#M 当选#VV 为#VC 俄罗斯#NR 总统#NN ，#PU 并于#VV 2004#CD 年#M 3#CD 月#NN 14#CD 日#M 在#P 大选#NN 中#LC 再度#AD 竞选#VV 获胜#VV ，#PU 连任#VV 成功#VA 。#PU
+46 俄罗斯#NR 前#JJ 总统#NN 叶利钦#NR 1999#CD 年#M 12#CD 月#NN 31#CD 日#M 宣布#VV 辞去#VV 总统#NN 职务#NN ，#PU 并#CC 宣布#VV 由#P 普京#NR 代行#VV 总统#NN 职务#NN 。#PU
+N
+47 普京#NR 于#P 2000#CD 年#M 3#CD 月#NN 当选#VV 为#VC 俄罗斯#NR 总统#NN ，#PU 并于#VV 2004#CD 年#M 3#CD 月#NN 14#CD 日#M 在#P 大选#NN 中#LC 再度#AD 竞选#VV 获胜#VV ，#PU 连任#VV 成功#VA 。#PU
+47 普京#NR 于#P 2000#CD 年#M 3#CD 月#NN 成为#VV 俄罗斯联邦#NR 第二任#NR 总统#NN 。#PU
+N
+48 普京#NR 于#P 2000#CD 年#M 3#CD 月#NN 当选#VV 为#VC 俄罗斯#NR 总统#NN ，#PU 并于#VV 2004#CD 年#M 3#CD 月#NN 14#CD 日#M 在#P 大选#NN 中#LC 再度#AD 竞选#VV 获胜#VV ，#PU 连任#VV 成功#VA 。#PU
+48 普京#NR 于#P 2004#CD 年#M 3#CD 月#NN 在#P 俄罗斯#NR 大选#NN 中#LC 再度#AD 竞选#VV 获胜#VV ，#PU 连任#VV 总统#NN 。#PU
+Y
+49 到#P 14#CD 日#M ，#PU 北京大学#NR 、#PU 清华大学#NR 、#PU 人民大学#NR 、#PU 北京#NR 示范#NN 大学#NN 和#CC 中国政法大学#NR 等#ETC 5#CD 所#M 高校#NN 自主#JJ 招生#NN 方案#NN 已#AD 基本#AD 确定#VV ，#PU 其中#NN 5#CD %#CD 的#DEG 自主#JJ 招生#NN 名额#NN 都#AD 瞄准#VV 了#AS 创新型#JJ 特长生#NN 。#PU
+49 到#P 3#CD 月#NN 14#CD 日#M ，#PU 北大#NR 、#PU 清华#NR 、#PU 人大#NN 、#PU 北师大#NR 和#CC 中国政法大学#NR 等#ETC 5#CD 所#M 高校#NN 自主#JJ 招生#NN 方案#NN 已#AD 基本#AD 确定#VV ，#PU 其中#NN 5#CD %#CD 的#DEG 自主#JJ 招生#NN 名额#NN 都#AD 瞄准#VV 了#AS 创新型#JJ 特长生#NN 。#PU
+Y
+50 北大#NR 、#PU 清华#NR 、#PU 人大#NN 、#PU 北师大#NR 和#CC 中国政法大学#NR 等#ETC 5#CD 所#M 高校#NN 自主#JJ 招生#NN 方案#NN 已#AD 基本#AD 确定#VV ，#PU 其中#NN 5#CD %#CD 的#DEG 自主#JJ 招生#NN 名额#NN 都#AD 瞄准#VV 了#AS 创新型#JJ 特长生#NN 。#PU
+50 北京#NR 五所#NN 高校#NN 基本#AD 确定#VV 自主#NN 招生#NN 方案#NN ，#PU 名额#NN 限定#VV 在#P 总#JJ 招生数#NN 的#DEG 百分之五#CD 。#PU
+Y
+51 1960#CD 年#M 12#CD 月#NN 马亨德#NR 拉#VV 国王#NN 亲政#NN ，#PU 1961#NT 年#NN 1#CD 月#NN 宣布#VV 禁止#VV 一切#DT 政党#NN 活动#NN
+51 1960#CD 年#M 马亨德#NR 拉#VV 国王#NN 恢复#VV 君主专制#NN
+Y
+52 国王#NN 马亨德#NR 拉于#VV 1960#CD 年#M 12#CD 月#NN 15#CD 日#M 下令#VV 解散#VV 大会党#NR 内阁#NN 和#CC 议会#NN ，#PU 宣布#VV 亲自#AD 执政#VV 恢复#VV 君主#NN 集权#NN
+52 1960#CD 年#M 马亨德#NR 拉#VV 国王#NN 恢复#VV 君主专制#NN
+Y
+53 廓尔喀#NN 族#NN 是#VC 蒙古人#NN 的#DEG 后裔#NN ，#PU 他们#PN 经#P 中亚#NR 辗转#AD 来到#VV 尼泊尔#NR 建立#VV 了#AS 廓尔喀#NN 公国#NN 。#PU
+53 廓尔喀#NR 族#NN 入侵#VV 尼泊尔#NR
+Y
+54 1814#CD 年#M 至#CC 1816#CD 年#M 英国人#NN 从北#VV 印度#NR 入侵#VV ，#PU 后#AD 签订#VV 条约#NN 使#VV 尼泊尔#NR 丧失#VV 部分#CD 领土#NN
+54 1815#CD 年#M 英国#NR 与#CC 尼泊尔#NR 签订#VV 了#AS “#PU 塞#NR 格里#NR 条约#NN ”#PU
+N
+55 1951#NT 年#NN 2#CD 月#NN 18#CD 日#NN ，#PU 尼泊尔#NR 国王#NN 狄#VV 里布#NN 凡#AD 颁布#VV 临时#JJ 宪法#NN ，#PU 实行#VV 君主立宪制#NN
+55 尼泊尔#NR 1951#NT 年#NN 曾#AD 制定#VV 宪法#NN
+Y
+56 1970#CD 年#M 比兰德拉#NR 国王#NN 和#CC 皇后#NN 艾什#NR 瓦#VV 尔雅#NR 结婚#VV
+56 比兰德拉#NR 和#CC 艾什#NR 瓦#VV 尔雅#NR 是#VC 夫妻#NN
+Y
+57 四十岁#VV 的#DEC 尼泊尔#NR 登山#NN 向导#NN 阿帕#NR ·#PU 谢#NR 尔巴#NR 第十一次#AD 攀登#VV 最高峰#NN 珠穆朗玛峰#NR ，#PU 创下#VV 登顶#VV 次数#NN 最多#AD 的#DEV 记录#VV
+57 尼泊尔#NR 知名#JJ 向导#NN 阿帕#NR ·#PU 谢#NR 尔巴#NR 已#AD 登上#VV 珠峰#NN 11#CD 次#M ，#PU 是#VC 世界纪录#NN 保持者#NN
+Y
+58 尼泊尔#NR 毛派#NN 叛乱分子#NN 攻击#NN 安全#NN 警卫#NN 哨站#NN
+58 尼泊尔#NR 毛派#NN 游击队#NN 攻击#VV 民航#NN 飞机#NN
+N
+59 尼泊尔#NR 叛乱分子#NN 攻击#NN 造成#VV 至少#AD 四十名#CD 警察#NN 丧生#VV
+59 尼泊尔#NR 叛乱分子#NN 杀害#VV 三十九#CD 名#M 警察#NN 和#CC 一名#JJ 平民#NN
+N
+60 乾隆#NR 五十六年#NT ，#PU 尼泊尔#NR 廓尔喀#NN 族#NN 入侵#VV ，#PU 福康安#NR 奉旨#VV 反击#VV 入侵#VV 西藏#NR 的#DEG 廓尔喀#NN
+60 1757#CD 年#M 廓尔喀#NN 族#NN 入侵#VV 尼泊尔#NR
+N
+61 尼泊尔#NR 毛派#NN 叛乱份子#NN 在#P 新#JJ 国王#NN 大寿#NN 前夕#NN 发动#VV 攻击#NN
+61 在#P 新#JJ 国王#NN 大寿#NN 前夕#NN ，#PU 尼泊尔#NR 毛派#NN 叛乱份子#NN 发动#VV 攻击#NN
+Y
+62 恐怖份子#NN 造成#VV 39#CD 名#M 警察#NN 及#CC 一位#JJ 平民#NN 身亡#VV
+62 恐怖份子#NN 杀害#VV 三十九#CD 名#M 警察#NN 和#CC 一名#JJ 平民#NN
+Y
+63 来自#VV 新西兰#NR 的#DEC 埃德蒙#NR ‧#NN 希拉里#NR 爵士#NN 与#CC 夏#NN 尔巴#NR 人丹增#VV ·#PU 诺尔#NR 盖#VV 首度#AD 成功#VV 登顶#VV 后#LC ，#PU 至今已有#VV 约#AD 三千#CD 人#NN 前来#VV 攀登#VV 珠峰#NN
+63 希拉里#NR 爵士#NN 是#VC 首位#NN 成功#VV 攀#VV 上#VV 珠峰#NN 的#DEC 人#NN
+Y
+64 三十五岁#VV 的#DEC 田部#NN 井淳子#NN 成功#AD 登上#VV 圣母#NN 峰#NN ，#PU 成为#VV 首位#NN 女性#NN 攀登者#NN
+64 田部#NN 井淳子#NN 成为#VV 世界#NN 上#LC 首位#NN 登上#VV 圣母#NN 峰#NN 的#DEC 女性#NN
+Y
+65 吴锦雄#NR 参加#VV 两岸#NN 联登#VV ,#PU 成功#AD 成为#VV 首位#NN 登#VV 圣母#NN 峰顶#NN 台湾人#NN
+65 吴锦雄#NR 登上#VV 圣母#NN 峰#NN ，#PU 是#VC 台湾#NR 第一位#OD 登峰#NN 成功者#NN
+Y
+66 日本#NR 人田部#NN 井淳子#NN 从#P 南坡#NR 登上#VV 珠穆朗玛峰#NR ，#PU 成为#VV 世界#NN 上#LC 首位#NN 登上#VV 珠峰#NN 的#DEC 女性#NN
+66 田部#NN 井淳子#NN 成功#AD 登上#VV 珠穆朗玛峰#NR ，#PU 成为#VV 首位#NN 女性#NN 攀登者#NN
+Y
+67 希拉里#NR 爵士#NN （#PU 或译#AD 希拉#NR 瑞#NR ）#PU 是#VC 首位#NN 成功#VV 攀#VV 上#VV 珠穆朗玛峰#NR 的#DEC 人#NN
+67 希拉#NR 瑞是#AD 有#VE 纪录#NN 以来#LC 第#OD 1#CD 位#M 登上#VV 珠穆朗玛峰#NR 的#DEC 人#NN
+Y
+68 1945#CD 年#M 至#CC 1998#NT 年#NN ，#PU 中国#NR 举行#VV 过约#NR 五十#CD 次#M 的#DEG 核试验#NN
+68 中国#NR 在#P 30#CD 多年#NN 的#DEG 时间#NN 里#LC 举行#VV 过约#JJ 五十#CD 次#M 的#DEG 核试验#NN ，#PU 与#P 美苏#NR 相比#VV 次数#NN 少#AD 很多#CD
+N
+69 1964#CD 年#M 10#CD 月#NN 中国#NR 试爆#VV 第一颗#OD 原子弹#NN 后#LC ，#PU 中国#NR 核工业#NN 的#DEG 发展#NN 加快#VV 了#AS
+69 1964#CD 年#M 中国#NR 第一次#AD 试爆#VV 原子弹#NN
+Y
+70 1964#CD 年#M 印度#NR 第一次#AD 试爆#VV 原子弹#NN
+70 1964#CD 年#M 10#CD 月#NN 中国#NR 成功#AD 试爆#VV 第一颗#OD 原子弹#NN
+N
+71 20#OD 世纪#NN 80#CD 年代#NN 末期#NN 美国#NR 每年#AD 进行#VV 的#DEC 核试验#NN 已经#AD 缩减到#VV 十次#NN 以下#LC
+71 美国#NR 第一次#AD 成功#AD 试爆#VV 氢弹#NN 威力#NN 超过#VV 广岛#NR 原子弹#NN 爆炸#VV 一千倍#CD
+N
+72 1999#CD 年#M 4#CD 月#NN 切尔诺贝利#NR 病毒#NN 总共#AD 造成#VV 逾#AD 200#CD 万台#M 电脑#NN 无法#AD 开机#VV
+72 一九九九年#NT 四月#NT 切尔诺贝利#NR 病毒#NN 总共#AD 造成#VV 逾#AD 两百万#CD 台#M 电脑#NN 无法#AD 开机#VV
+Y
+73 西安事变#NR 蒋介石#NR 答应#VV 抗日#NN 后#LC ，#PU 张学良#NR 护送#VV 蒋介石#NR 回#VV 南京#NR
+73 西安事变#NR 后#LC 张学良#NR 遭到#VV 监禁#NN
+N
+74 西安事变#NR 蒋介石#NR 答应#VV 抗日#NN 后#LC ，#PU 张学良#NR 护送#VV 蒋介石#NR 回#VV 南京#NR
+74 西安事变#NR 后#LC 张学良#NR 护送#VV 蒋介石#NR 回#VV 南京#NR
+Y
+75 张学良#NR 自从#P 在#P 西北地区#NR 实行#VV 联共#VV 抗日#NN 之后#LC ，#PU 曾多次#NR 劝谏#VV 蒋介石#NR 停止#VV 内战#NN
+75 张学良#NR 要#VV 抗日#VV ，#PU 但#AD 蒋介石#NR 要#VV 剿共#VV ，#PU 两人#NN 政治立场#NN 相左#VV
+Y
+76 张学良#NR 发动#VV 西安事变#NN ，#PU 绑架#VV 蒋介石#NR ，#PU 逼#VV 他#PN 抗日#NN
+76 张学良#NR 发动#VV 西安事变#NN ，#PU 逼#VV 蒋#NR 抗日#NN
+Y
+77 第五次#AD 剿共#VV 时#LC ，#PU 蒋介石#NR 任命#VV 张学良#NR 为豫#VV 鄂皖#VV 三省#NR 剿共#NN 副司令#NN
+77 张学良#NR 曾#AD 被#SB 任命#VV 为#VC “#PU 鄂豫皖#NN 剿共#NN 副总司令#NN ”#PU
+Y
+78 蒋介石#NR 于#P 1946#CD 年#M 10#CD 月#NN 将#BA 张学良#NR 转#VV 至#P 台湾#NR 继续#VV 软禁#VV ，#PU 并#CC 限制#VV 人身自由#NN
+78 蒋介石#NR 将#AD 张学良#NR 带到#VV 台湾#NR 软禁#VV
+Y
+79 蒋介石#NR 与#CC 张学良#NR 都#AD 曾#AD 追求#VV 宋美龄#NR
+79 蒋介石#NR 不杀#VV 张学良#NR 皆#AD 因#P 宋美龄#NR
+N
+80 小泉#NR 纯一#AD 郎#VV 的#DEC 长子#NN 是#VC 艺人#NN 小泉#NR 孝#VV 太郎#NN
+80 小泉#NR 纯一#AD 郎#VV 的#DEC 大儿子#NN 是#VC 小泉#NR 孝#VV 太郎#NN
+Y
+81 小泉#NR 纯一#AD 郎#VV 的#DEC 长子#NN 是#VC 艺人#NN 小泉#NR 孝#VV 太郎#NN
+81 小泉#NR 孝#VV 太郎#NN 是#VC 位#M 艺人#NN
+Y
+82 小泉#NR 纯一#NR 郎#VV 1998#NT 年#NN 再度#AD 角逐#VV 自民党#NR 总裁#NN ，#PU 仍#AD 失败#VV
+82 小泉#NR 纯一#AD 郎#VV 角逐#VV 自民党#NR 总裁#NN 至少#AD 失败#VV 两次#NN
+Y
+83 小泉#NR 纯一#NR 郎#VV 1998#NT 年#NN 再度#AD 角逐#VV 自民党#NR 总裁#NN ，#PU 仍#AD 失败#VV
+83 小泉#NR 纯一#AD 郎#VV 角逐#VV 自民党#NR 总裁#NN 失败#VV 一次#AD
+N
+84 小泉#NR 纯一#NR 郎#VV 2001#CD 年#M 赢得#VV 自民党#NR 总裁#NN 选战#NN
+84 小泉#NR 纯一#NR 郎#VV 2001#CD 年#M 未#AD 赢得#VV 自民党#NR 总裁#NN 选战#NN
+N
+85 小泉#NR 纯一#NR 郎#VV 2001#CD 年#M 赢得#VV 自民党#NR 总裁#NN 选战#NN
+85 小泉#NR 纯一#NR 郎#VV 1998#NT 年#NN 再度#AD 角逐#VV 自民党#NR 总裁#NN ，#PU 仍#AD 失败#VV
+N
+86 小泉#NR 纯一#NR 郎#VV 2001#CD 年#M 赢得#VV 自民党#NR 总裁#NN 选战#NN
+86 小泉#NR 纯一#AD 郎#VV 曾#AD 赢得#VV 自民党#NR 总裁#NN 选战#NN
+Y
+87 张学良#NR 1900#CD 年#M 6#CD 月#NN 3#CD 日#M 出生#VV ，#PU 1920#CD 年#M 官拜#NN 少将#NN
+87 张学良#NR 二十岁#CD 官拜#NN 少将#NN
+Y
+88 张学良#NR 1920#CD 年#M (#PU 二十岁#CD )#PU 官拜#NN 少将#NN
+88 张学良#NR 当#VV 上#VV 少将#NN 时#LC 是#VC 20#CD 岁#M
+Y
+89 张学良#NR 1920#CD 年#M (#PU 二十岁#CD )#PU 官拜#NN 少将#NN
+89 张学良#NR 1920#NT 年升#VV 为#VV 少将#NN
+Y
+90 张学良#NR 的#DEG 父亲#NN 是#VC 东北#NN 军阀#NN 张作霖#NR
+90 东北#NN 军阀#NN 张作霖#NR 是#VC 张学良#NR 的#DEG 爸爸#NN
+Y
+91 阿富汗#NR 塔利班#NR 政权#NN 炸毁#VV 巴米扬#NR 大佛#NN
+91 遭#VV 塔利班#NR 政权#NN 炸毁#VV 的#DEC 是#VC 巴米扬#NR 大佛#NN
+Y
+92 张学良#NR 一九五四年#NT 写#VV 了#AS 〈#PU 西安事变#NR 反省#VV 录#VV 〉#PU
+92 〈#PU 西安事变#NR 反省#VV 录#VV 〉#PU 的#DEC 作者#NN 是#VC 张学良#NR
+Y
+93 张学良#NR 一九五四年#NT 写#VV 了#AS 〈#PU 西安事变#NR 反省#VV 录#VV 〉#PU
+93 张学良#NR 1955#CD 年#M 写#VV 了#AS 〈#PU 西安事变#NR 反省#VV 录#VV 〉#PU
+N
+94 张学良#NR 一九五四年#NT 写#VV 了#AS 〈#PU 西安事变#NR 反省#VV 录#VV 〉#PU
+94 〈#PU 西安事变#NR 反省#VV 录#VV 〉#PU 是#VC 张学良#NR 的#DEG 作品#NN
+Y
+95 张学良#NR 1928#CD 年#M (#PU 二十八岁#CD )#PU 当#P 上#DT 总司令#NN 成为#VV “#PU 东北#NN 王#NN ”#PU
+95 张学良#NR 有#VE 东北#NN 王之称#VV
+Y
+96 张学良#NR 1928#CD 年#M (#PU 二十八岁#CD )#PU 当#P 上#DT 总司令#NN 成为#VV “#PU 东北#NN 王#NN ”#PU
+96 张学良#NR 的#DEG 总司令#NN 叫做#VV “#PU 东北#NN 王#NN ”#PU
+N
+97 张学良#NR 挥军#VV 入关#VV ，#PU 瓦解#VV 冯玉祥#NR 、#PU 阎锡山#NR 两军#NN ,#PU 促成#VV 国家#NN 再次#AD 统一#VA
+97 张学良#NR 与#CC 冯玉祥#NR 、#PU 阎锡山#NR ，#PU 促成#VV 国家#NN 再次#AD 统一#VA
+N
+98 张学良#NR 挥军#VV 入关#VV ，#PU 瓦解#VV 冯玉祥#NR 、#PU 阎锡山#NR 两军#NN
+98 冯玉祥#NR 、#PU 阎锡山#NR 两军#NN 与#CC 张学良#NR 军队#NN 为#P 敌对#JJ 关系#NN
+Y
+99 张学良#NR 挥军#VV 入关#VV ，#PU 瓦解#VV 冯玉祥#NR 、#PU 阎锡山#NR 两军#NN
+99 张学良#NR 的#DEG 军队#NN 被#SB 冯玉祥#NR 、#PU 阎锡山#NR 打败#VV
+N
+100 CIH#NR 是#VC 一种#AD 电脑病毒#VV ，#PU 病毒#NN 作者#NN 撰写#VV 动机#NN 和#CC 切尔诺贝利#NR 事件#NN 有关#VV ，#PU 因此#AD CIH#NR 病毒#NN 也#AD 被称作#VV 切尔诺贝利#NR （#PU Chernobyl#NR ）#PU 病毒#NN 。#PU
+100 切尔诺贝利#NR 病毒#NN 是#VC 一种#CD 电脑病毒#NN
+Y
+101 切尔诺贝利#NR 病毒#NN CIH#NR 1.2#CD 、#PU CIH#NN 1.3#CD 在#P 4#CD 月#NN 26#CD 日#M 发病#VV
+101 切尔诺贝利#NR 病毒#NN CIH#NR 病毒#NN 的#DEG 1.2#CD 和#CC 1.3#CD 版#M 发作#VV 日期#NN 为#VC 4#CD 月#NN 26#CD 日#M
+Y
+102 安南#NR 来自#VV 非洲#NR 加纳#NR
+102 安南#NR 来自#VV 亚洲#NR
+N
+103 安南#NR 来自#VV 非洲#NR 加纳#NR
+103 安南#NR 出身#VV 于#P 非洲#NR 加纳#NR
+Y
+104 4#CD 月#NN 26#CD 日#M 当天#NT ，#PU 有#VE 3#CD 种#M 版本#NN 的#DEG CIH#NN 同时#AD 发病#VV
+104 CIH#NR 病毒#NN ，#PU 4#CD 月#NN 26#CD 日#M 只有#AD 1.2#CD 和#CC 1.3#CD 版#M 发作#VV
+N
+105 安南#NR 2001#NT 年续#AD 任#VV 联合国#NR 秘书长#NN
+105 安南#NR 曾任#NR 联合国#NR 秘书长#NN
+Y
+106 安南#NR 2001#NT 年续#AD 任#VV 联合国#NR 秘书长#NN
+106 安南#NR 至少#AD 担任#VV 过#AS 二届#NR 联合国#NR 秘书长#NN
+Y
+107 安南#NR 认为#VV 世界#NN 应#VV 注意#VV 贫穷#NN 、#PU 违反#VV 人权#NN 、#PU 非洲#NR 的#DEG 冲突#NN 以及#CC 爱滋病#NN 蔓延#NN 等#ETC 问题#NN
+107 安南#NR 主张#VV 世界#NN 应#VV 注意#VV 贫穷#NN 、#PU 违反#VV 人权#NN 、#PU 非洲#NR 的#DEG 冲突#NN 和#CC 爱滋病#NN 蔓延#NN 等#ETC 问题#NN
+Y
+108 安南#NR 把#BA 全球#NN 关注#VV 焦点#NN 集中#VV 在#P 贫穷#NN 、#PU 违反#VV 人权#NN 、#PU 非洲#NR 的#DEG 冲突#NN 和#CC 爱滋病#NN 蔓延#NN 等#ETC
+108 安南#NR 对于#P 贫穷#NN 、#PU 违反#VV 人权#NN 、#PU 非洲#NR 的#DEG 冲突#NN 和#CC 爱滋病#NN 蔓延#NN 等#ETC 问题#NN 漠不关心#VV
+N
+109 藤森#NR 2000#CD 年#M 遭#VV 秘鲁#NR 国会#NN 免职#VV
+109 藤森#NR 曾任#NR 秘鲁#NR 总统#NN
+N
+110 藤森#NR 总统#NN 2000#CD 年#M 遭#VV 秘鲁#NR 国会#NN 免职#VV
+110 藤森#NR 2000#CD 年#M 遭#VV 秘鲁#NR 国会#NN 免职#VV
+Y
+111 迈克尔#NR 舒马赫#NR 是#VC 一级#AD 方程式赛车#VV 冠军#NN
+111 迈克尔#NR 舒马赫#NR 是#VC F1#NR 赛车#NN 冠军#NN
+Y
+112 迈克尔#NR 舒马赫#NR 是#VC 一级#AD 方程式#NN (#PU F1#NN )#PU 赛车#NN 冠军#NN
+112 F1#NR 赛车#NN 也#AD 称为#VV 一级#AD 方程式赛车#VV
+Y
+113 教宗#NN 约翰#NR 保罗#NR 二世#NN 2000#CD 年时#M 踏入#VV 回教#NN 清真寺#NN ，#PU 祈#VV 宗教#NN 和谐#VA
+113 第一个#AD 踏入#VV 伊斯兰教#NN 清真寺#NN 的#DEG 教皇#NN 是#VC 约翰#NR 保罗#NR 二世#NN
+N
+114 教皇#NN 约翰#NR 保罗#NR 二世#NN 2000#CD 年时#M 踏入#VV 伊斯兰教#NN 清真寺#NN ，#PU 祈#VV 宗教#NN 和谐#VA
+114 教皇#NN 约翰#NR 保罗#NR 二世#NR 曾#AD 为#P 祈求#VV 宗教#NN 和谐#NN 而#MSP 踏入#VV 伊斯兰教#NN 清真寺#NN
+Y
+115 塔利班#NR 在#P 阿富汗#NR 建立#VV 全国性#JJ 政权#NN ，#PU 正式#AD 名称#NN 为#VV 阿富汗#NR 伊斯兰#NR 酋长国#NN
+115 塔利班#NR 在#P 阿富汗#NR 建立#VV 全国性#JJ 政权#NN
+Y
+116 约翰#NR 保罗#NR 二世#NN 是#VC 四百五十#CD 多年#AD 来#MSP 第一位#AD 非#VC 意大利#NR 籍#NN 的#DEG 教皇#NN
+116 约翰#NR 保罗#NR 二世#NN 是#VC 四百五十#CD 多年#AD 来#MSP 第一位#VV 意大利#NR 籍#NN 的#DEG 教皇#NN
+N
+117 约翰#NR 保罗#NR 二世#NN 是#VC 四百五十#CD 多年#AD 来#MSP 第一位#AD 非#VC 意大利#NR 籍#NN 的#DEG 教皇#NN
+117 约翰#NR 保罗#NR 二世#NN 是#VC 意大利#NR 籍#NN 的#DEG 教皇#NN
+N
+118 网络#NN 泡沫化#NN 指#VV 的#DEC 是#VC 网络#NN 产业#NN 因#P 过度#AD 膨胀#VV 而#MSP 形成#VV 泡沫#NN
+118 网络#NN 产业#NN 因#P 过度#AD 紧缩#VV 而#AD 泡沫化#VV
+N
+119 四不一#NR 没有#AD 讲#VV 的#DEC 是#VC 不#AD 宣布独立#VV ，#PU 不#AD 更改#VV 国号#NN ，#PU 不#AD 推动#VV 两国论#NN 入宪#VV ，#PU 不#AD 推动#VV 改变现状#VV 的#DEC 统独#NN 公投#NN ，#PU 也#AD 没有#VE 废除#VV 国统#NN 纲领#NN 与#CC 国统会#NN 的#DEG 问题#NN
+119 四不一#NR 没有#AD 讲#VV 的#DEC 是#VC 不独#NN ，#PU 不改#VV 国号#NN ，#PU 无#VE 两国论#NN ，#PU 不统#NN 以及#CC 没有#VE 废除#VV 国统#NN 纲领#NN 与#CC 国统会#NN
+N
+120 四不一#NR 没有#AD 是#VC 陈水扁#NR 所#MSP 提出#VV
+120 陈水扁#NR 提出#VV 四不一#NN 没有#VE
+Y
+121 世界#NN 上#LC 最#AD 常用#JJ 的#DEG 地震#NN 规模#NN 标度#NN 是#VC 里氏#NR 规模#NN
+121 里氏#NR 规模#NN 为#P 世界#NN 上#LC 最#AD 常用#JJ 的#DEG 地震#NN 规模#NN 标度#NN
+Y
+122 世界#NN 上#LC 最#AD 常用#JJ 的#DEG 地震#NN 规模#NN 标度#NN 是#VC 里氏#NR 规模#NN
+122 里氏#NR 规模#NN 是#VC 用来#VV 描述#VV 地震#NN 规模#NN 的#DEG 一种#NN 规范#VA
+Y
+123 英国伦敦#NR 千禧#NT 巨蛋#NN 是#VC 一座#AD 专#AD 为#P 迎接#VV 千禧年#NT 来临#VV 而#MSP 特别#AD 设计#VV 的#DEC 科技#NN 展览馆#NN
+123 英国伦敦#NR 千禧#NT 巨蛋#NN 是#VC 一座#AD 专#AD 为#P 迎接#VV 2000#CD 年#M 来临#VV 而#MSP 特别#AD 设计#VV 的#DEC 科技#NN 展览馆#NN
+Y
+124 切尔诺贝利#NR 病毒#NN 是#VC 陈盈豪#NR 在#P 大同#NR 工学院#NN 读书#VV 时#LC 编制#VV ，#PU 由#P 不知情#NN 的#DEG 同学#NN 散播#VV 出去#VV
+124 切尔诺贝利#NR 病毒#NN 是#VC 来自#VV 台湾#NR 大同#NR 工学院#NN 学生#NN 陈盈豪#NR 所#MSP 散布#VV
+N
+125 日本#NR 是#VC 投资#NN 马来西亚#NR 的#DEG 三大#NR 外商#NN 之一#NN
+125 日本#NR 在#P 马来西亚#NR 有#VE 投资#NN
+Y
+126 千禧#NT 巨蛋#NN 有#VE 十四个#CD 教育#NN 与#CC 文化#NN 主题#NN 区#NN
+126 千禧#NT 巨蛋#NN 有#VE 十五个#CD 壮观#VA 、#PU 高科技#NN 的#DEG 互动#JJ 区#NN
+N
+127 马来西亚#NR 原#AD 为#P 日本#NR 电子#NN 业者#NN 眼中#NN 最佳#JJ 的#DEG 亚洲#NR 投资#NN 标#NN ，#PU 现#AD 被#LB 中国#NR 大陆#NN 取代#VV
+127 中国#NR 取代#VV 美国#NR 成为#VV 亚洲#NR 经济#NN 核心#NN
+N
+128 马来西亚#NR 原#AD 为#P 日本#NR 电子#NN 业者#NN 眼中#NN 最佳#JJ 的#DEG 亚洲#NR 投资#NN 地#NN ，#PU 现#AD 被#LB 中国#NR 大陆#NN 取代#VV
+128 中国#NR 大陆#NN 现为#VV 日本#NR 电子#NN 业者#NN 眼中#NN 最佳#JJ 的#DEG 亚洲#NR 投资#NN 地#NN
+Y
+129 叙利亚#NR 总统#NN 阿萨德#NR 表示#VV 叙伊#NR 两国#NR 共同#AD 合作#VV 揭露#VV 美国#NR 及#CC 以色列#NR 邪恶#NN 行为#NN 并#AD 公诸于世#VV
+129 叙利亚#NR 总统#NN 阿萨德#NR 揭露#VV 美国#NR 及#CC 以色列#NR 邪恶#NN 行为#NN 并#AD 公诸于世#VV
+Y
+130 叙利亚#NR 总统#NN 阿萨德#NR 怒指#VV 美国#NR 和#CC 以色列#NR 阴谋#NN 孤立#VV 叙利亚#NR
+130 叙利亚#NR 总统#NN 阿萨德#NR 表示#VV 叙伊#NR 两国应#NR 共同#AD 合作#VV 揭露#VV 美国#NR 及#CC 以色列#NR 邪恶#NN 行为#NN 并#AD 公诸于世#VV
+N
+131 叙利亚#NR 自认是#AD 中东#NR 和平#NN 的#DEC 重要#JJ 条件#NN
+131 英国#NR 外交大臣#NN 到访#VV 叙利亚#NR 将#AD 谈论#VV 中东#NR 和平#NN 问题#NN
+N
+132 叙利亚#NR 和#CC 黎巴嫩#NR 的#DEG 和平#NN 进程#NN 在#P 中断#VV 将近#AD 三年#VV 之后#LC ，#PU 于#P 1998#NT 年#NN 重启#VV
+132 他#PN 认为#VV 叙利亚#NR 是#VC 整个#DT 中东地区#NR 建立#VV 和平#VA 的#DEC 障碍#NN ，#PU 并#AD 再次#AD 要求#VV 叙利亚#NR 从#P 黎巴嫩#NR 撤军#VV
+N
+133 极光#NN 这一#DT 名称#NN 来源于#VV 罗马#NR “#PU 黎明#NR ”#PU 女神#NN 奥#NR 罗拉#NR (#PU Aurora#NR )#PU 。#PU
+133 极光#NN 的#DEG 英文名字#NN 是#VC Aurora#NR ，#PU 它#PN 是#VC 罗马#NR 女神#NN 的#DEG 名称#NN
+Y
+134 叙利亚#NR 是#VC 以#P 阿#NR 和平#NN 进程#NN “#PU 土地#NN 换#VV 和平#NN ”#PU 原则#NN 的#DEC 受益者#NN
+134 约旦#NR 否认#VV 叙利亚#NR 以#P 土地#NN 换#VV 和平#NN
+N
+135 美国在线#NN 考虑#NN 和#CC 网景#NN 合作#NN
+135 网景#NN 被#SB 美国在线#VV 收购#VV
+N
+136 美国在线#NN 和#CC 网景#NN 合作#NN
+136 网景#NN 被#SB 美国在线#VV 收购#VV ，#PU 而#AD 美国在线#NN 之后#LC 又#AD 成为#VV 时代华纳#NR 的#DEG 一部分#NN 。#PU
+N
+137 美国在线#NN 收购#VV 网景#NN 通讯#NN 公司#NN
+137 网景#NN 被#SB 美国在线#VV 收购#VV
+Y
+138 纳#NR 芙#VV 拉蒂洛#NR 娃出#VV 生于#VV 捷克斯洛伐克#NR 布拉格#NR ，#PU 是#VC 一位#VV 美国#NR 职业#NN 网球#NN 运动员#NN
+138 纳#NR 芙#VV 拉蒂洛#NR 娃出#VV 生于#VV 布拉格#NR
+Y
+139 2000#CD 年纳#M 芙#NN 拉蒂洛#NR 娃#NN 被#SB 列入#VV 国际#NN 网球#NN 名人堂#NN
+139 纳#NR 芙#VV 拉蒂洛#NR 娃#VV 2000#CD 年#M 被#SB 纳入#VV 国际#NN 网球#NN 名人堂#NN
+Y
+140 公开#AD 女同性恋#VV 身份#NN 的#DEC 纳#NR 芙#NN 拉蒂洛#NR 娃时#OD 年#M 47#CD 岁#M
+140 纳#NR 芙#VV 拉蒂洛#NR 娃#VV 公开#VV 自己#PN 是#VC 女同性恋#NN
+Y
+141 纳#NR 芙#VV 拉蒂洛#NR 娃#NR 一共#AD 取得#VV 了#AS 58#CD 个#M 大满贯#JJ 的#DEG 冠军#NN 奖杯#NN
+141 纳#NR 芙#VV 拉蒂洛#NR 娃#NN 曾经#AD 获#VV 18#CD 座#M 大满贯#JJ 金杯#NN
+Y
+142 约翰#NR 保罗#NR 二世#NT 一九七八年#NT 十月#NT 十六日#NT 被选为#NR 教皇#NN
+142 约翰#NR 保罗#NR 二世#NN 于#P 1978#CD 年#M 当上#VV 教皇#NN
+Y
+143 约翰#NR 保罗#NR 二世#NN 一九七八年#NT 被选为#NR 教皇#NN
+143 约翰#NR 保罗#NR 二世#NN 于#P 1978#CD 年#M 被选为#NR 教皇#NN
+Y
+144 哈塔米#NR 1997#NT 年#NN 12#CD 月#NN 要求#VV 与#P “#PU 伟大#VA 的#DEC 美国#NR 人民#NN ”#PU 对话#NN ，#PU 是#VC 一九七九年#NT 伊朗#NR 伊斯兰#NR 革命#NN 与#CC 美国#NR 断交#VV 以来#LC ，#PU 首位#NN 伊朗#NR 领导人#NN 有意#VV 与#P 美国#NR 重新#AD 修好#VV 的#DEC 最#AD 强烈#JJ 信息#NN
+144 1997#NT 年#NN 伊朗#NR 领导人#NN 是#VC 哈塔米#NR
+Y
+145 中国#NR 的#DEG 现任#JJ 总理#NN 是#VC 温家宝#NR
+145 温家宝#NR 是#VC 中国#NR 的#DEG 现任#JJ 总理#NN
+Y
+146 哈塔米#NR 是#VC 一九七九年#NT 伊朗#NR 伊斯兰#NR 革命#NN 以来#LC 第一位#AD 访问#VV 西方#NN 国家#NN 的#DEG 伊朗#NR 领袖#NN
+146 哈塔米#NR 被#SB 看#VV 作为#P 伊朗#NR 第一位#OD 改良主义#NN 总统#NN ，#PU 因为#P 他#PN 在#P 选举#NN 中#LC 重视#VV 法治#NN 和#CC 民主#NN ，#PU 主张#VV 所有#DT 伊朗人#NN 参与#VV 政治#NN 决策#NN 的#DEG 进程#NN 。#PU
+N
+147 哈塔米#NR 被#SB 看#VV 作为#P 伊朗#NR 第一位#OD 改良主义#NN 总统#NN ，#PU 因为#P 他#PN 在#P 选举#NN 中#LC 重视#VV 法治#NN 和#CC 民主#NN ，#PU 主张#VV 所有#DT 伊朗人#NN 参与#VV 政治#NN 决策#NN 的#DEG 进程#NN 。#PU
+147 哈塔米#NR 被#SB 看#VV 作为#P 伊朗#NR 第一位#OD 改良主义#NN 总统#NN
+Y
+148 约翰#NR 保罗#NR 二世#NN 是#VC 教廷#NR 国家#NN 领导人#NN
+148 约翰#NR 保罗#NR 二世#NN 是#VC 梵蒂冈#NR 领导人#NN
+Y
+149 哈塔米#NR 主张#VV 开放#VV 人权#NN 和#CC 民主改革#NN
+149 哈塔米#NR 主张#VV 民主改革#VV
+Y
+150 约翰#NR 保罗#NR 二世#NN 是#VC 教廷#NR 国家#NN 领导人#NN
+150 约翰#NR 保罗#NR 二世#NN 是#VC 教廷#NR 国家#NN 领袖#NN
+Y
+151 里氏#NR 规模#NN 是#VC 地震#NN 规模#NN 计算#NN 方式#NN 之一#NN
+151 里氏#NR 规模#NN 是#VC 地震#NN 规模#NN 计算#NN 方式#NN 的#DEG 一种#NN
+Y
+152 里氏#NR 规模#NN 是#VC 美国#NR 地震学#NN 家里#NN 氏#NN 在#P 一九三五年#NT 所#MSP 创立#VV 的#DEC
+152 里氏#NR 规模#NN 是#VC 美国#NR 科学家#NN 里氏#NR 所#MSP 发明#VV 的#DEC 。#PU
+Y
+153 里氏#NR 规模#NN 是#VC 美国#NR 地震学#NN 家里#NN 氏#NN 在#P 一九三五年#NT 所#MSP 创立#VV 的#DEC
+153 里氏#NR 规模#NN 是#VC 地震学#NN 家里#NN 氏#NN 在#P 美国#NR 所#MSP 创立#VV 的#DEC
+N
+154 哈塔米#NR 是#VC 伊朗#NR 总统#NN
+154 伊朗#NR 总统#NN 哈塔米#NR
+Y
+155 伏明霞#NR ，#PU 中国#NR 前#JJ 著名#JJ 跳水#NN 运动员#NN ，#PU 出#VV 生于#VV 湖北#NR 武汉#NR
+155 伏明霞#NR 出#VV 生于#VV 武汉#NR
+Y
+156 伏明霞#NR 是#VC 武汉#NR 人#NN
+156 伏明霞#NR 是#VC 湖北#NR 人#NN
+Y
+157 1991#NT 年#NN 一月#NT ，#PU 伏明霞#NR 在#P 澳大利亚#NR 珀斯#NR 跳水#NN 馆#NN 举行#VV 的#DEC 第六届#OD 世界#NN 游泳#NN 锦标赛#NN 上#LC ，#PU 又#AD 一次#AD 夺冠#VV
+157 1991#NT 年#NN 伏明霞#NR 在#P 澳洲#NR 珀斯#NR 成为#VV 世界#NN 锦标赛#NN 的#DEG 跳水#NN 冠军#NN
+Y
+158 1991#NT 年#NN 伏明霞#NR 在#P 澳洲#NR 珀斯#NR 成为#VV 世界#NN 锦标赛#NN 最#AD 年轻#VA 的#DEC 跳水#NN 冠军#NN
+158 1991#NT 年#NN 一月#NT ，#PU 伏明霞#NR 在#P 澳大利亚#NR 珀斯#NR 跳水#NN 馆#NN 举行#VV 的#DEC 第六届#OD 世界#NN 游泳#NN 锦标赛#NN 上#LC ，#PU 又#AD 一次#AD 夺冠#VV
+N
+159 邓亚萍#NR 堪称#VV 是#VC 中国#NR 乒乓球#NN 史上#NN 最#AD 伟大#JJ 女选手#NN ，#PU 4#CD 枚#M 奥运金牌#NN ，#PU 连续#AD 8#CD 年#M 世界#NN 第一#OD ，#PU 拥有#VV 超过#VV 18#CD 个#M 世界冠军#NN 头衔#NN
+159 邓亚萍#NR 是#VC 中国#NR 兵乓球#NN 选手#NN
+Y
+160 邓亚萍#NR 堪称#VV 是#VC 乒乓球#NN 史上#NN 最#AD 伟大#JJ 女选手#NN ，#PU 4#CD 枚#M 奥运金牌#NN ，#PU 连续#AD 8#CD 年#M 世界#NN 第一#OD ，#PU 拥有#VV 超过#VV 18#CD 个#M 世界冠军#NN 头衔#NN
+160 邓亚萍#NR 拿过#VV 世界冠军#NR
+Y
+161 杨丽萍#NR 是#VC 中国#NR 大陆#NN 舞蹈演员#NN
+161 舞蹈演员#NN 杨丽萍#NR
+Y
+162 杨丽萍#NR 自编#VV 自导#VV 自制#VV 自演#VV 电影#NN “#PU 太阳鸟#NN ”#PU
+162 太阳鸟#NN 是#VC 杨丽萍#NR 自编#VV 自导#VV 自制#VV 自演#VV 的#DEC 电影#NN
+Y
+163 名导#NN 张艺谋#NR 执掌#VV ，#PU 普契尼#NR 歌剧#NN 《#PU 杜兰朵#NR 公主#NN 》#PU 于#P 北京#NR 紫禁城#NR 现场#NN 演出#VV
+163 《#PU 杜兰朵#NR 公主#NN 》#PU 在#P 北京#NR 紫禁城#NR 前#JJ 演出#NN
+Y
+164 柏林#NR 电影节#NN 应该#VV 是#VC 张艺谋#NR 的#DEG 福地#NN 。#PU 1988#CD 年#M ，#PU 他#PN 执导#VV 的#DEC 《#PU 红高粱#NN 》#PU 赢得#VV 了#AS 最佳影片#NN 金熊奖#NN ，#PU 成为#VV 中国#NR 电影#NN 的#DEG 首个#DT 金熊奖#NN
+164 张艺谋#NR 1988#NT 年#AD 以#P 《#PU 红高粱#NN 》#PU 拿下#VV 柏林#NR 影展#NN 金熊奖#NN
+Y
+165 张艺谋#NR 1987#CD 年#M 以#P 《#PU 红高粱#NN 》#PU 拿下#VV 柏林#NR 影展#NN 金熊奖#NN
+165 柏林#NR 电影节#NN 应该#VV 是#VC 张艺谋#NR 的#DEG 福地#NN 。#PU 1988#CD 年#M ，#PU 他#PN 执导#VV 的#DEC 《#PU 红高粱#NN 》#PU 赢得#VV 了#AS 最佳影片#NN 金熊奖#NN ，#PU 成为#VV 中国#NR 电影#NN 的#DEG 首个#DT 金熊奖#NN
+N
+166 张艺谋#NR 曾#AD 与#P 巩俐#NR 是#VC 恋人#NN 关系#NN
+166 张艺谋#NR 与#CC 巩俐#NR 曾#AD 相恋#VV
+Y
+167 张艺谋#NR 曾#AD 与#P 红高粱#NN 是#VC 恋人#NN 关系#NN
+167 张艺谋#NR 与#CC 巩俐#NR 在#P 1986#CD 年#M ，#PU 因#P 合作#VV 电影#NN 《#PU 红高粱#NN 》#PU 而#AD 相恋#VV
+N
+168 “#PU 李宁#NR ”#PU 为#VV 大陆#NN 运动用品#NN 第一#OD 品牌#NN
+168 受#VV 北京#NR 奥运会#NR 的#DEG 带动#NN ，#PU 李宁#NR 营业额#NN 获得#VV 大#JJ 突破#NN 达到#VV 66.9#CD 亿元#NN ，#PU 净利润#NN 5.21#NT 亿元#NN
+N
+169 受#VV 北京#NR 奥运会#NR 的#DEG 带动#NN ，#PU 李宁#NR 营业额#NN 获得#VV 大#JJ 突破#NN 达到#VV 66.9#CD 亿元#NN ，#PU 净利润#NN 5.21#NT 亿元#NN
+169 李宁#NR 营业额#NN 获得#VV 大#JJ 突破#NN 达到#VV 66.9#CD 亿元#NN ，#PU 净利润#NN 5.21#NT 亿元#NN
+Y
+170 李宁#NR 是#VC 壮族#NN 人#NN ，#PU 生于#VV 广西#NR 柳州#NR ，#PU 中国#NR 退役#JJ 体操#NN 运动员#NN ，#PU 企业家#NN 。#PU 有#VE “#PU 中国#NR 第一代#JJ 体操#NN 王子#NN ”#PU 、#PU “#PU 中国#NR 体操#NN 天王#NN ”#PU 之称#VV 。#PU
+170 李宁#NR 是#VC 中国#NR 著名#JJ 体操#NN 运动员#NN
+Y
+171 李宁#NR 是#VC 壮族#NN 人#NN ，#PU 生于#VV 广西#NR 柳州#NR ，#PU 中国#NR 退役#JJ 体操#NN 运动员#NN ，#PU 企业家#NN 。#PU 有#VE “#PU 中国#NR 第一代#JJ 体操#NN 王子#NN ”#PU 、#PU “#PU 中国#NR 体操#NN 天王#NN ”#PU 之称#VV 。#PU
+171 李宁#NR 外号#NN 中国#NR 体操#NN 天王#NN
+Y
+172 李宁#NR 曾#AD 获得#VV 奥运金牌#NR
+172 在#P 17#CD 年#M 的#DEG 体操#NN 生涯#NN 中#LC ，#PU 李宁#NR 一共#AD 获得#VV 了#AS 14#CD 个#M 世界冠军#NN ，#PU 106#CD 枚#M 国内外#NN 体操比赛#NN 金牌#NN 。#PU
+N
+173 在#P 17#CD 年#M 的#DEG 体操#NN 生涯#NN 中#LC ，#PU 李宁#NR 一共#AD 获得#VV 了#AS 14#CD 个#M 世界冠军#NN ，#PU 106#CD 枚#M 国内外#NN 体操比赛#NN 金牌#NN 。#PU
+173 李宁#NR 一共#AD 获得#VV 了#AS 14#CD 个#M 世界冠军#NN
+Y
+174 巩俐#NR 1966#NT 年生#NN
+174 巩俐#NR 在#P 1965#CD 年#M 12#CD 月#NN 31#CD 日#M 生于#VV 辽宁沈阳#NR ，#PU 祖籍#NN 山东#NR 济南#NR 并#AD 在#P 此#PN 长大#VV
+N
+175 巩俐#NR 在#P 1965#CD 年#M 12#CD 月#NN 31#CD 日#M 生于#VV 辽宁沈阳#NR ，#PU 祖籍#NN 山东#NR 济南#NR 并#AD 在#P 此#PN 长大#VV
+175 巩俐#NR 1965#NT 年生#NN
+Y
+176 巩俐#NR 申请#VV 就读#VV 北京大学社会学系#NN 硕士#NN 研究生#NN
+176 巩俐#NR 申请#VV 就读#VV 北京大学社会学系#NR
+Y
+177 巩俐#NR 在#P 蒙特利尔#NR 影展#NN 封后#NN ；#PU 大会#NN 除#P 影后#NN 奖#NN ，#PU 还#AD 颁发#VV 艺术#NN 成就#NN 特别#AD 大奖#NN 予#VV 巩俐#NR
+177 巩俐#NR 获得#VV 蒙特利尔#NR 影展#NN 艺术#NN 成就#NN 特别#AD 大奖#NN
+Y
+178 夫妻感情#NN 很#AD 好#VA ，#PU 巩俐#NR 老公#NN 黄和祥#NR 否认#VV 婚姻#NN 亮红灯#VV
+178 巩俐#NR 老公#NN 是#VC 黃#NN 和#CC 祥#NN
+Y
+179 巩俐#NR 现在#NT 的#DEG 老公#NN 是#VC 黄和祥#NR
+179 巩俐#NR 与#CC 新加坡#NR 老公#NN 黄和祥#NR 离婚#VV 1#CD 年#M 多#AD
+N
+180 开幕式#NN 由#P 世博会#NR 组委会#NN 副#JJ 主任#NN 、#PU 云南省#NR 省长#NN 李嘉廷#NR 主持#VV
+180 世博会#NR 组委会#NN 副#JJ 主任#NN 为#P 云南省#NR 长#VV 李嘉廷#NR
+Y
+181 以#P “#PU 人与自然#VV ,#PU 迈向#VV 21#OD 世纪#NN ”#PU 为#VV 主题#NN 的#DEC 世界园艺博览会#NR 在#P “#PU 春城#NR ”#PU 昆明#NR 成功#AD 举办#VV ，#PU 这#PN 也#AD 是#VC 中国#NR 举办#VV 的#DEC 首届#NN 专业#NN 类#NN 世博会#NN
+181 昆明#NR 世界园艺博览会#NR 主题#NN 为#P “#PU 人与自然#AD ,#PU 迈向#VV 二十一#OD 世纪#NN ”#PU
+Y
+182 以#P “#PU 人与自然#VV ,#PU 迈向#VV 21#OD 世纪#NN ”#PU 为#VV 主题#NN 的#DEC 世界园艺博览会#NR 在#P “#PU 春城#NR ”#PU 昆明#NR 成功#AD 举办#VV ，#PU 这#PN 也#AD 是#VC 中国#NR 举办#VV 的#DEC 首届#NN 专业#NN 类#NN 世博会#NN
+182 世界园艺博览会#NR 在#P "#PU 春城#NR "#PU 昆明#NR 成功#AD 举办#VV
+Y
+183 昆明#NR 世界园艺博览会#NR 的#DEG 吉祥物#NN 是#VC 一只#AD 手持#VV 鲜花#NN 、#PU 身着#VV 黄蓝#JJ 背心#NN 的#DEG 金丝猴#NN 「#PU 灵灵#NN 」#PU
+183 昆明#NR 园艺#NN 博览会#NN 吉祥物#NN 是#VC 一只#VV 金丝猴#NR ，#PU 取名#VV “#PU 灵灵#NN ”#PU
+Y
+184 中国#NR 昆明#NR 世界园艺博览会#NR 为期#VV 184#CD 天#M
+184 昆明#NR 世界园艺博览会#NR 地点#NN 在#P 中国#NR 云南昆明#NR
+Y
+185 昆明#NR 世界园艺博览会#NR 组委会#NN 主任#NN 为#P 副#JJ 总理#NN 李岚清#NR
+185 昆明#NR 世界园艺博览会#NR 隆重开幕#VV ，#PU 江泽民#NR 李岚清#NR 等#ETC 与#P 一些#CD 外国#NN 国家元首#NN 和#CC 政府首脑#NN 出席#VV 95#CD 个#M 国家#NN 和#CC 国际#NN 组织#NN 参加#VV 这次#AD 国际#NN 园艺#NN 博览#NN 盛会#NN
+N
+186 昆明#NR 世界园艺博览会#NR 隆重开幕#VV ，#PU 江泽民#NR 李岚清#NR 等#ETC 与#P 一些#CD 外国#NN 国家元首#NN 和#CC 政府首脑#NN 出席#VV ，#PU 95#CD 个#M 国家#NN 和#CC 国际#NN 组织#NN 参加#VV 这次#AD 国际#NN 园艺#NN 博览#NN 盛会#NN
+186 昆明#NR 世界园艺博览会#NR 有#VE 九十五个#CD 国家#NN 和#CC 国际#NN 组织#NN 参加#VV
+Y
+187 昆明#NR 世界园艺博览会#NR 有#VE 九十五个#CD 国家#NN 和#CC 国际#NN 组织#NN 参加#VV
+187 江泽民#NR 李岚清#NR 等#ETC 与#P 一些#CD 外国#NN 国家元首#NN 和#CC 政府首脑#NN 出席#VV 95#CD 个#M 国家#NN 和#CC 国际#NN 组织#NN 参加#VV 这次#AD 国际#NN 园艺#NN 博览#NN 盛会#NN
+N
+188 俗称#VV 北极光#NR 为#P Northern#NR Light#VV ，#PU 南极光#NR 则#AD 称为#VV Southern#NN Light#NN ，#PU 至于#P 其#PN 正式#JJ 名称#NN ，#PU 南极光#NR 是#VC Aurora#JJ Australis#NN ，#PU 北极光#NN 称为#VV Aurora#NR Borealis#NR
+188 极光#NN (#PU Aurora#NR 或#CC Polar#NR light#NN 或#CC Northern#JJ light#NN )#PU
+N
+189 XML#NN 文档#NN 是#VC 一种#AD 包含#VV 一些#CD 特殊#JJ 标记#NN 的#DEG 纯文字#NN 文档#NN
+189 XML#NR 文件#NN 是#VC 纯文字#NN 的#DEG 文件#NN
+Y
+190 XML#NR ,#PU 英语#NN eXtensible#NN Markup#JJ Language#NN ，#PU 又称#VV 可#VV 扩展#VV 标记#VV 语言#NN ，#PU 是#VC 一种#AD 标记#VV 语言#NN
+190 XML#NR 是#VC 可#VV 扩展#VV 标记#VV 语言#NN
+Y
+191 纳#NR 芙#VV 拉蒂洛#NR 娃出#VV 生于#VV 捷克斯洛伐克#NR 布拉格#NR ，#PU 是#VC 一位#VV 美国#NR 国家队#NN 网球#NN 运动员#NN
+191 纳#NR 芙#VV 拉蒂洛#NR 娃#NN 是#VC 美国#NR 籍#NN
+Y
+192 在#P XML#NN 中#LC ，#PU 标签#NN 用来#VV 定义#VV 资料#NN 的#DEC 结构#NN 和#CC 意义#NN 。#PU
+192 XML#NN 是#VC 以#P 标签#NN 定义#NN 资料#NN 内容#NN 的#DEG 意义#NN
+Y
+193 雅虎公司#NR 首席#JJ 执行官#NN 杨#NR 致远#VV
+193 雅虎#NR 首席#JJ 执行官#NN 杨#NR 致远#VV
+Y
+194 雅虎#NR 共同#AD 创办人#NN ，#PU 即将#AD 卸任#VV 该#DT 公司#NN 首席#JJ 执行官#NN 的#DEG 杨#NR 致远#VV ，#PU 是#VC 最早#AD 的#DEV 硅谷#NR 网络#NN 企业#NN 亿万富豪#NN 之一#NN
+194 雅虎公司#NR 创办人#NN 杨#NR 致远#VV
+Y
+195 苏哈托#NR (#PU Suharto#NR ，#PU 民间#NN 常用#JJ Soeharto#NN ，#PU 1921#NT 年#NN 6#CD 月#NN 8#CD 日#M -#PU 2008#CD 年#M 1#CD 月#NN 27#CD 日#M )#PU
+195 苏哈托#NR 1921#NT 年#NN 6#CD 月#NN 8#CD 日#M 出生#VV
+Y
+196 苏哈托#NR 自诩#VV 为#VC “#PU 发展#VV 之#DEC 父#NN ”#PU
+196 苏哈托#NR 固然#AD 可以#VV 因#P 经济腾飞#VV 被#SB 戴#VV 上#VV “#PU 发展#VV 之#DEC 父#NN ”#PU 的#DEG 帽子#NN
+N
+197 苏哈托#NR 的#DEG 六个#CD 儿女#NN 已经#AD 全部#AD 赶到#VV 了#AS 医院#NN ，#PU 陪#VV 在#P 他#PN 的#DEG 身旁#NN 。#PU
+197 苏哈托#NR 有#VE 六个#CD 子女#NN
+Y
+198 苏哈托#NR 一九六六年#NT 执政#VV ，#PU 对#P 印尼#NR 进行#VV 了#AS 三十二年#NT 的#DEG 铁腕#NN 统治#NN 。#PU
+198 苏哈托#NR 政权#NN 在#P 一九九八年#NT 结束#VV ，#PU 执政#VV 三十二年#NT
+Y
+199 印度尼西亚#NR 总统#NN 苏哈托#NR 1998#NT 年#NN 5#CD 月#NN 21#CD 日#M 上午#NT 宣布#VV 辞去#VV 总统#NN 职务#NN
+199 苏哈托#NR 政权#NN 在#P 一九九八年#NT 五月#NT 二十一日#NT 结束#VV
+Y
+200 杨振宁#NR 一九二二年#NT 生于#VV 安徽#NR 合肥#NR
+200 杨振宁#NR ，#PU 安徽省#NR 合肥人#NN ，#PU 一九二二年#NT 出生#VV
+Y
+201 一九五七年#NT ，#PU 杨振宁#NR 和#CC 李政道#NR 合作#VV 推翻#VV 了#AS 爱因斯坦#NR 的#DEG “#PU 宇称#VV 守恒定律#VV ”#PU ，#PU 获得#VV 诺贝尔#NR 物理奖#NN 。#PU
+201 杨振宁#NR 一九五七年#NT 与#P 李政道#NR 同获#VV 诺贝尔奖#NR
+Y
+202 杨振宁#NR 于#P 1956#CD 年#M 与#P 李政道#NR 教授#NN 共同#AD 提出#VV 弱#NN 相互作用#VV 中#LC 宇称#VV 不#AD 守恒#VV 原理#NN ，#PU 因而#AD 共获#VV 1957#CD 年#M 诺贝尔物理学奖#NR
+202 杨振宁#NR 一九五六年#NT 与#P 李政道#NR 指出#VV 宇称#VV 不#AD 守恒#VV
+Y
+203 杨振宁#NR 获#VV 美国#NR 富兰克林#NR 学社#NN 颁赠#VV 之#DEC 鲍尔奖#NN ，#PU 是#VC 第一位#JJ 获此#NN 奖#NN 之#DEG 理论#NN 物理学家#NN ，#PU 也#AD 是#VC 此奖#NN 第一次#AD 破例#VV 颁#VV 给#VV 诺贝尔奖#NN 得主#NN 。#PU
+203 杨振宁#NR 曾#AD 获#VV 鲍尔奖#NR
+Y
+204 章子怡#NR 以#P “#PU 我#PN 的#DEG 父亲#NN 母亲#NN ”#PU 在#P 2001#CD 年#M 的#DEG 伊朗#NR 电影节#NN 封后#NN
+204 章子怡#NR 被#SB 张艺谋#NR 发掘#VV ，#PU 于#P 1998#NT 年#M 担任#VV 电影#NN 《#PU 我#PN 的#DEG 父亲#NN 母亲#NN 》#PU 女主角#NN ，#PU 该片#NN 获得#VV 2000#CD 年#M 柏林#NR 电影节#NN 银熊奖#NN
+N
+205 章子怡#NR 以#P 《#PU 卧虎藏龙#VV 》#PU 入围#VV 2001#CD 年#M MTV#NR 电影#NN 奖#NN “#PU 一鸣惊人#VV 表演奖#NN ”#PU 与#CC “#PU 最佳#JJ 打斗#NN 奖#NN ”#PU
+205 章子怡#NR 凭#P 电影#NN 《#PU 卧虎藏龙#VV 》#PU 入选#VV 美国#NR MTV#NR 电影#NN 大奖#NN ，#PU 入围#VV “#PU 一鸣惊人#VV 表演奖#NN ”#PU 和#CC “#PU 最佳#JJ 打斗#NN 奖#NN ”#PU
+Y
+206 人们#NN 常常#AD 喜欢#VV 拿#VV 章子怡#NR 和#CC 巩俐#NR 比较#AD ，#PU 称#VV 她#PN 为#VC “#PU 小#JJ 巩俐#NR ”#PU
+206 章子怡#NR 有#VE “#PU 小#JJ 巩俐#NR ”#PU 的#DEG 封号#NN
+Y
+207 章子怡#NR 与#P 韩国#NR 当红#VV 男星#NN 钟胡信#NR 因#P 合演#VV 《#PU 武士#NN 》#PU 而#MSP 传出#VV 绯闻#NN
+207 在#P 拍电影#NN 《#PU 武士#NN 》#PU 时#LC ，#PU 传出#VV 章子怡#NR 与#CC 韩国#NR 男星#NN 钟胡信#NR 假戏真做#VV 。#PU
+Y
+208 杨澜#NR 和#CC 吴征#NR 这#DT 对#M 事业#NN 上#LC 的#DEG 伙伴#NN 、#PU 生活#NN 中#LC 的#DEG 夫妻#NN
+208 杨澜#NR 的#DEG 先生#NN 吴征#NR
+Y
+209 杨澜#NR 是#VC 《#PU 杨澜#NR 工作室#NN 》#PU 、#PU 《#PU 百年#VV 叱诧风云#VV 录#VV 》#PU 节目#NN 制作#VV 人#NN
+209 杨澜#NR 在#P 凤凰卫视#NR 主持#VV 的#DEC 两档#NN 节目#NN ：#PU 《#PU 杨澜#NR 工作室#NN 》#PU 和#CC 《#PU 百年#VV 叱诧风云#VV 录#VV 》#PU
+N
+210 北京#NR 奥申委#NN 今天#NT 宣布#VV ，#PU 聘请#VV 邓亚萍#NR 、#PU 巩俐#NR 、#PU 杨澜#NR 和#CC 桑兰#NR 4#CD 人为#JJ 北京#NR 2008#CD 年#M 奥运会#NR 申办#NN 委员会#NN “#PU 形象大使#VV ”#PU 。#PU
+210 杨澜#NR 是#VC 北京#NR 申奥#NN 形象大使#NN 之一#NN
+Y
+211 朱莉#NR 安德鲁斯#NR 1930#CD 年#M 出生#VV
+211 朱莉#NR ·#PU 安德鲁斯#NR 1935#NT 年出#VV 生于#VV 英国#NR
+N
+212 朱莉#NR 安德鲁斯#NR 二十一岁#VV 时#LC (#PU 1951#NT )#PU 就#AD 在#VV 纽约#NR 百老汇#NR 主演#VV 《#PU 窈窕淑女#NN 》#PU 音乐剧#NN
+212 英国#NR 女星#NN 朱莉#NR 安德鲁斯#NR ，#PU 原先#AD 在#P 1960#CD 年#M 主演#NN 音乐剧#NN 《#PU 窈窕淑女#NN 》#PU 而#MSP 走红#VV 百老汇#NR ，#PU 连演#VV 4#CD 年#M
+N
+213 重大#JJ 创伤#NN 的#DEG 受害者#NN 中#LC ，#PU 有近#VV 四分之一#CD 可能#AD 发展#VV 出#VV 创伤#NN 后#LC 压力#NN 症候#NN 或#CC 其#PN 部分#NN 症状#NN
+213 重大#JJ 创伤#NN 的#DEG 受害者#NN 中#LC ，#PU 超过#VV 四分之一#CD 可能#AD 发展#VV 出#VV 创伤#NN 后#LC 压力#NN 症候#NN 或#CC 其#PN 部分#NN 症状#NN
+N
+214 重大#JJ 创伤#NN 的#DEG 受害者#NN 中#LC ，#PU 有近#VV 四分之一#CD 可能#AD 发展#VV 出#VV 创伤#NN 后#LC 压力#NN 症候#NN 或#CC 其#PN 部分#NN 症状#NN
+214 重大#JJ 创伤#NN 的#DEG 受害者#NN 中#LC ，#PU 有#VE 将近#AD 百分之二十五#CD 的#DEG 人#NN 可能#AD 发展#VV 出#VV 创伤#NN 后#LC 压力#NN 症候#NN 或#CC 其#PN 部分#NN 症状#NN
+Y
+215 朱莉#NR ·#PU 安德鲁斯#NR 在#P 1969#CD 年#M 再婚#NN ，#PU 丈夫#NN 是#VC 布莱克#NR ·#PU 爱德华#NR (#PU Blake#NR Edwards#NN )#PU 。#PU
+215 朱莉#NR 安德鲁斯#NR 老公#NN 是#VC 布莱克#NR 爱德华#NR
+Y
+216 救灾#NN 人员#NN 也#AD 是#VC 创伤#NN 后#LC 压力#NN 症候群#NN 的#DEG 高#JJ 危险#NN 群#NN
+216 救灾#NN 人员#NN 是#VC 专门#AD 拯救#VV 有#VE 高#JJ 危险#NN 群#NN 的#DEG 创伤#NN 后#LC 压力#NN 症候群#NN 的#DEC 人#NN
+N
+217 创伤#NN 后#LC 压力#NN 症候群#NN 经过#P 适当#JJ 治疗#NN 后#LC ，#PU 约#AD 有#VE 三分之一#CD 患者#NN 可#VV 完全#AD 复原#VV
+217 创伤#NN 后#LC 压力#NN 症候群#NN 经过#P 适当#JJ 治疗#NN 后#LC ，#PU 约#AD 有#VE 三分之一#CD 患者#NN 无法#AD 完全#AD 复原#VV
+N
+218 创伤#NN 后#LC 压力#NN 症候群#NN 经过#P 适当#JJ 治疗#NN 后#LC ，#PU 约#AD 有#VE 三分之一#CD 患者#NN 可#VV 完全#AD 复原#VV
+218 创伤#NN 后#LC 压力#NN 症候群#NN 经过#P 适当#JJ 治疗#NN 后#LC ，#PU 约#AD 有#VE 1#CD /#CC 3#CD 的#DEG 人#NN 可#VV 完全#AD 复原#VV
+Y
+219 创伤#NN 后#LC 压力#NN 症候群#NN 经过#P 适当#JJ 治疗#NN 后#LC ，#PU 约#AD 有#VE 三分之一#CD 患者#NN 可#VV 完全#AD 复原#VV
+219 创伤#NN 后#LC 压力#NN 症候群#NN 经过#P 适当#JJ 治疗#NN 后#LC ，#PU 约#AD 有#VE 三分之二#CD 患者#NN 无法#AD 完全#AD 复原#VV
+Y
+220 生物芯片#VV 可#VV 用于#VV 血库#NN 筛检等#NN 标准化#NN 标验#VV
+220 生物芯片#VV 可#VV 用于#VV 血库#NN 筛检#NN
+Y
+221 生物芯片#VV 可#VV 用于#VV 血库#NN 筛检等#NN 标准化#NN 标验#VV
+221 生物芯片#VV 可#VV 用于#VV 筛检等#JJ 标准化#NN 标验#VV
+Y
+222 基因芯片#NN 可依#VV 所用#NN 基材#NN 之#DEG 不同#NN ，#PU 分为#VV 尼龙#NN 膜#NN 及#CC 玻璃#NN 芯片#NN 二种#NN ，#PU 其依#NN 检验#NN 方法#NN 目前#NT 主要#AD 有#VE 萤光#NN 及#CC 有#VE 色光#NN 二种#NN
+222 基因芯片#NN 的#DEG 基材#NN 分为#VV 尼龙#NN 及#CC 玻璃#NN 二种#NN ，#PU 目前#NT 主要#AD 有#VE 萤光#NN 及#CC 有#VE 色光#NN 二种#NN 检验#NN 方法#NN
+N
+223 生物芯片#NN 应用#NN 范围#NN 主要#AD 为#VC 基础#NN 研究#NN 、#PU 新药#NN 开发#NN 、#PU 微生物#NN 感染#VV 检测#NN 、#PU 癌症#NN 先期#AD 诊断#VV 、#PU 用药#NN 依据#NN 判断#NN 、#PU 病情#NN 追踪#VV 、#PU 环境#NN 检测#NN 、#PU 法医鉴定#VV 、#PU 食品安全#VV 及其#CC 他#PN 可能#VV 之#DEC 应用#NN
+223 生物芯片#VV 可用#JJ 来#MSP 检测#VV 微生物#NN 感染#NN 以及#CC 癌症#NN 先期#AD 诊断#VV ，#PU 也#AD 可#VV 帮助#VV 用药#NN 依据#NN 判断#NN 和#CC 病情#NN 追踪#VV
+Y
+224 1999#CD 年#M 12#CD 月#NN 在#P 日本#NR 静冈县#NR 御前#NT 崎#VV 沿岸#NN 水深#NN 近#AD 1#CD ,#PU 000#CD 米#M 的#DEG 海底#NN 处#NN ，#PU 从#P 300#CD 米#M 以下#LC 的#DEG 沙堆#NN 中#LC 采样#VV 发现#VV 天然气#NN 水合物#NN
+224 1999#CD 年#M 在#P 日本#NR 静冈#NR 附近#NN 水域#NN 的#DEG 深海#NN 里#LC 发现#VV 天然气#NN 水合物#NN
+Y
+225 天然气#NN 水合物#NN 即#AD 甲烷#VV 水合物#NN
+225 天然气#NN 水合物#NN 就是#AD 甲烷#NN 化合物#NN
+N
+226 全世界#NN 存#VV 于海洋#NN 中#LC 的#DEG 甲烷#NN 水合物#NN 含量#NN ，#PU 超过#VV 陆地#NN 上#LC 其他#DT 所有#DT 化石#NN 燃料#NN 的#DEG 两倍#NN
+226 全世界#NN 存#VV 于海洋#NN 中#LC 的#DEG 甲烷#NN 水合物#NN 含量#NN ，#PU 超过#VV 陆地#NN 上#LC 其他#DT 所有#DT 化石#NN 燃料#NN 的#DEG 双倍#NN
+Y
+227 全世界#NN 存#VV 于海洋#NN 中#LC 的#DEG 甲烷#NN 水合物#NN 含量#NN ，#PU 超过#VV 陆地#NN 上#LC 其他#DT 所有#DT 化石#NN 燃料#NN 的#DEG 两倍#NN
+227 全世界#NN 存#VV 于海洋#NN 中#LC 的#DEG 甲烷#NN 水合物#NN 含量#NN ，#PU 超过#VV 陆地#NN 上#LC 其他#DT 所有#DT 化石#NN 燃料#NN 的#DEG 二倍#NN
+Y
+228 全世界#NN 存#VV 于海洋#NN 中#LC 的#DEG 甲烷#NN 水合物#NN 含量#NN ，#PU 超过#VV 陆地#NN 上#LC 其他#DT 所有#DT 化石#NN 燃料#NN 的#DEG 二倍#NN
+228 全世界#NN 存#VV 于海洋#NN 中#LC 的#DEG 甲烷#NN 水合物#NN 含量#NN ，#PU 不足#NN 陆地#NN 上#LC 其他#DT 所有#DT 化石#NN 燃料#NN 的#DEG 二倍#NN
+N
+229 甲烷#NN 燃烧#VV 时#LC ，#PU 与#CC 烧煤#NN 或#CC 烧油#NN 等#ETC 燃料#NN 相比#VV ，#PU 释放#VV 的#DEC 二氧化碳#NN 可#VV 减少#VV 二分之一#CD
+229 甲烷#NN 燃烧#VV 所#MSP 释放#VV 的#DEC 二氧化碳#NN ，#PU 比煤#NN 或#CC 油少#NN 一半#CD 。#PU
+Y
+230 甲烷#NN 燃烧#VV 时#LC ，#PU 与#CC 烧煤#NN 或#CC 烧油#NN 等#ETC 燃料#NN 相比#VV ，#PU 释放#VV 的#DEC 二氧化碳#NN 可#VV 减少#VV 二分之一#CD
+230 燃烧#VV 煤#NN 或#CC 油#NN 释放#VV 的#DEC 二氧化碳#NN 比起#P 甲烷#NN ，#PU 可#VV 减少#VV 二分之一#CD
+N
+231 甲烷#NN 燃烧#VV 时#LC ，#PU 与#CC 烧煤#NN 或#CC 烧油#NN 等#ETC 燃料#NN 相比#VV ，#PU 释放#VV 的#DEC 二氧化碳#NN 可#VV 减少#VV 二分之一#CD
+231 燃烧#VV 煤#NN 或#CC 油#NN 释放#VV 的#DEC 二氧化碳#NN 是#VC 甲烷#NN 的#DEG 两倍#NN 。#PU
+Y
+232 诺贝尔奖#NR 于#P 1901#NT 年#NN 10#CD 月#NN 10#CD 日#M 开始#VV 颁发#VV
+232 诺贝尔奖#NN 首次#AD 颁奖#VV 始于#VV 1901#CD 年#M 10#CD 月#NN 10#CD 日#M
+Y
+233 诺贝尔奖#NN 创办人#NN 是#VC 阿尔弗雷#NR 德#NR ·#PU 诺贝尔#NR
+233 诺贝尔奖#NN 是#VC 由#P 阿尔弗雷#NR 德#NR ·#PU 诺贝尔#NR 所#MSP 设立#VV 的#DEC
+Y
+234 诺贝尔奖#NR 举行#VV 地点#NN 在#VV 斯德哥尔摩#NR ，#PU 一年一度#VV ，#PU 为期#VV 两周#NN
+234 诺贝尔奖#NN 每年#AD 举办#VV 一次#AD ，#PU 每次#AD 活动#NN 需要#VV 两个#CD 礼拜#NN 的#DEG 时间#NN ，#PU 举办#VV 的#DEC 地点#NN 在#VV 斯德哥尔摩#NR 。#PU
+Y
+235 诺贝尔奖#NR 举行#VV 地点#NN 在#VV 斯德哥尔摩#NR ，#PU 一年一度#VV ，#PU 为期#VV 两周#NN
+235 诺贝尔奖#NR 两周#NR 举行#VV 一次#AD ，#PU 某#DT 一年#AD 举行#VV 地点#NN 曾一度#NR 在#VV 斯德哥尔摩#NR
+N
+236 厄尔尼诺#VV 现象#NN 大约#AD 是#VC 每隔#AD 三到#VV 七年#NT 出现#VV 一次#AD
+236 厄尔尼诺#VV 现象#NN 大约#AD 每隔#VV 3#CD 到#CC 7#CD 年#M 出现#VV 一次#AD
+Y
+237 在#P 整个#DT 厄尔尼诺#NN 现象#NN 期间#NN ，#PU 地球#NN 的#DEG 运转#NN 平均#AD 减缓#VV 三百#CD 到#CC 四百#CD 微秒#M
+237 在#P 整个#DT 厄尔尼诺#NN 现象#NN 期间#NN ，#PU 地球#NN 的#DEG 运转#NN 平均#AD 减缓#VV 三百#CD 到#CC 四百#CD 秒#M
+N
+238 在#P 整个#DT 厄尔尼诺#NN 现象#NN 期间#NN ，#PU 地球#NN 的#DEG 运转#NN 平均#AD 减缓#VV 三百#CD 到#CC 四百#CD 微秒#M
+238 地球#NN 的#DEG 运转#NN 在#P 整个#DT 厄尔尼诺#NN 现象#NN 期间#NN 平均#AD 减缓#VV 300#CD -#PU 400#CD 微秒#M
+Y
+239 厄尔尼诺#NN 现象#NN 最强#VA 的#DEC 一次#AD 是从#VV 一九八二年#NT 到#VV 八三年#NT
+239 厄尔尼诺#NN 现象#NN 最强#VA 的#DEC 一次#AD 是从#VV 一九八二年#NT 到#VV 一九八三年#NT
+Y
+240 厄尔尼诺#NN 现象#NN 最强#VA 的#DEC 一次#AD 是从#VV 一九八二年#NT 到#VV 八三年#NT
+240 厄尔尼诺#NN 现象#NN 最强#VA 的#DEC 一次#AD 是从#VV 1982#NT 年#NN 到#P 1983#NT 年#NN
+Y
+241 厄尔尼诺#NN 现象#NN 最强#VA 的#DEC 一次#AD 是从#VV 一九八二年#NT 到#VV 八三年#NT
+241 厄尔尼诺#NN 现象#NN 最#AD 显著#VA 的#DEC 一次#AD 是从#VV 一九八二年#NT 到#VV 八三年#NT
+Y
+242 移动梦网#VV 由#P 移动#VV 运营商#NN 中国移动#VV 、#PU 互联网#NN 公司#NN 搜狐#NR 、#PU 新浪网#NR 等#ETC 共同#JJ 合作#NN 推出#VV 的#DEC 移动#NN 数据#NN 应用服务#VV 。#PU
+242 移动梦网#NR 是#VC 一种#JJ 移动#NN 数据#NN 应用服务#VV 。#PU
+Y
+243 移动梦网#VV 由#P 移动#VV 运营商#NN 中国移动#VV 、#PU 互联网#NN 公司#NN 搜狐#NR 、#PU 新浪网#NR 等#ETC 共同#JJ 合作#NN 推出#VV
+243 中国移动#NR 、#PU 搜狐#NR 、#PU 新浪#NR 等#ETC 公司#NN 共同#AD 合作#VV 推出#VV 移动梦网#VV
+Y
+244 “#PU Monternet#NR 移动梦网#VV ”#PU 是#VC 中国移动#NR 推出#VV 的#DEC 一项#NN 手机#NN 上#LC 的#DEG 互联网服务#NN ，#PU 使用#VV 手机#NN 上网#NN 业务#NN 可以#VV 流览#VV 专门#AD 设计#VV 的#DEC 适合#VV 在#P 手机#NN 上#LC 显示#VV 的#DEC WAP#NR 网站#NN 。#PU
+244 移动梦网#NR 提供#VV 手机#NN 上网#NN 服务#NN
+Y
+245 靖国神社#NN 供奉#VV 250#CD 万名#M 自#P 19#CD 世纪#NN 中叶#NN 以来#LC 的#DEG 日本#NR 阵亡将士#NN ，#PU 包括#VV 第二次世界大战#OD 后#LC 被#SB 处决#VV 的#DEC 甲级战犯#NN
+245 靖国神社#NN 供奉#VV 自#P 19#CD 世纪#NN 中叶#NN 以来#LC 的#DEG 日本#NR 阵亡将士#NN
+Y
+246 靖国神社#NN 供奉#VV 250#CD 万名#M 自#P 19#CD 世纪#NN 中叶#NN 以来#LC 的#DEG 日本#NR 阵亡将士#NN ，#PU 包括#VV 第二次世界大战#OD 后#LC 被#SB 处决#VV 的#DEC 甲级战犯#NN
+246 靖国神社#NN 是#VC 供奉#VV 日本#NR 阵亡将士#NN 的#DEG 地方#NN 。#PU
+Y
+247 靖国神社#NN 因#P 供奉#VV 包括#VV 第二次世界大战#OD 后#LC 被#SB 处决#VV 的#DEC 甲级战犯#NN ,#PU 而#AD 具有#VV “#PU 侵略性#JJ 军国主义#NN ”#PU 的#DEG 象征意义#NN
+247 靖国神社#NN 具有#VV “#PU 侵略性#JJ 军国主义#NN ”#PU 的#DEG 象征意义#NN
+Y
+248 1997#NT 年#NN 十二月#NT ，#PU 全球#NN 一百六十#CD 国在#NN 日本#NR 京都#NR 集会#NN ，#PU 讨论#VV 地球#NN 气候变化#NN 问题#NN ，#PU 会议#NN 通过#VV 京都#NR 议定书#NN
+248 京都#NR 议定书#NN 是#VC 有关#P 全球#NN 气候变化#VV 问题#NN
+Y
+249 杨澜#NR 跻身#VV 福布斯#NR 评比#VV 的#DEC 大陆#NN 五十#CD 大#JJ 富豪#NR 中#LC 唯一#JJ 的#DEG 女性#NN 。#PU
+249 杨澜#NR 被#SB 评为#VV 中国#NR 大陆#NN 50#CD 大#JJ 富豪#NR 之一#NN
+Y
+250 央视#NR 四年#NT 主持#VV 生涯#NN 后#LC ，#PU 杨澜#NR 去#VV 美国#NR 留学#VV ，#PU 获#VV 哥伦比亚大学#NR 硕士#NN 。#PU
+250 杨澜#NR 离开#VV 中央电视台#NR 后#LC 到#VV 美国#NR 进修#VV
+Y
+251 京都#NR 议定书#NN 中#LC 也#AD 允许#VV 排放量#NN 交易#NN ，#PU 让#VV 无法#AD 达到目标#VV 的#DEC 国家#NN 向#P 达成#VV 国家#NN 购买#VV 污染#VV 权#NN
+251 日本#NR 试图#VV 以#P 出口#NN 低碳#NN 科技#NN 和#CC 设备#NN 至#VV 九个#CD 国家#NN 、#PU 换取#VV 多一点#AD “#PU 排放#VV 污染#VV 权#NN ”#PU 。#PU
+N
+252 京都#NR 议定书#NN 规定#VV 发达国家#VV 需#VV 减少#VV 二氧化碳#NN 等#ETC 温室#NN 气体#NN 的#DEG 排放量#NN ，#PU 希望#VV 能#VV 控制#VV 使#VV 全球#NN 温度#NN 上升#VV 的#DEC 温室效应#NR 气体#NN
+252 京都#NR 议定书#NN 规定#VV 发达国家#VV 必须#VV 缩减#VV 导致#VV 全球#NN 温度#NN 上升#VV 的#DEC 温室效应#NR 气体#NN (#PU 如#AD 二氧化碳#NN )#PU 排放量#NN
+Y
+253 京都#NR 议定书#NN 规定#VV 在#P 二#CD 零#CD 一二年#NT 之前#LC ，#PU 将#AD 可能#VV 造成#VV 温室效应#NN 的#DEG 废气#NN 排放量#NN 降到#VV 比#P 一九九零年#NT 低#VA 百分之五点#CD 二#CD
+253 京都#NR 议定书#NN 规定#VV 在#P 2012#CD 年#M 以前#LC ，#PU 将#AD 可能#VV 造成#VV 温室效应#NN 的#DEG 废气#NN 排放量#NN 降到#VV 比#P 1990#NT 年#AD 低#VV 5.2#CD %#CD
+Y
+254 京都#NR 议定书#NN 规定#VV 在#P 二#CD 零#CD 一二年#NT 之前#LC ，#PU 将#AD 可能#VV 造成#VV 温室效应#NN 的#DEG 废气#NN 排放量#NN 降到#VV 比#P 一九九零年#NT 低#VA 百分之五点#CD 二#CD
+254 京都#NR 议定书#NN 规定#VV 在#P 2012#CD 年#M 之前#LC ，#PU 将#AD 可能#VV 造成#VV 温室效应#NN 的#DEG 废气#NN 排放量#NN 升到#VV 比#P 1990#NT 年#NN 高#VA 百分之五点#CD 二#CD
+N
+255 京都#NR 议定书#NN 规定#VV 在#P 二#CD 零#CD 一二年#NT 之前#LC ，#PU 将#AD 可能#VV 造成#VV 温室效应#NN 的#DEG 废气#NN 排放量#NN 降到#VV 比#P 一九九零年#NT 低#VA 百分之五点#CD 二#CD
+255 京都#NR 议定书#NN 规定#VV 在#P 1990#NT 年#NN 之前#LC ，#PU 将#AD 可能#VV 造成#VV 温室效应#NN 的#DEG 废气#NN 排放量#NN 降到#VV 比#P 2012#CD 年#M 低#JJ 百分之五点#CD 二#CD
+N
+256 温室#NN 气体#NN 包括#VV 二氧化碳#NN 、#PU 甲烷#NN 、#PU 氧化亚氮#VV 、#PU 氢#NN 氟#NN 碳化物#NN 、#PU 全氟#JJ 碳化物#NN 、#PU 六氟化硫#NN 等#ETC 六种#NN 气体#NN
+256 人造#JJ 温室#NN 气体#NN 包括#VV 氯#NN 氟#NN 碳化物#NN (#PU CFCs#NR )#PU 、#PU 全氟#JJ 碳化物#NN (#PU PFCs#NN )#PU 、#PU 氢#NN 氟#NN 碳化物#NN (#PU HFCs#NR )#PU 、#PU 含氯氟烃#NN (#PU HCFCs#NR )#PU 及#CC 六氟化硫#NR (#PU SF6#NR )#PU 等#ETC 。#PU
+N
+257 温室#NN 气体#NN 是#VC 包括#VV 甲烷#NN (#PU CH4#NR )#PU 、#PU 氧化亚氮#NN (#PU 又称#VV 笑#VV 气#NN ,#PU N2O#NR )#PU 、#PU 以及#CC 全氟#JJ 碳化物#NN (#PU PFCs#NN )#PU 、#PU 氢#NN 氟#NN 碳化物#NN (#PU PFCs#NN )#PU 、#PU 氢#NN 氟#NN 碳化物#NN (#PU HFCs#NR )#PU 、#PU 二氧化碳#NN 及#CC 六氟化硫#NN (#PU SF6#NN )#PU 等#ETC 。#PU
+257 温室#NN 气体#NN 包括#VV 二氧化碳#NN 、#PU 甲烷#NN 、#PU 氧化亚氮#VV 、#PU 氢#NN 氟#NN 碳化物#NN 、#PU 全氟#JJ 碳化物#NN 、#PU 六氟化硫#NN 等#ETC
+Y
+258 甲烷#NN 是#VC 主要#JJ 温室#NN 气体#NN 之一#NN
+258 甲烷#NN 是#VC 主要#JJ 温室#NN 气体#NN 中#LC 的#DEG 一种#NN
+Y
+259 纳#NR 芙#VV 拉蒂洛#NR 娃#NR 一共#AD 获得#VV 18#CD 座#M 大满贯#JJ 金杯#NN
+259 纳#NR 芙#VV 拉蒂洛#NR 娃#NR 一共#AD 取得#VV 了#AS 58#CD 个#M 大满贯#JJ 的#DEG 金杯#NN
+N
+260 伏明霞#NR 2000#CD 年#M 悉尼#NR 奥运#NR 上#LC 成为#VV 史上#NN 第一位#NN 连续#AD 三届#VV 奥运#NR 夺金#VV 的#DEC 跳水#NN 选手#NN
+260 伏明霞#NR 曾#AD 是#VC 奥运#NR 跳水#NN 冠军#NN
+Y
+261 邓亚萍#NR 拥有#VV 4#CD 枚#M 奥运#NR 乒乓球#NN 金牌#NN ，#PU 蝉联#VV 8#CD 年#M 世界#NN 第一#OD ，#PU 拥有#VV 超过#VV 18#CD 个#M 世界冠军#NN 头衔#NN
+261 邓亚萍#NR 是#VC 兵乓球#NN 冠军#NN
+Y
+262 千禧年#NT 危机#NN 可能#VV 引发#VV 日期#NN 从#P 1999#CD 年#M 至#CC 2001#CD 年#M ，#PU 时间#NN 横跨#VV 3#CD 年#M
+262 千禧年#NT 危机#NN 不止#AD 发生#VV 在#P 公元#JJ 1999#CD 年#M
+Y
+263 千禧年#NT 危机#NN 可能#VV 引发#VV 日期#NN 从#P 1999#CD 年#M 至#CC 2001#CD 年#M ，#PU 时间#NN 横跨#VV 3#CD 年#M
+263 千禧年#NT 危机#NN 发生#VV 于#P 公元#JJ 1999#CD 年#M 与#P 2001#CD 年#M
+N
+264 千年虫#NR 危机#NN 可能#VV 引发#VV 日期#NN 从#P 1999#CD 年#M 至#CC 2001#CD 年#M ，#PU 时间#NN 横跨#VV 3#CD 年#M
+264 2000#CD 年#M 也#AD 有#VE 可能#NN 发生#VV 千年虫#NN 危机#NN
+Y
+265 千年虫#NR 危机#NN 可能#VV 引发#VV 日期#NN 从#P 1999#CD 年#M 至#CC 2001#CD 年#M ，#PU 时间#NN 横跨#VV 3#CD 年#M
+265 千禧虫#NT 危机#NN 可能#VV 引发#VV 日期#NN 从#P 1999#CD 年#M 至#CC 2001#CD 年#M ，#PU 时间#NN 横跨#VV 3#CD 年#M
+Y
+266 千禧年#NT 危机#NN 俗称#VV Y2K#NT 危机#NN 或千禧虫#NN
+266 千禧年#NT 危机#NN 又#AD 叫#VV Y2K#NT 危机#NN 或千禧虫#NN
+Y
+267 千禧年#NT 危机#NN 俗称#VV Y2K#NT 危机#NN 或千禧虫#NN
+267 千禧年#NT 危机#NN 并非#VC Y2K#NT 危机#NN 或千禧虫#NN
+N
+268 亚伯#NR 雷斯克奖#NR 有#VE “#PU 美国#NR 的#DEG 诺贝尔奖#NN ”#PU 之称#VV
+268 亚伯#NR 雷斯克奖#VV 又#AD 被#SB 称为#VV “#PU 美国#NR 的#DEG 诺贝尔奖#NN ”#PU
+Y
+269 亚伯#NR 雷斯克#NR 奖得主#NN 经常#AD 两年#AD 内#LC 再#AD 获得#VV 诺贝尔奖#NN
+269 亚伯#NR 雷斯克#NR 奖得主#NN 有#VE 很大#JJ 机会#NN 两年#NT 内#LC 再#AD 获得#VV 诺贝尔奖#NN
+Y
+270 亚伯#NR 雷斯克#NR 奖得主#NN 经常#AD 两年#AD 内#LC 再#AD 获得#VV 诺贝尔奖#NN
+270 亚伯#NR 雷斯克#NR 奖得主#NN 两年#NT 内#LC 都#AD 获得#VV 诺贝尔奖#NN
+N
+271 从#P 一九六二年#NT 至#P 1999#CD 年#M 有#VE 一半#CD （#PU 六十#CD 一位#M ）#PU 的#DEG 亚伯#NR 雷斯克#NR 奖得主#NN 再#AD 获得#VV 诺贝尔奖#NN
+271 亚伯#NR 雷斯克#NR 奖得主#NN 有#VE 很大#JJ 机会#NN 再#AD 获得#VV 诺贝尔奖#NN
+Y
+272 从#P 一九六二年#NT 至#P 1999#CD 年#M 有#VE 一半#CD （#PU 六十#CD 一位#M ）#PU 的#DEG 亚伯#NR 雷斯克#NR 奖得主#NN 再#AD 获得#VV 诺贝尔奖#NN
+272 亚伯#NR 雷斯克#NR 奖得主#NN 都#AD 会#VV 再#AD 获得#VV 诺贝尔奖#NN
+N
+273 伍迪#NR ·#PU 艾伦#NR 与#CC 西尔维斯#NR 特#AD ·#PU 史泰龙#NR 曾#AD 为#P 同#P 一部#NN 电影#NN 《#PU 小蚁#NN 雄兵#NN 》#PU 配音#NN
+273 《#PU 小蚁#NN 雄兵#NN 》#PU 的#DEG 导演#NN 是#VC 埃里克#NR ·#PU 达#VV 奈尔#NR 和#CC 蒂姆#NR ·#PU 约翰逊#NR 。#PU
+N
+274 伍迪#NR ·#PU 艾伦#NR 与#CC 西尔维斯#NR 特#AD ·#PU 史泰龙#NR 曾#AD 为#P 动画电影#VV 《#PU 小蚁#NN 雄兵#NN 》#PU 配音#NN
+274 伍迪#NR ·#PU 艾伦#NR 与#CC 西尔维斯#NR 特#AD ·#PU 史泰龙#NR 曾#AD 为#P 卡通动画#NR 电影#NN 《#PU 小蚁#NN 雄兵#NN 》#PU 配音#NN
+Y
+275 伍迪#NR ·#PU 艾伦#NR 与#CC 西尔维斯#NR 特#AD ·#PU 史泰龙#NR 曾#AD 为#P 电影#NN 《#PU 小蚁#NN 雄兵#NN 》#PU 配音#NN
+275 西尔维斯#NR 特#AD ·#PU 史泰龙#NR 和#CC 伍迪#NR ·#PU 艾伦#NR 曾#AD 为#P 电影#NN 《#PU 小蚁#NN 雄兵#NN 》#PU 配音#NN
+Y
+276 金#JJ ·#PU 凯瑞#NR 1998#NT 年#NN 主演#VV 的#DEC 《#PU 楚门#NN 的#DEG 世界#NN 》#PU 遭到#VV 奥斯卡金像奖#NR 评审#NN 冷落#NN
+276 金#JJ ·#PU 凯瑞#NR 1998#NT 年#NN 主演#VV 《#PU 楚门#NN 的#DEG 世界#NN 》#PU
+Y
+277 金#JJ ·#PU 凯瑞#NR 1998#NT 年#NN 主演#VV 的#DEC 《#PU 楚门#NN 的#DEG 世界#NN 》#PU 遭到#VV 奥斯卡金像奖#NR 评审#NN 冷落#NN
+277 金#JJ ·#PU 凯瑞#NR 1998#NT 年#NN 主演#VV 的#DEC 《#PU 楚门#NN 的#DEG 世界#NN 》#PU 遭到#VV 奥斯卡金像奖#NR 评审#NN 青睐#NN
+N
+278 如果#CS 没有#VE 莫斯科#NR 的#DEG 安全#NN 保证#NN ，#PU 美国#NR 不会#AD 同意#VV 让#VV 使用#VV 过#AS 的#DEC 核废料#NN 经#P 第三国#OD 转运#NN 到#VV 俄罗斯#NR
+278 若#CS 无#VE 莫斯科#NR 安全#NN 保证#NN ，#PU 美国#NR 不会#AD 同意#VV 让#VV 使用#VV 过#AS 的#DEC 核废料#NN 经#P 第三国#OD 转运#NN 到#VV 俄罗斯#NR
+Y
+279 美国#NR 尤其#AD 担心#VV ，#PU 恐怖分子#NN 或#CC “#PU 流氓#NN 国家#NN ”#PU 可能#AD 以#P 购买#VV 或#CC 偷窃#VV 的#DEC 方法#NN 却#AD 得#VV 俄罗斯#NR 的#DEG 武器#NN 级#NN 钚#NN
+279 美国#NR 对于#P 恐怖分子#NN 或#CC “#PU 流氓#NN 国家#NN ”#PU 可能#AD 以#P 购买#VV 或#CC 偷窃#VV 的#DEC 方法#NN 却#AD 得#VV 俄罗斯#NR 的#DEG 武器#NN 级#NN 钚#NN 甚感#NN 担忧#VV
+Y
+280 美国#NR 尤其#AD 担心#VV ，#PU 恐怖分子#NN 或#CC “#PU 流氓#NN 国家#NN ”#PU 可能#AD 以#P 购买#VV 或#CC 偷窃#VV 的#DEC 方法#NN 却#AD 得#VV 俄罗斯#NR 的#DEG 武器#NN 级#NN 钚#NN
+280 美国#NR 并#AD 不#AD 担心#VV 恐怖分子#NN 或#CC “#PU 流氓#NN 国家#NN ”#PU 可能#AD 以#P 购买#VV 或#CC 偷窃#VV 的#DEC 方法#NN 却#AD 得#VV 俄罗斯#NR 的#DEG 武器#NN 级#NN 钚#NN
+N
+281 美国#NR 向#P 台湾#NR “#PU 外交#NN ”#PU 部门#NN 施压#VV 封杀#VV 台#NR 电#NN 预订#VV 运送#VV 六#CD 万桶#M 核废料#NN 至#VV 朝鲜#NR 贮存#VV 的#DEC 计划#NN
+281 台湾#NR 曾#AD 有#VE 运送#VV 六#CD 万桶#M 核废料#NN 至#VV 朝鲜#NR 贮存#VV 案#NN 的#DEC 计划#NN
+Y
+282 美国#NR 向#P 台湾#NR “#PU 外交#NN ”#PU 部门#NN 施压#VV 封杀#VV 台#NR 电#NN 预订#VV 运送#VV 六#CD 万桶#M 核废料#NN 至#VV 朝鲜#NR 贮存#VV 的#DEC 计划#NN
+282 美国#NR 向#P 台湾#NR 施压#VV 封杀#VV 预订#VV 运送#VV 六#CD 万桶#M 核废料#NN 至#VV 朝鲜#NR 贮存#VV 的#DEC 计划#NN
+Y
+283 核废料#NN 再#AD 处理厂#NN 的#DEG 主要#JJ 作用#NN 是#VC 把#BA 核废料#NN 转化#VV 为#VC 武器#NN 级#NN 钚#NN
+283 核废料#NN 再#AD 处理厂#NN 的#DEG 主要#JJ 工作#NN 是#VC 把#BA 核废料#NN 转化#VV 为#VC 武器#NN 级#NN 钚#NN
+Y
+284 1997#NT 年#NN 7#CD 月#NN 泰铢#NN 贬值#VV 引起#VV 亚洲#NR 的#DEG 金融危机#NN
+284 1997#NT 年#NN 7#CD 月#NN 亚洲#NR 的#DEG 金融危机#NN 是因为#NR 泰铢#NN 贬值#VV
+Y
+285 泰国#NR 在#P 1997#NT 年#JJ 的#DEG 亚洲#NR 金融风暴#NN 中受#AD 创#VV 最深#NN
+285 泰国#NR 在#P 亚洲#NR 金融风暴#NR 中受#NR 创#VV 最深#NN
+Y
+286 以色列#NR 总理#NN 沙龙#NR 和#CC 巴勒斯坦#NR 领导人#NN 阿拉法特#NR 素来#AD 关系#VV 不佳#VA
+286 2001#CD 年#M 年底#NT ，#PU 以色列#NR 总理#NN 沙龙#NR 说#VV 巴勒斯坦#NR 领导人#NN 阿拉法特#NR 已经#AD 是#VC “#PU 历史#NN ”#PU
+N
+287 以色列#NR 总理#NN 沙龙#NR 说#VV 巴勒斯坦#NR 领导人#NN 阿拉法特#NR 已经#AD 是#VC “#PU 历史#NN ”#PU
+287 沙龙#NR 说#VV 阿拉法特#NR 已经#AD 是#VC “#PU 历史#NN "#PU
+Y
+288 2001#CD 年#M 阿拉法特#NR 祝贺#VV 沙龙#NR 当选#VV
+288 2001#CD 年#M 美国#NR 领导人#NN 祝贺#VV 以色列#NR 总理#NN 当选#VV
+N
+289 2001#CD 年#M 巴勒斯坦#NR 领导人#NN 阿拉法特#NR 祝贺#VV 以色列#NR 沙龙#NR 总理#NN 当选#VV
+289 2001#CD 年#M 阿拉法特#NR 祝贺#VV 沙龙#NR 当选#VV
+Y
+290 巴勒斯坦#NR 领导人#NN 阿拉法特#NR 宣称#VV ，#PU 中东#NR 暴力事件#NN 愈演愈烈#VV ，#PU 责任#NN 在#P 以色列#NR 总理#NN 沙龙#NR 。#PU
+290 阿拉法特#NR 指责#VV 以色列#NR 总理#NN 沙龙#NR
+Y
+291 1998#NT -#PU 05#CD -#PU 17#CD 澳洲#NR 可能#VV 放宽#VV 移民#NN 法规#NN ，#PU 给#VV 为#P 躲避#VV 印尼#NR 暴民#NN 的#DEG 暴力行为#NN 而#MSP 逃#VV 抵#VV 此处#PN 的#DEG 华裔#NN 暂时#AD 庇护#VV
+291 印尼政府#NN 对于#P 为#P 躲避#VV 澳洲#NR 暴民#NN 的#DEG 暴力行为#NN 而#MSP 逃#VV 抵#VV 此地#PN 的#DEG 华裔#NN 而#MSP 可能#VV 放宽#VV 移民#NN 法规#NN ，#PU 给予#VV 暂时#JJ 庇护#NN
+Y
+292 澳洲#NR 可能#VV 放宽#VV 移民#NN 法规#NN ，#PU 给#VV 为#P 躲避#VV 印尼#NR 暴民#NN 的#DEG 暴力行为#NN 而#MSP 逃#VV 抵#VV 此处#PN 的#DEG 华裔#NN 暂时#AD 庇护#VV
+292 印尼政府#NN 对于#P 为#P 躲避#VV 澳洲#NR 暴民#NN 的#DEG 暴力行为#NN 而#MSP 逃#VV 抵#VV 此地#PN 的#DEG 华裔#NN 而#MSP 可能#VV 放宽#VV 移民#NN 法规#NN ，#PU 给予#VV 暂时#JJ 庇护#NN
+Y
+293 澳洲#NR 政府#NN 对于#P 为#P 躲避#VV 印尼#NR 暴民#NN 的#DEG 暴力行为#NN 而#MSP 逃#VV 抵#VV 此地#PN 的#DEG 华裔#NN 而#MSP 可能#VV 放宽#VV 移民#NN 法规#NN ，#PU 给予#VV 暂时#JJ 庇护#NN
+293 澳洲#NR 政府#NN 对于#P 为#P 躲避#VV 印尼#NR 暴民#NN 的#DEG 暴力行为#NN 而#MSP 逃#VV 抵#VV 此地#PN 的#DEG 华裔#NN 而#MSP 可能#VV 紧缩#JJ 移民#NN 法规#NN ，#PU 给予#VV 暂时#JJ 庇护#NN
+N
+294 2001#NT -#PU 08#NT -#PU 27#CD 澳大利亚政府#NN 拒绝#VV 让#VV 一艘#AD 从#P 印尼#NR 渡轮#NN 上#LC 救起#VV 四百#CD 三十四#CD 名#M 阿富汗#NR 难民#NN 的#DEG 挪威#NR 货轮#NN 进入#VV 其#PN 海域#NN
+294 2001#NT -#PU 08#NT -#PU 27#CD 澳大利亚政府#NN 拒绝#VV 让#VV 一艘#AD 从#P 挪威#NR 渡轮#NN 上#LC 救起#VV 四百#CD 三十四#CD 名#M 阿富汗#NR 难民#NN 的#DEG 印尼#NR 货轮#NN 进入#VV 其#PN 海域#NN
+N
+295 澳大利亚政府#NR 拒绝#VV 让#VV 一艘#AD 从#P 印尼#NR 渡轮#NN 上#LC 救起#VV 四百#CD 三十四#CD 名#M 阿富汗#NR 难民#NN 的#DEG 挪威#NR 货轮#NN 进入#VV 其#PN 海域#NN
+295 澳大利亚政府#NR 拒绝#VV 让#VV 一艘#AD 从#P 印尼#NR 渡轮#NN 上#LC 救起#VV 434#CD 名#M 阿富汗#NR 难民#NN 的#DEG 挪威#NR 货轮#NN 进入#VV 其#PN 海域#NN
+Y
+296 印尼#NR 是#VC 澳大利亚#NR 最大#JJ 的#DEG 贸易#NN 伙伴#NN
+296 印度尼西亚#NR 是#VC 澳大利亚#NR 的#DEG 第一#OD 大#JJ 贸易#NN 伙伴#NN
+Y
+297 印尼#NR 是#VC 澳大利亚#NR 最大#JJ 的#DEG 贸易#NN 伙伴#NN
+297 澳大利亚#NR 是#VC 印尼#NR 最大#JJ 的#DEG 贸易#NN 伙伴#NN
+N
+298 911#NT 事件#NN 发生#VV 后#LC ，#PU 美国#NR 金融体系#NN 最大#JJ 的#DEG 危机#NN 在于#VV 资金外流#VV
+298 911#NT 事件#NN 发生#VV 后#LC ，#PU 美国#NR 资金外流#NN 情况严重#VV
+Y
+299 9#CD 月份#NN 美国#NR 约#AD 有#VE 25#CD 万人#M 遭#VV 裁员#NN ，#PU 且#CC 至少#AD 五分#CD 之四在#VV 911#NT 事件#NN 后#LC 被#SB 裁#VV
+299 911#NT 袭击#NN 对#P 美国#NR 经济#NN 造成#VV 冲击#NN
+Y
+300 9#CD 月份#NN 美国#NR 约#AD 有#VE 25#CD 万人#M 遭#VV 裁员#NN ，#PU 且#CC 至少#AD 五分#CD 之四在#VV 911#NT 事件#NN 后#LC 被#SB 裁#VV
+300 9#CD 月份#NN 美国#NR 约#AD 有#VE 25#CD 万人#M 遭#VV 裁员#NN ，#PU 且#CC 至少#AD 4#CD /#PU 5#CD 在#P 911#NT 事件#NN 后#LC 被#SB 裁#VV
+Y
+301 911#NT 袭击#NN 对#P 美国#NR 经济#NN 造成#VV 冲击#NN
+301 911#NT 事件#NN 发生#VV 至#VV 2001#NT -#PU 12#CD -#PU 18#CD ，#PU 大多数#CD 资本#NN 还是#AD 持续#AD 流向#VV 美国#NR
+N
+302 “#PU 发现#VV 号#NN ”#PU 2000#CD /#PU 10#CD /#PU 12#CD 载#VV 着#AS 七名#NN 宇航员#NN 前往#VV 建造#VV 国际#NN 空间站#NN ，#PU 包括#VV 第一次#AD 前往#VV 建造#VV 国际#NN 空间站#NN 的#DEC 日本#NR 宇航员#NN 若田光#NR 一#CD
+302 第一位#AD 前往#VV 建造#VV 国际#NN 空间站#NN 的#DEC 日本#NR 宇航员#NN 叫#VV 若田光#NR 一#CD
+Y
+303 “#PU 发现#VV 号#NN ”#PU 2000#CD /#PU 10#CD /#PU 12#CD 载#VV 着#AS 七名#NN 宇航员#NN 前往#VV 建造#VV 国际#NN 空间站#NN
+303 “#PU 发现#VV 号#NN ”#PU 2000#CD /#PU 10#CD /#PU 12#CD 载#VV 着#AS 7#CD 名#M 宇航员#NN 前往#VV 建造#VV 国际#NN 空间站#NN
+Y
+304 “#PU 发现#VV 号#NN ”#PU 2000#CD /#PU 10#CD /#PU 12#CD 载#VV 着#AS 七名#NN 宇航员#NN 前往#VV 建造#VV 国际#NN 空间站#NN ，#PU 包括#VV 第一次#AD 前往#VV 建造#VV 国际#NN 空间站#NN 的#DEC 日本#NR 宇航员#NN 若田光#NR 一#CD
+304 第一位#AD 前往#VV 建造#VV 国际#NN 空间站#NN 的#DEC 是#VC 日本#NR 宇航员#NN 若田光#NR 一#CD
+N
+305 张朝阳#NR 一九九八年#NT 创建#VV “#PU 搜狐#NR ”#PU
+305 “#PU 搜狐#NR ”#PU 是#VC 在#P 1998#NT 年#AD 由#P 张朝阳#NR 创立#VV 的#SP
+Y
+306 张朝阳#NR 一九九八年#NT 创建#VV “#PU 搜狐#NR ”#PU
+306 “#PU 搜狐#NR ”#PU 的#DEG 创始人#NN 是#VC 张朝阳#NR
+Y
+307 张朝阳#NR 于#P 1998#NT 年#NN 正式#AD 推出#VV 其#PN 品牌#NN 网站#NN 搜狐#NR ，#PU 同时#AD 更名#VV 为#VC 搜狐公司#NN 。#PU
+307 张朝阳#NR 一九九八年#NT 创建#VV “#PU 搜狐#NR ”#PU
+Y
+308 丁磊#NR 在#P 网易#NR 所#MSP 占#VV 的#DEC 股份#NN 有#VE 70#CD %#CD
+308 丁磊#NR 持有#VV 网易#NR 十分#AD 之#DEC 七#CD 的#DEG 股份#NN
+Y
+309 丁磊#NR 在#P 网易#NR 所#MSP 占#VV 的#DEC 股份#NN 有#VE 70#CD %#CD
+309 丁磊#NR 在#P 网易#NR 所#MSP 占#VV 的#DEC 股份#NN 有#VE 百分之七十#CD
+Y
+310 丁磊#NR 在#P 网易#NR 所#MSP 占#VV 的#DEC 股份#NN 有#VE 70#CD %#CD
+310 丁磊#NR 是#VC 网易#NR 最大#JJ 的#DEG 股东#NN
+Y
+311 丁磊#NR 1997#NT 年#NN 6#CD 月#NN 創立#VV 網易#NR 公司#NN
+311 丁磊#NR 石#NR 网易#NR 的#DEG 创办人#NN
+Y
+312 网易#NR 首席#JJ 技术#NN 总裁#NN 丁磊#NR
+312 丁磊#NR 是#VC 网易公司#NN 首席#NN 构架#NN 师#NN
+N
+313 不少#CD 汇银及#NN 投资人#NN 认为#VV ，#PU 欧元#NN 是#VC 另#AD 一个#CD 足以#VV 与#CC 美元#NN 抗衡#NN 的#DEC 国际#NN 货币#NN
+313 许多#CD 投资人#NN 认为#VV ，#PU 欧元#NN 是#VC 另#AD 一个#CD 足以#VV 与#CC 美元#NN 抗衡#NN 的#DEC 国际#NN 货币#NN
+Y
+314 大部分#CD 人#NN 认为#VV ，#PU 欧元#NN 是#VC 另#AD 一个#CD 足以#VV 与#CC 美元#NN 抗衡#NN 的#DEC 国际#NN 货币#NN
+314 大部分#CD 人#NN 认为#VV ，#PU 欧元#NN 足以#VV 与#CC 美元#NN 抗衡#NN
+Y
+315 2001#CD 年#M 12#CD 月#NN 印度#NR 与#CC 巴基斯坦#NR 为了#P 印度#NR 国会#NN 遭到#VV 暴徒#NN 自杀#NN 袭击#NN 而#MSP 关系紧张#VV
+315 2001#CD 年#M 印度#NR 与#CC 巴基斯坦#NR 关系紧张#NR
+Y
+316 2001#CD 年#M 印度#NR 与#CC 巴基斯坦#NR 为了#P 印度#NR 国会#NN 遭到#VV 暴徒#NN 自杀#NN 袭击#NN 而#MSP 关系紧张#VV
+316 2001#CD 年#M 印度#NR 因为#P 印度#NR 国会#NN 遭到#VV 暴徒#NN 自杀#NN 袭击#NN 与#CC 巴基斯坦#NR 关系紧张#NR
+Y
+317 2001#CD 年#M 印度#NR 与#CC 巴基斯坦#NR 为了#P 印度#NR 国会#NN 遭到#VV 暴徒#NN 自杀#NN 袭击#NN 而#MSP 关系紧张#VV
+317 2001#CD 年#M 巴基斯坦#NR 因为#P 印度#NR 国会#NN 遭到#VV 暴徒#NN 自杀#NN 袭击#NN 与#CC 印度#NR 关系紧张#NR
+Y
+318 2001#CD 年#M 印度#NR 与#CC 巴基斯坦#NR 为了#P 印度#NR 国会#NN 遭到#VV 暴徒#NN 自杀#NN 袭击#NN 而#MSP 关系紧张#VV
+318 2001#CD 年#M 巴基斯坦#NR 因为#P 国会#NN 遭到#VV 暴徒#NN 自杀#NN 袭击#NN 与#CC 印度#NR 关系紧张#NR
+N
+319 一九七一年#NT ，#PU 印度#NR 协助#VV 东#NN 巴基斯坦#NR 脱离#VV 巴基斯坦#NR 成为#VV 孟加拉#NR ，#PU 结果#AD 印巴#NR 战事#NN 再起#VV 。#PU
+319 1971#NT 年#NN ，#PU 印度#NR 协助#VV 东#NN 巴基斯坦#NR 脱离#VV 巴基斯坦#NR 成为#VV 孟加拉#NR ，#PU 结果#AD 印巴#NR 战事#NN 再起#VV 。#PU
+Y
+320 一九七一年#NT ，#PU 印度#NR 协助#VV 东#NN 巴基斯坦#NR 脱离#VV 巴基斯坦#NR 成为#VV 孟加拉#NR ，#PU 结果#AD 印巴#NR 战事#NN 再起#VV 。#PU
+320 一九七一年#NT ，#PU 印度#NR 协助#VV 西#NN 巴基斯坦#NR 脱离#VV 巴基斯坦#NR 成为#VV 孟加拉#NR ，#PU 结果#AD 印巴#NR 战事#NN 再起#VV 。#PU
+N
+321 一九七一年#NT ，#PU 印度#NR 协助#VV 东#NN 巴基斯坦#NR 脱离#VV 巴基斯坦#NR 成为#VV 孟加拉#NR ，#PU 结果#AD 印巴#NR 战事#NN 再起#VV 。#PU
+321 一九七一年#NT ，#PU 巴基斯坦#NR 协助#VV 东#NN 巴基斯坦#NR 脱离#VV 印度#NR 成为#VV 孟加拉#NR ，#PU 结果#AD 印巴#NR 战事#NN 再起#VV 。#PU
+N
+322 一九七一年#NT ，#PU 印度#NR 协助#VV 东#NN 巴基斯坦#NR 脱离#VV 巴基斯坦#NR 成为#VV 孟加拉#NR ，#PU 结果#AD 印巴#NR 战事#NN 再起#VV 。#PU
+322 一九七一年#NT 印巴#NR 战事#NN 再起#VV ，#PU 因#P 印度#NR 帮助#VV 东#NN 巴基斯坦#NR 独立#AD 成为#VV 孟加拉#NR
+Y
+323 一九四七年#NT 印度#NR 和#CC 巴基斯坦#NR 皆#AD 脱离#VV 英国#NR 独立#VA
+323 印度#NR 和#CC 巴基斯坦#NR 曾#AD 被#LB 英国#NR 统治#NN
+Y
+324 一九四七年#NT 印度#NR 和#CC 巴基斯坦#NR 皆#AD 脱离#VV 英国#NR 独立#VA
+324 一九四七年#NT 英国#NR 和#CC 巴基斯坦#NR 皆#AD 脱离#VV 印度#NR 独立#VA
+N
+325 一九四七年#NT 印度#NR 和#CC 巴基斯坦#NR 皆#AD 脱离#VV 英国#NR 独立#VA
+325 1947#CD 年#M 印度#NR 和#CC 巴基斯坦#NR 皆#AD 脱离#VV 英国#NR 独立#VA
+Y
+326 印度#NR 与#CC 巴基斯坦#NR 分别#AD 在#P 1948#CD 年#M 和#CC 1965#CD 年#M 以及#CC 1971#NT 年#NN 爆发#VV 战争#NN
+326 印度#NR 与#CC 巴基斯坦#NR 为了#P 克什米尔#NR 问题#NN 而#MSP 爆发#VV 过#AS 三次#NN 战争#NN
+N
+327 印度#NR 与#CC 巴基斯坦#NR 分别#AD 在#P 1948#CD 年#M 和#CC 1965#CD 年#M 以及#CC 1971#NT 年#AD 为了#P 克什米尔#NR 问题#NN 而#MSP 爆发#VV 战争#NN
+327 印度#NR 与#CC 巴基斯坦#NR 在#P 一九四八年#NT 、#PU 一九六五年#NT 以及#CC 一九七一年#NT 为了#P 克什米尔#NR 问题#NN 而#MSP 爆发#VV 战争#NN
+Y
+328 印度#NR 与#CC 巴基斯坦#NR 分别#AD 在#P 1948#CD 年#M 和#CC 1965#CD 年#M 以及#CC 1971#NT 年#AD 为了#P 克什米尔#NR 问题#NN 而#MSP 爆发#VV 战争#NN
+328 印度#NR 与#CC 克什米尔#NR 分别#AD 在#P 1948#CD 年#M 和#CC 1965#CD 年#M 以及#CC 1971#NT 年#AD 为了#P 巴基斯坦#NR 问题#NN 而#MSP 爆发#VV 战争#NN
+N
+329 巴基斯坦#NR 的#DEG 宿敌#NN 印度#NR
+329 巴基斯坦#NR 的#DEG 好#JJ 朋友#NN 印度#NR
+N
+330 金泳三#NR 在#P 一九九二年#NT 当选#VV 韩国#NR 第十四届#OD 大#NN 统领#VV
+330 金泳三#NR 在#P 一九九二年#NT 当选#VV 韩国#NR 第十四届#NR 总统#NN
+Y
+331 金泳三#NR 在#P 1992#CD 年#M 当选#VV 韩国#NR 第#OD 14#CD 届#M 总统#NN
+331 金泳三#NR 在#P 一九九二年#NT 当选#VV 韩国#NR 第十四届#NR 总统#NN
+Y
+332 金泳三#NR 在#P 一九九二年#NT 当选#VV 韩国#NR 第十四届#NR 总统#NN
+332 金泳三#NR 是#VC 韩国#NR 第十四#OD 任#M 总统#NN
+Y
+333 韩国#NR 前#JJ 总统#NN 金泳三#NR
+333 金泳三#NR 曾任#NR 韩国#NR 总统#NN
+Y
+334 金泳三#NR 是#VC 韩国#NR 民主#NN 自由党#NR 第一号#NT 人物#NN
+334 金泳三#NR 是#VC 韩国#NR 民主#NN 自由党#NN 首脑人物#NN 之一#NN
+Y
+335 金泳三#NR 是#VC 韩国#NR 民主#NN 自由党#NR 首脑人物#NN
+335 金泳三#NR 是#VC 民主#NN 自由党#NN 第一号#NT 人物#NN
+Y
+336 何厚铧#NR 在#P 澳门#NR 回归#VV 前#LC 担任#VV 澳门特区#NR 筹委会#NN 副#JJ 主任委员#NN
+336 何厚铧#NR 在#P 澳门#NR 回归#VV 后#LC 才#AD 担任#VV 澳门特区#NR 筹委会#NN 副#JJ 主任委员#NN
+N
+337 何厚铧#NR 现任#JJ 澳门国际机场#NR 专营#JJ 公司#NN 董事局#NN 副#JJ 主席#NN
+337 何厚铧#NR 曾任#NR 澳门国际机场#NR 专营#JJ 公司#NN 董事局#NN 副#JJ 主席#NN
+N
+338 何厚铧#NR 现任#JJ 澳门国际机场#NR 专营#JJ 公司#NN 董事局#NN 副#JJ 主席#NN
+338 何厚铧#NR 现任#JJ 澳门国际机场#NR 专营#JJ 公司#NN 董事局#NN 主席#NN
+N
+339 大多数#CD 日本#NR 人#NN 认为#VV 首相#NN 桥本龙太郎#NR 应为#P 日本#NR 的#DEG 经济#NN 萧条#NN 负#VV “#PU 严重#VA ”#PU 责任#NN 而#MSP 辞职#VV 。#PU
+339 桥本龙太郎#NR 为#VC 日本#NR 的#DEG 经济#NN 萧条#VA 而#MSP 辞职#VV
+N
+340 大多数#CD 日本#NR 人#NN 认为#VV 首相#NN 桥本龙太郎#NR 应为#P 日本#NR 的#DEG 经济#NN 萧条#NN 负#VV “#PU 严重#VA ”#PU 责任#NN 而#MSP 辞职#VV 。#PU
+340 大多数#CD 日本#NR 人#NN 认为#VV 本国#NN 的#DEG 经济#NN 萧条#NN 严重#AD 是因为#VV 首相#NN 桥本龙太郎#NR
+Y
+341 大多数#CD 日本#NR 人#NN 认为#VV 首相#NN 桥本龙太郎#NR 应为#P 日本#NR 的#DEG 经济#NN 萧条#NN 负#VV “#PU 严重#VA ”#PU 责任#NN 而#MSP 辞职#VV 。#PU
+341 多数#CD 日本#NR 人#NN 认为#VV 桥本龙太郎#NR 应该#VV 辞职#VV 。#PU
+Y
+342 日本首相#VV 桥本龙太郎#NR 宣布#VV 辞职#VV 后#LC ，#PU 东京#NR 股市#NN 指数#NN 开始#VV 反弹#VV 大涨#VV
+342 桥本龙太郎#NR 为#VC 日本#NR 的#DEG 经济#NN 萧条#VA 而#MSP 辞职#VV
+N
+343 日本首相#VV 桥本龙太郎#NR 宣布#VV 辞职#VV 后#LC ，#PU 东京#NR 股市#NN 指数#NN 开始#VV 反弹#VV 大涨#VV
+343 东京#NR 股市#NN 指数#NN 在#P 首相#NN 桥本龙太郎#NR 宣布#VV 辞职#VV 后#LC 开始#VV 反弹#VV 大涨#VV
+Y
+344 反#VV 厄尔尼诺#NN 现象#NN 导致#VV 2001#CD 年#M 我国#NN 强#VA 沙尘#NN 天气#NN 陡增#VV
+344 反#VV 厄尔尼诺#NN 现象#NN 导致#VV 我国#NN 强#JJ 沙尘#NN 增加#VV
+Y
+345 反#VV 厄尔尼诺#NN 现象#NN 对#P 气候#NN 的#DEG 冲击#NN 表现#NN 在#P 美国#NR 中部#NN 、#PU 北部#NN 及#CC 东部#NN 各州#NN 将会#NN 有#VE 几天#AD 异常#VA 的#DEC 暖和#JJ 天气#NN 后#LC ，#PU 跟着#AD 是#VC 突如其来#VV 的#DEC 酷寒#NN 。#PU
+345 厄尔尼诺#NN 现象#NN 造成#VV 美国#NR 中#NR 、#PU 北及#NR 东部#NN 各州#NN 会#VV 出现#VV 几天#AD 异常#VA 的#DEC 暖和#JJ 天气#NN ，#PU 再来#AD 是#VC 突如其来#VV 的#DEC 酷寒#NN 。#PU
+N
+346 反#VV 厄尔尼诺#NN 现象#NN 对#P 气候#NN 的#DEG 冲击#NN 表现#NN 在#P 美国#NR 中部#NN 、#PU 北部#NN 及#CC 东部#NN 各州#NN 将会#NN 有#VE 几天#AD 异常#VA 的#DEC 暖和#JJ 天气#NN 后#LC ，#PU 跟着#AD 是#VC 突如其来#VV 的#DEC 酷寒#NN 。#PU
+346 反#VV 厄尔尼诺#NN 现象#NN 造成#VV 美国#NR 中#NR 、#PU 北及#NR 东部#NN 各州#NN 会#VV 出现#VV 几天#AD 异常#VA 的#DEC 暖和#JJ 天气#NN ，#PU 再来#AD 是#VC 突如其来#VV 的#DEC 酷寒#NN 。#PU
+Y
+347 海尔集团#NR 总裁#NN 是#VC 张瑞敏#NR
+347 张瑞敏#NR 是#VC 海尔集团#NR 总裁#NN
+Y
+348 张瑞敏#NR 14#CD 年间#NN 让#VV 海尔#NR 转亏#VV 为盈#VV 并且#CC 快速#AD 成长#VV
+348 海尔#NR 在#P 张瑞敏#NR 接手#VV 前#LC 曾#AD 是#VC 亏损#VV 的#DEC 状态#NN
+Y
+349 张瑞敏#NR 14#CD 年间#NN 让#VV 海尔#NR 转亏#VV 为盈#VV 并且#CC 快速#AD 成长#VV
+349 张瑞敏#NR 十四年#NT 里#LC 让#VV 海尔#NR 转亏#VV 为#VC 盈且#AD 快速#AD 成长#VV
+Y
+350 张瑞敏#NR 1984#NT 年#NN 接手#VV 海尔#NR ，#PU 花#VV 了#AS 14#CD 年#M 时间#NN 让#VV 海尔#NR 转亏#VV 为盈#VV 并且#AD 快速增长#VV
+350 张瑞敏#NR 1998#NT 年#AD 让#VV 海尔#NR 转亏#VV 为盈#VV 并且#AD 快速增长#VV
+Y
+351 哈塔米#NR 1997#NT 年#NN 12#CD 月#NN 要求#VV 与#P “#PU 伟大#VA 的#DEC 美国#NR 人民#NN ”#PU 对话#NN ，#PU 是#VC 一九七九年#NT 伊朗#NR 伊斯兰#NR 革命#NN 与#CC 美国#NR 断交#VV 以来#LC ，#PU 首位#NN 伊朗#NR 领导人#NN 有意#VV 与#P 美国#NR 重新#AD 修好#VV 的#DEC 最#AD 强烈#JJ 信息#NN
+351 哈塔米#NR 是#VC 伟大#VA 的#DEC 美国#NR 人民#NN
+N
+352 哈塔米#NR 1997#NT 年#NN 12#CD 月#NN 要求#VV 与#P “#PU 伟大#VA 的#DEC 美国#NR 人民#NN ”#PU 对话#NN ，#PU 是#VC 一九七九年#NT 伊朗#NR 伊斯兰#NR 革命#NN 与#CC 美国#NR 断交#VV 以来#LC ，#PU 首位#NN 伊朗#NR 领导人#NN 有意#VV 与#P 美国#NR 重新#AD 修好#VV 的#DEC 最#AD 强烈#JJ 信息#NN
+352 哈塔米#NR 要求#VV 与#P 美国#NR 断交#VV
+N
+353 2000#CD 年#M 问题#NN 是#VC 指#VV 电脑#NN 程序#NN 的#DEG 日期#NN 在#P 时间#NN 进入#VV 2000#NT 年时#NT ，#PU 误认为#NR 是#VC 1900#CD 年#M 。#PU
+353 2000#CD 年#M 问题#NN 是#VC 指#VV 电脑#NN 程序#NN 的#DEG 日期#NN 在#P 时间#NN 进入#VV 两千年#NT 时#LC ，#PU 误认为#NR 是#VC 1900#CD 年#M 。#PU
+Y
+354 美国政府#NN 希望#VV 将#BA 超#VV 铀#NN 废料#NN 永久#AD 深埋在#VV 盐#NN 床上#NN
+354 美国政府#NN 将#AD 超#VV 铀#NN 废料#NN 永久#AD 深埋在#VV 盐#NN 床上#NN
+N
+355 澳大利亚政府#NR 于#P 一九九四年#NT 不顾#VV 印尼#NR 特种部队#NR 当时#NT 涉嫌#VV 在#P 东帝汶#NR 侵犯#VV 人权#NN ，#PU 原则同意#VV 提供#VV 二十#CD 枝#M 步枪#NN 给#P 印尼#NR 特种部队#NR 使用#VV 。#PU
+355 澳大利亚政府#NR 于#P 一九九四年#NT 不顾#VV 印尼#NR 特种部队#NR 当时#NT 涉嫌#VV 在#P 东帝汶#NR 侵犯#VV 人权#NN ，#PU 原则同意#VV 提供#VV 20#CD 枝#M 步枪#NN 给#P 印尼#NR 特种部队#NR 使用#VV 。#PU
+Y
+356 澳大利亚政府#NR 于#P 一九九四年#NT 不顾#VV 印尼#NR 特种部队#NR 当时#NT 涉嫌#VV 在#P 东帝汶#NR 侵犯#VV 人权#NN ，#PU 原则同意#VV 提供#VV 二十#CD 枝#M 步枪#NN 给#P 印尼#NR 特种部队#NR 使用#VV 。#PU
+356 澳大利亚政府#NR 曾#AD 提供#VV 20#CD 枝#M 步枪#NN 给#P 印尼#NR 特种部队#NR 使用#VV
+Y
+357 日本#NR 协助#VV 建造#VV “#PU 阿尔法#NN 空间站#NN ”#PU （#PU 国际#NN 空间站#NN ）#PU ，#PU 此#PN 为#P 一九八八年#NT 美国#NR 总统#NN 里根#NR 所#MSP 建议#VV
+357 美国#NR 总统#NN 里根#NR 曾#AD 提议#VV 由#P 日本#NR 协助#VV 建造#VV “#PU 阿尔法#NN 空间站#NN ”#PU
+Y
+358 日本#NR 协助#VV 建造#VV “#PU 阿尔法#NN 空间站#NN ”#PU （#PU 国际#NN 空间站#NN ）#PU ，#PU 此#PN 为#P 一九八八年#NT 美国#NR 总统#NN 里根#NR 所#MSP 建议#VV
+358 一九八八年#NT 美国#NR 总统#NN 是#VC 里根#NR
+Y
+359 日本#NR 协助#VV 建造#VV “#PU 阿尔法#NN 空间站#NN ”#PU （#PU 国际#NN 空间站#NN ）#PU ，#PU 此#PN 为#P 一九八八年#NT 美国#NR 总统#NN 里根#NR 所#MSP 建议#VV
+359 美国#NR 曾#AD 协助#VV 日本#NR 建造#VV “#PU 阿尔法#NN 空间站#NN ”#PU
+N
+360 教练#NN 冈田武史#NR 带领#VV 日本队#NR 打#VV 进#VV 世界杯#NR 决赛圈#NN 。#PU
+360 冈田武史#NR 是#VC 一位#JJ 足球#NN 教练#NN
+Y
+361 极光#NN 是#VC 罗马#NR 女神#NN 的#DEG 名称#NN ，#PU 代表#VV 了#AS 黄昏#NN 和#CC 北风#NN
+361 极光#NN 奥#NR 罗拉#NR 是#VC 希腊#NR 神#NN 泰坦#NN 的#DEG 女儿#NN ，#PU 是#VC 太阳神#NR 和#CC 月亮#NN 女神#NN 的#DEG 妹妹#NN ，#PU 她#PN 又#AD 是#VC 北风#NN 等#ETC 多种#JJ 风#NN 和#CC 黄昏#NN 星等#NN 多颗#VV 星#NN 的#DEC 母亲#NN
+N
+362 切尔诺贝利#NR 病毒#NN 是#VC 陈盈豪#NR 在#P 台湾#NR 大同#NR 工学院#NN 读书#VV 时#LC 编写#VV 。#PU
+362 病毒#NN 是#VC 来自#VV 台湾#NR 大同#NR 工学院#NN 学生#NN 陈盈豪#NR 所#MSP 散布#VV ，#PU 还#AD 曾#AD 被#LB 学校#NN 叫#VV 去#VV “#PU 辅导#NN ”#PU 过#VV 。#PU
+N
+363 七子#NR 之歌#NN 在#P 1999#CD 年#M 12#CD 月#NN 20#CD 日#M 澳门#NR 回归#VV 时#LC 被#LB 用作#VV 主题曲#NN 。#PU
+363 国家#NN 选定#VV “#PU 七子#NR 之歌#NN ”#PU 为#VV 澳门#NR 回归#VV 主题曲#NN
+Y
+364 江泽民#NR 和#CC 夫人#NN 王冶坪#NR ，#PU 12#CD 月#NN 19#CD 日#M 下午#NT 乘专机#NN 于#P 16#CD 时#LC 40#CD 分#M 抵达#VV 澳门国际机场#NR ，#PU 出席#VV 明天#NT 举行#VV 的#DEC 澳门#NR 回归祖国#VV 一周年#AD 庆祝#VV 活动#NN 。#PU
+364 江泽民#NR 赴#VV 澳门#NR 参加#VV 回归#NN 周年#NN 庆典#NN
+Y
+365 邓小平#NR 在#P 一九七九年#NT ，#PU 受#VV 当时#NT 美国#NR 总统#NN 卡特#NR 之邀#VV ，#PU 到#P 美国#NR 进行#VV 正式#JJ 友好访问#NN
+365 一九七九年#NT 邓小平#NR 访美#VV
+Y
+366 国家#NN 总理#NN 朱镕基#NR 1999#CD 年#M 四月#NT 六日#NT 开始#VV 对#P 美国#NR 六个#CD 城市#NN 和#P 加拿大#NR 进行#VV 为期#VV 八天#NT 的#DEG 访问#NN 。#PU
+366 １#CD ９#CD ９#CD ９#CD 年#M ４#CD 月#NN ６#CD 日至#NN １#CD ４#CD 日#M ，#PU 朱镕基#NR 总理#NN 对#P 美国#NR 进行#VV 正式#JJ 访问#NN
+Y
+367 美国#NR 一些#CD 科学家#NN 用#P X光#NN 望远镜#NN 找到#VV 两个#CD 独自#AD 漂浮#VV 的#DEC 黑洞#NN 。#PU
+367 利用#VV 钱德拉#NR X光#NN 太空#NN 望远镜#NN 观察#VV 到#VV 两个#CD 黑洞#NN ，#PU 并且#AD 它们#PN 有#VE 可能#NN 合并#VV 成为#VV 一个#CD 更大#JJ 的#DEG 黑洞#NN 。#PU
+N
+368 美国#NR 天文学家#NN 发现#VV 新#JJ 黑洞#NN 距离#VV 地球#NN 大约#AD 五千#CD 光年#NN
+368 美国#NR 发现#VV 最#AD 年轻#JJ 黑洞#NN 距#VV 地球#NN 5#CD 千万光年#NN
+N
+369 天文#NN 物理学#NN 者#NN 首次#AD 测#VV 得#DER 银河系#NN 中心#NN 大#JJ 质量#NN 黑洞#NN “#PU 人马座#NN A#NN *#PU ”#PU 的#DEG 实际#JJ 形状#NN 及#CC 大小#NN
+369 天文学家#NN 透过#P 对#P 银河系#NN 中心#NN 人马座#NN A#NN *#PU ，#PU 观测#VV 出#VV 银河系#NN 中心#NN 藏匿#VV 着#AS 大#JJ 质量#NN 黑洞#NN 的#DEG 推论#NN 。#PU
+N
+370 多利#NR 诞生#VV 于#P 一九九七年#NT 二月#NT 二十三日#NT
+370 早#AD 在#P 1996#NT 年#NN 7#CD 月#NN 5#CD 日#M 多利#NR 就#AD 诞生#VV 了#AS
+N
+371 全球#NN 第一#OD 只#M 克隆羊#NN 多利#NR 告别#VV 人世#NN
+371 全球#NN 第一#OD 只#M 克隆羊#NN 是#VC 多利#NR
+Y
+372 北约#NR 轰炸#VV 中国大使馆#NR ，#PU 三名#NT 中国#NR 记者#NN 死亡#VV
+372 北约#NR 轰炸#VV 中国大使馆#NR ，#PU 3#CD 名#M 中国#NR 记者#NN 丧生#VV
+Y
+373 北约#NR 轰炸#VV 中国驻南使馆#NR ，#PU 时间#NN 在#P 1999#NT -#PU 05#CD -#PU 07#NT 晚上#NT
+373 1999#CD 年#M 5#CD 月#NN 8#CD 日#M 北京#NR 时间#NN 早#AD 5#CD 时#LC 45#CD 分#M ，#PU 以#P 美国#NR 为首#VV 的#DEC 北约#NR 使用#VV 五枚#NR 导弹#NN 袭击#VV 了#AS 中国驻南斯拉夫大使馆#NR 。#PU
+N
+374 北约#NR 称#VV 原因#NN 是#VC “#PU 根据#P 过时#JJ 的#DEG 地图#NN ”#PU ，#PU 将#BA 中国#NR 驻#VV 贝尔格莱德#NR 大使馆#NN 误认为#NR 是#VC 南斯拉夫#NR 的#DEG 政府#NN 建筑#NN
+374 北约#NR 称#VV 原因#NN 是#VC 使用#VV 了#AS “#PU 旧#JJ 地图#NN ”#PU
+Y
+375 Argentinosaurus#NR 是#VC 食草#VV 的#DEC 蜥脚类#NN 恐龙#NN ，#PU 是#VC 最大#JJ 的#DEG 恐龙#NN 。#PU
+375 地球#NN 上#LC 最大#JJ 的#DEG 恐龙#NN 是#VC Argentinosaurus#NN
+Y
+376 全美#NR 知名#JJ 的#DEG 古生物学家#NN Jack#NR Horner#NR 在#P 蛋山#NR 挖出#VV 恐龙#NN 化石#NN 、#PU 恐龙#NN 窝#VV
+376 第一个#CD 蛋巢#NN 是#VC 由#P Jack#NR Horner#NR 在#P 1983#NT 年#AD 发现#VV 。#PU
+N
+377 和平号#NR 空间站#NR 坠落在#NR 南太平洋#NR 斐济#NR 附近#NN 、#PU 新西兰#NR 与#CC 智利#NR 中间#NN 的#DEG 海域#NN 上#LC 。#PU
+377 “#PU 和平号#NR 空间站#NN ”#PU 叶落归根#VV 般#VA 葬身#VV 于#P 斐济#NR 群岛#NN 附近#NN 的#DEG 南太平洋#NR 中#LC 。#PU
+Y
+378 和平号#NR 空间站#NR 于#P 3#CD 月#NN 23#CD 日#M 下午#NT 1#CD 点#M 59#CD 分#M 坠落#VV
+378 和平号#NR 空间站#NN ，#PU 三月#NT 二十三日#NT 下午#NT 两点#NT 半左右#NN ，#PU 结束#VV 其#PN 十五年#NT 的#DEG 辉煌#JJ 太空#NN 生涯#NN
+N
+379 和平号#NR 空间站#NR 坠落在#NR 南太平洋#NR 斐济#NR 附近#NN 、#PU 新西兰#NR 与#CC 智利#NR 中间#NN 的#DEG 海域#NN 上#LC 。#PU
+379 和平号#NR 空间站#NR 坠落在#NR 南太平洋#NR 新西兰#NR 与#CC 智利#NR 之间#LC 的#DEG 海域#NN 。#PU
+Y
+380 武汉#NR 航空#NN 一架#NN 飞机#NN 因#P 被#LB 闪电#NN 击中#VV 坠机#NN ，#PU 机上#NN 42#CD 名#M 旅客#NN 全部#AD 遇难#VV 。#PU
+380 武汉#NR 航空公司#NN 一架#NN 从#P 湖北#NR 恩施#NR 至#CC 武汉#NR 的#DEG 客机#NN 在#P 武汉#NR 郊区#NN 坠毁#VV ，#PU 坠地#VV 时#LC 又#AD 把#BA 汉江#NR 一艘船#NN 撞毁#VV ，#PU 共#AD 造成#VV 51#CD 人#NN 死亡#VV 。#PU
+N
+381 1998#NT 年#NN 2#CD 月#NN 16#CD 日#M 台湾#NR 华航#NR 坠机#NN 事件#NN ，#PU 坠毁#VV 于#P 桃园#NR 国际#NN 机场#NN 旁#LC 的#DEG 西滨#NN 公路#NN 上#LC 。#PU
+381 1998#NT 年#NN 2#CD 月#NN 16#CD 日#M 台湾#NR 华#NR 航空#NN 难#NN ，#PU 坠毁#VV 于#P 中正#NR 国际#NN 机场#NN 旁#LC 的#DEG 国际#NN 路#NN 二段#AD （#PU 台#NR 15#CD 线#M ）#PU 一带#NN 。#PU
+N
+382 台湾#NR 华航#NR 坠机#VV “#PU 央行#NN ”#PU 总裁#NN 许#VV 远东#NR 夫妇#NN 罹难#VV
+382 台湾#NR 华#NR 航空#NN 难#NN ，#PU 死者#NN 包括#VV “#PU 央行#NN ”#PU 总裁#NN 许#VV 远东#NR
+Y
+383 以巴#AD 爆发#VV 血腥#JJ 暴力#NN 冲突#NN ，#PU 东耶路撒冷#NR 及#CC 约旦河西岸#NR 共有#VV 七名#NT 巴人#NN 及#CC 三名#NN 以色#VV 利人#NN 丧生#VV
+383 以巴#AD 爆发#VV 血腥#JJ 暴力#NN 冲突#NN ，#PU 西#NN 耶路撒冷#NR 及#CC 约旦河#NR 东岸#NN 共有#VV 七名#NN 巴人#NN 及#CC 三名#NN 以色#VV 利人#NN 丧生#VV
+N
+384 三百名#NT 巴勒斯坦人#NN 在#P 加#VV 沙市#NR 集会#VV 示威#VV ，#PU 纪念#VV 一九八七年#NT 开始#VV 、#PU 持续#VV 至#VV 一九九三年#NT 的#DEG 抗暴#NN 运动#NN 十三#OD 周年#NN 。#PU
+384 三百名#NT 巴勒斯坦人#NN 在#P 加#VV 沙市#NR 集会#VV 示威#VV ，#PU 纪念#VV 一九八七年#NT 开始#VV 、#PU 持续#VV 至#VV 一九九三年#NT 的#DEG 抗暴#NN 运动#NN 三十周年#NN 。#PU
+N
+385 巴勒斯坦人#NN 在#P 耶路撒冷#NR 圣殿山#NR 和#CC 以色列#NR 警方#NN 爆发#VV 冲突#NN ，#PU 结果#AD 有#VE 五名#NN 巴勒斯坦人#NN 丧生#VV ，#PU 另有#VV 两百多#CD 人#NN 受伤#VV 。#PU
+385 巴勒斯坦人#NN 在#P 耶路撒冷#NR 圣殿山#NR 和#CC 以色列#NR 警方#NN 爆发#VV 冲突#NN ，#PU 结果#AD 有#VE 五名#NN 以色列#NR 人#NN 受伤#VV ，#PU 巴方#NN 无#VE 伤亡#NN 。#PU
+N
+386 1999#CD 年#M 1#CD 月#NN 29#CD 日#M 南斯拉夫联邦#NR 塞尔维亚共和国#NR 科索沃省#NR 再度#AD 爆发#VV 警察#NN 与#CC 阿尔巴尼亚#NR 裔#NN 游击队#NN 冲突#NN 事件#NN 。#PU
+386 1999#CD 年#M 科索沃#NR 地区#NN 阿尔巴尼亚#NR 部族#NN 大屠杀#NN
+N
+387 朝鲜#NR 宣称#VV ，#PU 除非#CS 美国#NR 放弃#VV 在#P 东北亚#NR 建立#VV 导弹#NN 防御#NN 系统#NN 的#DEC 计划#NN ，#PU 否则#AD 朝鲜#NR 决心#VV 发展#VV 并#CC 试射#VV 远程#JJ 导弹#NN 。#PU
+387 东北亚#NR 局势#NN 紧张#VA ，#PU 根据#P 韩国#NR 媒体报道#NN ，#PU 朝鲜#NR 远程#NN 导弹#NN 发射台#NN 已经#AD 完成#VV 准备#NN 作业#NN ，#PU 传美#NN 国庆日#NN 发射#VV 。#PU
+N
+388 朝鲜#NR 曾#AD 在#P 1998#NT 年#AD 试射#VV 射程#NN 2200#CD 公里#M 的#DEC 大#JJ 浦洞#NN 一型#JJ 导弹#NN ，#PU 飞越#VV 日本#NR 上空#NN ，#PU 震惊#VV 国际#NN 社会#NN 。#PU
+388 1998#NT 年#NN 朝鲜#NR 试射#NN 大#JJ 浦洞#NN 一号#NT 导弹#NN ，#PU 当时#NT 那枚#AD 导弹#NN 飞越#VV 日本#NR 上空#NN ，#PU 引起#VV 相当#AD 大#VA 的#DEC 震惊#NN 。#PU
+Y
+389 1998#NT 年#NN 8#CD 月#NN 朝鲜#NR 试射#NN 大#JJ 浦洞#NN 一号#NT 导弹#NN ，#PU 当时#NT 那枚#AD 导弹#NN 飞越#VV 日本#NR 上空#NN ，#PU 引起#VV 区域#NN 震惊#VV 。#PU
+389 朝鲜#NR 这次#AD 发射#VV 的#DEC 「#PU 大#JJ 浦洞#NN 2#CD 号#M 」#PU 导弹#NN 飞越#VV 日本#NR 上空#NN ，#PU 和#P 1998#NT 年#NN 的#DEG 「#PU 大#JJ 浦洞#NN 1#CD 号#M 」#PU 近乎#AD 相同#VA 而#CC 稍#AD 偏南#NR
+N
+390 欧洲中央银行#NR 单独#AD 干预#VV 市场#NN ，#PU 使#VV 欧元#NN 汇价#NN 大幅#AD 攀升#VV 近#AD 一点#CD 五#CD 美分#NN 。#PU
+390 欧盟#NR 阿尔穆尼亚#NR 表示#VV 反对#NN 市场#NN 干预#NN 来#MSP 支撑#VV 欧元#NN 汇率#NN
+N
+391 七大#NR 工业#NN 国家#NN 宣布#VV 联合#JJ 支撑#NN 欧元#NN
+391 欧元#NN 与#CC 澳元#M 这#DT 段#M 时期#NN 以来#LC 走势#NN 已趋#VV 稳定#NN ，#PU 七大#JJ 工业#NN 国家#NN 会后#NN 最#AD 关心#VV 的#DEC ，#PU 就是#AD 人民币#NN 的#DEG 汇率#NN
+N
+392 1999#CD 年#M 10#CD 月#NN 7#CD 日#M 莫斯科#NR 成立#VV 车臣#NR 流亡政府#NN
+392 1999#NT /#PU 10#CD /#PU 07#NT 莫斯科#NR 宣布#VV 成立#VV 车臣#NR 流亡政府#NN
+Y
+393 车臣#NR 人#NN 一九九六年#NT 击败#VV 俄军#NN ，#PU 取得#VV 实质#JJ 独立#NN
+393 1991#NT 年#NN 9#CD 月#NN 6#CD 日#M 车臣#NR 籍#NN 的#DEG 前#JJ 苏联#NR 空军#NN 将领#NN 杜#NR 达耶#NR 夫以#VV 武力#NN 推翻#VV 当地#NN 的#DEG 苏维埃#NR 政权#NN ，#PU 车臣#NR 人#NN 终于#AD 获得#VV 独立#NN 。#PU
+N
+394 车臣共和国#NR 首府#NN 是#VC 格罗兹尼#NR
+394 车臣#NR 首府#NN 为#VV 格罗兹尼#NR
+Y
+395 1998#NT /#PU 08#CD /#PU 18#CD 晚上#NT 十点#NT ，#PU 长江#NR 洪湖#NR 水位#NN 已#AD 达到#VV 三十四点#NT 六六#CD 米#M ，#PU 显示#VV 长江#NR 第六次#OD 洪峰#NN 已#AD 进入#VV 洪湖#NR 流域#NN
+395 1998#NT 年#JJ 长江#NR 最大#JJ 的#DEG 第六次#OD 洪峰#NN 出现#VV 了#AS
+N
+396 嫩江#NR 第四次#OD 洪峰#NN 开始#VV 注入#VV 松花江#NR 干流#NN ，#PU 使#VV 松花江#NR 的#DEG 洪水#NN 威胁#NN 明显#AD 加重#VV
+396 嫩江#NR 第四次#OD 洪峰#NN 快速#AD 逼近#VV 哈尔滨#NR
+N
+397 郭晶晶#NR 2000#CD 年#M 悉尼#NR 奥运#NR 女子#NN 单人#NN 三#CD 公尺#M 跳板#NN 银牌#NN
+397 郭晶晶#NR 2000#CD 年#M 悉尼奥运会#NN 女子#NN 3#CD 米#M 跳板#NN 单人#NN 亚军#NN
+Y
+398 1999#CD 年#M 5#CD 月#NN ，#PU 郭晶晶#NR 参加#VV 在#P 美国#NR 佛罗里达#NR 举行#VV 的#DEC 国际#NN 泳#NN 总#JJ 跳水#NN 大奖赛#NN ，#PU 与#P 梁#NR 小桥#NN 合作#NN 获#VV 女子#NN 双人#NN 三#CD 米#M 跳板#NN 金牌#NN 。#PU
+398 1999#CD 年#M 郭晶晶#NR 与#CC 梁#NR 小桥#NN 在#P 美国#NR 跳水#NN 大奖赛#NN 夺得#VV 女子#NN 双人#NN 跳板#NN 金牌#NN
+Y
+399 2001#CD 年#M 世界#NN 游泳赛#NN ，#PU 郭晶晶#NR 在#P 女子#NN 三米板#NN 跳水#NN 项目#NN 上以#VV 三四#CD 七点#NT 三#CD 一封#NN 后#LC
+399 郭晶晶#NR 以#P 381.75#CD 分#M 的#DEG 总成绩#NN 夺得#VV 2001#CD 年#M 世界#NN 游泳#NN 锦标赛#NN 女子#NN 三#CD 米#M 跳板#NN 金牌#NN
+N
+400 迈克尔#NR -#PU 乔丹#NR 是#VC 篮球#NN 之神#NN
+400 人称#VV 乔丹#NR 为#P 篮球#NN 之神#NN
+Y
+401 2001#CD 年#M 9#CD 月#NN 13#CD 日#M ，#PU 这#PN 将#AD 是#VC “#PU 飞人#NN ”#PU 乔丹#NR 第三次#AD 重返#VV 球场#NN
+401 2001#CD 年#M 乔丹#NR 第三次#OD 复出#NN
+Y
+402 NBA#NR 宣称#VV 拥有#VV 乔丹#NR 的#DEG 肖像权#NN
+402 乔丹#NR 的#DEG 肖像权#NN 并#AD 不#AD 属于#VV NBA#NR 官方#NN 所有#DT
+N
+403 乔丹#NR 1999#CD 年#M 在#P 公牛#NR 主场#NN 召开#VV 退休#NN 记者会#NN
+403 乔丹#NR 1999#CD 年#M 宣布#VV 退休#NN
+Y
+404 1999#CD 年#M 三月#NT 十二日#NT ，#PU 波兰#NR 加入#VV 北约组织#NR
+404 波兰#NR 加入#VV 北约#NR 12#CD 周年#NN
+N
+405 1999#CD 年#M 3#CD 月#NN 12#CD 日#M ，#PU 波兰#NR 、#PU 匈牙利#NR 和#CC 捷克#NR 三国#NR 成为#VV 北约组织#NR 成员#NN
+405 1999#CD 年#M 三月#NT 十二日#NT ，#PU 波兰#NR 加入#VV 北约组织#NR
+Y
+406 波兰#NR 把#BA 加入#VV 北约#NR 视为#VV 冷战#NN 时代#NN 欧洲#NR 分裂#VV 的#DEC 结束#VV
+406 避免出现#VV 欧洲#NR 分裂#NN 、#PU 对抗#NN 的#DEG 局面#NN ，#PU 北约#NR 看来#VV 很#AD 有#VE 可能#NN 大概#AD 在#P 1999#CD 年#M 实行#VV 扩展#NN 而#MSP 接纳#VV 波兰#NR 、#PU 捷克共和国#NR 和#CC 匈牙利#NR 。#PU
+N
+407 乔丹#NR 获得#VV 五次#NN NBA#NR 最有#VV 价值#NN 球员#NN
+407 乔丹#NR 五度#AD 获得#VV NBA#NR 最有#VV 价值#NN 球员#NN
+Y

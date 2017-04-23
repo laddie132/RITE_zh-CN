@@ -1,0 +1,1221 @@
+1 据#O 他#O 所知#O ，#O 这是#O 查尔斯#PERSON 首次#O 参加#O 悉尼#GPE -#O 霍巴特#MISC 帆船赛#MISC ，#O 而#O 查尔斯#PERSON 一向#O 是#O 注重#O 安全#O 、#O 非常#O 谨慎#O 的#O 人#O ，#O 他#O 更#O 想#O 参加#O 2000#MISC 年#MISC 悉尼#MISC 奥运#MISC 帆船赛#O 。#O
+1 2000#MISC 年#MISC 奥运#MISC 在#O 悉尼#GPE 举办#O
+Y
+2 香港#GPE 的#O 主权#O 和#O 领土#O 是#O 在#O 1997#MISC 年#MISC 由#O 英国#GPE 归还给#O 中国#GPE 的#O 。#O
+2 1997#MISC 年#MISC 香港回归#O 中国#GPE
+Y
+3 一九九一年#MISC 海湾战争#MISC 结束#O 时#O ,#O 雅辛#PERSON 又#O 带#O 着#O 家人#O 移居#O 约旦#GPE 。#O
+3 海湾战争#GPE 发生#O 于#O 1991#MISC 年#MISC
+N
+4 思科公司#O 是#O 全球#O 最大#O 的#O 互联网#O 设备#O 供应商#O
+4 微软#ORGANIZATION 是#O 全球#O 最大#O 的#O 软件#O 公司#O
+N
+5 二次世界大战#MISC 时#O 日本#GPE 广岛#GPE 遭投#O 原子弹#O
+5 广岛#GPE 在#O 二次世界大战#MISC 时遭#O 原子弹#O 轰炸#O
+Y
+6 由于#O 目前#O 巴林#GPE 国内#O 局势#O 紧张#O ，#O F1#ORGANIZATION 巴林#ORGANIZATION 大奖赛#ORGANIZATION 组委会#ORGANIZATION 在#O 本周一#MISC 正式#O 官方#O 宣布#O 取消#O 原定#O 在#O 3#MISC 月#MISC 11#MISC 日至#MISC 3#MISC 月#MISC 13#MISC 日#MISC 在#O 巴林#GPE 举行#O 的#O 2011#MISC 赛季#MISC F1#MISC 揭幕战#O 。#O
+6 因#O 当前#O 国内#O 局势#O 紧张#O ，#O 巴林#GPE 官方#O 宣布#O 取消#O F1#O 揭幕战#O
+Y
+7 谷歌#ORGANIZATION 中国#ORGANIZATION 工程#ORGANIZATION 研究院#ORGANIZATION 前#O 副#O 院长#O 刘骏#PERSON 已#O 正式#O 加入#O 人民#O 搜索#O 网络#O 股份公司#O ，#O 担任#O 首席#O 科学家#O ，#O 并#O 将#O 全面#O 领导#O 公司#O 技术#O 相关#O 部门#O 。#O
+7 人民#O 搜索#O 副总经理#O 宫玉国#PERSON 已经#O 离开#O 人民#O 搜索#O 。#O
+N
+8 朴文#O 垚#O 首夺#O 世界冠军#O ，#O 荣升#O 中国#GPE 第#O 30#O 位#O 九段#O 围棋#O 手#O 。#O
+8 朴文#O 垚#O 九段#O 第#O 30#O 获得#O 围棋#O 世界冠军#O 。#O
+N
+9 最#O 让#O 她#O 出名#O 的#O 是#O 她#O 为#O 好莱坞#ORGANIZATION 大片#O 《#O 泰坦尼克号#MISC 》#O 演唱#O 的#O 主题歌#O 《#O 我心依旧#MISC 》#O 和#O 为#O 《#O 美女#MISC 与#MISC 野兽#MISC 》#O 一片#O 演唱#O 的#O 主题歌#O ,#O 这#O 两首歌#MISC 都#O 获得#O 了#O 奥斯卡奖#GPE 。#O
+9 《#O 我心依旧#MISC 》#O 是#O 好莱坞#ORGANIZATION 大片#O 《#O 泰坦尼克号#MISC 》#O 的#O 主题歌#O
+Y
+10 1998#MISC 年#MISC 登陆#O 内地#O 的#O 《#O 泰坦尼克号#MISC 》#O 曾#O 获得#O 3.2#MISC 亿元#MISC 票房#O
+10 1998#MISC 年#MISC 引进#O 大陆#GPE 的#O 《#O 泰坦尼克号#MISC 》#O ，#O 其#O 票房#O 是#O 3.2#MISC 亿元#MISC
+Y
+11 《#O 十面埋伏#MISC 》#O 是#O 一部#O 著名#O 影片#O
+11 “#MISC 十面埋伏#MISC ”#O 、#O “#O 鸿门宴#O ”#O 、#O “#O 楚河汉界#O ”#O 、#O “#O 四面楚歌#O ”#O 等#O 是#O 家喻户晓#O 的#O 中国#DEMONYM 历史#O 典故#O
+N
+12 张艺谋#PERSON 执导#O 的#O 新作#O 《#O 十面埋伏#MISC 》#O 上映#O 4#MISC 天#MISC 票房#O 已#O 突破#O 6300#MISC 万元#MISC 人民币#MISC ，#O 超过#O 同期#O 《#O 英雄#MISC 》#O 的#O 票房记录#O 。#O
+12 《#O 十面埋伏#MISC 》#O 上映#O 4#MISC 天#MISC 票房#O 突破#O 6300#MISC 万元#MISC 人民币#MISC
+Y
+13 《#O 十面埋伏#MISC 》#O 上映#O 4#MISC 天#MISC 票房#O 已#O 突破#O 6300#MISC 万元#MISC 人民币#MISC ，#O 超过#O 同期#O 《#O 英雄#MISC 》#O 的#O 票房记录#O 。#O
+13 《#MISC 英雄#MISC 》#O 上映#O 4#MISC 天#MISC 票房#O 已#O 突破#O 6300#MISC 万元#MISC 人民币#MISC ，#O 超过#O 同期#O 的#O 《#O 十面埋伏#MISC 》#O 票房记录#O 。#O
+N
+14 著名#O 喜剧#O 表演家#O 查理#PERSON ・#O 卓别林#PERSON 的#O 一根#O 竹#O 手杖#O 14#MISC 日#MISC 在#O 英国伦敦#ORGANIZATION 克里斯蒂#ORGANIZATION 拍卖行#ORGANIZATION 以#O 4.78#O 万英镑#O 的#O 高价#O 成交#O
+14 卓别林#PERSON 一根#O 手杖#O 以#O 4.78#MISC 万英镑#MISC 拍卖#O
+Y
+15 有#O “#O 东方#ORGANIZATION 卓别林#ORGANIZATION ”#O 之称#O 的#O 滑稽#O 演员#O 赵本山#PERSON ,#O 连续#O 数年#O 夺得#O 中央电视台#MISC 春节#MISC 联欢晚会#O “#O 最受#O 观众#O 喜爱#O 的#O 节目#O ”#O 的#O 桂冠#O
+15 卓别林#PERSON 连续#O 数年#O 夺得#O 中央电视台#MISC 春节#MISC 联欢晚会#O “#O 最受#O 观众#O 喜爱#O 的#O 节目#O ”#O 的#O 桂冠#O
+N
+16 有#O “#O 东方#ORGANIZATION 卓别林#ORGANIZATION ”#O 之称#O 的#O 滑稽#O 演员#O 赵本山#PERSON ,#O 连续#O 数年#O 夺得#O 中央电视台#MISC 春节#MISC 联欢晚会#O “#O 最受#O 观众#O 喜爱#O 的#O 节目#O ”#O 的#O 桂冠#O
+16 赵本山#PERSON 被#O 称为#O “#O 东方#ORGANIZATION 卓别林#ORGANIZATION ”#O ，#O 他#O 曾经#O 多次#O 在#O 中央电视台#FACILITY 春节#FACILITY 联欢晚会#O 上#O 演出#O
+Y
+17 中国#GPE 小将#O 谢赫#PERSON 五段#MISC 15#MISC 日#MISC 在#O 韩国#GPE 釜山#GPE 进行#O 的#O 第#O 8#O 届#O 三星#MISC 火灾杯#MISC 世界围棋#MISC 公开赛#MISC 中#O ，#O 以半#O 目的#O 优势#O 击败#O 李昌镐#PERSON 九段#O
+17 中国围棋#GPE 选手#O 曾经#O 战胜#O 过#O 李昌镐#PERSON
+Y
+18 韩国#GPE 棋院#O 1#MISC 日#MISC 公布#MISC 韩国#MISC 职业#MISC 围棋赛#MISC 年度#MISC 排名表#O ，#O 有#O “#O 世界围棋#MISC 第一#MISC 高手#O ”#O 之称#O 的#O 李昌镐#PERSON 9#MISC 段#O 稳居#O 首位#O 。#O
+18 李昌镐#PERSON 九段#O 有#O “#O 世界围棋#MISC 第一#MISC 高手#O ”#O 之称#O
+Y
+19 微软#ORGANIZATION 表示#O ，#O 公司#O 第二#MISC 财政#MISC 季度#MISC 销售#O 猛增#O ，#O 主要#O 得益于#O 新#O 推出#O 的#O 视窗#O XP#O 操作系统#O 软件#O 和#O XBox#O 游戏机#O 的#O 热销#O 。#O
+19 XBox#O 是#O 微软公司#O 的#O 产品#O
+Y
+20 微软#ORGANIZATION 表示#O ，#O 公司#O 第二#MISC 财政#MISC 季度#MISC 销售#O 猛增#O ，#O 主要#O 得益于#O 新#O 推出#O 的#O 视窗#O XP#O 操作系统#O 软件#O 和#O Xbox#O 游戏机#O 的#O 热销#O 。#O
+20 XBox#O 是#O 索尼公司#O 的#O 产品#O
+N
+21 XBox#O 是#O 微软公司#O 的#O 产品#O
+21 XBox#O 不是#O 索尼公司#O 的#O 产品#O
+Y
+22 黄金周#O 期间#O ，#O 国美#ORGANIZATION 、#O 苏宁#PERSON 等#O 家电#O 连锁#O 企业#O 创造#O 了#O 较#O 好#O 的#O 销售#O 业绩#O
+22 苏宁#PERSON 和#O 国美#ORGANIZATION 是#O 家电#O 连锁#O 企业#O
+Y
+23 黄金周#O 期间#O ，#O 国美#ORGANIZATION 、#O 苏宁#PERSON 等#O 家电#O 连锁#O 企业#O 创造#O 了#O 较#O 好#O 的#O 销售#O 业绩#O
+23 国美#ORGANIZATION 和#O 苏宁#PERSON 不是#O 家电#O 销售#O 企业#O
+N
+24 黄金周#O 期间#O ，#O 国美#ORGANIZATION 、#O 苏宁#PERSON 等#O 企业#O 创造#O 了#O 较#O 好#O 的#O 销售#O 业绩#O
+24 黄金周#O 期间#O ，#O 一些#O 家电#O 连锁#O 企业#O 创造#O 了#O 较#O 好#O 的#O 销售#O 业绩#O
+Y
+25 据#O 海关#O 统计#O ，#O 自#O 1997#MISC 年#MISC 7#MISC 月#MISC 1#MISC 日#MISC 香港回归#GPE 中国#GPE 以来#O ，#O 截止#O 2002#MISC 年底#MISC ，#O 广东#GPE 与#O 香港#GPE 的#O 进出口#O 贸易总额#O 已#O 突破#O 两千#MISC 亿美元#MISC 。#O
+25 香港#GPE 于#O 2002#MISC 年底#MISC 回归#O 中国#GPE
+N
+26 九寨沟#GPE 、#O 黄龙#LOCATION 旅游#O 价格#O 猛涨#O 引发#O 争议#O
+26 九寨沟#GPE 位于#O 四川省#GPE 南坪县#GPE 中南部#O ，#O 素有#O “#O 人间仙境#O 、#O 童话世界#O ”#O 的#O 美誉#O 。#O
+N
+27 九寨沟#GPE 位于#O 四川省#GPE 中南部#O ，#O 素有#O “#O 人间仙境#O 、#O 童话世界#O ”#O 的#O 美誉#O 。#O
+27 九寨沟#GPE 位于#O 四川省#GPE 南坪县#GPE 中南部#O ，#O 素有#O “#O 人间仙境#O 、#O 童话世界#O ”#O 的#O 美誉#O 。#O
+N
+28 九寨沟#GPE 位于#O 四川省#GPE 南坪县#GPE 中南部#O ，#O 素有#O “#O 人间仙境#O 、#O 童话世界#O ”#O 的#O 美誉#O 。#O
+28 九寨沟#GPE 位于#O 中国#GPE 四川省#GPE ，#O 素有#O “#O 人间仙境#O 、#O 童话世界#O ”#O 的#O 美誉#O 。#O
+Y
+29 随着#O 经济#O 的#O 快速#O 发展#O 和#O 人口#O 的#O 继续#O 增长#O ，#O 2025#MISC 年#MISC 中国#GPE 的#O 碳#O 排放#O 有#O 可能#O 超过#O 美国#GPE ，#O 成为#O 世界#O 第一#MISC 。#O
+29 中国#GPE 二氧化碳#O 排放量#O 目前#O 位居#O 世界#O 第二#MISC 。#O
+Y
+30 中国#GPE 的#O 二氧化碳#O 排放量#O 目前#O 位居#O 世界#O 第二#MISC ，#O 排#O 在#O 美国#GPE 之后#O 。#O
+30 美国#GPE 和#O 中国#GPE 的#O 二氧化碳#O 排放量#O 目前#O 分别#O 居#O 世界#O 前#O 两位#O 。#O
+Y
+31 美国#GPE 二氧化碳#O 排放量#O 目前#O 位居#O 世界#O 第一#MISC 。#O
+31 中国#GPE 二氧化碳#O 排放量#O 目前#O 位居#O 世界#O 第二#MISC 。#O
+N
+32 美国#GPE 二氧化碳#O 排放量#O 目前#O 位居#O 世界#O 第二#MISC 。#O
+32 中国#GPE 二氧化碳#O 排放量#O 目前#O 位居#O 世界#O 第二#MISC 。#O
+N
+33 2003#MISC 年#MISC ，#O 小#O 威廉姆斯#O 在#O 温布尔登#MISC 网球#MISC 公开赛#MISC 女单#O 决赛#O 中#O 击败#O 了#O 她#O 的#O 姐姐#O ，#O 蝉联冠军#O 。#O
+33 2003#MISC 年#MISC ，#O 小#O 威廉姆斯#O 在#O 温网#O 公开赛#O 女单#O 决赛#O 中#O 击败#O 了#O 大#O 威廉姆斯#O ，#O 蝉联冠军#O 。#O
+Y
+34 2003#MISC 年#MISC ，#O 小#O 威廉姆斯#O 在#O 温网#O 公开赛#O 女单#O 决赛#O 中#O 击败#O 了#O 大#O 威廉姆斯#O ，#O 首次#O 获得#O 该#O 赛事#O 冠军#O 。#O
+34 2003#MISC 年#MISC ，#O 小#O 威廉姆斯#O 在#O 温网#O 公开赛#O 女单#O 决赛#O 中#O 击败#O 了#O 大#O 威廉姆斯#O ，#O 蝉联冠军#O 。#O
+N
+35 2003#MISC 年#MISC ，#O 小#O 威廉姆斯#O 在#O 温网#O 公开赛#O 女单#O 决赛#O 中#O 击败#O 了#O 大#O 威廉姆斯#O ，#O 蝉联冠军#O 。#O
+35 2003#MISC 年#MISC ，#O 小#O 威廉姆斯#O 在#O 温网#O 公开赛#O 女单#O 决赛#O 中#O 击败#O 对手#O ，#O 蝉联冠军#O 。#O
+Y
+36 1996#MISC 年#MISC 9#MISC 月#MISC ，#O 国际足联#ORGANIZATION 决定#O 1998#MISC 年#MISC 世界杯#MISC 参赛队#O 增至#O 32#MISC 支#O ，#O 比#O 1994#MISC 年#MISC 美国#MISC 世界杯#MISC 增加#O 8#O 个#O 名额#O 。#O
+36 1994#MISC 年#MISC 世界杯#MISC 在#O 美国#GPE 举办#O
+Y
+37 1996#MISC 年#MISC 9#MISC 月#MISC ，#O 国际足联#ORGANIZATION 决定#O 1998#MISC 年#MISC 世界杯#MISC 参赛队#O 增至#O 32#MISC 支#O ，#O 比#O 1994#MISC 年#MISC 美国#MISC 世界杯#MISC 增加#O 8#MISC 个#O 名额#O 。#O
+37 国际足联#O 在#O 1996#MISC 年#MISC 9#MISC 月#MISC 决定#O 1998#MISC 年#MISC 世界杯#MISC 参赛队#O 增至#O 32#MISC 支#O ，#O 比#O 1994#MISC 年#MISC 美国#MISC 世界杯#MISC 增加#O 8#MISC 个#O 名额#O 。#O
+Y
+38 姚明#PERSON 在#O 2002#MISC 年#MISC NBA#MISC 选秀#O 中#O 被#O 休斯敦#ORGANIZATION 火箭队#ORGANIZATION 选#O 为#O 状元#O 新秀#O 。#O
+38 姚明#PERSON 2002#MISC 年#MISC 在#O NBA#O 选秀#O 中#O 被选为#O 状元#O 新秀#O 。#O
+Y
+39 姚明#PERSON 在#O 2002#MISC 年#MISC NBA#MISC 选秀#O 中#O 被#O 休斯敦#ORGANIZATION 火箭队#ORGANIZATION 选#O 为#O 状元#O 新秀#O 。#O
+39 姚明#PERSON 从#O 2001#MISC 年#MISC 开始#O 在#O NBA#MISC 打球#O 。#O
+N
+40 姚明#PERSON 在#O 2002#MISC 年#MISC NBA#MISC 选秀#O 中#O 被#O 休斯敦#ORGANIZATION 火箭队#ORGANIZATION 选#O 为#O 状元#O 新秀#O 。#O
+40 一个#O 中国篮球#DEMONYM 运动员#O 在#O 2002#MISC 年#MISC NBA#MISC 选秀#O 中#O 被#O 休斯敦#ORGANIZATION 火箭队#ORGANIZATION 选#O 为#O 状元#O 新秀#O 。#O
+Y
+41 2005#MISC 年#MISC 4#MISC 月#MISC 19#MISC 日#MISC ，#O 美军#ORGANIZATION 将#O 关押#O 在#O 关塔那摩#FACILITY 美军基地#FACILITY 的#O 17#MISC 名#O 阿富汗#GPE 战俘#O 移交#O 给#O 阿富汗#GPE 政府#O 。#O
+41 2005#MISC 年#MISC 4#MISC 月#MISC 19#MISC 日#MISC ，#O 美军#GPE 向#O 阿富汗#GPE 政府#O 移交#O 十七名#MISC 战俘#O
+Y
+42 2005#MISC 年#MISC 4#MISC 月#MISC 19#MISC 日#MISC ，#O 美军#ORGANIZATION 将#O 关押#O 在#O 关塔那摩#FACILITY 美军基地#FACILITY 的#O 17#MISC 名#O 阿富汗#GPE 战俘#O 移交#O 给#O 阿富汗#DEMONYM 政府#O 。#O
+42 战俘#O 移交#O 仪式#O 4#MISC 月#MISC 19#MISC 日#MISC 在#O 阿富汗#GPE 最高法院#GPE 举行#O 。#O
+N
+43 “#O 9#MISC ・#MISC 11#MISC ”#O 事件#O 发生#O 后#O ，#O 与#O 本#O ・#O 拉登#O 的#O “#O 基地#O ”#O 组织#O 有#O 牵连#O 的#O 阿布沙#PERSON 耶夫#O 被#O 美国#GPE 列为#O 恐怖组织#O 。#O
+43 “#O 9#MISC ・#MISC 11#MISC ”#O 事件#O 发生#O 后#O ，#O 美国#GPE 把#O 与#O 本#O ・#O 拉登#O 的#O “#O 基地#O ”#O 组织#O 有#O 牵连#O 的#O 阿布沙#PERSON 耶夫#O 列为#O 恐怖组织#O 。#O
+Y
+44 “#O 9#MISC ・#MISC 11#MISC ”#O 事件#O 发生#O 后#O ，#O 美国#GPE 把#O 与#O 本#O ・#O 拉丹#O 的#O “#O 基地#O ”#O 组织#O 有#O 牵连#O 的#O 阿布沙#PERSON 耶夫#O 列为#O 恐怖组织#O 。#O
+44 “#O 9#MISC ・#MISC 11#MISC ”#O 事件#O 发生#O 后#O ，#O 美国#GPE 把#O 与#O 本#O ・#O 拉登#O 的#O “#O 基地#O ”#O 组织#O 有#O 牵连#O 的#O 阿布沙#PERSON 耶夫#O 列为#O 恐怖组织#O 。#O
+Y
+45 “#O 9#MISC ・#MISC 11#MISC ”#O 事件#O 发生#O 后#O ，#O 美国#GPE 把#O 与#O 本#O ・#O 拉登#O 的#O “#O 基地#O ”#O 组织#O 有#O 牵连#O 的#O 阿布沙#PERSON 耶夫#O 列为#O 恐怖组织#O 。#O
+45 阿布沙#PERSON 耶夫#O 与#O 本#O ・#O 拉登#O 的#O “#O 基地#O ”#O 组织#O 有#O 牵连#O 。#O
+Y
+46 普京#PERSON 于#O 2000#MISC 年#MISC 当选#O 为#O 俄罗斯#GPE 总统#O ，#O 并于#O 2004#MISC 年#MISC 3#MISC 月#MISC 14#MISC 日#MISC 在#O 大选#O 中#O 再度#O 竞选#O 获胜#O ，#O 连任#O 成功#O 。#O
+46 俄罗斯#GPE 前#O 总统#O 叶利钦#PERSON 1999#MISC 年#MISC 12#MISC 月#MISC 31#MISC 日#MISC 宣布#O 辞去#O 总统#O 职务#O ，#O 并#O 宣布#O 由#O 普京#PERSON 代行#O 总统#O 职务#O 。#O
+N
+47 普京#PERSON 于#O 2000#MISC 年#MISC 3#MISC 月#MISC 当选#O 为#O 俄罗斯#GPE 总统#O ，#O 并于#O 2004#MISC 年#MISC 3#MISC 月#MISC 14#MISC 日#MISC 在#O 大选#O 中#O 再度#O 竞选#O 获胜#O ，#O 连任#O 成功#O 。#O
+47 普京#PERSON 于#O 2000#MISC 年#MISC 3#MISC 月#MISC 成为#O 俄罗斯联邦#GPE 第二任#O 总统#O 。#O
+N
+48 普京#PERSON 于#O 2000#MISC 年#MISC 3#MISC 月#MISC 当选#O 为#O 俄罗斯#GPE 总统#O ，#O 并于#O 2004#MISC 年#MISC 3#MISC 月#MISC 14#MISC 日#MISC 在#O 大选#O 中#O 再度#O 竞选#O 获胜#O ，#O 连任#O 成功#O 。#O
+48 普京#PERSON 于#O 2004#MISC 年#MISC 3#MISC 月#MISC 在#O 俄罗斯#GPE 大选#O 中#O 再度#O 竞选#O 获胜#O ，#O 连任#O 总统#O 。#O
+Y
+49 到#O 14#MISC 日#MISC ，#O 北京大学#ORGANIZATION 、#O 清华大学#ORGANIZATION 、#O 人民大学#ORGANIZATION 、#O 北京#ORGANIZATION 示范#ORGANIZATION 大学#ORGANIZATION 和#O 中国政法大学#GPE 等#O 5#MISC 所#O 高校#O 自主#O 招生#O 方案#O 已#O 基本#O 确定#O ，#O 其中#O 5#MISC %#O 的#O 自主#O 招生#O 名额#O 都#O 瞄准#O 了#O 创新型#O 特长生#O 。#O
+49 到#O 3#MISC 月#MISC 14#MISC 日#MISC ，#O 北大#ORGANIZATION 、#O 清华#GPE 、#O 人大#ORGANIZATION 、#O 北师大#ORGANIZATION 和#O 中国政法大学#GPE 等#O 5#MISC 所#O 高校#O 自主#O 招生#O 方案#O 已#O 基本#O 确定#O ，#O 其中#O 5#MISC %#O 的#O 自主#O 招生#O 名额#O 都#O 瞄准#O 了#O 创新型#O 特长生#O 。#O
+Y
+50 北大#ORGANIZATION 、#O 清华#ORGANIZATION 、#O 人大#ORGANIZATION 、#O 北师大#ORGANIZATION 和#O 中国政法大学#GPE 等#O 5#MISC 所#O 高校#O 自主#O 招生#O 方案#O 已#O 基本#O 确定#O ，#O 其中#O 5#MISC %#O 的#O 自主#O 招生#O 名额#O 都#O 瞄准#O 了#O 创新型#O 特长生#O 。#O
+50 北京#GPE 五所#MISC 高校#O 基本#O 确定#O 自主#O 招生#O 方案#O ，#O 名额#O 限定#O 在#O 总#O 招生数#O 的#O 百分之五#MISC 。#O
+Y
+51 1960#MISC 年#MISC 12#MISC 月#MISC 马亨德#PERSON 拉#O 国王#O 亲政#O ，#O 1961#MISC 年#MISC 1#MISC 月#MISC 宣布#O 禁止#O 一切#O 政党#O 活动#O
+51 1960#MISC 年#MISC 马亨德#PERSON 拉#O 国王#O 恢复#O 君主专制#MISC
+Y
+52 国王#O 马亨德#PERSON 拉于#O 1960#MISC 年#MISC 12#MISC 月#MISC 15#MISC 日#MISC 下令#O 解散#O 大会党#ORGANIZATION 内阁#O 和#O 议会#O ，#O 宣布#O 亲自#O 执政#O 恢复#O 君主#O 集权#O
+52 1960#MISC 年#MISC 马亨德#PERSON 拉#O 国王#O 恢复#O 君主专制#O
+Y
+53 廓尔喀#O 族#O 是#O 蒙古人#DEMONYM 的#O 后裔#O ，#O 他们#O 经#O 中亚#LOCATION 辗转#O 来到#O 尼泊尔#GPE 建立#O 了#O 廓尔喀#O 公国#O 。#O
+53 廓尔喀#O 族#O 入侵#O 尼泊尔#GPE
+Y
+54 1814#MISC 年#MISC 至#MISC 1816#MISC 年#MISC 英国人#DEMONYM 从北#O 印度#GPE 入侵#O ，#O 后#O 签订#O 条约#O 使#O 尼泊尔#GPE 丧失#O 部分#O 领土#O
+54 1815#MISC 年#MISC 英国#GPE 与#O 尼泊尔#GPE 签订#O 了#O “#O 塞#O 格里#O 条约#O ”#O
+N
+55 1951#MISC 年#MISC 2#MISC 月#MISC 18#MISC 日#MISC ，#O 尼泊尔#GPE 国王#O 狄#O 里布#O 凡#O 颁布#O 临时#O 宪法#O ，#O 实行#O 君主立宪制#O
+55 尼泊尔#GPE 1951#MISC 年#MISC 曾#O 制定#O 宪法#O
+Y
+56 1970#MISC 年#MISC 比兰德拉#PERSON 国王#O 和#O 皇后#O 艾什#O 瓦#O 尔雅#O 结婚#O
+56 比兰德拉#PERSON 和#O 艾什#O 瓦#O 尔雅#O 是#O 夫妻#O
+Y
+57 四十岁#MISC 的#O 尼泊尔#GPE 登山#O 向导#O 阿帕#PERSON ·#O 谢#O 尔巴#O 第十一次#MISC 攀登#O 最高峰#O 珠穆朗玛峰#O ，#O 创下#O 登顶#O 次数#O 最多#O 的#O 记录#O
+57 尼泊尔#GPE 知名#O 向导#O 阿帕#PERSON ·#O 谢#O 尔巴#O 已#O 登上#O 珠峰#O 11#MISC 次#O ，#O 是#O 世界纪录#O 保持者#O
+Y
+58 尼泊尔#GPE 毛派#O 叛乱分子#O 攻击#O 安全#O 警卫#O 哨站#O
+58 尼泊尔#GPE 毛派#O 游击队#O 攻击#O 民航#O 飞机#O
+N
+59 尼泊尔#GPE 叛乱分子#O 攻击#O 造成#O 至少#O 四十名#O 警察#O 丧生#O
+59 尼泊尔#GPE 叛乱分子#O 杀害#O 三十九#MISC 名#O 警察#O 和#O 一名#O 平民#O
+N
+60 乾隆#O 五十六年#MISC ，#O 尼泊尔#GPE 廓尔喀#O 族#O 入侵#O ，#O 福康安#O 奉旨#O 反击#O 入侵#O 西藏#GPE 的#O 廓尔喀#O
+60 1757#MISC 年#MISC 廓尔喀#O 族#O 入侵#O 尼泊尔#GPE
+N
+61 尼泊尔#GPE 毛派#O 叛乱份子#O 在#O 新#O 国王#O 大寿#O 前夕#O 发动#O 攻击#O
+61 在#O 新#O 国王#O 大寿#O 前夕#O ，#O 尼泊尔#GPE 毛派#O 叛乱份子#O 发动#O 攻击#O
+Y
+62 恐怖份子#O 造成#O 39#MISC 名#O 警察#O 及#O 一位#O 平民#O 身亡#O
+62 恐怖份子#O 杀害#O 三十九#MISC 名#O 警察#O 和#O 一名#O 平民#O
+Y
+63 来自#O 新西兰#GPE 的#O 埃德蒙#O ‧#O 希拉里#PERSON 爵士#O 与#O 夏#PERSON 尔巴#O 人丹增#O ·#O 诺尔#PERSON 盖#O 首度#O 成功#O 登顶#O 后#O ，#O 至今已有#O 约#O 三千#MISC 人#O 前来#O 攀登#O 珠峰#O
+63 希拉里#PERSON 爵士#O 是#O 首位#O 成功#O 攀#O 上#O 珠峰#O 的#O 人#O
+Y
+64 三十五岁#MISC 的#O 田部#O 井淳子#O 成功#O 登上#O 圣母#O 峰#O ，#O 成为#O 首位#O 女性#O 攀登者#O
+64 田部#O 井淳子#O 成为#O 世界#O 上#O 首位#O 登上#O 圣母#O 峰#O 的#O 女性#O
+Y
+65 吴锦雄#PERSON 参加#O 两岸#MISC 联登#O ,#O 成功#O 成为#O 首位#O 登#O 圣母#ORGANIZATION 峰顶#ORGANIZATION 台湾人#ORGANIZATION
+65 吴锦雄#PERSON 登上#O 圣母#O 峰#O ，#O 是#O 台湾#GPE 第一位#MISC 登峰#O 成功者#O
+Y
+66 日本#ORGANIZATION 人田部#ORGANIZATION 井淳子#O 从#O 南坡#O 登上#O 珠穆朗玛峰#O ，#O 成为#O 世界#O 上#O 首位#O 登上#O 珠峰#O 的#O 女性#O
+66 田部#O 井淳子#O 成功#O 登上#O 珠穆朗玛峰#O ，#O 成为#O 首位#O 女性#O 攀登者#O
+Y
+67 希拉里#PERSON 爵士#O （#O 或译#O 希拉#O 瑞#O ）#O 是#O 首位#O 成功#O 攀#O 上#O 珠穆朗玛峰#O 的#O 人#O
+67 希拉#O 瑞是#O 有#O 纪录#O 以来#O 第#O 1#MISC 位#O 登上#O 珠穆朗玛峰#O 的#O 人#O
+Y
+68 1945#MISC 年#MISC 至#MISC 1998#MISC 年#MISC ，#O 中国#GPE 举行#O 过约#O 五十#MISC 次#O 的#O 核试验#O
+68 中国#GPE 在#O 30#MISC 多年#MISC 的#O 时间#O 里#O 举行#O 过约#O 五十#MISC 次#O 的#O 核试验#O ，#O 与#O 美苏#GPE 相比#O 次数#O 少#O 很多#O
+N
+69 1964#MISC 年#MISC 10#MISC 月#MISC 中国#GPE 试爆#O 第一颗#MISC 原子弹#MISC 后#O ，#O 中国#GPE 核工业#O 的#O 发展#O 加快#O 了#O
+69 1964#MISC 年#MISC 中国#MISC 第一次#MISC 试爆#O 原子弹#O
+Y
+70 1964#MISC 年#MISC 印度#GPE 第一次#MISC 试爆#MISC 原子弹#MISC
+70 1964#MISC 年#MISC 10#MISC 月#MISC 中国#GPE 成功#O 试爆#O 第一颗#MISC 原子弹#O
+N
+71 20#MISC 世纪#MISC 80#MISC 年代#MISC 末期#O 美国#GPE 每年#O 进行#O 的#O 核试验#O 已经#O 缩减到#O 十次#MISC 以下#O
+71 美国#GPE 第一次#MISC 成功#O 试爆#O 氢弹#O 威力#O 超过#O 广岛#GPE 原子弹#MISC 爆炸#MISC 一千倍#MISC
+N
+72 1999#MISC 年#MISC 4#MISC 月#MISC 切尔诺贝利#O 病毒#O 总共#O 造成#O 逾#O 200#MISC 万台#O 电脑#O 无法#O 开机#O
+72 一九九九年#MISC 四月#MISC 切尔诺贝利#O 病毒#O 总共#O 造成#O 逾#O 两百万#MISC 台#O 电脑#O 无法#O 开机#O
+Y
+73 西安事变#O 蒋介石#PERSON 答应#O 抗日#GPE 后#O ，#O 张学良#PERSON 护送#O 蒋介石#PERSON 回#O 南京#GPE
+73 西安事变#O 后#O 张学良#PERSON 遭到#O 监禁#O
+N
+74 西安事变#O 蒋介石#PERSON 答应#O 抗日#GPE 后#O ，#O 张学良#PERSON 护送#O 蒋介石#PERSON 回#O 南京#GPE
+74 西安事变#O 后#O 张学良#PERSON 护送#O 蒋介石#PERSON 回#O 南京#GPE
+Y
+75 张学良#PERSON 自从#O 在#O 西北地区#GPE 实行#O 联共#O 抗日#GPE 之后#O ，#O 曾多次#PERSON 劝谏#O 蒋介石#PERSON 停止#O 内战#O
+75 张学良#PERSON 要#O 抗日#O ，#O 但#O 蒋介石#PERSON 要#O 剿共#O ，#O 两人#O 政治立场#O 相左#O
+Y
+76 张学良#PERSON 发动#O 西安事变#O ，#O 绑架#O 蒋介石#PERSON ，#O 逼#O 他#O 抗日#MISC
+76 张学良#PERSON 发动#O 西安事变#O ，#O 逼#O 蒋#PERSON 抗日#PERSON
+Y
+77 第五次#MISC 剿共#O 时#O ，#O 蒋介石#PERSON 任命#O 张学良#PERSON 为豫#O 鄂皖#ORGANIZATION 三省#ORGANIZATION 剿共#ORGANIZATION 副司令#O
+77 张学良#PERSON 曾#O 被#O 任命#O 为#O “#O 鄂豫皖#O 剿共#O 副总司令#O ”#O
+Y
+78 蒋介石#PERSON 于#O 1946#MISC 年#MISC 10#MISC 月#MISC 将#O 张学良#PERSON 转#O 至#O 台湾#GPE 继续#O 软禁#O ，#O 并#O 限制#O 人身自由#O
+78 蒋介石#PERSON 将#O 张学良#PERSON 带到#O 台湾#GPE 软禁#O
+Y
+79 蒋介石#PERSON 与#O 张学良#PERSON 都#O 曾#O 追求#O 宋美龄#MISC
+79 蒋介石#PERSON 不杀#O 张学良#PERSON 皆#O 因#O 宋美龄#O
+N
+80 小泉#MISC 纯一#MISC 郎#O 的#O 长子#O 是#O 艺人#O 小泉#PERSON 孝#O 太郎#O
+80 小泉#PERSON 纯一#O 郎#O 的#O 大儿子#O 是#O 小泉#PERSON 孝#O 太郎#O
+Y
+81 小泉#PERSON 纯一#O 郎#O 的#O 长子#O 是#O 艺人#O 小泉#PERSON 孝#O 太郎#O
+81 小泉#PERSON 孝#O 太郎#O 是#O 位#O 艺人#O
+Y
+82 小泉#PERSON 纯一#O 郎#O 1998#MISC 年#MISC 再度#O 角逐#O 自民党#ORGANIZATION 总裁#O ，#O 仍#O 失败#O
+82 小泉#PERSON 纯一#O 郎#O 角逐#O 自民党#ORGANIZATION 总裁#O 至少#O 失败#O 两次#O
+Y
+83 小泉#PERSON 纯一#O 郎#O 1998#MISC 年#MISC 再度#O 角逐#O 自民党#ORGANIZATION 总裁#O ，#O 仍#O 失败#O
+83 小泉#PERSON 纯一#O 郎#O 角逐#O 自民党#ORGANIZATION 总裁#O 失败#O 一次#MISC
+N
+84 小泉#PERSON 纯一#O 郎#O 2001#MISC 年#MISC 赢得#O 自民党#ORGANIZATION 总裁#O 选战#O
+84 小泉#MISC 纯一#MISC 郎#MISC 2001#MISC 年#MISC 未#O 赢得#O 自民党#ORGANIZATION 总裁#O 选战#O
+N
+85 小泉#PERSON 纯一#O 郎#O 2001#MISC 年#MISC 赢得#O 自民党#ORGANIZATION 总裁#O 选战#O
+85 小泉#PERSON 纯一#O 郎#O 1998#MISC 年#MISC 再度#O 角逐#O 自民党#ORGANIZATION 总裁#O ，#O 仍#O 失败#O
+N
+86 小泉#PERSON 纯一#O 郎#O 2001#MISC 年#MISC 赢得#O 自民党#ORGANIZATION 总裁#O 选战#O
+86 小泉#PERSON 纯一#O 郎#O 曾#O 赢得#O 自民党#ORGANIZATION 总裁#O 选战#O
+Y
+87 张学良#PERSON 1900#MISC 年#MISC 6#MISC 月#MISC 3#MISC 日#MISC 出生#O ，#O 1920#MISC 年#MISC 官拜#O 少将#O
+87 张学良#PERSON 二十岁#MISC 官拜#O 少将#O
+Y
+88 张学良#PERSON 1920#MISC 年#MISC (#O 二十岁#MISC )#O 官拜#O 少将#O
+88 张学良#PERSON 当#O 上#O 少将#O 时#O 是#O 20#MISC 岁#MISC
+Y
+89 张学良#PERSON 1920#MISC 年#MISC (#O 二十岁#MISC )#O 官拜#O 少将#O
+89 张学良#PERSON 1920#MISC 年升#MISC 为#O 少将#O
+Y
+90 张学良#PERSON 的#O 父亲#O 是#O 东北#LOCATION 军阀#O 张作霖#PERSON
+90 东北#LOCATION 军阀#O 张作霖#PERSON 是#O 张学良#PERSON 的#O 爸爸#O
+Y
+91 阿富汗#O 塔利班#ORGANIZATION 政权#O 炸毁#O 巴米扬#FACILITY 大佛#FACILITY
+91 遭#O 塔利班#ORGANIZATION 政权#O 炸毁#O 的#O 是#O 巴米扬#FACILITY 大佛#FACILITY
+Y
+92 张学良#PERSON 一九五四年#MISC 写#O 了#O 〈#O 西安事变#O 反省#O 录#O 〉#O
+92 〈#O 西安事变#O 反省#O 录#O 〉#O 的#O 作者#O 是#O 张学良#PERSON
+Y
+93 张学良#PERSON 一九五四年#MISC 写#O 了#O 〈#O 西安事变#O 反省#O 录#O 〉#O
+93 张学良#PERSON 1955#MISC 年#MISC 写#O 了#O 〈#O 西安事变#O 反省#O 录#O 〉#O
+N
+94 张学良#PERSON 一九五四年#MISC 写#O 了#O 〈#O 西安事变#O 反省#O 录#O 〉#O
+94 〈#O 西安事变#O 反省#O 录#O 〉#O 是#O 张学良#PERSON 的#O 作品#O
+Y
+95 张学良#PERSON 1928#MISC 年#MISC (#O 二十八岁#MISC )#O 当#O 上#O 总司令#O 成为#O “#O 东北#FACILITY 王#FACILITY ”#O
+95 张学良#PERSON 有#O 东北#O 王之称#PERSON
+Y
+96 张学良#PERSON 1928#MISC 年#MISC (#O 二十八岁#MISC )#O 当#O 上#O 总司令#O 成为#O “#O 东北#FACILITY 王#FACILITY ”#O
+96 张学良#PERSON 的#O 总司令#O 叫做#O “#O 东北#FACILITY 王#FACILITY ”#O
+N
+97 张学良#PERSON 挥军#O 入关#O ，#O 瓦解#O 冯玉祥#PERSON 、#O 阎锡山#MISC 两军#MISC ,#O 促成#O 国家#O 再次#O 统一#O
+97 张学良#PERSON 与#O 冯玉祥#O 、#O 阎锡山#O ，#O 促成#O 国家#O 再次#O 统一#O
+N
+98 张学良#PERSON 挥军#O 入关#O ，#O 瓦解#O 冯玉祥#O 、#O 阎锡山#LOCATION 两军#O
+98 冯玉祥#O 、#O 阎锡山#LOCATION 两军#O 与#O 张学良#PERSON 军队#O 为#O 敌对#O 关系#O
+Y
+99 张学良#PERSON 挥军#O 入关#O ，#O 瓦解#O 冯玉祥#PERSON 、#O 阎锡山#LOCATION 两军#O
+99 张学良#PERSON 的#O 军队#O 被#O 冯玉祥#O 、#O 阎锡山#O 打败#O
+N
+100 CIH#O 是#O 一种#O 电脑病毒#O ，#O 病毒#O 作者#O 撰写#O 动机#O 和#O 切尔诺贝利#O 事件#O 有关#O ，#O 因此#O CIH#O 病毒#O 也#O 被称作#O 切尔诺贝利#O （#O Chernobyl#O ）#O 病毒#O 。#O
+100 切尔诺贝利#O 病毒#O 是#O 一种#O 电脑病毒#O
+Y
+101 切尔诺贝利#O 病毒#O CIH#O 1.2#MISC 、#O CIH#O 1.3#MISC 在#O 4#MISC 月#MISC 26#MISC 日#MISC 发病#O
+101 切尔诺贝利#O 病毒#O CIH#O 病毒#O 的#O 1.2#MISC 和#O 1.3#MISC 版#O 发作#O 日期#O 为#O 4#MISC 月#MISC 26#MISC 日#MISC
+Y
+102 安南#PERSON 来自#O 非洲#LOCATION 加纳#O
+102 安南#PERSON 来自#O 亚洲#LOCATION
+N
+103 安南#PERSON 来自#O 非洲#LOCATION 加纳#GPE
+103 安南#O 出身#O 于#O 非洲#LOCATION 加纳#O
+Y
+104 4#MISC 月#MISC 26#MISC 日#MISC 当天#MISC ，#O 有#O 3#MISC 种#O 版本#O 的#O CIH#O 同时#O 发病#O
+104 CIH#O 病毒#O ，#O 4#MISC 月#MISC 26#MISC 日#MISC 只有#O 1.2#MISC 和#O 1.3#MISC 版#O 发作#O
+N
+105 安南#PERSON 2001#O 年续#O 任#O 联合国#ORGANIZATION 秘书长#O
+105 安南#PERSON 曾任#O 联合国#ORGANIZATION 秘书长#O
+Y
+106 安南#PERSON 2001#O 年续#O 任#O 联合国#ORGANIZATION 秘书长#O
+106 安南#PERSON 至少#O 担任#O 过#O 二届#MISC 联合国#ORGANIZATION 秘书长#O
+Y
+107 安南#PERSON 认为#O 世界#O 应#O 注意#O 贫穷#O 、#O 违反#O 人权#O 、#O 非洲#LOCATION 的#O 冲突#O 以及#O 爱滋病#O 蔓延#O 等#O 问题#O
+107 安南#PERSON 主张#O 世界#O 应#O 注意#O 贫穷#O 、#O 违反#O 人权#O 、#O 非洲#LOCATION 的#O 冲突#O 和#O 爱滋病#O 蔓延#O 等#O 问题#O
+Y
+108 安南#PERSON 把#O 全球#O 关注#O 焦点#O 集中#O 在#O 贫穷#O 、#O 违反#O 人权#O 、#O 非洲#LOCATION 的#O 冲突#O 和#O 爱滋病#O 蔓延#O 等#O
+108 安南#PERSON 对于#O 贫穷#O 、#O 违反#O 人权#O 、#O 非洲#LOCATION 的#O 冲突#O 和#O 爱滋病#O 蔓延#O 等#O 问题#O 漠不关心#O
+N
+109 藤森#PERSON 2000#MISC 年#MISC 遭#MISC 秘鲁#MISC 国会#MISC 免职#MISC
+109 藤森#PERSON 曾任#O 秘鲁#GPE 总统#O
+N
+110 藤森#MISC 总统#MISC 2000#MISC 年#MISC 遭#O 秘鲁#ORGANIZATION 国会#ORGANIZATION 免职#O
+110 藤森#PERSON 2000#MISC 年#MISC 遭#O 秘鲁#ORGANIZATION 国会#ORGANIZATION 免职#O
+Y
+111 迈克尔#PERSON 舒马赫#PERSON 是#O 一级#O 方程式赛车#O 冠军#O
+111 迈克尔#PERSON 舒马赫#PERSON 是#O F1#MISC 赛车#O 冠军#O
+Y
+112 迈克尔#PERSON 舒马赫#PERSON 是#O 一级#O 方程式#O (#O F1#O )#O 赛车#O 冠军#O
+112 F1#O 赛车#O 也#O 称为#O 一级#O 方程式赛车#O
+Y
+113 教宗#O 约翰#PERSON 保罗#PERSON 二世#MISC 2000#MISC 年时#MISC 踏入#O 回教#FACILITY 清真寺#FACILITY ，#O 祈#O 宗教#O 和谐#O
+113 第一个#MISC 踏入#O 伊斯兰教#ORGANIZATION 清真寺#ORGANIZATION 的#O 教皇#O 是#O 约翰#PERSON 保罗#PERSON 二世#MISC
+N
+114 教皇#O 约翰#PERSON 保罗#PERSON 二世#MISC 2000#MISC 年时#MISC 踏入#O 伊斯兰教#ORGANIZATION 清真寺#O ，#O 祈#O 宗教#O 和谐#O
+114 教皇#MISC 约翰#MISC 保罗#MISC 二世#MISC 曾#O 为#O 祈求#O 宗教#O 和谐#O 而#O 踏入#O 伊斯兰教#ORGANIZATION 清真寺#ORGANIZATION
+Y
+115 塔利班#ORGANIZATION 在#O 阿富汗#GPE 建立#O 全国性#O 政权#O ，#O 正式#O 名称#O 为#O 阿富汗#GPE 伊斯兰#ORGANIZATION 酋长国#ORGANIZATION
+115 塔利班#ORGANIZATION 在#O 阿富汗#GPE 建立#O 全国性#O 政权#O
+Y
+116 约翰#ORGANIZATION 保罗#ORGANIZATION 二世#MISC 是#O 四百五十#MISC 多年#MISC 来#O 第一位#MISC 非#O 意大利#GPE 籍#O 的#O 教皇#O
+116 约翰#PERSON 保罗#PERSON 二世#MISC 是#O 四百五十#MISC 多年#MISC 来#O 第一位#MISC 意大利#GPE 籍#O 的#O 教皇#O
+N
+117 约翰#PERSON 保罗#PERSON 二世#MISC 是#O 四百五十#MISC 多年#MISC 来#O 第一位#MISC 非#O 意大利#GPE 籍#O 的#O 教皇#O
+117 约翰#PERSON 保罗#PERSON 二世#MISC 是#O 意大利#GPE 籍#O 的#O 教皇#O
+N
+118 网络#O 泡沫化#O 指#O 的#O 是#O 网络#O 产业#O 因#O 过度#O 膨胀#O 而#O 形成#O 泡沫#O
+118 网络#O 产业#O 因#O 过度#O 紧缩#O 而#O 泡沫化#O
+N
+119 四不一#MISC 没有#O 讲#O 的#O 是#O 不#O 宣布独立#O ，#O 不#O 更改#O 国号#O ，#O 不#O 推动#O 两国论#O 入宪#O ，#O 不#O 推动#O 改变现状#O 的#O 统独#O 公投#O ，#O 也#O 没有#O 废除#O 国统#O 纲领#O 与#O 国统会#O 的#O 问题#O
+119 四不一#MISC 没有#O 讲#O 的#O 是#O 不独#O ，#O 不改#O 国号#O ，#O 无#O 两国论#O ，#O 不统#O 以及#O 没有#O 废除#O 国统#O 纲领#O 与#O 国统会#O
+N
+120 四不一#MISC 没有#O 是#O 陈水扁#PERSON 所#O 提出#O
+120 陈水扁#PERSON 提出#O 四不一#MISC 没有#O
+Y
+121 世界#O 上#O 最#O 常用#O 的#O 地震#O 规模#O 标度#O 是#O 里氏#O 规模#O
+121 里氏#O 规模#O 为#O 世界#O 上#O 最#O 常用#O 的#O 地震#O 规模#O 标度#O
+Y
+122 世界#O 上#O 最#O 常用#O 的#O 地震#O 规模#O 标度#O 是#O 里氏#O 规模#O
+122 里氏#O 规模#O 是#O 用来#O 描述#O 地震#O 规模#O 的#O 一种#O 规范#O
+Y
+123 英国伦敦#DEMONYM 千禧#O 巨蛋#O 是#O 一座#O 专#O 为#O 迎接#O 千禧年#MISC 来临#O 而#O 特别#O 设计#O 的#O 科技#O 展览馆#O
+123 英国伦敦#DEMONYM 千禧#O 巨蛋#O 是#O 一座#O 专#O 为#O 迎接#O 2000#MISC 年#MISC 来临#O 而#O 特别#O 设计#O 的#O 科技#O 展览馆#O
+Y
+124 切尔诺贝利#O 病毒#O 是#O 陈盈豪#PERSON 在#O 大同#ORGANIZATION 工学院#ORGANIZATION 读书#O 时#O 编制#O ，#O 由#O 不知情#O 的#O 同学#O 散播#O 出去#O
+124 切尔诺贝利#O 病毒#O 是#O 来自#O 台湾#ORGANIZATION 大同#ORGANIZATION 工学院#ORGANIZATION 学生#O 陈盈豪#PERSON 所#O 散布#O
+N
+125 日本#GPE 是#O 投资#O 马来西亚#GPE 的#O 三大#MISC 外商#O 之一#MISC
+125 日本#GPE 在#O 马来西亚#GPE 有#O 投资#O
+Y
+126 千禧#MISC 巨蛋#O 有#O 十四个#MISC 教育#O 与#O 文化#O 主题#O 区#O
+126 千禧#O 巨蛋#O 有#O 十五个#MISC 壮观#O 、#O 高科技#O 的#O 互动#O 区#O
+N
+127 马来西亚#GPE 原#O 为#O 日本#GPE 电子#O 业者#O 眼中#O 最佳#O 的#O 亚洲#LOCATION 投资#O 标#O ，#O 现#O 被#O 中国#GPE 大陆#GPE 取代#O
+127 中国#GPE 取代#O 美国#GPE 成为#O 亚洲#LOCATION 经济#O 核心#O
+N
+128 马来西亚#GPE 原#O 为#O 日本#GPE 电子#O 业者#O 眼中#O 最佳#O 的#O 亚洲#LOCATION 投资#O 地#O ，#O 现#O 被#O 中国#GPE 大陆#GPE 取代#O
+128 中国#GPE 大陆#GPE 现为#O 日本#GPE 电子#O 业者#O 眼中#O 最佳#O 的#O 亚洲#LOCATION 投资#O 地#O
+Y
+129 叙利亚#GPE 总统#O 阿萨德#PERSON 表示#O 叙伊#O 两国#O 共同#O 合作#O 揭露#O 美国#GPE 及#O 以色列#GPE 邪恶#O 行为#O 并#O 公诸于世#O
+129 叙利亚#GPE 总统#O 阿萨德#PERSON 揭露#O 美国#GPE 及#O 以色列#GPE 邪恶#O 行为#O 并#O 公诸于世#O
+Y
+130 叙利亚#GPE 总统#O 阿萨德#PERSON 怒指#O 美国#GPE 和#O 以色列#GPE 阴谋#O 孤立#O 叙利亚#GPE
+130 叙利亚#GPE 总统#O 阿萨德#PERSON 表示#O 叙伊#O 两国应#PERSON 共同#O 合作#O 揭露#O 美国#GPE 及#O 以色列#GPE 邪恶#O 行为#O 并#O 公诸于世#O
+N
+131 叙利亚#GPE 自认是#O 中东#LOCATION 和平#O 的#O 重要#O 条件#O
+131 英国#GPE 外交大臣#O 到访#O 叙利亚#GPE 将#O 谈论#O 中东#LOCATION 和平#O 问题#O
+N
+132 叙利亚#GPE 和#O 黎巴嫩#GPE 的#O 和平#O 进程#O 在#O 中断#O 将近#O 三年#MISC 之后#O ，#O 于#O 1998#MISC 年#MISC 重启#O
+132 他#O 认为#O 叙利亚#GPE 是#O 整个#O 中东地区#O 建立#O 和平#O 的#O 障碍#O ，#O 并#O 再次#O 要求#O 叙利亚#GPE 从#O 黎巴嫩#GPE 撤军#O
+N
+133 极光#O 这一#O 名称#O 来源于#O 罗马#GPE “#O 黎明#MISC ”#O 女神#O 奥#O 罗拉#PERSON (#O Aurora#O )#O 。#O
+133 极光#O 的#O 英文名字#O 是#O Aurora#O ，#O 它#O 是#O 罗马#ORGANIZATION 女神#ORGANIZATION 的#O 名称#O
+Y
+134 叙利亚#GPE 是#O 以#O 阿#O 和平#O 进程#O “#O 土地#O 换#O 和平#O ”#O 原则#O 的#O 受益者#O
+134 约旦#GPE 否认#O 叙利亚#GPE 以#O 土地#O 换#O 和平#O
+N
+135 美国在线#O 考虑#O 和#O 网景#O 合作#O
+135 网景#O 被#O 美国在线#GPE 收购#O
+N
+136 美国在线#GPE 和#O 网景#ORGANIZATION 合作#ORGANIZATION
+136 网景#ORGANIZATION 被#O 美国在线#GPE 收购#O ，#O 而#O 美国在线#GPE 之后#O 又#O 成为#O 时代华纳#ORGANIZATION 的#O 一部分#O 。#O
+N
+137 美国在线#ORGANIZATION 收购#ORGANIZATION 网景#ORGANIZATION 通讯#ORGANIZATION 公司#ORGANIZATION
+137 网景#O 被#O 美国在线#GPE 收购#O
+Y
+138 纳#O 芙#O 拉蒂洛#PERSON 娃出#O 生于#O 捷克斯洛伐克#GPE 布拉格#GPE ，#O 是#O 一位#O 美国#GPE 职业#O 网球#O 运动员#O
+138 纳#O 芙#O 拉蒂洛#PERSON 娃出#O 生于#O 布拉格#GPE
+Y
+139 2000#O 年纳#O 芙#O 拉蒂洛#PERSON 娃#O 被#O 列入#O 国际#O 网球#O 名人堂#O
+139 纳#O 芙#O 拉蒂洛#PERSON 娃#O 2000#MISC 年#MISC 被#O 纳入#O 国际#O 网球#O 名人堂#O
+Y
+140 公开#O 女同性恋#O 身份#O 的#O 纳#O 芙#O 拉蒂洛#PERSON 娃时#MISC 年#MISC 47#MISC 岁#MISC
+140 纳#O 芙#O 拉蒂洛#PERSON 娃#O 公开#O 自己#O 是#O 女同性恋#O
+Y
+141 纳#O 芙#O 拉蒂洛#PERSON 娃#O 一共#O 取得#O 了#O 58#MISC 个#O 大满贯#O 的#O 冠军#O 奖杯#O
+141 纳#O 芙#O 拉蒂洛#PERSON 娃#O 曾经#O 获#O 18#MISC 座#O 大满贯#O 金杯#O
+Y
+142 约翰#PERSON 保罗#PERSON 二世#MISC 一九七八年#MISC 十月#MISC 十六日#MISC 被选为#O 教皇#O
+142 约翰#PERSON 保罗#PERSON 二世#MISC 于#O 1978#MISC 年#MISC 当上#O 教皇#O
+Y
+143 约翰#PERSON 保罗#PERSON 二世#MISC 一九七八年#MISC 被选为#O 教皇#O
+143 约翰#PERSON 保罗#PERSON 二世#PERSON 于#O 1978#MISC 年#MISC 被选为#O 教皇#MISC
+Y
+144 哈塔米#PERSON 1997#MISC 年#MISC 12#MISC 月#MISC 要求#O 与#O “#O 伟大#O 的#O 美国#DEMONYM 人民#O ”#O 对话#O ，#O 是#O 一九七九年#MISC 伊朗#MISC 伊斯兰#MISC 革命#MISC 与#O 美国#GPE 断交#O 以来#O ，#O 首位#O 伊朗#GPE 领导人#O 有意#O 与#O 美国#GPE 重新#O 修好#O 的#O 最#O 强烈#O 信息#O
+144 1997#MISC 年#MISC 伊朗#MISC 领导人#O 是#O 哈塔米#PERSON
+Y
+145 中国#GPE 的#O 现任#O 总理#O 是#O 温家宝#PERSON
+145 温家宝#PERSON 是#O 中国#GPE 的#O 现任#O 总理#O
+Y
+146 哈塔米#PERSON 是#O 一九七九年#MISC 伊朗#MISC 伊斯兰#MISC 革命#MISC 以来#O 第一位#MISC 访问#O 西方#O 国家#O 的#O 伊朗#GPE 领袖#O
+146 哈塔米#PERSON 被#O 看#O 作为#O 伊朗#GPE 第一位#O 改良主义#O 总统#O ，#O 因为#O 他#O 在#O 选举#O 中#O 重视#O 法治#O 和#O 民主#O ，#O 主张#O 所有#O 伊朗人#DEMONYM 参与#O 政治#O 决策#O 的#O 进程#O 。#O
+N
+147 哈塔米#PERSON 被#O 看#O 作为#O 伊朗#GPE 第一位#O 改良主义#O 总统#O ，#O 因为#O 他#O 在#O 选举#O 中#O 重视#O 法治#O 和#O 民主#O ，#O 主张#O 所有#O 伊朗人#DEMONYM 参与#O 政治#O 决策#O 的#O 进程#O 。#O
+147 哈塔米#PERSON 被#O 看#O 作为#O 伊朗#GPE 第一位#O 改良主义#O 总统#O
+Y
+148 约翰#PERSON 保罗#PERSON 二世#MISC 是#O 教廷#O 国家#O 领导人#O
+148 约翰#PERSON 保罗#PERSON 二世#MISC 是#O 梵蒂冈#GPE 领导人#O
+Y
+149 哈塔米#PERSON 主张#O 开放#O 人权#O 和#O 民主改革#ORGANIZATION
+149 哈塔米#PERSON 主张#O 民主改革#ORGANIZATION
+Y
+150 约翰#ORGANIZATION 保罗#ORGANIZATION 二世#MISC 是#O 教廷#O 国家#O 领导人#O
+150 约翰#ORGANIZATION 保罗#ORGANIZATION 二世#MISC 是#O 教廷#O 国家#O 领袖#O
+Y
+151 里氏#O 规模#O 是#O 地震#O 规模#O 计算#O 方式#O 之一#MISC
+151 里氏#O 规模#O 是#O 地震#O 规模#O 计算#O 方式#O 的#O 一种#O
+Y
+152 里氏#O 规模#O 是#O 美国#GPE 地震学#O 家里#O 氏#O 在#O 一九三五年#MISC 所#O 创立#O 的#O
+152 里氏#O 规模#O 是#O 美国#DEMONYM 科学家#O 里氏#O 所#O 发明#O 的#O 。#O
+Y
+153 里氏#O 规模#O 是#O 美国#GPE 地震学#O 家里#O 氏#O 在#O 一九三五年#MISC 所#O 创立#O 的#O
+153 里氏#O 规模#O 是#O 地震学#O 家里#O 氏#O 在#O 美国#GPE 所#O 创立#O 的#O
+N
+154 哈塔米#PERSON 是#O 伊朗#GPE 总统#O
+154 伊朗#DEMONYM 总统#O 哈塔米#PERSON
+Y
+155 伏明霞#PERSON ，#O 中国#GPE 前#O 著名#O 跳水#O 运动员#O ，#O 出#O 生于#O 湖北#GPE 武汉#GPE
+155 伏明霞#PERSON 出#O 生于#O 武汉#GPE
+Y
+156 伏明霞#PERSON 是#O 武汉#GPE 人#O
+156 伏明霞#PERSON 是#O 湖北#GPE 人#O
+Y
+157 1991#MISC 年#MISC 一月#MISC ，#O 伏明霞#PERSON 在#O 澳大利亚#GPE 珀斯#FACILITY 跳水#FACILITY 馆#FACILITY 举行#O 的#O 第六届#MISC 世界#MISC 游泳#MISC 锦标赛#MISC 上#O ，#O 又#O 一次#MISC 夺冠#MISC
+157 1991#MISC 年#MISC 伏明霞#PERSON 在#O 澳洲#GPE 珀斯#GPE 成为#O 世界#MISC 锦标赛#MISC 的#O 跳水#O 冠军#O
+Y
+158 1991#MISC 年#MISC 伏明霞#PERSON 在#O 澳洲#GPE 珀斯#GPE 成为#O 世界#MISC 锦标赛#MISC 最#O 年轻#O 的#O 跳水#O 冠军#O
+158 1991#MISC 年#MISC 一月#MISC ，#O 伏明霞#PERSON 在#O 澳大利亚#GPE 珀斯#FACILITY 跳水#FACILITY 馆#FACILITY 举行#O 的#O 第六届#MISC 世界#MISC 游泳#MISC 锦标赛#MISC 上#O ，#O 又#O 一次#MISC 夺冠#O
+N
+159 邓亚萍#PERSON 堪称#O 是#O 中国#GPE 乒乓球#O 史上#O 最#O 伟大#O 女选手#O ，#O 4#MISC 枚#O 奥运金牌#MISC ，#O 连续#O 8#MISC 年#MISC 世界#MISC 第一#MISC ，#O 拥有#O 超过#O 18#MISC 个#O 世界冠军#ORGANIZATION 头衔#O
+159 邓亚萍#PERSON 是#O 中国#GPE 兵乓球#O 选手#O
+Y
+160 邓亚萍#PERSON 堪称#O 是#O 乒乓球#O 史上#O 最#O 伟大#O 女选手#O ，#O 4#MISC 枚#O 奥运金牌#MISC ，#O 连续#O 8#MISC 年#MISC 世界#MISC 第一#MISC ，#O 拥有#O 超过#O 18#MISC 个#O 世界冠军#ORGANIZATION 头衔#O
+160 邓亚萍#PERSON 拿过#O 世界冠军#O
+Y
+161 杨丽萍#PERSON 是#O 中国#GPE 大陆#GPE 舞蹈演员#O
+161 舞蹈演员#O 杨丽萍#PERSON
+Y
+162 杨丽萍#PERSON 自编#O 自导#O 自制#O 自演#O 电影#O “#O 太阳鸟#MISC ”#O
+162 太阳鸟#MISC 是#O 杨丽萍#PERSON 自编#O 自导#O 自制#O 自演#O 的#O 电影#O
+Y
+163 名导#O 张艺谋#PERSON 执掌#O ，#O 普契尼#PERSON 歌剧#O 《#O 杜兰朵#MISC 公主#MISC 》#O 于#O 北京#GPE 紫禁城#GPE 现场#O 演出#O
+163 《#O 杜兰朵#MISC 公主#MISC 》#O 在#O 北京#GPE 紫禁城#GPE 前#O 演出#O
+Y
+164 柏林#MISC 电影节#MISC 应该#O 是#O 张艺谋#PERSON 的#O 福地#O 。#O 1988#MISC 年#MISC ，#O 他#O 执导#O 的#O 《#O 红高粱#ORGANIZATION 》#O 赢得#O 了#O 最佳影片#O 金熊奖#O ，#O 成为#O 中国#DEMONYM 电影#O 的#O 首个#O 金熊奖#O
+164 张艺谋#PERSON 1988#MISC 年#MISC 以#O 《#O 红高粱#ORGANIZATION 》#O 拿下#O 柏林#MISC 影展#MISC 金熊奖#MISC
+Y
+165 张艺谋#PERSON 1987#MISC 年#MISC 以#O 《#O 红高粱#ORGANIZATION 》#O 拿下#O 柏林#MISC 影展#MISC 金熊奖#MISC
+165 柏林#MISC 电影节#MISC 应该#O 是#O 张艺谋#PERSON 的#O 福地#O 。#O 1988#MISC 年#MISC ，#O 他#O 执导#O 的#O 《#O 红高粱#ORGANIZATION 》#O 赢得#O 了#O 最佳影片#O 金熊奖#O ，#O 成为#O 中国#DEMONYM 电影#O 的#O 首个#O 金熊奖#O
+N
+166 张艺谋#PERSON 曾#O 与#O 巩俐#PERSON 是#O 恋人#O 关系#O
+166 张艺谋#PERSON 与#O 巩俐#PERSON 曾#O 相恋#O
+Y
+167 张艺谋#PERSON 曾#O 与#O 红高粱#O 是#O 恋人#O 关系#O
+167 张艺谋#PERSON 与#O 巩俐#PERSON 在#O 1986#MISC 年#MISC ，#O 因#O 合作#O 电影#O 《#O 红高粱#ORGANIZATION 》#O 而#O 相恋#O
+N
+168 “#O 李宁#PERSON ”#O 为#O 大陆#GPE 运动用品#O 第一#MISC 品牌#O
+168 受#O 北京#MISC 奥运会#MISC 的#O 带动#O ，#O 李宁#O 营业额#O 获得#O 大#O 突破#O 达到#O 66.9#MISC 亿元#MISC ，#O 净利润#O 5.21#MISC 亿元#MISC
+N
+169 受#O 北京#GPE 奥运会#MISC 的#O 带动#O ，#O 李宁#O 营业额#O 获得#O 大#O 突破#O 达到#O 66.9#MISC 亿元#MISC ，#O 净利润#O 5.21#MISC 亿元#MISC
+169 李宁#O 营业额#O 获得#O 大#O 突破#O 达到#O 66.9#MISC 亿元#MISC ，#O 净利润#O 5.21#MISC 亿元#MISC
+Y
+170 李宁#PERSON 是#O 壮族#DEMONYM 人#O ，#O 生于#O 广西#GPE 柳州#GPE ，#O 中国#DEMONYM 退役#O 体操#O 运动员#O ，#O 企业家#O 。#O 有#O “#O 中国#GPE 第一代#MISC 体操#O 王子#O ”#O 、#O “#O 中国#GPE 体操#O 天王#O ”#O 之称#O 。#O
+170 李宁#O 是#O 中国#GPE 著名#O 体操#O 运动员#O
+Y
+171 李宁#PERSON 是#O 壮族#DEMONYM 人#O ，#O 生于#O 广西#GPE 柳州#GPE ，#O 中国#DEMONYM 退役#O 体操#O 运动员#O ，#O 企业家#O 。#O 有#O “#O 中国#GPE 第一代#MISC 体操#O 王子#O ”#O 、#O “#O 中国#GPE 体操#O 天王#O ”#O 之称#O 。#O
+171 李宁#PERSON 外号#O 中国#GPE 体操#O 天王#O
+Y
+172 李宁#PERSON 曾#O 获得#O 奥运金牌#MISC
+172 在#O 17#MISC 年#MISC 的#O 体操#O 生涯#O 中#O ，#O 李宁#PERSON 一共#O 获得#O 了#O 14#MISC 个#O 世界冠军#O ，#O 106#MISC 枚#O 国内外#O 体操比赛#O 金牌#MISC 。#O
+N
+173 在#O 17#MISC 年#MISC 的#O 体操#O 生涯#O 中#O ，#O 李宁#PERSON 一共#O 获得#O 了#O 14#MISC 个#O 世界冠军#O ，#O 106#MISC 枚#O 国内外#O 体操比赛#O 金牌#MISC 。#O
+173 李宁#PERSON 一共#O 获得#O 了#O 14#MISC 个#O 世界冠军#O
+Y
+174 巩俐#PERSON 1966#O 年生#O
+174 巩俐#PERSON 在#O 1965#MISC 年#MISC 12#MISC 月#MISC 31#MISC 日#MISC 生于#O 辽宁沈阳#GPE ，#O 祖籍#O 山东#GPE 济南#GPE 并#O 在#O 此#O 长大#O
+N
+175 巩俐#PERSON 在#O 1965#MISC 年#MISC 12#MISC 月#MISC 31#MISC 日#MISC 生于#O 辽宁沈阳#GPE ，#O 祖籍#O 山东#GPE 济南#GPE 并#O 在#O 此#O 长大#O
+175 巩俐#PERSON 1965#O 年生#O
+Y
+176 巩俐#PERSON 申请#O 就读#O 北京大学社会学系#GPE 硕士#O 研究生#O
+176 巩俐#PERSON 申请#O 就读#O 北京大学社会学系#GPE
+Y
+177 巩俐#PERSON 在#O 蒙特利尔#MISC 影展#MISC 封后#O ；#O 大会#O 除#O 影后#O 奖#O ，#O 还#O 颁发#O 艺术#O 成就#O 特别#O 大奖#O 予#O 巩俐#PERSON
+177 巩俐#O 获得#O 蒙特利尔#MISC 影展#MISC 艺术#O 成就#O 特别#O 大奖#O
+Y
+178 夫妻感情#O 很#O 好#O ，#O 巩俐#PERSON 老公#O 黄和祥#PERSON 否认#O 婚姻#O 亮红灯#O
+178 巩俐#PERSON 老公#O 是#O 黃#O 和#O 祥#O
+Y
+179 巩俐#PERSON 现在#O 的#O 老公#O 是#O 黄和祥#PERSON
+179 巩俐#PERSON 与#O 新加坡#GPE 老公#O 黄和祥#PERSON 离婚#O 1#MISC 年#MISC 多#MISC
+N
+180 开幕式#O 由#O 世博会#ORGANIZATION 组委会#ORGANIZATION 副#O 主任#O 、#O 云南省#GPE 省长#O 李嘉廷#PERSON 主持#O
+180 世博会#MISC 组委会#ORGANIZATION 副#O 主任#O 为#O 云南省#GPE 长#O 李嘉廷#PERSON
+Y
+181 以#O “#O 人与自然#O ,#O 迈向#O 21#MISC 世纪#MISC ”#O 为#O 主题#O 的#O 世界园艺博览会#ORGANIZATION 在#O “#O 春城#O ”#O 昆明#GPE 成功#O 举办#O ，#O 这#O 也#O 是#O 中国#GPE 举办#O 的#O 首届#O 专业#O 类#O 世博会#MISC
+181 昆明#ORGANIZATION 世界园艺博览会#ORGANIZATION 主题#O 为#O “#O 人与自然#O ,#O 迈向#O 二十一#MISC 世纪#MISC ”#O
+Y
+182 以#O “#O 人与自然#O ,#O 迈向#O 21#MISC 世纪#MISC ”#O 为#O 主题#O 的#O 世界园艺博览会#ORGANIZATION 在#O “#O 春城#O ”#O 昆明#GPE 成功#O 举办#O ，#O 这#O 也#O 是#O 中国#GPE 举办#O 的#O 首届#O 专业#O 类#O 世博会#MISC
+182 世界园艺博览会#MISC 在#O "#O 春城#O "#O 昆明#GPE 成功#O 举办#O
+Y
+183 昆明#MISC 世界园艺博览会#MISC 的#O 吉祥物#O 是#O 一只#O 手持#O 鲜花#O 、#O 身着#O 黄蓝#O 背心#O 的#O 金丝猴#O 「#O 灵灵#O 」#O
+183 昆明#MISC 园艺#MISC 博览会#MISC 吉祥物#O 是#O 一只#O 金丝猴#O ，#O 取名#O “#O 灵灵#O ”#O
+Y
+184 中国#GPE 昆明#GPE 世界园艺博览会#MISC 为期#MISC 184#MISC 天#MISC
+184 昆明#ORGANIZATION 世界园艺博览会#ORGANIZATION 地点#O 在#O 中国#GPE 云南昆明#MISC
+Y
+185 昆明#ORGANIZATION 世界园艺博览会#ORGANIZATION 组委会#ORGANIZATION 主任#O 为#O 副#O 总理#O 李岚清#PERSON
+185 昆明#MISC 世界园艺博览会#MISC 隆重开幕#O ，#O 江泽民#PERSON 李岚清#PERSON 等#O 与#O 一些#O 外国#O 国家元首#O 和#O 政府首脑#O 出席#O 95#MISC 个#O 国家#O 和#O 国际#O 组织#O 参加#O 这次#O 国际#ORGANIZATION 园艺#ORGANIZATION 博览#ORGANIZATION 盛会#ORGANIZATION
+N
+186 昆明#GPE 世界园艺博览会#O 隆重开幕#O ，#O 江泽民#PERSON 李岚清#PERSON 等#O 与#O 一些#O 外国#O 国家元首#O 和#O 政府首脑#O 出席#O ，#O 95#MISC 个#O 国家#O 和#O 国际#O 组织#O 参加#O 这次#O 国际#ORGANIZATION 园艺#ORGANIZATION 博览#ORGANIZATION 盛会#ORGANIZATION
+186 昆明#ORGANIZATION 世界园艺博览会#ORGANIZATION 有#O 九十五个#MISC 国家#O 和#O 国际#O 组织#O 参加#O
+Y
+187 昆明#ORGANIZATION 世界园艺博览会#ORGANIZATION 有#O 九十五个#MISC 国家#O 和#O 国际#O 组织#O 参加#O
+187 江泽民#PERSON 李岚清#PERSON 等#O 与#O 一些#O 外国#O 国家元首#O 和#O 政府首脑#O 出席#O 95#MISC 个#O 国家#O 和#O 国际#O 组织#O 参加#O 这次#O 国际#O 园艺#O 博览#O 盛会#O
+N
+188 俗称#O 北极光#O 为#O Northern#O Light#O ，#O 南极光#O 则#O 称为#O Southern#O Light#O ，#O 至于#O 其#O 正式#O 名称#O ，#O 南极光#O 是#O Aurora#O Australis#O ，#O 北极光#O 称为#O Aurora#O Borealis#O
+188 极光#O (#O Aurora#O 或#O Polar#O light#O 或#O Northern#O light#O )#O
+N
+189 XML#O 文档#O 是#O 一种#O 包含#O 一些#O 特殊#O 标记#O 的#O 纯文字#O 文档#O
+189 XML#O 文件#O 是#O 纯文字#O 的#O 文件#O
+Y
+190 XML#O ,#O 英语#DEMONYM eXtensible#O Markup#O Language#O ，#O 又称#O 可#O 扩展#O 标记#O 语言#O ，#O 是#O 一种#O 标记#O 语言#O
+190 XML#O 是#O 可#O 扩展#O 标记#O 语言#O
+Y
+191 纳#O 芙#O 拉蒂洛#PERSON 娃出#O 生于#O 捷克斯洛伐克#GPE 布拉格#GPE ，#O 是#O 一位#O 美国#ORGANIZATION 国家队#ORGANIZATION 网球#O 运动员#O
+191 纳#O 芙#O 拉蒂洛#PERSON 娃#O 是#O 美国#GPE 籍#O
+Y
+192 在#O XML#O 中#O ，#O 标签#O 用来#O 定义#O 资料#O 的#O 结构#O 和#O 意义#O 。#O
+192 XML#O 是#O 以#O 标签#O 定义#O 资料#O 内容#O 的#O 意义#O
+Y
+193 雅虎公司#ORGANIZATION 首席#O 执行官#O 杨#PERSON 致远#O
+193 雅虎#ORGANIZATION 首席#O 执行官#O 杨#PERSON 致远#O
+Y
+194 雅虎#ORGANIZATION 共同#O 创办人#O ，#O 即将#O 卸任#O 该#O 公司#O 首席#O 执行官#O 的#O 杨#O 致远#O ，#O 是#O 最早#O 的#O 硅谷#O 网络#O 企业#O 亿万富豪#MISC 之一#MISC
+194 雅虎公司#ORGANIZATION 创办人#O 杨#O 致远#O
+Y
+195 苏哈托#PERSON (#O Suharto#O ，#O 民间#O 常用#O Soeharto#O ，#O 1921#MISC 年#MISC 6#MISC 月#MISC 8#MISC 日#MISC -#O 2008#MISC 年#MISC 1#MISC 月#MISC 27#MISC 日#MISC )#O
+195 苏哈托#PERSON 1921#MISC 年#MISC 6#MISC 月#MISC 8#MISC 日#MISC 出生#O
+Y
+196 苏哈托#PERSON 自诩#O 为#O “#O 发展#O 之#O 父#O ”#O
+196 苏哈托#PERSON 固然#O 可以#O 因#O 经济腾飞#O 被#O 戴#O 上#O “#O 发展#O 之#O 父#O ”#O 的#O 帽子#O
+N
+197 苏哈托#PERSON 的#O 六个#O 儿女#O 已经#O 全部#O 赶到#O 了#O 医院#O ，#O 陪#O 在#O 他#O 的#O 身旁#O 。#O
+197 苏哈托#PERSON 有#O 六个#MISC 子女#O
+Y
+198 苏哈托#PERSON 一九六六年#MISC 执政#O ，#O 对#O 印尼#GPE 进行#O 了#O 三十二年#MISC 的#O 铁腕#O 统治#O 。#O
+198 苏哈托#PERSON 政权#O 在#O 一九九八年#MISC 结束#O ，#O 执政#O 三十二年#MISC
+Y
+199 印度尼西亚#GPE 总统#O 苏哈托#PERSON 1998#MISC 年#MISC 5#MISC 月#MISC 21#MISC 日#MISC 上午#MISC 宣布#O 辞去#O 总统#O 职务#O
+199 苏哈托#PERSON 政权#O 在#O 一九九八年#MISC 五月#MISC 二十一日#MISC 结束#O
+Y
+200 杨振宁#PERSON 一九二二年#MISC 生于#O 安徽#GPE 合肥#GPE
+200 杨振宁#PERSON ，#O 安徽省#GPE 合肥人#O ，#O 一九二二年#MISC 出生#O
+Y
+201 一九五七年#MISC ，#O 杨振宁#PERSON 和#O 李政道#PERSON 合作#O 推翻#O 了#O 爱因斯坦#GPE 的#O “#O 宇称#O 守恒定律#O ”#O ，#O 获得#O 诺贝尔#MISC 物理奖#MISC 。#O
+201 杨振宁#PERSON 一九五七年#MISC 与#O 李政道#PERSON 同获#O 诺贝尔奖#MISC
+Y
+202 杨振宁#PERSON 于#O 1956#MISC 年#MISC 与#O 李政道#PERSON 教授#O 共同#O 提出#O 弱#O 相互作用#O 中#O 宇称#O 不#O 守恒#O 原理#O ，#O 因而#O 共获#O 1957#MISC 年#MISC 诺贝尔物理学奖#MISC
+202 杨振宁#PERSON 一九五六年#MISC 与#O 李政道#PERSON 指出#O 宇称#O 不#O 守恒#O
+Y
+203 杨振宁#PERSON 获#O 美国#ORGANIZATION 富兰克林#ORGANIZATION 学社#ORGANIZATION 颁赠#O 之#O 鲍尔奖#PERSON ，#O 是#O 第一位#MISC 获此#O 奖#O 之#O 理论#O 物理学家#O ，#O 也#O 是#O 此奖#O 第一次#MISC 破例#O 颁#O 给#O 诺贝尔奖#MISC 得主#O 。#O
+203 杨振宁#PERSON 曾#O 获#O 鲍尔奖#PERSON
+Y
+204 章子怡#PERSON 以#O “#O 我#O 的#O 父亲#O 母亲#O ”#O 在#O 2001#MISC 年#MISC 的#MISC 伊朗#MISC 电影节#MISC 封后#O
+204 章子怡#PERSON 被#O 张艺谋#PERSON 发掘#O ，#O 于#O 1998#MISC 年#MISC 担任#O 电影#O 《#O 我#MISC 的#MISC 父亲#MISC 母亲#MISC 》#O 女主角#O ，#O 该片#O 获得#O 2000#MISC 年#MISC 柏林#MISC 电影节#MISC 银熊奖#MISC
+N
+205 章子怡#PERSON 以#O 《#O 卧虎藏龙#MISC 》#O 入围#O 2001#MISC 年#MISC MTV#MISC 电影#MISC 奖#MISC “#O 一鸣惊人#MISC 表演奖#MISC ”#O 与#O “#O 最佳#O 打斗#O 奖#O ”#O
+205 章子怡#PERSON 凭#O 电影#O 《#O 卧虎藏龙#MISC 》#O 入选#O 美国#GPE MTV#O 电影#O 大奖#O ，#O 入围#O “#O 一鸣惊人#MISC 表演奖#MISC ”#O 和#O “#O 最佳#O 打斗#O 奖#O ”#O
+Y
+206 人们#O 常常#O 喜欢#O 拿#O 章子怡#PERSON 和#O 巩俐#PERSON 比较#O ，#O 称#O 她#O 为#O “#O 小#O 巩俐#PERSON ”#O
+206 章子怡#PERSON 有#O “#O 小#O 巩俐#PERSON ”#O 的#O 封号#O
+Y
+207 章子怡#PERSON 与#O 韩国#GPE 当红#O 男星#O 钟胡信#PERSON 因#O 合演#O 《#O 武士#MISC 》#O 而#O 传出#O 绯闻#O
+207 在#O 拍电影#O 《#O 武士#MISC 》#O 时#O ，#O 传出#O 章子怡#PERSON 与#O 韩国#GPE 男星#O 钟胡信#PERSON 假戏真做#O 。#O
+Y
+208 杨澜#PERSON 和#O 吴征#PERSON 这#O 对#O 事业#O 上#O 的#O 伙伴#O 、#O 生活#O 中#O 的#O 夫妻#O
+208 杨澜#PERSON 的#O 先生#O 吴征#PERSON
+Y
+209 杨澜#PERSON 是#O 《#O 杨澜#ORGANIZATION 工作室#ORGANIZATION 》#O 、#O 《#O 百年#MISC 叱诧风云#MISC 录#MISC 》#O 节目#O 制作#O 人#O
+209 杨澜#PERSON 在#O 凤凰卫视#ORGANIZATION 主持#O 的#O 两档#MISC 节目#O ：#O 《#O 杨澜#ORGANIZATION 工作室#ORGANIZATION 》#O 和#O 《#O 百年#MISC 叱诧风云#MISC 录#MISC 》#O
+N
+210 北京#ORGANIZATION 奥申委#ORGANIZATION 今天#MISC 宣布#O ，#O 聘请#O 邓亚萍#PERSON 、#O 巩俐#PERSON 、#O 杨澜#PERSON 和#O 桑兰#PERSON 4#MISC 人为#O 北京#GPE 2008#MISC 年#MISC 奥运会#MISC 申办#O 委员会#O “#O 形象大使#O ”#O 。#O
+210 杨澜#PERSON 是#O 北京#GPE 申奥#MISC 形象大使#O 之一#MISC
+Y
+211 朱莉#PERSON 安德鲁斯#PERSON 1930#MISC 年#MISC 出生#O
+211 朱莉#PERSON ·#O 安德鲁斯#GPE 1935#O 年出#O 生于#O 英国#GPE
+N
+212 朱莉#PERSON 安德鲁斯#PERSON 二十一岁#MISC 时#O (#O 1951#O )#O 就#O 在#O 纽约#ORGANIZATION 百老汇#ORGANIZATION 主演#O 《#O 窈窕淑女#ORGANIZATION 》#O 音乐剧#O
+212 英国#GPE 女星#O 朱莉#PERSON 安德鲁斯#PERSON ，#O 原先#O 在#O 1960#MISC 年#MISC 主演#O 音乐剧#O 《#O 窈窕淑女#MISC 》#O 而#O 走红#O 百老汇#GPE ，#O 连演#O 4#MISC 年#MISC
+N
+213 重大#O 创伤#O 的#O 受害者#O 中#O ，#O 有近#O 四分之一#MISC 可能#O 发展#O 出#O 创伤#O 后#O 压力#O 症候#O 或#O 其#O 部分#O 症状#O
+213 重大#O 创伤#O 的#O 受害者#O 中#O ，#O 超过#O 四分之一#MISC 可能#O 发展#O 出#O 创伤#O 后#O 压力#O 症候#O 或#O 其#O 部分#O 症状#O
+N
+214 重大#O 创伤#O 的#O 受害者#O 中#O ，#O 有近#O 四分之一#MISC 可能#O 发展#O 出#O 创伤#O 后#O 压力#O 症候#O 或#O 其#O 部分#O 症状#O
+214 重大#O 创伤#O 的#O 受害者#O 中#O ，#O 有#O 将近#O 百分之二十五#MISC 的#O 人#O 可能#O 发展#O 出#O 创伤#O 后#O 压力#O 症候#O 或#O 其#O 部分#O 症状#O
+Y
+215 朱莉#PERSON ·#O 安德鲁斯#GPE 在#O 1969#MISC 年#MISC 再婚#O ，#O 丈夫#O 是#O 布莱克#PERSON ·#O 爱德华#PERSON (#O Blake#O Edwards#O )#O 。#O
+215 朱莉#PERSON 安德鲁斯#PERSON 老公#O 是#O 布莱克#PERSON 爱德华#PERSON
+Y
+216 救灾#O 人员#O 也#O 是#O 创伤#O 后#O 压力#O 症候群#O 的#O 高#O 危险#O 群#O
+216 救灾#O 人员#O 是#O 专门#O 拯救#O 有#O 高#O 危险#O 群#O 的#O 创伤#O 后#O 压力#O 症候群#O 的#O 人#O
+N
+217 创伤#O 后#O 压力#O 症候群#O 经过#O 适当#O 治疗#O 后#O ，#O 约#O 有#O 三分之一#MISC 患者#O 可#O 完全#O 复原#O
+217 创伤#O 后#O 压力#O 症候群#O 经过#O 适当#O 治疗#O 后#O ，#O 约#O 有#O 三分之一#MISC 患者#O 无法#O 完全#O 复原#O
+N
+218 创伤#O 后#O 压力#O 症候群#O 经过#O 适当#O 治疗#O 后#O ，#O 约#O 有#O 三分之一#MISC 患者#O 可#O 完全#O 复原#O
+218 创伤#O 后#O 压力#O 症候群#O 经过#O 适当#O 治疗#O 后#O ，#O 约#O 有#O 1#MISC #O 3#MISC 的#O 人#O 可#O 完全#O 复原#O
+Y
+219 创伤#O 后#O 压力#O 症候群#O 经过#O 适当#O 治疗#O 后#O ，#O 约#O 有#O 三分之一#MISC 患者#O 可#O 完全#O 复原#O
+219 创伤#O 后#O 压力#O 症候群#O 经过#O 适当#O 治疗#O 后#O ，#O 约#O 有#O 三分之二#MISC 患者#O 无法#O 完全#O 复原#O
+Y
+220 生物芯片#O 可#O 用于#O 血库#O 筛检等#O 标准化#O 标验#O
+220 生物芯片#O 可#O 用于#O 血库#O 筛检#O
+Y
+221 生物芯片#O 可#O 用于#O 血库#O 筛检等#O 标准化#O 标验#O
+221 生物芯片#O 可#O 用于#O 筛检等#O 标准化#O 标验#O
+Y
+222 基因芯片#O 可依#O 所用#O 基材#O 之#O 不同#O ，#O 分为#O 尼龙#O 膜#O 及#O 玻璃#O 芯片#O 二种#MISC ，#O 其依#O 检验#O 方法#O 目前#O 主要#O 有#O 萤光#O 及#O 有#O 色光#O 二种#O
+222 基因芯片#O 的#O 基材#O 分为#O 尼龙#O 及#O 玻璃#O 二种#MISC ，#O 目前#O 主要#O 有#O 萤光#O 及#O 有#O 色光#O 二种#MISC 检验#O 方法#O
+N
+223 生物芯片#O 应用#O 范围#O 主要#O 为#O 基础#O 研究#O 、#O 新药#O 开发#O 、#O 微生物#O 感染#O 检测#O 、#O 癌症#O 先期#O 诊断#O 、#O 用药#O 依据#O 判断#O 、#O 病情#O 追踪#O 、#O 环境#O 检测#O 、#O 法医鉴定#O 、#O 食品安全#O 及其#O 他#O 可能#O 之#O 应用#O
+223 生物芯片#O 可用#O 来#O 检测#O 微生物#O 感染#O 以及#O 癌症#O 先期#O 诊断#O ，#O 也#O 可#O 帮助#O 用药#O 依据#O 判断#O 和#O 病情#O 追踪#O
+Y
+224 1999#MISC 年#MISC 12#MISC 月#MISC 在#O 日本#GPE 静冈县#GPE 御前#O 崎#GPE 沿岸#O 水深#O 近#O 1#MISC ,#O 000#MISC 米#MISC 的#O 海底#O 处#O ，#O 从#O 300#MISC 米#O 以下#O 的#O 沙堆#O 中#O 采样#O 发现#O 天然气#O 水合物#O
+224 1999#MISC 年#MISC 在#O 日本#GPE 静冈#GPE 附近#O 水域#O 的#O 深海#O 里#O 发现#O 天然气#O 水合物#O
+Y
+225 天然气#O 水合物#O 即#O 甲烷#O 水合物#O
+225 天然气#O 水合物#O 就是#O 甲烷#O 化合物#O
+N
+226 全世界#O 存#O 于海洋#O 中#O 的#O 甲烷#O 水合物#O 含量#O ，#O 超过#O 陆地#O 上#O 其他#O 所有#O 化石#O 燃料#O 的#O 两倍#MISC
+226 全世界#O 存#O 于海洋#O 中#O 的#O 甲烷#O 水合物#O 含量#O ，#O 超过#O 陆地#O 上#O 其他#O 所有#O 化石#O 燃料#O 的#O 双倍#O
+Y
+227 全世界#O 存#O 于海洋#O 中#O 的#O 甲烷#O 水合物#O 含量#O ，#O 超过#O 陆地#O 上#O 其他#O 所有#O 化石#O 燃料#O 的#O 两倍#MISC
+227 全世界#O 存#O 于海洋#O 中#O 的#O 甲烷#O 水合物#O 含量#O ，#O 超过#O 陆地#O 上#O 其他#O 所有#O 化石#O 燃料#O 的#O 二倍#MISC
+Y
+228 全世界#O 存#O 于海洋#O 中#O 的#O 甲烷#O 水合物#O 含量#O ，#O 超过#O 陆地#O 上#O 其他#O 所有#O 化石#O 燃料#O 的#O 二倍#MISC
+228 全世界#O 存#O 于海洋#O 中#O 的#O 甲烷#O 水合物#O 含量#O ，#O 不足#O 陆地#O 上#O 其他#O 所有#O 化石#O 燃料#O 的#O 二倍#MISC
+N
+229 甲烷#O 燃烧#O 时#O ，#O 与#O 烧煤#O 或#O 烧油#O 等#O 燃料#O 相比#O ，#O 释放#O 的#O 二氧化碳#O 可#O 减少#O 二分之一#MISC
+229 甲烷#O 燃烧#O 所#O 释放#O 的#O 二氧化碳#O ，#O 比煤#O 或#O 油少#O 一半#MISC 。#O
+Y
+230 甲烷#O 燃烧#O 时#O ，#O 与#O 烧煤#O 或#O 烧油#O 等#O 燃料#O 相比#O ，#O 释放#O 的#O 二氧化碳#O 可#O 减少#O 二分之一#MISC
+230 燃烧#O 煤#O 或#O 油#O 释放#O 的#O 二氧化碳#O 比起#O 甲烷#O ，#O 可#O 减少#O 二分之一#MISC
+N
+231 甲烷#O 燃烧#O 时#O ，#O 与#O 烧煤#O 或#O 烧油#O 等#O 燃料#O 相比#O ，#O 释放#O 的#O 二氧化碳#O 可#O 减少#O 二分之一#MISC
+231 燃烧#O 煤#O 或#O 油#O 释放#O 的#O 二氧化碳#O 是#O 甲烷#O 的#O 两倍#O 。#O
+Y
+232 诺贝尔奖#MISC 于#O 1901#MISC 年#MISC 10#MISC 月#MISC 10#MISC 日#MISC 开始#O 颁发#O
+232 诺贝尔奖#MISC 首次#O 颁奖#O 始于#O 1901#MISC 年#MISC 10#MISC 月#MISC 10#MISC 日#MISC
+Y
+233 诺贝尔奖#MISC 创办人#O 是#O 阿尔弗雷#PERSON 德#O ·#O 诺贝尔#MISC
+233 诺贝尔奖#MISC 是#O 由#O 阿尔弗雷#PERSON 德#O ·#O 诺贝尔#PERSON 所#O 设立#O 的#O
+Y
+234 诺贝尔奖#MISC 举行#O 地点#O 在#O 斯德哥尔摩#GPE ，#O 一年一度#O ，#O 为期#O 两周#MISC
+234 诺贝尔奖#MISC 每年#O 举办#O 一次#MISC ，#O 每次#O 活动#O 需要#O 两个#MISC 礼拜#MISC 的#O 时间#O ，#O 举办#O 的#O 地点#O 在#O 斯德哥尔摩#GPE 。#O
+Y
+235 诺贝尔奖#MISC 举行#O 地点#O 在#O 斯德哥尔摩#GPE ，#O 一年一度#O ，#O 为期#O 两周#MISC
+235 诺贝尔奖#MISC 两周#MISC 举行#O 一次#MISC ，#O 某#O 一年#MISC 举行#O 地点#O 曾一度#O 在#O 斯德哥尔摩#GPE
+N
+236 厄尔尼诺#O 现象#O 大约#O 是#O 每隔#O 三到#MISC 七年#MISC 出现#O 一次#MISC
+236 厄尔尼诺#O 现象#O 大约#O 每隔#O 3#MISC 到#MISC 7#MISC 年#MISC 出现#O 一次#MISC
+Y
+237 在#O 整个#O 厄尔尼诺#O 现象#O 期间#O ，#O 地球#LOCATION 的#O 运转#O 平均#O 减缓#O 三百#MISC 到#MISC 四百#MISC 微秒#O
+237 在#O 整个#O 厄尔尼诺#O 现象#O 期间#O ，#O 地球#LOCATION 的#O 运转#O 平均#O 减缓#O 三百#MISC 到#MISC 四百#MISC 秒#MISC
+N
+238 在#O 整个#O 厄尔尼诺#O 现象#O 期间#O ，#O 地球#LOCATION 的#O 运转#O 平均#O 减缓#O 三百#MISC 到#MISC 四百#MISC 微秒#O
+238 地球#O 的#O 运转#O 在#O 整个#O 厄尔尼诺#O 现象#O 期间#O 平均#O 减缓#O 300#O -#O 400#MISC 微秒#O
+Y
+239 厄尔尼诺#O 现象#O 最强#O 的#O 一次#MISC 是从#O 一九八二年#MISC 到#O 八三年#MISC
+239 厄尔尼诺#O 现象#O 最强#O 的#O 一次#MISC 是从#O 一九八二年#MISC 到#O 一九八三年#MISC
+Y
+240 厄尔尼诺#O 现象#O 最强#O 的#O 一次#MISC 是从#O 一九八二年#MISC 到#O 八三年#MISC
+240 厄尔尼诺#O 现象#O 最强#O 的#O 一次#MISC 是从#MISC 1982#MISC 年#MISC 到#MISC 1983#MISC 年#MISC
+Y
+241 厄尔尼诺#O 现象#O 最强#O 的#O 一次#MISC 是从#O 一九八二年#MISC 到#O 八三年#MISC
+241 厄尔尼诺#O 现象#O 最#O 显著#O 的#O 一次#MISC 是从#O 一九八二年#MISC 到#O 八三年#MISC
+Y
+242 移动梦网#O 由#O 移动#O 运营商#O 中国移动#GPE 、#O 互联网#O 公司#O 搜狐#O 、#O 新浪网#ORGANIZATION 等#O 共同#O 合作#O 推出#O 的#O 移动#O 数据#O 应用服务#O 。#O
+242 移动梦网#O 是#O 一种#O 移动#O 数据#O 应用服务#O 。#O
+Y
+243 移动梦网#O 由#O 移动#O 运营商#O 中国移动#GPE 、#O 互联网#O 公司#O 搜狐#O 、#O 新浪网#ORGANIZATION 等#O 共同#O 合作#O 推出#O
+243 中国移动#GPE 、#O 搜狐#ORGANIZATION 、#O 新浪#ORGANIZATION 等#O 公司#O 共同#O 合作#O 推出#O 移动梦网#O
+Y
+244 “#O Monternet#ORGANIZATION 移动梦网#ORGANIZATION ”#O 是#O 中国移动#GPE 推出#O 的#O 一项#O 手机#O 上#O 的#O 互联网服务#O ，#O 使用#O 手机#O 上网#O 业务#O 可以#O 流览#O 专门#O 设计#O 的#O 适合#O 在#O 手机#O 上#O 显示#O 的#O WAP#O 网站#O 。#O
+244 移动梦网#O 提供#O 手机#O 上网#O 服务#O
+Y
+245 靖国神社#FACILITY 供奉#O 250#MISC 万名#MISC 自#O 19#MISC 世纪#MISC 中叶#MISC 以来#O 的#O 日本#GPE 阵亡将士#O ，#O 包括#O 第二次世界大战#MISC 后#O 被#O 处决#O 的#O 甲级战犯#O
+245 靖国神社#FACILITY 供奉#O 自#O 19#MISC 世纪#MISC 中叶#MISC 以来#O 的#O 日本#GPE 阵亡将士#O
+Y
+246 靖国神社#FACILITY 供奉#O 250#MISC 万名#MISC 自#O 19#MISC 世纪#MISC 中叶#MISC 以来#O 的#O 日本#GPE 阵亡将士#O ，#O 包括#O 第二次世界大战#MISC 后#O 被#O 处决#O 的#O 甲级战犯#O
+246 靖国神社#FACILITY 是#O 供奉#O 日本#GPE 阵亡将士#O 的#O 地方#O 。#O
+Y
+247 靖国神社#FACILITY 因#O 供奉#O 包括#O 第二次世界大战#MISC 后#O 被#O 处决#O 的#O 甲级战犯#O ,#O 而#O 具有#O “#O 侵略性#O 军国主义#O ”#O 的#O 象征意义#O
+247 靖国神社#FACILITY 具有#O “#O 侵略性#O 军国主义#O ”#O 的#O 象征意义#O
+Y
+248 1997#MISC 年#MISC 十二月#MISC ，#O 全球#O 一百六十#MISC 国在#O 日本#GPE 京都#O 集会#O ，#O 讨论#O 地球#O 气候变化#O 问题#O ，#O 会议#O 通过#O 京都#O 议定书#O
+248 京都#O 议定书#O 是#O 有关#O 全球#O 气候变化#O 问题#O
+Y
+249 杨澜#PERSON 跻身#O 福布斯#O 评比#O 的#O 大陆#GPE 五十#MISC 大#O 富豪#O 中#O 唯一#O 的#O 女性#O 。#O
+249 杨澜#PERSON 被#O 评为#O 中国#GPE 大陆#GPE 50#MISC 大#MISC 富豪#MISC 之一#MISC
+Y
+250 央视#O 四年#MISC 主持#O 生涯#O 后#O ，#O 杨澜#PERSON 去#O 美国#GPE 留学#O ，#O 获#O 哥伦比亚大学#O 硕士#O 。#O
+250 杨澜#PERSON 离开#O 中央电视台#GPE 后#O 到#O 美国#GPE 进修#O
+Y
+251 京都#O 议定书#O 中#O 也#O 允许#O 排放量#O 交易#O ，#O 让#O 无法#O 达到目标#O 的#O 国家#O 向#O 达成#O 国家#O 购买#O 污染#O 权#O
+251 日本#GPE 试图#O 以#O 出口#O 低碳#O 科技#O 和#O 设备#O 至#MISC 九个#MISC 国家#O 、#O 换取#O 多一点#O “#O 排放#O 污染#O 权#O ”#O 。#O
+N
+252 京都#O 议定书#O 规定#O 发达国家#O 需#O 减少#O 二氧化碳#O 等#O 温室#O 气体#O 的#O 排放量#O ，#O 希望#O 能#O 控制#O 使#O 全球#O 温度#O 上升#O 的#O 温室效应#O 气体#O
+252 京都#O 议定书#O 规定#O 发达国家#O 必须#O 缩减#O 导致#O 全球#O 温度#O 上升#O 的#O 温室效应#O 气体#O (#O 如#O 二氧化碳#O )#O 排放量#O
+Y
+253 京都#O 议定书#O 规定#O 在#O 二#MISC 零#MISC 一二年#MISC 之前#O ，#O 将#O 可能#O 造成#O 温室效应#O 的#O 废气#O 排放量#O 降到#O 比#O 一九九零年#MISC 低#O 百分之五点#MISC 二#MISC
+253 京都#O 议定书#O 规定#O 在#O 2012#MISC 年#MISC 以前#O ，#O 将#O 可能#O 造成#O 温室效应#O 的#O 废气#O 排放量#O 降到#O 比#O 1990#MISC 年#MISC 低#O 5.2#O %#O
+Y
+254 京都#O 议定书#O 规定#O 在#O 二#MISC 零#MISC 一二年#MISC 之前#O ，#O 将#O 可能#O 造成#O 温室效应#O 的#O 废气#O 排放量#O 降到#O 比#O 一九九零年#MISC 低#O 百分之五点#MISC 二#MISC
+254 京都#O 议定书#O 规定#O 在#O 2012#MISC 年#MISC 之前#O ，#O 将#O 可能#O 造成#O 温室效应#O 的#O 废气#O 排放量#O 升到#O 比#O 1990#MISC 年#MISC 高#O 百分之五点#MISC 二#MISC
+N
+255 京都#O 议定书#O 规定#O 在#O 二#MISC 零#MISC 一二年#MISC 之前#O ，#O 将#O 可能#O 造成#O 温室效应#O 的#O 废气#O 排放量#O 降到#O 比#O 一九九零年#MISC 低#O 百分之五点#MISC 二#MISC
+255 京都#O 议定书#O 规定#O 在#O 1990#MISC 年#MISC 之前#O ，#O 将#O 可能#O 造成#O 温室效应#O 的#O 废气#O 排放量#O 降到#O 比#O 2012#MISC 年#MISC 低#O 百分之五点#MISC 二#MISC
+N
+256 温室#O 气体#O 包括#O 二氧化碳#O 、#O 甲烷#O 、#O 氧化亚氮#O 、#O 氢#O 氟#O 碳化物#O 、#O 全氟#O 碳化物#O 、#O 六氟化硫#O 等#O 六种#O 气体#O
+256 人造#O 温室#O 气体#O 包括#O 氯#O 氟#O 碳化物#O (#O CFCs#O )#O 、#O 全氟#O 碳化物#O (#O PFCs#O )#O 、#O 氢#O 氟#O 碳化物#O (#O HFCs#O )#O 、#O 含氯氟烃#O (#O HCFCs#O )#O 及#O 六氟化硫#O (#O SF6#O )#O 等#O 。#O
+N
+257 温室#O 气体#O 是#O 包括#O 甲烷#O (#O CH4#O )#O 、#O 氧化亚氮#O (#O 又称#O 笑#O 气#O ,#O N2O#O )#O 、#O 以及#O 全氟#O 碳化物#O (#O PFCs#O )#O 、#O 氢#O 氟#O 碳化物#O (#O PFCs#O )#O 、#O 氢#O 氟#O 碳化物#O (#O HFCs#O )#O 、#O 二氧化碳#O 及#O 六氟化硫#O (#O SF6#O )#O 等#O 。#O
+257 温室#O 气体#O 包括#O 二氧化碳#O 、#O 甲烷#O 、#O 氧化亚氮#O 、#O 氢#O 氟#O 碳化物#O 、#O 全氟#O 碳化物#O 、#O 六氟化硫#O 等#O
+Y
+258 甲烷#O 是#O 主要#O 温室#O 气体#O 之一#O
+258 甲烷#O 是#O 主要#O 温室#O 气体#O 中#O 的#O 一种#O
+Y
+259 纳#GPE 芙#GPE 拉蒂洛#GPE 娃#O 一共#O 获得#O 18#MISC 座#O 大满贯#O 金杯#O
+259 纳#O 芙#O 拉蒂洛#PERSON 娃#O 一共#O 取得#O 了#O 58#MISC 个#O 大满贯#O 的#O 金杯#O
+N
+260 伏明霞#PERSON 2000#MISC 年#MISC 悉尼#MISC 奥运#MISC 上#O 成为#O 史上#O 第一位#MISC 连续#O 三届#MISC 奥运#MISC 夺金#O 的#O 跳水#O 选手#O
+260 伏明霞#PERSON 曾#O 是#O 奥运#MISC 跳水#O 冠军#O
+Y
+261 邓亚萍#PERSON 拥有#O 4#MISC 枚#MISC 奥运#MISC 乒乓球#MISC 金牌#MISC ，#O 蝉联#O 8#MISC 年#MISC 世界#MISC 第一#MISC ，#O 拥有#O 超过#O 18#MISC 个#MISC 世界冠军#MISC 头衔#MISC
+261 邓亚萍#PERSON 是#O 兵乓球#O 冠军#O
+Y
+262 千禧年#MISC 危机#O 可能#O 引发#O 日期#O 从#O 1999#MISC 年#MISC 至#MISC 2001#MISC 年#MISC ，#O 时间#O 横跨#O 3#MISC 年#MISC
+262 千禧年#MISC 危机#O 不止#O 发生#O 在#O 公元#MISC 1999#MISC 年#MISC
+Y
+263 千禧年#MISC 危机#O 可能#O 引发#O 日期#O 从#O 1999#MISC 年#MISC 至#MISC 2001#MISC 年#MISC ，#O 时间#O 横跨#O 3#MISC 年#MISC
+263 千禧年#MISC 危机#O 发生#O 于#O 公元#MISC 1999#MISC 年#MISC 与#MISC 2001#MISC 年#MISC
+N
+264 千年虫#MISC 危机#O 可能#O 引发#O 日期#O 从#O 1999#MISC 年#MISC 至#MISC 2001#MISC 年#MISC ，#O 时间#O 横跨#O 3#MISC 年#MISC
+264 2000#MISC 年#MISC 也#O 有#O 可能#O 发生#O 千年虫#O 危机#O
+Y
+265 千年虫#MISC 危机#O 可能#O 引发#O 日期#O 从#O 1999#MISC 年#MISC 至#MISC 2001#MISC 年#MISC ，#O 时间#O 横跨#O 3#MISC 年#MISC
+265 千禧虫#O 危机#O 可能#O 引发#O 日期#O 从#O 1999#MISC 年#MISC 至#MISC 2001#MISC 年#MISC ，#O 时间#O 横跨#O 3#MISC 年#MISC
+Y
+266 千禧年#MISC 危机#MISC 俗称#MISC Y2K#MISC 危机#MISC 或千禧虫#MISC
+266 千禧年#MISC 危机#O 又#O 叫#O Y2K#MISC 危机#MISC 或千禧虫#MISC
+Y
+267 千禧年#MISC 危机#O 俗称#O Y2K#O 危机#O 或千禧虫#MISC
+267 千禧年#MISC 危机#O 并非#O Y2K#O 危机#O 或千禧虫#FACILITY
+N
+268 亚伯#MISC 雷斯克奖#MISC 有#O “#O 美国#GPE 的#O 诺贝尔奖#MISC ”#O 之称#MISC
+268 亚伯#FACILITY 雷斯克奖#FACILITY 又#O 被#O 称为#O “#O 美国#GPE 的#O 诺贝尔奖#MISC ”#O
+Y
+269 亚伯#MISC 雷斯克#MISC 奖得主#MISC 经常#MISC 两年#MISC 内#O 再#O 获得#O 诺贝尔奖#MISC
+269 亚伯#O 雷斯克#PERSON 奖得主#O 有#O 很大#O 机会#O 两年#MISC 内#O 再#O 获得#O 诺贝尔奖#MISC
+Y
+270 亚伯#MISC 雷斯克#MISC 奖得主#MISC 经常#MISC 两年#MISC 内#MISC 再#O 获得#O 诺贝尔奖#MISC
+270 亚伯#MISC 雷斯克#MISC 奖得主#MISC 两年#MISC 内#O 都#O 获得#O 诺贝尔奖#MISC
+N
+271 从#O 一九六二年#MISC 至#MISC 1999#MISC 年#MISC 有#O 一半#O （#O 六十#MISC 一位#MISC ）#O 的#O 亚伯#MISC 雷斯克#MISC 奖得主#MISC 再#O 获得#O 诺贝尔奖#MISC
+271 亚伯#O 雷斯克#PERSON 奖得主#O 有#O 很大#O 机会#O 再#O 获得#O 诺贝尔奖#MISC
+Y
+272 从#O 一九六二年#MISC 至#MISC 1999#MISC 年#MISC 有#O 一半#O （#O 六十#MISC 一位#MISC ）#O 的#O 亚伯#MISC 雷斯克#MISC 奖得主#MISC 再#O 获得#O 诺贝尔奖#MISC
+272 亚伯#MISC 雷斯克#MISC 奖得主#MISC 都#O 会#O 再#O 获得#O 诺贝尔奖#MISC
+N
+273 伍迪#O ·#O 艾伦#PERSON 与#O 西尔维斯#PERSON 特#O ·#O 史泰龙#PERSON 曾#O 为#O 同#O 一部#O 电影#O 《#O 小蚁#MISC 雄兵#MISC 》#O 配音#O
+273 《#O 小蚁#MISC 雄兵#MISC 》#O 的#O 导演#O 是#O 埃里克#PERSON ·#O 达#O 奈尔#PERSON 和#O 蒂姆#PERSON ·#O 约翰逊#PERSON 。#O
+N
+274 伍迪#O ·#O 艾伦#PERSON 与#O 西尔维斯#PERSON 特#O ·#O 史泰龙#PERSON 曾#O 为#O 动画电影#O 《#O 小蚁#MISC 雄兵#MISC 》#O 配音#O
+274 伍迪#O ·#O 艾伦#PERSON 与#O 西尔维斯#PERSON 特#O ·#O 史泰龙#PERSON 曾#O 为#O 卡通动画#O 电影#O 《#O 小蚁#MISC 雄兵#MISC 》#O 配音#O
+Y
+275 伍迪#O ·#O 艾伦#PERSON 与#O 西尔维斯#PERSON 特#O ·#O 史泰龙#PERSON 曾#O 为#O 电影#O 《#O 小蚁#MISC 雄兵#MISC 》#O 配音#O
+275 西尔维斯#PERSON 特#O ·#O 史泰龙#PERSON 和#O 伍迪#O ·#O 艾伦#PERSON 曾#O 为#O 电影#O 《#O 小蚁#MISC 雄兵#MISC 》#O 配音#O
+Y
+276 金#O ·#O 凯瑞#PERSON 1998#MISC 年#MISC 主演#O 的#O 《#O 楚门#MISC 的#MISC 世界#MISC 》#O 遭到#O 奥斯卡金像奖#PERSON 评审#O 冷落#O
+276 金#O ·#O 凯瑞#PERSON 1998#MISC 年#MISC 主演#O 《#O 楚门#MISC 的#MISC 世界#MISC 》#MISC
+Y
+277 金#O ·#O 凯瑞#PERSON 1998#MISC 年#MISC 主演#O 的#O 《#O 楚门#MISC 的#MISC 世界#MISC 》#O 遭到#O 奥斯卡金像奖#PERSON 评审#O 冷落#O
+277 金#O ·#O 凯瑞#PERSON 1998#MISC 年#MISC 主演#O 的#O 《#O 楚门#MISC 的#MISC 世界#MISC 》#O 遭到#O 奥斯卡金像奖#PERSON 评审#O 青睐#O
+N
+278 如果#O 没有#O 莫斯科#GPE 的#O 安全#O 保证#O ，#O 美国#GPE 不会#O 同意#O 让#O 使用#O 过#O 的#O 核废料#O 经#O 第三国#MISC 转运#O 到#O 俄罗斯#GPE
+278 若#O 无#O 莫斯科#GPE 安全#O 保证#O ，#O 美国#GPE 不会#O 同意#O 让#O 使用#O 过#O 的#O 核废料#O 经#O 第三国#MISC 转运#O 到#O 俄罗斯#GPE
+Y
+279 美国#GPE 尤其#O 担心#O ，#O 恐怖分子#O 或#O “#O 流氓#O 国家#O ”#O 可能#O 以#O 购买#O 或#O 偷窃#O 的#O 方法#O 却#O 得#O 俄罗斯#GPE 的#O 武器#O 级#O 钚#O
+279 美国#GPE 对于#O 恐怖分子#O 或#O “#O 流氓#O 国家#O ”#O 可能#O 以#O 购买#O 或#O 偷窃#O 的#O 方法#O 却#O 得#O 俄罗斯#GPE 的#O 武器#O 级#O 钚#O 甚感#O 担忧#O
+Y
+280 美国#GPE 尤其#O 担心#O ，#O 恐怖分子#O 或#O “#O 流氓#O 国家#O ”#O 可能#O 以#O 购买#O 或#O 偷窃#O 的#O 方法#O 却#O 得#O 俄罗斯#GPE 的#O 武器#O 级#O 钚#O
+280 美国#GPE 并#O 不#O 担心#O 恐怖分子#O 或#O “#O 流氓#O 国家#O ”#O 可能#O 以#O 购买#O 或#O 偷窃#O 的#O 方法#O 却#O 得#O 俄罗斯#GPE 的#O 武器#O 级#O 钚#O
+N
+281 美国#GPE 向#O 台湾#GPE “#O 外交#O ”#O 部门#O 施压#O 封杀#O 台#O 电#O 预订#O 运送#O 六#MISC 万桶#MISC 核废料#O 至#O 朝鲜#GPE 贮存#O 的#O 计划#O
+281 台湾#GPE 曾#O 有#O 运送#O 六#MISC 万桶#MISC 核废料#O 至#O 朝鲜#GPE 贮存#O 案#O 的#O 计划#O
+Y
+282 美国#GPE 向#O 台湾#GPE “#O 外交#O ”#O 部门#O 施压#O 封杀#O 台#O 电#O 预订#O 运送#O 六#MISC 万桶#MISC 核废料#O 至#O 朝鲜#GPE 贮存#O 的#O 计划#O
+282 美国#GPE 向#O 台湾#GPE 施压#O 封杀#O 预订#O 运送#O 六#MISC 万桶#MISC 核废料#O 至#O 朝鲜#GPE 贮存#O 的#O 计划#O
+Y
+283 核废料#O 再#O 处理厂#O 的#O 主要#O 作用#O 是#O 把#O 核废料#O 转化#O 为#O 武器#O 级#O 钚#O
+283 核废料#O 再#O 处理厂#O 的#O 主要#O 工作#O 是#O 把#O 核废料#O 转化#O 为#O 武器#O 级#O 钚#O
+Y
+284 1997#MISC 年#MISC 7#MISC 月#MISC 泰铢#O 贬值#O 引起#O 亚洲#LOCATION 的#O 金融危机#O
+284 1997#MISC 年#MISC 7#MISC 月#MISC 亚洲#LOCATION 的#O 金融危机#O 是因为#O 泰铢#O 贬值#O
+Y
+285 泰国#GPE 在#O 1997#MISC 年#MISC 的#O 亚洲#LOCATION 金融风暴#O 中受#O 创#O 最深#O
+285 泰国#GPE 在#O 亚洲#LOCATION 金融风暴#O 中受#O 创#O 最深#O
+Y
+286 以色列#GPE 总理#O 沙龙#PERSON 和#O 巴勒斯坦#GPE 领导人#O 阿拉法特#PERSON 素来#O 关系#O 不佳#O
+286 2001#MISC 年#MISC 年底#MISC ，#O 以色列#GPE 总理#O 沙龙#PERSON 说#O 巴勒斯坦#GPE 领导人#O 阿拉法特#PERSON 已经#O 是#O “#O 历史#MISC ”#O
+N
+287 以色列#GPE 总理#O 沙龙#PERSON 说#O 巴勒斯坦#GPE 领导人#O 阿拉法特#PERSON 已经#O 是#O “#O 历史#MISC ”#O
+287 沙龙#PERSON 说#O 阿拉法特#PERSON 已经#O 是#O “#O 历史#O "#O
+Y
+288 2001#MISC 年#MISC 阿拉法特#PERSON 祝贺#O 沙龙#PERSON 当选#O
+288 2001#MISC 年#MISC 美国#GPE 领导人#O 祝贺#O 以色列#GPE 总理#O 当选#O
+N
+289 2001#MISC 年#MISC 巴勒斯坦#GPE 领导人#O 阿拉法特#PERSON 祝贺#O 以色列#GPE 沙龙#PERSON 总理#O 当选#O
+289 2001#MISC 年#MISC 阿拉法特#PERSON 祝贺#O 沙龙#PERSON 当选#O
+Y
+290 巴勒斯坦#GPE 领导人#O 阿拉法特#PERSON 宣称#O ，#O 中东#LOCATION 暴力事件#O 愈演愈烈#O ，#O 责任#O 在#O 以色列#GPE 总理#O 沙龙#PERSON 。#O
+290 阿拉法特#PERSON 指责#O 以色列#GPE 总理#O 沙龙#PERSON
+Y
+291 1998#O -#O 05#O -#O 17#O 澳洲#GPE 可能#O 放宽#O 移民#O 法规#O ，#O 给#O 为#O 躲避#O 印尼#GPE 暴民#O 的#O 暴力行为#O 而#O 逃#O 抵#O 此处#O 的#O 华裔#O 暂时#O 庇护#O
+291 印尼政府#O 对于#O 为#O 躲避#O 澳洲#DEMONYM 暴民#O 的#O 暴力行为#O 而#O 逃#O 抵#O 此地#O 的#O 华裔#O 而#O 可能#O 放宽#O 移民#O 法规#O ，#O 给予#O 暂时#O 庇护#O
+Y
+292 澳洲#GPE 可能#O 放宽#O 移民#O 法规#O ，#O 给#O 为#O 躲避#O 印尼#GPE 暴民#O 的#O 暴力行为#O 而#O 逃#O 抵#O 此处#O 的#O 华裔#DEMONYM 暂时#O 庇护#O
+292 印尼政府#O 对于#O 为#O 躲避#O 澳洲#DEMONYM 暴民#O 的#O 暴力行为#O 而#O 逃#O 抵#O 此地#O 的#O 华裔#O 而#O 可能#O 放宽#O 移民#O 法规#O ，#O 给予#O 暂时#O 庇护#O
+Y
+293 澳洲#DEMONYM 政府#O 对于#O 为#O 躲避#O 印尼#GPE 暴民#O 的#O 暴力行为#O 而#O 逃#O 抵#O 此地#O 的#O 华裔#O 而#O 可能#O 放宽#O 移民#O 法规#O ，#O 给予#O 暂时#O 庇护#O
+293 澳洲#DEMONYM 政府#O 对于#O 为#O 躲避#O 印尼#GPE 暴民#O 的#O 暴力行为#O 而#O 逃#O 抵#O 此地#O 的#O 华裔#O 而#O 可能#O 紧缩#O 移民#O 法规#O ，#O 给予#O 暂时#O 庇护#O
+N
+294 2001#O -#O 08#O -#O 27#MISC 澳大利亚政府#MISC 拒绝#O 让#O 一艘#O 从#O 印尼#GPE 渡轮#O 上#O 救起#O 四百#MISC 三十四#MISC 名#O 阿富汗#DEMONYM 难民#O 的#O 挪威#GPE 货轮#O 进入#O 其#O 海域#O
+294 2001#O -#O 08#O -#O 27#MISC 澳大利亚政府#MISC 拒绝#O 让#O 一艘#O 从#O 挪威#GPE 渡轮#O 上#O 救起#O 四百#MISC 三十四#MISC 名#O 阿富汗#DEMONYM 难民#O 的#O 印尼#GPE 货轮#O 进入#O 其#O 海域#O
+N
+295 澳大利亚政府#GPE 拒绝#O 让#O 一艘#O 从#O 印尼#GPE 渡轮#O 上#O 救起#O 四百#MISC 三十四#MISC 名#O 阿富汗#DEMONYM 难民#O 的#O 挪威#GPE 货轮#O 进入#O 其#O 海域#O
+295 澳大利亚政府#GPE 拒绝#O 让#O 一艘#O 从#O 印尼#GPE 渡轮#O 上#O 救起#O 434#MISC 名#O 阿富汗#DEMONYM 难民#O 的#O 挪威#GPE 货轮#O 进入#O 其#O 海域#O
+Y
+296 印尼#GPE 是#O 澳大利亚#GPE 最大#O 的#O 贸易#O 伙伴#O
+296 印度尼西亚#GPE 是#O 澳大利亚#GPE 的#O 第一#MISC 大#O 贸易#O 伙伴#O
+Y
+297 印尼#GPE 是#O 澳大利亚#GPE 最大#O 的#O 贸易#O 伙伴#O
+297 澳大利亚#GPE 是#O 印尼#GPE 最大#O 的#O 贸易#O 伙伴#O
+N
+298 911#MISC 事件#MISC 发生#O 后#O ，#O 美国#GPE 金融体系#O 最大#O 的#O 危机#O 在于#O 资金外流#O
+298 911#MISC 事件#MISC 发生#O 后#O ，#O 美国#GPE 资金外流#O 情况严重#O
+Y
+299 9#O 月份#O 美国#GPE 约#O 有#O 25#MISC 万人#O 遭#O 裁员#O ，#O 且#O 至少#MISC 五分#MISC 之四在#MISC 911#MISC 事件#MISC 后#O 被#O 裁#O
+299 911#O 袭击#O 对#O 美国#GPE 经济#O 造成#O 冲击#O
+Y
+300 9#O 月份#O 美国#GPE 约#O 有#O 25#MISC 万人#O 遭#O 裁员#O ，#O 且#O 至少#MISC 五分#MISC 之四在#MISC 911#MISC 事件#MISC 后#O 被#O 裁#O
+300 9#MISC 月份#MISC 美国#GPE 约#O 有#O 25#MISC 万人#O 遭#O 裁员#O ，#O 且#O 至少#O 4#MISC #O 5#MISC 在#O 911#MISC 事件#MISC 后#O 被#O 裁#O
+Y
+301 911#O 袭击#O 对#O 美国#GPE 经济#O 造成#O 冲击#O
+301 911#O 事件#O 发生#O 至#O 2001#O -#O 12#MISC -#MISC 18#MISC ，#O 大多数#O 资本#O 还是#O 持续#O 流向#O 美国#GPE
+N
+302 “#O 发现#O 号#O ”#O 2000#O #O 10#MISC #O 12#MISC 载#O 着#O 七名#O 宇航员#O 前往#O 建造#O 国际#O 空间站#O ，#O 包括#O 第一次#MISC 前往#O 建造#O 国际#O 空间站#O 的#O 日本#DEMONYM 宇航员#O 若田光#PERSON 一#O
+302 第一位#MISC 前往#O 建造#FACILITY 国际#FACILITY 空间站#FACILITY 的#O 日本#DEMONYM 宇航员#O 叫#O 若田光#PERSON 一#O
+Y
+303 “#O 发现#O 号#O ”#O 2000#O #O 10#MISC #O 12#MISC 载#O 着#O 七名#O 宇航员#O 前往#O 建造#O 国际#O 空间站#O
+303 “#O 发现#O 号#O ”#O 2000#O #O 10#MISC #O 12#MISC 载#O 着#O 7#MISC 名#O 宇航员#O 前往#O 建造#O 国际#O 空间站#O
+Y
+304 “#O 发现#O 号#O ”#O 2000#O #O 10#MISC #O 12#MISC 载#O 着#O 七名#O 宇航员#O 前往#O 建造#O 国际#O 空间站#O ，#O 包括#O 第一次#MISC 前往#O 建造#O 国际#O 空间站#O 的#O 日本#DEMONYM 宇航员#O 若田光#PERSON 一#O
+304 第一位#MISC 前往#O 建造#O 国际#O 空间站#O 的#O 是#O 日本#DEMONYM 宇航员#O 若田光#PERSON 一#O
+N
+305 张朝阳#PERSON 一九九八年#MISC 创建#O “#O 搜狐#O ”#O
+305 “#O 搜狐#O ”#O 是#O 在#O 1998#MISC 年#MISC 由#O 张朝阳#PERSON 创立#O 的#O
+Y
+306 张朝阳#PERSON 一九九八年#MISC 创建#O “#O 搜狐#O ”#O
+306 “#O 搜狐#O ”#O 的#O 创始人#O 是#O 张朝阳#PERSON
+Y
+307 张朝阳#PERSON 于#O 1998#MISC 年#MISC 正式#O 推出#O 其#O 品牌#O 网站#O 搜狐#O ，#O 同时#O 更名#O 为#O 搜狐公司#O 。#O
+307 张朝阳#PERSON 一九九八年#MISC 创建#O “#O 搜狐#O ”#O
+Y
+308 丁磊#PERSON 在#O 网易#ORGANIZATION 所#O 占#O 的#O 股份#O 有#O 70#O %#O
+308 丁磊#PERSON 持有#O 网易#ORGANIZATION 十分#O 之#O 七#MISC 的#O 股份#O
+Y
+309 丁磊#PERSON 在#O 网易#ORGANIZATION 所#O 占#O 的#O 股份#O 有#O 70#O %#O
+309 丁磊#PERSON 在#O 网易#ORGANIZATION 所#O 占#O 的#O 股份#O 有#O 百分之七十#MISC
+Y
+310 丁磊#PERSON 在#O 网易#ORGANIZATION 所#O 占#O 的#O 股份#O 有#O 70#O %#O
+310 丁磊#O 是#O 网易#ORGANIZATION 最大#O 的#O 股东#O
+Y
+311 丁磊#PERSON 1997#MISC 年#MISC 6#MISC 月#MISC 創立#ORGANIZATION 網易#ORGANIZATION 公司#ORGANIZATION
+311 丁磊#PERSON 石#O 网易#ORGANIZATION 的#O 创办人#O
+Y
+312 网易#ORGANIZATION 首席#O 技术#O 总裁#O 丁磊#PERSON
+312 丁磊#PERSON 是#O 网易公司#ORGANIZATION 首席#O 构架#O 师#O
+N
+313 不少#O 汇银及#O 投资人#O 认为#O ，#O 欧元#O 是#O 另#O 一个#O 足以#O 与#O 美元#O 抗衡#O 的#O 国际#O 货币#O
+313 许多#O 投资人#O 认为#O ，#O 欧元#O 是#O 另#O 一个#O 足以#O 与#O 美元#O 抗衡#O 的#O 国际#O 货币#O
+Y
+314 大部分#O 人#O 认为#O ，#O 欧元#O 是#O 另#O 一个#O 足以#O 与#O 美元#O 抗衡#O 的#O 国际#O 货币#O
+314 大部分#O 人#O 认为#O ，#O 欧元#O 足以#O 与#O 美元#GPE 抗衡#O
+Y
+315 2001#MISC 年#MISC 12#MISC 月#MISC 印度#GPE 与#O 巴基斯坦#GPE 为了#O 印度#ORGANIZATION 国会#ORGANIZATION 遭到#O 暴徒#O 自杀#O 袭击#O 而#O 关系紧张#MISC
+315 2001#MISC 年#MISC 印度#GPE 与#O 巴基斯坦#GPE 关系紧张#MISC
+Y
+316 2001#MISC 年#MISC 印度#GPE 与#O 巴基斯坦#GPE 为了#O 印度#ORGANIZATION 国会#ORGANIZATION 遭到#O 暴徒#O 自杀#O 袭击#O 而#O 关系紧张#MISC
+316 2001#MISC 年#MISC 印度#GPE 因为#O 印度#ORGANIZATION 国会#ORGANIZATION 遭到#O 暴徒#O 自杀#O 袭击#O 与#O 巴基斯坦#GPE 关系紧张#GPE
+Y
+317 2001#MISC 年#MISC 印度#GPE 与#O 巴基斯坦#GPE 为了#O 印度#ORGANIZATION 国会#ORGANIZATION 遭到#O 暴徒#O 自杀#O 袭击#O 而#O 关系紧张#MISC
+317 2001#MISC 年#MISC 巴基斯坦#GPE 因为#O 印度#ORGANIZATION 国会#ORGANIZATION 遭到#O 暴徒#O 自杀#O 袭击#O 与#O 印度#GPE 关系紧张#MISC
+Y
+318 2001#MISC 年#MISC 印度#GPE 与#O 巴基斯坦#GPE 为了#O 印度#ORGANIZATION 国会#ORGANIZATION 遭到#O 暴徒#O 自杀#O 袭击#O 而#O 关系紧张#O
+318 2001#MISC 年#MISC 巴基斯坦#GPE 因为#O 国会#ORGANIZATION 遭到#O 暴徒#O 自杀#O 袭击#O 与#O 印度#GPE 关系紧张#O
+N
+319 一九七一年#MISC ，#O 印度#GPE 协助#O 东#O 巴基斯坦#GPE 脱离#O 巴基斯坦#GPE 成为#O 孟加拉#GPE ，#O 结果#O 印巴#O 战事#O 再起#O 。#O
+319 1971#MISC 年#MISC ，#O 印度#GPE 协助#O 东#O 巴基斯坦#GPE 脱离#O 巴基斯坦#GPE 成为#O 孟加拉#GPE ，#O 结果#O 印巴#O 战事#O 再起#O 。#O
+Y
+320 一九七一年#MISC ，#O 印度#GPE 协助#O 东#O 巴基斯坦#GPE 脱离#O 巴基斯坦#GPE 成为#O 孟加拉#GPE ，#O 结果#O 印巴#O 战事#O 再起#O 。#O
+320 一九七一年#MISC ，#O 印度#GPE 协助#O 西#O 巴基斯坦#GPE 脱离#O 巴基斯坦#GPE 成为#O 孟加拉#GPE ，#O 结果#O 印巴#O 战事#O 再起#O 。#O
+N
+321 一九七一年#MISC ，#O 印度#GPE 协助#O 东#O 巴基斯坦#GPE 脱离#O 巴基斯坦#GPE 成为#O 孟加拉#GPE ，#O 结果#O 印巴#O 战事#O 再起#O 。#O
+321 一九七一年#MISC ，#O 巴基斯坦#GPE 协助#O 东#O 巴基斯坦#GPE 脱离#O 印度#GPE 成为#O 孟加拉#GPE ，#O 结果#O 印巴#O 战事#O 再起#O 。#O
+N
+322 一九七一年#MISC ，#O 印度#GPE 协助#O 东#O 巴基斯坦#GPE 脱离#O 巴基斯坦#GPE 成为#O 孟加拉#GPE ，#O 结果#O 印巴#O 战事#O 再起#O 。#O
+322 一九七一年#MISC 印巴#MISC 战事#MISC 再起#O ，#O 因#O 印度#GPE 帮助#O 东#O 巴基斯坦#GPE 独立#O 成为#O 孟加拉#GPE
+Y
+323 一九四七年#MISC 印度#GPE 和#O 巴基斯坦#GPE 皆#O 脱离#O 英国#GPE 独立#O
+323 印度#GPE 和#O 巴基斯坦#GPE 曾#O 被#O 英国#GPE 统治#O
+Y
+324 一九四七年#MISC 印度#GPE 和#O 巴基斯坦#GPE 皆#O 脱离#O 英国#GPE 独立#O
+324 一九四七年#MISC 英国#GPE 和#O 巴基斯坦#GPE 皆#O 脱离#O 印度#GPE 独立#O
+N
+325 一九四七年#MISC 印度#GPE 和#O 巴基斯坦#GPE 皆#O 脱离#O 英国#GPE 独立#O
+325 1947#MISC 年#MISC 印度#GPE 和#O 巴基斯坦#GPE 皆#O 脱离#O 英国#GPE 独立#O
+Y
+326 印度#GPE 与#O 巴基斯坦#GPE 分别#O 在#O 1948#MISC 年#MISC 和#O 1965#MISC 年#MISC 以及#O 1971#MISC 年#MISC 爆发#O 战争#O
+326 印度#GPE 与#O 巴基斯坦#GPE 为了#O 克什米尔#LOCATION 问题#O 而#O 爆发#O 过#O 三次#MISC 战争#MISC
+N
+327 印度#GPE 与#O 巴基斯坦#GPE 分别#O 在#O 1948#MISC 年#MISC 和#O 1965#MISC 年#MISC 以及#O 1971#MISC 年#MISC 为了#O 克什米尔#LOCATION 问题#O 而#O 爆发#O 战争#O
+327 印度#GPE 与#O 巴基斯坦#GPE 在#O 一九四八年#MISC 、#O 一九六五年#MISC 以及#O 一九七一年#MISC 为了#O 克什米尔#LOCATION 问题#O 而#O 爆发#O 战争#O
+Y
+328 印度#GPE 与#O 巴基斯坦#GPE 分别#O 在#O 1948#MISC 年#MISC 和#O 1965#MISC 年#MISC 以及#O 1971#MISC 年#MISC 为了#O 克什米尔#LOCATION 问题#O 而#O 爆发#O 战争#O
+328 印度#GPE 与#O 克什米尔#LOCATION 分别#O 在#O 1948#MISC 年#MISC 和#O 1965#MISC 年#MISC 以及#O 1971#MISC 年#MISC 为了#O 巴基斯坦#GPE 问题#O 而#O 爆发#O 战争#O
+N
+329 巴基斯坦#GPE 的#O 宿敌#O 印度#GPE
+329 巴基斯坦#GPE 的#O 好#O 朋友#O 印度#GPE
+N
+330 金泳三#MISC 在#O 一九九二年#MISC 当选#O 韩国#GPE 第十四届#MISC 大#O 统领#O
+330 金泳三#MISC 在#O 一九九二年#MISC 当选#O 韩国#GPE 第十四届#MISC 总统#MISC
+Y
+331 金泳三#MISC 在#O 1992#MISC 年#MISC 当选#O 韩国#GPE 第#O 14#MISC 届#MISC 总统#MISC
+331 金泳三#MISC 在#O 一九九二年#MISC 当选#O 韩国#GPE 第十四届#MISC 总统#MISC
+Y
+332 金泳三#MISC 在#O 一九九二年#MISC 当选#O 韩国#GPE 第十四届#MISC 总统#MISC
+332 金泳三#MISC 是#O 韩国#GPE 第十四#MISC 任#MISC 总统#MISC
+Y
+333 韩国#MISC 前#MISC 总统#O 金泳三#PERSON
+333 金泳三#MISC 曾任#O 韩国#GPE 总统#O
+Y
+334 金泳三#PERSON 是#O 韩国#GPE 民主#ORGANIZATION 自由党#ORGANIZATION 第一号#MISC 人物#O
+334 金泳三#PERSON 是#O 韩国#GPE 民主#ORGANIZATION 自由党#ORGANIZATION 首脑人物#O 之一#MISC
+Y
+335 金泳三#PERSON 是#O 韩国#GPE 民主#ORGANIZATION 自由党#ORGANIZATION 首脑人物#O
+335 金泳三#PERSON 是#O 民主#ORGANIZATION 自由党#ORGANIZATION 第一号#MISC 人物#O
+Y
+336 何厚铧#PERSON 在#O 澳门#GPE 回归#O 前#O 担任#O 澳门特区#ORGANIZATION 筹委会#ORGANIZATION 副#O 主任委员#O
+336 何厚铧#PERSON 在#O 澳门#GPE 回归#O 后#O 才#O 担任#O 澳门特区#ORGANIZATION 筹委会#ORGANIZATION 副#O 主任委员#O
+N
+337 何厚铧#PERSON 现任#O 澳门国际机场#ORGANIZATION 专营#ORGANIZATION 公司#ORGANIZATION 董事局#ORGANIZATION 副#O 主席#O
+337 何厚铧#PERSON 曾任#O 澳门国际机场#ORGANIZATION 专营#ORGANIZATION 公司#ORGANIZATION 董事局#ORGANIZATION 副#O 主席#O
+N
+338 何厚铧#PERSON 现任#O 澳门国际机场#ORGANIZATION 专营#ORGANIZATION 公司#ORGANIZATION 董事局#ORGANIZATION 副#O 主席#O
+338 何厚铧#PERSON 现任#O 澳门国际机场#ORGANIZATION 专营#ORGANIZATION 公司#ORGANIZATION 董事局#ORGANIZATION 主席#O
+N
+339 大多数#O 日本#DEMONYM 人#O 认为#O 首相#O 桥本龙太郎#PERSON 应为#O 日本#GPE 的#O 经济#O 萧条#O 负#O “#O 严重#O ”#O 责任#O 而#O 辞职#O 。#O
+339 桥本龙太郎#PERSON 为#O 日本#GPE 的#O 经济#O 萧条#O 而#O 辞职#O
+N
+340 大多数#O 日本#DEMONYM 人#O 认为#O 首相#O 桥本龙太郎#PERSON 应为#O 日本#GPE 的#O 经济#O 萧条#O 负#O “#O 严重#O ”#O 责任#O 而#O 辞职#O 。#O
+340 大多数#O 日本#DEMONYM 人#O 认为#O 本国#O 的#O 经济#O 萧条#O 严重#O 是因为#O 首相#O 桥本龙太郎#PERSON
+Y
+341 大多数#O 日本#DEMONYM 人#O 认为#O 首相#O 桥本龙太郎#PERSON 应为#O 日本#GPE 的#O 经济#O 萧条#O 负#O “#O 严重#O ”#O 责任#O 而#O 辞职#O 。#O
+341 多数#O 日本#DEMONYM 人#O 认为#O 桥本龙太郎#PERSON 应该#O 辞职#O 。#O
+Y
+342 日本首相#O 桥本龙太郎#PERSON 宣布#O 辞职#O 后#O ，#O 东京#GPE 股市#O 指数#O 开始#O 反弹#O 大涨#O
+342 桥本龙太郎#PERSON 为#O 日本#GPE 的#O 经济#O 萧条#O 而#O 辞职#O
+N
+343 日本首相#O 桥本龙太郎#PERSON 宣布#O 辞职#O 后#O ，#O 东京#GPE 股市#O 指数#O 开始#O 反弹#O 大涨#O
+343 东京#GPE 股市#O 指数#O 在#O 首相#O 桥本龙太郎#PERSON 宣布#O 辞职#O 后#O 开始#O 反弹#O 大涨#O
+Y
+344 反#O 厄尔尼诺#O 现象#O 导致#O 2001#MISC 年#MISC 我国#O 强#O 沙尘#O 天气#O 陡增#O
+344 反#O 厄尔尼诺#O 现象#O 导致#O 我国#O 强#O 沙尘#O 增加#O
+Y
+345 反#O 厄尔尼诺#O 现象#O 对#O 气候#O 的#O 冲击#O 表现#O 在#O 美国#GPE 中部#O 、#O 北部#O 及#O 东部#O 各州#O 将会#O 有#O 几天#O 异常#O 的#O 暖和#O 天气#O 后#O ，#O 跟着#O 是#O 突如其来#O 的#O 酷寒#O 。#O
+345 厄尔尼诺#O 现象#O 造成#O 美国#GPE 中#GPE 、#O 北及#GPE 东部#O 各州#O 会#O 出现#O 几天#O 异常#O 的#O 暖和#O 天气#O ，#O 再来#O 是#O 突如其来#O 的#O 酷寒#O 。#O
+N
+346 反#O 厄尔尼诺#O 现象#O 对#O 气候#O 的#O 冲击#O 表现#O 在#O 美国#GPE 中部#O 、#O 北部#O 及#O 东部#O 各州#O 将会#O 有#O 几天#O 异常#O 的#O 暖和#O 天气#O 后#O ，#O 跟着#O 是#O 突如其来#O 的#O 酷寒#O 。#O
+346 反#O 厄尔尼诺#O 现象#O 造成#O 美国#GPE 中#GPE 、#O 北及#GPE 东部#O 各州#O 会#O 出现#O 几天#O 异常#O 的#O 暖和#O 天气#O ，#O 再来#O 是#O 突如其来#O 的#O 酷寒#O 。#O
+Y
+347 海尔集团#ORGANIZATION 总裁#O 是#O 张瑞敏#PERSON
+347 张瑞敏#PERSON 是#O 海尔集团#ORGANIZATION 总裁#O
+Y
+348 张瑞敏#PERSON 14#MISC 年间#MISC 让#O 海尔#ORGANIZATION 转亏#O 为盈#O 并且#O 快速#O 成长#O
+348 海尔#ORGANIZATION 在#O 张瑞敏#PERSON 接手#O 前#O 曾#O 是#O 亏损#O 的#O 状态#O
+Y
+349 张瑞敏#PERSON 14#O 年间#O 让#O 海尔#ORGANIZATION 转亏#O 为盈#O 并且#O 快速#O 成长#O
+349 张瑞敏#PERSON 十四年#MISC 里#O 让#O 海尔#ORGANIZATION 转亏#O 为#O 盈且#O 快速#O 成长#O
+Y
+350 张瑞敏#PERSON 1984#O 年#O 接手#O 海尔#ORGANIZATION ，#O 花#O 了#O 14#MISC 年#MISC 时间#O 让#O 海尔#ORGANIZATION 转亏#O 为盈#O 并且#O 快速增长#O
+350 张瑞敏#PERSON 1998#O 年#O 让#O 海尔#ORGANIZATION 转亏#O 为盈#O 并且#O 快速增长#O
+Y
+351 哈塔米#PERSON 1997#MISC 年#MISC 12#MISC 月#MISC 要求#O 与#O “#O 伟大#O 的#O 美国#DEMONYM 人民#O ”#O 对话#O ，#O 是#O 一九七九年#MISC 伊朗#MISC 伊斯兰#MISC 革命#MISC 与#O 美国#GPE 断交#O 以来#O ，#O 首位#O 伊朗#GPE 领导人#O 有意#O 与#O 美国#GPE 重新#O 修好#O 的#O 最#O 强烈#O 信息#O
+351 哈塔米#PERSON 是#O 伟大#O 的#O 美国#DEMONYM 人民#O
+N
+352 哈塔米#PERSON 1997#MISC 年#MISC 12#MISC 月#MISC 要求#O 与#O “#O 伟大#O 的#O 美国#DEMONYM 人民#O ”#O 对话#O ，#O 是#O 一九七九年#MISC 伊朗#MISC 伊斯兰#MISC 革命#MISC 与#O 美国#GPE 断交#O 以来#O ，#O 首位#O 伊朗#GPE 领导人#O 有意#O 与#O 美国#GPE 重新#O 修好#O 的#O 最#O 强烈#O 信息#O
+352 哈塔米#PERSON 要求#O 与#O 美国#GPE 断交#O
+N
+353 2000#MISC 年#MISC 问题#O 是#O 指#O 电脑#O 程序#O 的#O 日期#O 在#O 时间#O 进入#O 2000#O 年时#O ，#O 误认为#O 是#O 1900#MISC 年#MISC 。#O
+353 2000#MISC 年#MISC 问题#O 是#O 指#O 电脑#O 程序#O 的#O 日期#O 在#O 时间#O 进入#O 两千年#MISC 时#O ，#O 误认为#O 是#O 1900#MISC 年#MISC 。#O
+Y
+354 美国政府#GPE 希望#O 将#O 超#O 铀#O 废料#O 永久#O 深埋在#O 盐#O 床上#O
+354 美国政府#GPE 将#O 超#O 铀#O 废料#O 永久#O 深埋在#O 盐#O 床上#O
+N
+355 澳大利亚政府#ORGANIZATION 于#O 一九九四年#MISC 不顾#O 印尼#GPE 特种部队#O 当时#O 涉嫌#O 在#O 东帝汶#GPE 侵犯#O 人权#O ，#O 原则同意#O 提供#O 二十#MISC 枝#O 步枪#O 给#O 印尼#GPE 特种部队#O 使用#O 。#O
+355 澳大利亚政府#ORGANIZATION 于#O 一九九四年#MISC 不顾#O 印尼#GPE 特种部队#O 当时#O 涉嫌#O 在#O 东帝汶#GPE 侵犯#O 人权#O ，#O 原则同意#O 提供#O 20#MISC 枝#O 步枪#O 给#O 印尼#GPE 特种部队#O 使用#O 。#O
+Y
+356 澳大利亚政府#ORGANIZATION 于#O 一九九四年#MISC 不顾#O 印尼#ORGANIZATION 特种部队#ORGANIZATION 当时#O 涉嫌#O 在#O 东帝汶#GPE 侵犯#O 人权#O ，#O 原则同意#O 提供#O 二十#MISC 枝#O 步枪#O 给#O 印尼#GPE 特种部队#O 使用#O 。#O
+356 澳大利亚政府#ORGANIZATION 曾#O 提供#O 20#MISC 枝#O 步枪#O 给#O 印尼#GPE 特种部队#O 使用#O
+Y
+357 日本#GPE 协助#O 建造#O “#O 阿尔法#FACILITY 空间站#FACILITY ”#O （#O 国际#O 空间站#O ）#O ，#O 此#O 为#O 一九八八年#MISC 美国#GPE 总统#O 里根#PERSON 所#O 建议#O
+357 美国#GPE 总统#O 里根#PERSON 曾#O 提议#O 由#O 日本#GPE 协助#O 建造#O “#O 阿尔法#FACILITY 空间站#FACILITY ”#O
+Y
+358 日本#GPE 协助#O 建造#O “#O 阿尔法#FACILITY 空间站#FACILITY ”#O （#O 国际#O 空间站#O ）#O ，#O 此#O 为#O 一九八八年#MISC 美国#GPE 总统#O 里根#PERSON 所#O 建议#O
+358 一九八八年#MISC 美国#GPE 总统#O 是#O 里根#PERSON
+Y
+359 日本#GPE 协助#O 建造#O “#O 阿尔法#FACILITY 空间站#FACILITY ”#O （#O 国际#O 空间站#O ）#O ，#O 此#O 为#O 一九八八年#MISC 美国#GPE 总统#O 里根#PERSON 所#O 建议#O
+359 美国#GPE 曾#O 协助#O 日本#GPE 建造#O “#O 阿尔法#FACILITY 空间站#FACILITY ”#O
+N
+360 教练#O 冈田武史#PERSON 带领#O 日本队#ORGANIZATION 打#O 进#O 世界杯#MISC 决赛圈#O 。#O
+360 冈田武史#PERSON 是#O 一位#O 足球#O 教练#O
+Y
+361 极光#O 是#O 罗马#ORGANIZATION 女神#ORGANIZATION 的#O 名称#O ，#O 代表#O 了#O 黄昏#O 和#O 北风#O
+361 极光#O 奥#O 罗拉#PERSON 是#O 希腊#GPE 神#O 泰坦#O 的#O 女儿#O ，#O 是#O 太阳神#MISC 和#MISC 月亮#MISC 女神#MISC 的#O 妹妹#O ，#O 她#O 又#O 是#O 北风#O 等#O 多种#O 风#O 和#O 黄昏#O 星等#O 多颗#O 星#O 的#O 母亲#O
+N
+362 切尔诺贝利#O 病毒#O 是#O 陈盈豪#PERSON 在#O 台湾#GPE 大同#ORGANIZATION 工学院#ORGANIZATION 读书#O 时#O 编写#O 。#O
+362 病毒#O 是#O 来自#O 台湾#GPE 大同#ORGANIZATION 工学院#ORGANIZATION 学生#O 陈盈豪#PERSON 所#O 散布#O ，#O 还#O 曾#O 被#O 学校#O 叫#O 去#O “#O 辅导#O ”#O 过#O 。#O
+N
+363 七子#O 之歌#O 在#O 1999#MISC 年#MISC 12#MISC 月#MISC 20#MISC 日#MISC 澳门#GPE 回归#O 时#O 被#O 用作#O 主题曲#O 。#O
+363 国家#O 选定#O “#O 七子#MISC 之歌#MISC ”#O 为#O 澳门#GPE 回归#O 主题曲#O
+Y
+364 江泽民#PERSON 和#O 夫人#O 王冶坪#PERSON ，#O 12#MISC 月#MISC 19#MISC 日#MISC 下午#MISC 乘专机#MISC 于#O 16#MISC 时#MISC 40#O 分#O 抵达#O 澳门国际机场#GPE ，#O 出席#O 明天#MISC 举行#O 的#O 澳门#GPE 回归祖国#O 一周年#MISC 庆祝#O 活动#O 。#O
+364 江泽民#PERSON 赴#O 澳门#GPE 参加#O 回归#MISC 周年#MISC 庆典#MISC
+Y
+365 邓小平#PERSON 在#O 一九七九年#MISC ，#O 受#O 当时#O 美国#GPE 总统#O 卡特#PERSON 之邀#O ，#O 到#O 美国#GPE 进行#O 正式#O 友好访问#O
+365 一九七九年#MISC 邓小平#PERSON 访美#O
+Y
+366 国家#O 总理#O 朱镕基#PERSON 1999#MISC 年#MISC 四月#MISC 六日#MISC 开始#O 对#O 美国#GPE 六个#O 城市#O 和#O 加拿大#GPE 进行#O 为期#O 八天#MISC 的#O 访问#O 。#O
+366 １#MISC ９#MISC ９#MISC ９#MISC 年#MISC ４#MISC 月#MISC ６#MISC 日至#O １#MISC ４#MISC 日#MISC ，#O 朱镕基#PERSON 总理#O 对#O 美国#GPE 进行#O 正式#O 访问#O
+Y
+367 美国#GPE 一些#O 科学家#O 用#O X光#O 望远镜#O 找到#O 两个#O 独自#O 漂浮#O 的#O 黑洞#O 。#O
+367 利用#O 钱德拉#ORGANIZATION X光#ORGANIZATION 太空#ORGANIZATION 望远镜#ORGANIZATION 观察#O 到#O 两个#MISC 黑洞#MISC ，#O 并且#O 它们#O 有#O 可能#O 合并#O 成为#O 一个#O 更大#O 的#O 黑洞#O 。#O
+N
+368 美国#GPE 天文学家#O 发现#O 新#O 黑洞#O 距离#O 地球#LOCATION 大约#O 五千#MISC 光年#MISC
+368 美国#GPE 发现#O 最#O 年轻#O 黑洞#O 距#O 地球#O 5#MISC 千万光年#MISC
+N
+369 天文#MISC 物理学#MISC 者#O 首次#O 测#O 得#O 银河系#O 中心#O 大#O 质量#O 黑洞#O “#O 人马座#O A#O *#O ”#O 的#O 实际#O 形状#O 及#O 大小#O
+369 天文学家#O 透过#O 对#O 银河系#O 中心#O 人马座#O A#O *#O ，#O 观测#O 出#O 银河系#O 中心#O 藏匿#O 着#O 大#O 质量#O 黑洞#O 的#O 推论#O 。#O
+N
+370 多利#O 诞生#O 于#O 一九九七年#MISC 二月#MISC 二十三日#MISC
+370 早#O 在#O 1996#MISC 年#MISC 7#MISC 月#MISC 5#MISC 日#MISC 多利#O 就#O 诞生#O 了#O
+N
+371 全球#O 第一#MISC 只#O 克隆羊#O 多利#O 告别#O 人世#O
+371 全球#O 第一#MISC 只#O 克隆羊#O 是#O 多利#O
+Y
+372 北约#ORGANIZATION 轰炸#O 中国大使馆#GPE ，#O 三名#O 中国#DEMONYM 记者#O 死亡#O
+372 北约#ORGANIZATION 轰炸#O 中国大使馆#GPE ，#O 3#MISC 名#O 中国#GPE 记者#O 丧生#O
+Y
+373 北约#ORGANIZATION 轰炸#O 中国驻南使馆#GPE ，#O 时间#O 在#O 1999#O -#O 05#O -#O 07#MISC 晚上#MISC
+373 1999#MISC 年#MISC 5#MISC 月#MISC 8#MISC 日#MISC 北京#GPE 时间#O 早#O 5#MISC 时#O 45#MISC 分#O ，#O 以#O 美国#GPE 为首#O 的#O 北约#ORGANIZATION 使用#O 五枚#MISC 导弹#O 袭击#O 了#O 中国驻南斯拉夫大使馆#GPE 。#O
+N
+374 北约#ORGANIZATION 称#O 原因#O 是#O “#O 根据#O 过时#O 的#O 地图#O ”#O ，#O 将#O 中国#GPE 驻#O 贝尔格莱德#GPE 大使馆#O 误认为#O 是#O 南斯拉夫#GPE 的#O 政府#O 建筑#O
+374 北约#ORGANIZATION 称#O 原因#O 是#O 使用#O 了#O “#O 旧#O 地图#O ”#O
+Y
+375 Argentinosaurus#O 是#O 食草#O 的#O 蜥脚类#O 恐龙#O ，#O 是#O 最大#O 的#O 恐龙#O 。#O
+375 地球#O 上#O 最大#O 的#O 恐龙#O 是#O Argentinosaurus#MISC
+Y
+376 全美#O 知名#O 的#O 古生物学家#O Jack#O Horner#O 在#O 蛋山#O 挖出#O 恐龙#O 化石#O 、#O 恐龙#O 窝#O
+376 第一个#MISC 蛋巢#O 是#O 由#O Jack#PERSON Horner#PERSON 在#O 1983#MISC 年#MISC 发现#O 。#O
+N
+377 和平号#MISC 空间站#O 坠落在#O 南太平洋#LOCATION 斐济#GPE 附近#O 、#O 新西兰#GPE 与#O 智利#GPE 中间#O 的#O 海域#O 上#O 。#O
+377 “#O 和平号#MISC 空间站#MISC ”#O 叶落归根#O 般#O 葬身#O 于#O 斐济#GPE 群岛#GPE 附近#O 的#O 南太平洋#LOCATION 中#O 。#O
+Y
+378 和平号#FACILITY 空间站#FACILITY 于#O 3#MISC 月#MISC 23#MISC 日#MISC 下午#MISC 1#MISC 点#MISC 59#MISC 分#MISC 坠落#MISC
+378 和平号#FACILITY 空间站#FACILITY ，#O 三月#MISC 二十三日#MISC 下午#MISC 两点#MISC 半左右#MISC ，#O 结束#O 其#O 十五年#MISC 的#O 辉煌#O 太空#O 生涯#O
+N
+379 和平号#MISC 空间站#O 坠落在#O 南太平洋#LOCATION 斐济#GPE 附近#O 、#O 新西兰#GPE 与#O 智利#GPE 中间#O 的#O 海域#O 上#O 。#O
+379 和平号#MISC 空间站#O 坠落在#O 南太平洋#LOCATION 新西兰#GPE 与#O 智利#GPE 之间#O 的#O 海域#O 。#O
+Y
+380 武汉#O 航空#O 一架#O 飞机#O 因#O 被#O 闪电#O 击中#O 坠机#O ，#O 机上#O 42#MISC 名#O 旅客#O 全部#O 遇难#O 。#O
+380 武汉#GPE 航空公司#O 一架#O 从#O 湖北#GPE 恩施#O 至#O 武汉#GPE 的#O 客机#O 在#O 武汉#GPE 郊区#O 坠毁#O ，#O 坠地#O 时#O 又#O 把#O 汉江#GPE 一艘船#O 撞毁#O ，#O 共#O 造成#O 51#MISC 人#O 死亡#O 。#O
+N
+381 1998#MISC 年#MISC 2#MISC 月#MISC 16#MISC 日#MISC 台湾#MISC 华航#MISC 坠机#MISC 事件#MISC ，#O 坠毁#O 于#O 桃园#FACILITY 国际#FACILITY 机场#FACILITY 旁#O 的#O 西滨#FACILITY 公路#FACILITY 上#O 。#O
+381 1998#MISC 年#MISC 2#MISC 月#MISC 16#MISC 日#MISC 台湾#GPE 华#O 航空#O 难#O ，#O 坠毁#O 于#O 中正#FACILITY 国际#FACILITY 机场#FACILITY 旁#O 的#O 国际#O 路#O 二段#O （#O 台#GPE 15#O 线#O ）#O 一带#O 。#O
+N
+382 台湾#ORGANIZATION 华航#ORGANIZATION 坠机#O “#O 央行#O ”#O 总裁#O 许#O 远东#GPE 夫妇#O 罹难#O
+382 台湾#GPE 华#O 航空#O 难#O ，#O 死者#O 包括#O “#O 央行#O ”#O 总裁#O 许#O 远东#GPE
+Y
+383 以巴#O 爆发#O 血腥#O 暴力#O 冲突#O ，#O 东耶路撒冷#O 及#O 约旦河西岸#LOCATION 共有#O 七名#MISC 巴人#MISC 及#MISC 三名#MISC 以色#O 利人#O 丧生#O
+383 以巴#O 爆发#O 血腥#O 暴力#O 冲突#O ，#O 西#O 耶路撒冷#GPE 及#O 约旦河#LOCATION 东岸#LOCATION 共有#O 七名#MISC 巴人#MISC 及#MISC 三名#MISC 以色#O 利人#O 丧生#O
+N
+384 三百名#O 巴勒斯坦人#DEMONYM 在#O 加#O 沙市#GPE 集会#O 示威#O ，#O 纪念#O 一九八七年#MISC 开始#O 、#O 持续#O 至#O 一九九三年#MISC 的#O 抗暴#O 运动#O 十三#MISC 周年#MISC 。#O
+384 三百名#O 巴勒斯坦人#DEMONYM 在#O 加#O 沙市#GPE 集会#O 示威#O ，#O 纪念#O 一九八七年#MISC 开始#O 、#O 持续#O 至#O 一九九三年#MISC 的#O 抗暴#O 运动#O 三十周年#MISC 。#O
+N
+385 巴勒斯坦人#DEMONYM 在#O 耶路撒冷#LOCATION 圣殿山#LOCATION 和#O 以色列#GPE 警方#O 爆发#O 冲突#O ，#O 结果#O 有#O 五名#O 巴勒斯坦人#DEMONYM 丧生#O ，#O 另有#O 两百多#MISC 人#O 受伤#O 。#O
+385 巴勒斯坦人#DEMONYM 在#O 耶路撒冷#GPE 圣殿山#LOCATION 和#O 以色列#GPE 警方#O 爆发#O 冲突#O ，#O 结果#O 有#O 五名#O 以色列#DEMONYM 人#O 受伤#O ，#O 巴方#GPE 无#O 伤亡#O 。#O
+N
+386 1999#MISC 年#MISC 1#MISC 月#MISC 29#MISC 日#GPE 南斯拉夫联邦#GPE 塞尔维亚共和国#GPE 科索沃省#GPE 再度#O 爆发#O 警察#O 与#O 阿尔巴尼亚#GPE 裔#O 游击队#O 冲突#O 事件#O 。#O
+386 1999#MISC 年#MISC 科索沃#GPE 地区#O 阿尔巴尼亚#GPE 部族#O 大屠杀#O
+N
+387 朝鲜#GPE 宣称#O ，#O 除非#O 美国#GPE 放弃#O 在#O 东北亚#LOCATION 建立#O 导弹#MISC 防御#MISC 系统#MISC 的#O 计划#O ，#O 否则#O 朝鲜#GPE 决心#O 发展#O 并#O 试射#O 远程#O 导弹#O 。#O
+387 东北亚#LOCATION 局势#O 紧张#O ，#O 根据#O 韩国#GPE 媒体报道#O ，#O 朝鲜#MISC 远程#MISC 导弹#MISC 发射台#MISC 已经#O 完成#O 准备#O 作业#O ，#O 传美#O 国庆日#MISC 发射#O 。#O
+N
+388 朝鲜#GPE 曾#O 在#O 1998#MISC 年#MISC 试射#O 射程#O 2200#MISC 公里#O 的#O 大#O 浦洞#O 一型#O 导弹#O ，#O 飞越#O 日本#GPE 上空#O ，#O 震惊#O 国际#O 社会#O 。#O
+388 1998#MISC 年#MISC 朝鲜#MISC 试射#MISC 大#MISC 浦洞#MISC 一号#MISC 导弹#O ，#O 当时#O 那枚#O 导弹#O 飞越#O 日本#GPE 上空#O ，#O 引起#O 相当#O 大#O 的#O 震惊#O 。#O
+Y
+389 1998#MISC 年#MISC 8#MISC 月#MISC 朝鲜#MISC 试射#MISC 大#MISC 浦洞#MISC 一号#MISC 导弹#O ，#O 当时#O 那枚#O 导弹#O 飞越#O 日本#GPE 上空#O ，#O 引起#O 区域#O 震惊#O 。#O
+389 朝鲜#GPE 这次#O 发射#O 的#O 「#O 大#O 浦洞#O 2#MISC 号#MISC 」#O 导弹#O 飞越#O 日本#GPE 上空#O ，#O 和#O 1998#MISC 年#MISC 的#O 「#O 大#O 浦洞#O 1#MISC 号#MISC 」#O 近乎#O 相同#O 而#O 稍#O 偏南#O
+N
+390 欧洲中央银行#LOCATION 单独#O 干预#O 市场#O ，#O 使#O 欧元#O 汇价#O 大幅#O 攀升#O 近#O 一点#O 五#MISC 美分#MISC 。#O
+390 欧盟#ORGANIZATION 阿尔穆尼亚#PERSON 表示#O 反对#O 市场#O 干预#O 来#O 支撑#O 欧元#O 汇率#O
+N
+391 七大#MISC 工业#O 国家#O 宣布#O 联合#O 支撑#O 欧元#MISC
+391 欧元#O 与#O 澳元#O 这#O 段#O 时期#O 以来#O 走势#O 已趋#O 稳定#O ，#O 七大#O 工业#O 国家#O 会后#O 最#O 关心#O 的#O ，#O 就是#O 人民币#O 的#O 汇率#O
+N
+392 1999#MISC 年#MISC 10#MISC 月#MISC 7#MISC 日#MISC 莫斯科#GPE 成立#O 车臣#DEMONYM 流亡政府#DEMONYM
+392 1999#O #O 10#MISC #O 07#O 莫斯科#GPE 宣布#O 成立#O 车臣#O 流亡政府#MISC
+Y
+393 车臣#DEMONYM 人#O 一九九六年#MISC 击败#O 俄军#ORGANIZATION ，#O 取得#O 实质#O 独立#O
+393 1991#MISC 年#MISC 9#MISC 月#MISC 6#MISC 日#MISC 车臣#O 籍#O 的#O 前#O 苏联#GPE 空军#O 将领#O 杜#O 达耶#O 夫以#O 武力#O 推翻#O 当地#O 的#O 苏维埃#O 政权#O ，#O 车臣#DEMONYM 人#O 终于#O 获得#O 独立#O 。#O
+N
+394 车臣共和国#O 首府#O 是#O 格罗兹尼#GPE
+394 车臣#O 首府#O 为#O 格罗兹尼#GPE
+Y
+395 1998#O #O 08#O #O 18#MISC 晚上#MISC 十点#MISC ，#O 长江#LOCATION 洪湖#LOCATION 水位#O 已#O 达到#O 三十四点#MISC 六六#O 米#O ，#O 显示#O 长江#LOCATION 第六次#LOCATION 洪峰#LOCATION 已#O 进入#O 洪湖#LOCATION 流域#LOCATION
+395 1998#MISC 年#MISC 长江#MISC 最大#O 的#O 第六次#MISC 洪峰#O 出现#O 了#O
+N
+396 嫩江#LOCATION 第四次#MISC 洪峰#O 开始#O 注入#O 松花江#LOCATION 干流#O ，#O 使#O 松花江#GPE 的#O 洪水#O 威胁#O 明显#O 加重#O
+396 嫩江#FACILITY 第四次#FACILITY 洪峰#FACILITY 快速#O 逼近#O 哈尔滨#GPE
+N
+397 郭晶晶#PERSON 2000#MISC 年#MISC 悉尼#MISC 奥运#MISC 女子#O 单人#O 三#MISC 公尺#O 跳板#O 银牌#MISC
+397 郭晶晶#PERSON 2000#MISC 年#MISC 悉尼奥运会#MISC 女子#O 3#MISC 米#O 跳板#O 单人#O 亚军#O
+Y
+398 1999#MISC 年#MISC 5#MISC 月#MISC ，#O 郭晶晶#PERSON 参加#O 在#O 美国#GPE 佛罗里达#GPE 举行#O 的#O 国际#O 泳#O 总#O 跳水#O 大奖赛#O ，#O 与#O 梁#PERSON 小桥#O 合作#O 获#O 女子#O 双人#O 三#MISC 米#O 跳板#O 金牌#MISC 。#O
+398 1999#MISC 年#MISC 郭晶晶#PERSON 与#O 梁#PERSON 小桥#O 在#O 美国#GPE 跳水#O 大奖赛#O 夺得#O 女子#O 双人#O 跳板#O 金牌#O
+Y
+399 2001#MISC 年#MISC 世界#MISC 游泳赛#MISC ，#O 郭晶晶#PERSON 在#O 女子#O 三米板#O 跳水#O 项目#O 上以#O 三四#MISC 七点#MISC 三#MISC 一封#MISC 后#O
+399 郭晶晶#PERSON 以#O 381.75#MISC 分#O 的#O 总成绩#O 夺得#O 2001#MISC 年#MISC 世界#MISC 游泳#MISC 锦标赛#MISC 女子#O 三#MISC 米#O 跳板#O 金牌#O
+N
+400 迈克尔#PERSON -#O 乔丹#PERSON 是#O 篮球#O 之神#MISC
+400 人称#O 乔丹#PERSON 为#O 篮球#O 之神#MISC
+Y
+401 2001#MISC 年#MISC 9#MISC 月#MISC 13#MISC 日#MISC ，#O 这#O 将#O 是#O “#O 飞人#O ”#O 乔丹#O 第三次#MISC 重返#O 球场#O
+401 2001#MISC 年#MISC 乔丹#MISC 第三次#MISC 复出#O
+Y
+402 NBA#O 宣称#O 拥有#O 乔丹#PERSON 的#O 肖像权#O
+402 乔丹#PERSON 的#O 肖像权#O 并#O 不#O 属于#O NBA#O 官方#O 所有#O
+N
+403 乔丹#PERSON 1999#MISC 年#MISC 在#O 公牛#O 主场#O 召开#O 退休#O 记者会#O
+403 乔丹#PERSON 1999#MISC 年#MISC 宣布#O 退休#O
+Y
+404 1999#MISC 年#MISC 三月#MISC 十二日#MISC ，#O 波兰#GPE 加入#O 北约组织#MISC
+404 波兰#GPE 加入#O 北约#ORGANIZATION 12#MISC 周年#MISC
+N
+405 1999#MISC 年#MISC 3#MISC 月#MISC 12#MISC 日#MISC ，#O 波兰#GPE 、#O 匈牙利#GPE 和#O 捷克#GPE 三国#GPE 成为#O 北约组织#GPE 成员#O
+405 1999#MISC 年#MISC 三月#MISC 十二日#MISC ，#O 波兰#GPE 加入#O 北约组织#O
+Y
+406 波兰#GPE 把#O 加入#O 北约#ORGANIZATION 视为#O 冷战#MISC 时代#MISC 欧洲#LOCATION 分裂#O 的#O 结束#O
+406 避免出现#O 欧洲#LOCATION 分裂#O 、#O 对抗#O 的#O 局面#O ，#O 北约#ORGANIZATION 看来#O 很#O 有#O 可能#O 大概#O 在#O 1999#MISC 年#MISC 实行#O 扩展#O 而#O 接纳#O 波兰#GPE 、#O 捷克共和国#GPE 和#O 匈牙利#GPE 。#O
+N
+407 乔丹#PERSON 获得#O 五次#O NBA#O 最有#O 价值#O 球员#O
+407 乔丹#PERSON 五度#O 获得#O NBA#O 最有#O 价值#O 球员#O
+Y

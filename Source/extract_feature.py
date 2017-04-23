@@ -8,8 +8,11 @@ import text_pair
 import re
 from bigram import *
 from base_processing import *
+from knowledge import *
 
 MAX_EDIT_DISTANCE = 45.0
+MAX_ANTONYM_NUM = 3
+MAX_SYNONYM_NUM = 20
 
 
 class TextFeature:
@@ -35,9 +38,8 @@ class TextFeature:
                         self._tree_parser_r(), self._fea_longer(), self._fea_part(), self._fea_time_equal(),
                         self._fea_num_equal(),self._fea_num(), self._fea_english(), self._fea_bracket(),
                         self._fea_quotation(), self._fea_entity_name(), self._fea_entity_type(), self._fea_and(),
-                        self._fea_or(), self._fea_antonym(), self._fea_synonym(), self._fea_hyper_ud(),
-                        self._fea_hyper_du(), self._fea_neg(), self._fea_wish(), self._fea_may(), self._fea_sum(),
-                        self._fea_hfall(), self._fea_hrise()]
+                        self._fea_or(), self._fea_antonym_ratio(), self._fea_synonym_ratio(), self._fea_hyper_ud(),
+                        self._fea_hyper_du(), self._fea_neg(), self._fea_may()]
 
     def _n_gram_overlap(self):
         """
@@ -344,11 +346,31 @@ class TextFeature:
 
         return 1
 
-    def _fea_antonym(self):
-        return 1
+    def _fea_antonym_ratio(self):
+        """
+        antonym number ratio
+        """
+        num = 0
+        for word2 in self.t2_cut:
+            for word1 in self.t1_cut:
+                if Antonyms.judge_antonym(word2, word1):
+                    num += 1
+                    break
 
-    def _fea_synonym(self):
-        return 1
+        return min(num * 1. / MAX_ANTONYM_NUM, 1)
+
+    def _fea_synonym_ratio(self):
+        """
+        synonym number ratio
+        """
+        num = 0
+        for word2 in self.t2_cut:
+            for word1 in self.t1_cut:
+                if Synonyms.judge_synonyms(word2, word1):
+                    num += 1
+                    break
+
+        return min(num * 1. / MAX_SYNONYM_NUM, 1)
 
     def _fea_hyper_ud(self):
         return 1
@@ -357,37 +379,65 @@ class TextFeature:
         return 1
 
     def _fea_neg(self):
-        return 1
+        """
+        whether have negative word
+        """
+        word_neg = ['不是', '不可', '没有', '不要', '不能', '不得', '不让', '不应该' ,'否定', '并非', '禁止']
 
-    def _fea_wish(self):
+        flag_t1 = False
+        flag_t2 = False
+
+        for word in self.t2_cut:
+            if word in word_neg:
+                flag_t2 = True
+        for word in self.t1_cut:
+            if word in word_neg:
+                flag_t1 = True
+
+        if flag_t1 is not flag_t2:
+            return 0
+
         return 1
 
     def _fea_may(self):
-        return 1
+        """
+        whether have different words express possible
+        """
+        word_may = ['可能', '好像', '或者', '大约', '粗略', '概略', '大体', '大致', '不定',
+                    '大致', '大抵', '或许', '约略', '简略', '八成', '大要', '也许',
+                    '大略', '不一定']
+        word_must = ['一定', '肯定', '必须', '必需', '必然', '确定', '注定', '必定', '详细',
+                     '确乎', '周密', '细致', '具体', '不会']
 
-    def _fea_sum(self):
-        return 1
+        def _judge(text, wordl):
+            for word in text:
+                if word in wordl:
+                    return True
+            return False
 
-    def _fea_hrise(self):
-        return 1
+        flag_t1_may = _judge(self.t1_cut, word_may)
+        flag_t1_must = _judge(self.t1_cut, word_must)
+        flag_t2_may = _judge(self.t2_cut, word_may)
+        flag_t2_must = _judge(self.t2_cut, word_must)
 
-    def _fea_hfall(self):
+        if flag_t1_may is not flag_t2_may or flag_t1_must is not flag_t2_must:
+            return 0
+
         return 1
 
 
 if __name__ == '__main__':
     load_model()
+    load_knowedge()
 
     text_all = text_pair.read_text('../Data/train.txt')
     text_cut_all = text_pair.read_text('../Data/train_cut.txt')
     text_pos_all = text_pair.read_text('../Data/train_pos.txt')
     text_ner_all = text_pair.read_text('../Data/train_ner.txt')
 
-    if len(text_all) != len(text_cut_all):
-        exit(-1)
-
     for i in range(len(text_all)):
-        TextFeature(text_all[i], text_cut_all[i], text_pos_all[i], text_ner_all[i], 0)
+        t = TextFeature(text_all[i], text_cut_all[i], text_pos_all[i], text_ner_all[i], 0).feature
+        print(t[19])
 
     # fea = fea_bracket('14策1925-10-00委1925-10-15，会ewfewfew 05:10:00', '14策(策)-（10）-【0】0委1《92》5-<1>0-1{5}')
     # print(fea)
