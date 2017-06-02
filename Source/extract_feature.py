@@ -45,7 +45,6 @@ class TextFeature:
         """
         bigram overlap
         """
-
         # generate pair of words for bigram
         def _create_bi(text_cut):
             text_cut.append('</s>')
@@ -97,7 +96,41 @@ class TextFeature:
         return idf_comm / idf_t2
 
     def _cosine_similarity(self):
-        return 1
+        words = []
+
+        # add word to word list
+        for word in self.t1_cut:
+            if word not in words:
+                words.append(word)
+        for word in self.t2_cut:
+            if word not in words:
+                words.append(word)
+
+        # calculate vector
+        vec1 = [0 for i in range(len(words))]
+        vec2 = [0 for i in range(len(words))]
+
+        for word in self.t1_cut:
+            idx = words.index(word)
+            vec1[idx] += 1
+        for word in self.t2_cut:
+            idx = words.index(word)
+            vec2[idx] += 1
+
+        def _cos(vector1, vector2):
+            dot_product = 0.0
+            normA = 0.0
+            normB = 0.0
+            for a, b in zip(vector1, vector2):
+                dot_product += a * b
+                normA += a ** 2
+                normB += b ** 2
+            if normA == 0.0 or normB == 0.0:
+                return None
+            else:
+                return dot_product / ((normA * normB) ** 0.5)
+
+        return _cos(vec1, vec2)
 
     def _edit_distance_r(self):
         def _edit_distance(_t1, _t2):
@@ -281,6 +314,7 @@ class TextFeature:
 
         return 1
 
+    # TODO, need optimization
     def _fea_entity_name(self):
         """
         whether t1 and t2 has the same name entity
@@ -350,6 +384,7 @@ class TextFeature:
         """
         antonym number ratio
         """
+        return 0
         num = 0
         for word2 in self.t2_cut:
             for word1 in self.t1_cut:
@@ -363,6 +398,7 @@ class TextFeature:
         """
         synonym number ratio
         """
+        return 0
         num = 0
         for word2 in self.t2_cut:
             for word1 in self.t1_cut:

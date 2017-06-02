@@ -74,15 +74,32 @@ def core(tpair):
     return tfeature.feature
 
 
-def get_accuracy(initial_label, result_label):
-    result = [initial_label[i] == result_label[i] for i in range(len(initial_label))]
+def evaluate(initial_label, result_label):
 
-    num = 0
-    for ele in result:
-        if ele:
-            num += 1
+    cnt_yn = [[0, 0], [0, 0]]
 
-    return num * 1. / len(initial_label)
+    for i in range(len(initial_label)):
+        if initial_label[i] == 'Y' and result_label[i] == 'Y':
+            cnt_yn[0][0] += 1
+        elif initial_label[i] == 'Y' and result_label[i] == 'N':
+            cnt_yn[0][1] += 1
+        elif initial_label[i] == 'N' and result_label[i] == 'Y':
+            cnt_yn[1][0] += 1
+        elif initial_label[i] == 'N' and result_label[i] == 'N':
+            cnt_yn[1][1] += 1
+
+    py = cnt_yn[0][0] / (cnt_yn[0][0] + cnt_yn[1][0])
+    pn = cnt_yn[1][1] / (cnt_yn[1][1] + cnt_yn[0][1])
+    ry = cnt_yn[0][0] / (cnt_yn[0][0] + cnt_yn[0][1])
+    rn = cnt_yn[1][1] / (cnt_yn[1][1] + cnt_yn[1][0])
+
+    f1y = 2 * py * ry / (py + ry)
+    f1n = 2 * pn * rn / (pn + rn)
+
+    f1 = (f1y + f1n) / 2
+    acc = (cnt_yn[0][0] + cnt_yn[1][1]) / (cnt_yn[0][0] + cnt_yn[0][1] + cnt_yn[1][0] + cnt_yn[1][1])
+
+    return acc, f1
 
 
 def train(gamma=0.):
@@ -117,11 +134,12 @@ def train(gamma=0.):
     joblib.dump(clf, '../Models/svm_model.m')
 
     result = clf.predict(vec)
-    rate = get_accuracy(label, result)
-    print("Accuracy: ", rate)
+    acc, f1 = evaluate(label, result)
+    print("Accuracy: ", acc)
+    print("macroF1: ", f1)
 
 
-def main(SHOW=1):
+def test(SHOW=1):
     clf = joblib.load('../Models/svm_model.m')
     bigram.load_model()
 
@@ -143,9 +161,10 @@ def main(SHOW=1):
 
         result = clf.predict(vec)
         label = [ele.label for ele in test_all]
-        rate = get_accuracy(label, result)
 
-        print("Accuracy: ", rate)
+        acc, f1 = evaluate(label, result)
+        print("Accuracy: ", acc)
+        print("macroF1: ", f1)
 
     else:
 
@@ -172,7 +191,7 @@ if __name__ == '__main__':
     # merge_text("train3_ner", "train2_ner", "train_ner")
 
     # train(0.4)
-    main(SHOW=1)
+    test(SHOW=0)
 
     # for gamma in range(4, 5):
     #     print(gamma / 10.0, end=' ')
