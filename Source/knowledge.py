@@ -13,6 +13,9 @@ class Synonyms:
 
     @staticmethod
     def judge_synonyms(word1, word2):
+        if word1 == word2:
+            return 1
+
         for word_class in Synonyms.word_dic:
             if word1 in word_class and word2 in word_class:
                 return 1
@@ -34,6 +37,9 @@ class Antonyms:
 
     @staticmethod
     def judge_antonym(word1, word2):
+        if word1 == word2:
+            return 0
+
         for word_class in Antonyms.word_dic:
             if word1 in word_class and word2 in word_class:
                 return 1

@@ -11,7 +11,7 @@ from base_processing import *
 from knowledge import *
 
 MAX_EDIT_DISTANCE = 45.0
-MAX_ANTONYM_NUM = 3
+MAX_ANTONYM_NUM = 4
 MAX_SYNONYM_NUM = 20
 
 
@@ -380,31 +380,35 @@ class TextFeature:
 
         return 1
 
+    # TODO: optimization
     def _fea_antonym_ratio(self):
         """
         antonym number ratio
         """
-        return 0
+        # return 0
         num = 0
-        for word2 in self.t2_cut:
-            for word1 in self.t1_cut:
-                if Antonyms.judge_antonym(word2, word1):
-                    num += 1
-                    break
+        for word2 in self.t2_pos:
+            for word1 in self.t1_pos:
+                if word2[1] != word1[1]:
+                    if Antonyms.judge_antonym(word2, word1):
+                        num += 1
+                        break
 
         return min(num * 1. / MAX_ANTONYM_NUM, 1)
 
+    # TODO: optimization
     def _fea_synonym_ratio(self):
         """
         synonym number ratio
         """
-        return 0
+        # return 0
         num = 0
-        for word2 in self.t2_cut:
-            for word1 in self.t1_cut:
-                if Synonyms.judge_synonyms(word2, word1):
-                    num += 1
-                    break
+        for word2 in self.t2_pos:
+            for word1 in self.t1_pos:
+                if word1[1] == word2[1]:
+                    if Synonyms.judge_synonyms(word2, word1):
+                        num += 1
+                        break
 
         return min(num * 1. / MAX_SYNONYM_NUM, 1)
 
