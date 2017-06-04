@@ -169,7 +169,6 @@ class TextFeature:
             lena = len(a)
             lenb = len(b)
             c = [[0 for i in range(lenb + 1)] for j in range(lena + 1)]
-            flag = [[0 for i in range(lenb + 1)] for j in range(lena + 1)]
             for i in range(lena):
                 for j in range(lenb):
                     if a[i] == b[j]:
@@ -389,7 +388,7 @@ class TextFeature:
         num = 0
         for word2 in self.t2_pos:
             for word1 in self.t1_pos:
-                if word2[1] != word1[1]:
+                if word2[1] == word1[1]:
                     if Antonyms.judge_antonym(word2, word1):
                         num += 1
                         break
