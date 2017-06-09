@@ -1,0 +1,2409 @@
+1 截止#O 至#MISC 2012#MISC 年#MISC ，#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 共有#O 36#MISC 名#O 校友#O 获#O 诺贝尔奖#MISC 。#O
+1 截止#O 至#MISC 2012#MISC 年#MISC ，#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 已有#O 多名#O 校友#O 获#O 诺贝尔奖#MISC 。#O
+NONE
+2 世界遗产#O 的#O 选出#O 是#O 由#O 联合国教科文组织世界遗产委员会#ORGANIZATION 来#O 投票#O 开会#O 决定#O 。#O
+2 世界遗产#O 的#O 选出#O 是#O 由#O 联合国教科文组织世界遗产委员会#ORGANIZATION 会长#O 来#O 指定#O 。#O
+NONE
+3 檀香山#GPE 为#O 美国#GPE 夏威夷州#GPE 最大#O 的#O 城市#O 暨#O 首府#O 。#O
+3 檀香山#GPE 为#O 美国#ORGANIZATION 夏威夷州#ORGANIZATION 首府#O ，#O 也#O 是#O 最大#O 的#O 城市#O 。#O
+NONE
+4 印尼#GPE 发生#O 的#O 最大#O 地震#O ，#O 掀起#O 10#MISC 公尺#O 高墙#O 般的#O 巨浪#O 海啸#O
+4 印尼#GPE 海域#O 发生#O 巨大#O 海啸#O ，#O 根据#O CNN#O 报导#O ，#O 巨浪#O 瞬间#O 淹没#O 10#MISC 座#O 村落#O 。#O
+NONE
+5 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 清朝#MISC 宫廷#O 女#O 官裕德龄#O 所#O 撰写#O 的#O 一本#O 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O
+5 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 被#O 清朝#MISC 宫廷#O 女#O 官裕德龄#O 撰写#O 成#O 《#O 瀛台#O 泣血#O 记#O 》#O 。#O
+NONE
+6 1995#MISC 年#MISC ,#O 世界#O 上#O 第一部#MISC 全#O CG#O 电影#O 《#O 玩具#ORGANIZATION 总动员#ORGANIZATION 》#O 上映#O
+6 《#O 玩具#MISC 总动员#MISC 》#O 是#O 世界#O 上#O 第一部#MISC 全#O CG#O 电影#O
+NONE
+7 2008#MISC 年#MISC 北京#MISC 奥运会#MISC 是#O 中国#GPE 首次#O 举办#O 的#O 夏季#MISC 奥运会#MISC 。#O
+7 2008#MISC 年京#MISC 奥是#O 中国#GPE 首次#O 举办#O 的#O 夏季#MISC 奥运会#MISC 。#O
+NONE
+8 东照宫#O 是#O 供奉#O 日本#GPE 最后#O 一代#O 幕府#O —#O 江户#O 幕府#O 的#O 开府#O 将军#O 德#O 川家康#O 的#O 神社#O 。#O
+8 东照宫#O 是#O 供奉#O 江户#O 幕府#O 的#O 开府#O 将军#O 德#O 川家康#O 的#O 神社#O 。#O
+NONE
+9 火地#O 群岛#O ，#O 是#O 南美洲#LOCATION 最南端#O 的#O 岛屿#O 群#O ，#O 由主岛#LOCATION 大#LOCATION 火地岛#LOCATION 及#O 周边#O 小岛#O 组成#O 。#O
+9 火地#O 群岛#O 组成#O 有#O 不#O 只#O 一个#O 岛#O 。#O
+NONE
+10 1970#MISC 年代#MISC ，#O 瑞典#GPE 通过#O 现代#O 宪法#O ，#O 瑞典#GPE 国王#O 在#O 议会#O 的#O 一切#O 权力#O 被#O 废除#O 。#O 但#O 内阁#O 每月#O 仍会#O 向#O 国王#O 在#O 王宫#O 内#O 正式#O 汇报#O 。#O
+10 1970#MISC 年代#MISC ，#O 瑞典#GPE 成为#O 君主立宪#O 国家#O 。#O
+NONE
+11 汽电#O 共生#O 在#O 丹麦#GPE 等#O 斯堪的纳维亚#GPE 国家#O 以及#O 德国#GPE 的#O 一部分#O 被#O 广泛#O 使用#O 。#O
+11 汽电#O 共生#O 在#O 全#O 德国#GPE 被#O 广泛#O 使用#O 。#O
+NONE
+12 截至#O 2003#MISC 年底#MISC ,#O 上海市#GPE 常住人口#O 达到#O 了#O 1711#MISC 万人#MISC
+12 截至#O 2003#MISC 年底#MISC ,#O 上海市#GPE 常住人口#GPE 超过#O 了#O 1700#MISC 万人#O
+NONE
+13 淡水#GPE 的#O 红毛城#O 不#O 但是#O 台湾#GPE 现存#O 最#O 古老#O 的#O 建筑#O 之一#O ，#O 同时#O 也#O 被#O 列为#O 国家一级#O 古#O 蹟#O 。#O
+13 台南#GPE 的#O 红毛城#O 不#O 但是#O 台湾#GPE 现存#O 最#O 古老#O 的#O 建筑#O 之一#O ，#O 同时#O 也#O 被#O 列为#O 国家一级#O 古#O 蹟#O 。#O
+NONE
+14 日本#GPE 于#O 2005#MISC 年#MISC 发行#O 上映#O 的#O 动画电影#O 《#O 蒸气#MISC 男孩#MISC 》#MISC ，#O 其#O 故事#O 背景#O 以#O 英国#GPE 1851#MISC 年#MISC 万国#MISC 博览会#MISC 为主#O 。#O
+14 蒸气#O 男孩#O 的#O 故事#O 背景#O 是#O 英国#MISC 1851#MISC 年#MISC 万国#MISC 博览会#MISC 。#O
+NONE
+15 约克#MISC 王朝#MISC (#O House#O of#O York#O )#O 于#O 15#MISC 世纪#MISC 后#O 半叶#O 与#O 兰开斯特#MISC 王朝#MISC 争夺#MISC 王位#MISC ，#O 最后#O 导致#O 了#O 玫瑰#MISC 战争#MISC 。#O
+15 约克#MISC 王朝#MISC (#O House#O of#O York#O )#O 与#O 兰开斯特#MISC 王朝#MISC 争夺#MISC 王位#MISC ，#O 最后#O 于#O 15#MISC 世纪#MISC 后#O 半叶#O 导致#O 了#O 玫瑰#MISC 战争#MISC 。#O
+NONE
+16 同性恋#O 权益#O 拥护者#O 则#O 对#O 若望#O ·#O 保禄#O 二世#MISC 代表#O 教会#O 宣示#O 同#O 性欲望#O 是#O “#O 明显#O 的#O 病态#O ”#O 并#O 反对#O 同性#O 婚姻#O 感到#O 不满#O 。#O
+16 同性恋#O 权益#O 拥护者#O 则#O 对#O 若望#O ·#O 保禄#O 二世#MISC 代表#O 教会#O 宣示#O 同#O 性欲望#O 是#O “#O 明显#O 的#O 病态#O ”#O 并#O 拥护#O 同性#O 婚姻#O 感到#O 不满#O 。#O
+NONE
+17 野口#PERSON 英世#PERSON 曾#O 被#O 三度#O 提名#O 诺贝尔#MISC 医学奖#MISC ，#O 而#O 最后#O 一次#MISC 有#O 机会#O 获奖#O ，#O 却#O 因为#O 第一次世界大战#MISC 发生#O ，#O 而#O 宣布#O 取消#O 颁奖#O 。#O
+17 野口#PERSON 英世#PERSON 因为#O 第一次世界大战#MISC 发生#O ，#O 错过#O 他#O 的#O 第三枚#MISC 诺贝尔#MISC 医学奖#MISC 。#O
+NONE
+18 2005#MISC 年#MISC 日本政府#ORGANIZATION 批准#O 民间#O 石油勘探#O 公司#O "#O 帝国#O 石油#O "#O 勘探#O 东海#FACILITY 油气田#FACILITY ，#O 并#O 给予#O 试凿权#O
+18 2005#MISC 年#MISC 民间#ORGANIZATION 石油勘探#ORGANIZATION 公司#ORGANIZATION “#O 帝国#O 石油#O ”#O 被#O 日本政府#ORGANIZATION 授权#O 勘探#O 东海#FACILITY 油气田#FACILITY ，#O 并#O 获得#O 试凿权#O
+NONE
+19 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 清朝#MISC 宫廷#O 女#O 官裕德龄#O 所#O 撰写#O 的#O 一本#O 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O
+19 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 清朝#MISC 宫廷#O 女#O 官裕德龄#O 所#O 撰写#O 的#O 三本#O 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O
+NONE
+20 近#O 一百年#MISC 来#O 二氧化碳#O 的#O 大量#O 排放#O 导致#O 全球#MISC 变暖#MISC 。#O
+20 导致#O 全球#O 变暖#O 的#O 二氧化碳#O 遭#O 大量#O 排放#O 。#O
+NONE
+21 中国#GPE 版本#O 的#O 《#O Top#MISC Gear#MISC 》#O 由#O 湖南卫视#PERSON 买下#O ，#O 取名#O 《#O 最高#O 挡#O 》#O 。#O
+21 中国#GPE 版本#O 的#O 《#O Top#MISC Gear#MISC 》#O 被#O 重新命名#O 为#O 《#O 最高#O 挡#O 》#O 。#O
+NONE
+22 《#O 红楼梦#MISC 》#O 被#O 评为#O 中国#GPE 古典#O 章回小说#O 的#O 巅峰#O 之作#O ，#O 思想#O 价值#O 和#O 艺术#O 价值#O 极高#O 。#O
+22 《#O 红楼梦#MISC 》#O 是#O 思想#O 价值#O 和#O 艺术#O 价值#O 极高#O 的#O 巅峰#O 之作#O 。#O
+NONE
+23 《#O 红楼梦#MISC 》#O 被#O 评为#O 中国#GPE 古典#O 章回小说#O 的#O 巅峰#O 之作#O ，#O 思想#O 价值#O 和#O 艺术#O 价值#O 极高#O 。#O
+23 《#O 红楼梦#MISC 》#O 被#O 评为#O 中国#GPE 古典#O 章回小说#O 的#O 最高#O 杰作#O ，#O 思想#O 价值#O 和#O 艺术#O 价值#O 极高#O 。#O
+NONE
+24 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 分割#O 为#O 两个#MISC 独立#O 的#O 集团#O 。#O
+24 包括#O 中信#O 金控#O 在内#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 分家#O 。#O
+NONE
+25 世界#O 少棒#O 大赛#O 是#O 位于#O 美国#GPE 的#O 世界#ORGANIZATION 少棒#ORGANIZATION 联盟#ORGANIZATION (#O LLB#O )#O 所#O 举办#O 的#O 世界性#O 少年#O 棒球#O 比赛#O 。#O
+25 世界#O 少棒#O 大赛#O 是#O 位于#O 美国#GPE 的#O 世界#ORGANIZATION 少棒#ORGANIZATION 联盟#ORGANIZATION (#O LLB#O )#O 所#O 举办#O 的#O 美国#DEMONYM 少年#O 棒球#O 比赛#O 。#O
+NONE
+26 火地#O 群岛#LOCATION 南端#O 的#O 合恩角#O 是#O 南美洲#LOCATION 智利#LOCATION 火地#LOCATION 群岛#LOCATION 南端#O 的#O 陆#O 岬#O ，#O 广泛#O 认为#O 是#O 南美洲#LOCATION 的#O 最南端#O 。#O
+26 南美洲#LOCATION 火地#LOCATION 群岛#LOCATION 南端#O 的#O 陆#O 岬#O 是#O 南美洲#LOCATION 的#O 最南端#O 。#O
+NONE
+27 李宇春#PERSON 在#O 总决赛#O 中共#ORGANIZATION 获得#O 全国#O 观众#O 公开#O 投票#O 352#MISC 万余#MISC 票#O 并#O 最终#O 夺得#O 2005#MISC 超级女#O 声#O 的#O 总冠军#O
+27 2005#O 超级女#O 声#O 的#O 冠军#O 是#O 李宇春#PERSON
+NONE
+28 国际#O 数学#O 奥林匹亚#GPE 题目#O 一般#O 分为#O 代数#O 、#O 几何#O 、#O 数论#O 和#O 组合#O 数学#O 四大#O 类#O 。#O
+28 国际#O 数学#O 奥林匹亚#GPE 题目#O 一般#O 分为#O 六大类#O 。#O
+NONE
+29 现今#O 学界#O 普遍认为#O 红楼梦#O 通行本#O 前#O 八十回#MISC 为#O 曹雪芹#PERSON 所#O 作#O ，#O 后#O 四十回#O 不知#O 为何#O 人所作#O 。#O
+29 现今#O 学界#O 普遍认为#O 红楼梦#O 通行本#O 前#O 60#MISC 回为#O 曹雪芹#PERSON 所#O 作#O ，#O 后#O 30#O 回#O 不知#O 为何#O 人所作#O 。#O
+NONE
+30 全世界#O 75#O %#O —#O 85#O %#O 的#O 琥珀#O 産#O 于#O 波罗地海#LOCATION 沿岸#O 的#O 波兰#GPE 、#O 俄罗斯#GPE 、#O 立陶宛#GPE 等#O 国家#O 。#O
+30 全世界#O 75#O %#O —#O 85#O %#O 的#O 琥珀#O 産#O 于#O 波罗地海#LOCATION 沿岸#O 的#O 国家#O 。#O
+NONE
+31 319#MISC 枪击案#MISC 是#O 压垮#O 台湾#GPE 蓝营#O 竞选#O 的#O 最后#O 一根#O 稻草#O
+31 台湾#GPE 蓝营#O 是#O 压垮#O 319#MISC 枪击案#MISC 的#O 最后#O 一根#O 稻草#O
+NONE
+32 若望#O ·#O 保禄#O 二世#MISC 曾#O 访问#O 罗马尼亚#GPE ，#O 成为#O 自从#O 1054#MISC 年#MISC 东西#O 教会#O 分裂#O 之后#O ，#O 第一位#MISC 拜访#O 东正教#O 国家#O 的#O 教宗#O 。#O
+32 若望#O ·#O 保禄#O 二世#MISC 曾#O 访问#O 罗马尼亚#GPE ，#O 成为#O 自从#O 1054#MISC 年#MISC 东西#O 教会#O 分裂#O 之后#O ，#O 第一位#MISC 拜访#O 希腊#GPE 正教#O 国家#O 的#O 教宗#O 。#O
+NONE
+33 火地#O 群岛#LOCATION 南端#O 的#O 合恩角#O 是#O 南美洲#LOCATION 智利#LOCATION 火地#LOCATION 群岛#LOCATION 南端#O 的#O 陆#O 岬#O ，#O 广泛#O 认为#O 是#O 南美洲#LOCATION 的#O 最南端#O 。#O
+33 火地#O 群岛#LOCATION 南端#O 的#O 合恩角#O 是#O 南美洲#LOCATION 智利#LOCATION 火地#LOCATION 群岛#LOCATION 南端#O 的#O 陆#O 岬#O ，#O 曾#O 被#O 认为#O 是#O 南美洲#LOCATION 的#O 最南端#O 。#O
+NONE
+34 除#O 广东#GPE 以外#O ，#O 萝#O 蔔#O 糕#O 在#O 台湾#GPE 、#O 新加坡#GPE 及#O 马来西亚#GPE 等#O 国家#O ，#O 甚至#O 东亚地区#LOCATION 也#O 极为#O 普遍#O 。#O
+34 除#O 广西#GPE 以外#O ，#O 萝#O 蔔#O 糕#O 在#O 台湾#GPE 、#O 新加坡#GPE 及#O 马来西亚#GPE 等#O 国家#O ，#O 甚至#O 东亚地区#LOCATION 也#O 极为#O 普遍#O 。#O
+NONE
+35 南北朝#O 陶弘景#PERSON 所著#O 的#O 《#O 名医#MISC 别录#MISC 》#O 概括#O 的#O 琥珀#O 三大#MISC 功效#O 为#O ：#O 去#O 惊#O 定神#O ，#O 活血#O 散#O 淤#O ，#O 利尿#O 通淋#O 。#O
+35 南北朝#O 陶弘景#PERSON 所著#O 的#O 《#O 名医#MISC 别录#MISC 》#O 是#O 探索#O 中药材#O 效用#O 的#O 书#O 。#O
+NONE
+36 2004#MISC 年#MISC 12#MISC 月#MISC 26#MISC 日#MISC 上午#MISC 印尼#GPE 北苏门答腊#GPE 西岸#LOCATION 外海#O 地震#O 随即#O 引发#O 强烈#O 海啸#O ，#O 造成#O 重大#O 伤亡#O
+36 2004#MISC 年#MISC 12#MISC 月#MISC 26#MISC 日#MISC 上午#MISC 印尼#GPE 北苏门答腊#GPE 西岸#LOCATION 外海#O 地震#O 随即#O 引发#O 强烈#O 海啸#O ，#O 没有#O 造成#O 伤亡#O
+NONE
+37 《#O 罪与罚#MISC 》#O 是#O 俄国#GPE 文学家#O 杜斯妥#PERSON 也#O 夫斯基#O 的#O 长篇小说#O 作品#O ，#O 出版#O 于#O 1866#MISC 年#MISC 。#O
+37 《#O 罪与罚#MISC 》#O 是#O 俄国#GPE 文学家#O 杜斯妥#PERSON 也#O 夫斯基#O 的#O 小说作品#O ，#O 出版#O 于#O 1866#MISC 年#MISC 。#O
+NONE
+38 和#O 信#O 集团#O （#O 又称#O 和#O 信#O 企业#O 团#O ）#O 是#O 台湾#GPE 的#O 民营企业#O ，#O 由#O 鹿港#GPE 辜家#O 的#O 辜振甫#O 所#O 创立#O 。#O
+38 和#O 信#O 集团#O （#O 又称#O 和#O 信#O 企业#O 团#O ）#O 是#O 台湾#GPE 的#O 企业#O ，#O 由#O 鹿港#GPE 辜家#O 的#O 辜振甫#O 所#O 创立#O 。#O
+NONE
+39 全球#O 资讯网#O 并#O 不#O 等同#O 互联网#O ，#O 全球#O 资讯网#O 只是#O 互联网#O 所#O 能#O 提供#O 的#O 服务#O 其中#O 之一#MISC ，#O 是#O 靠着#O 互联网#O 运行#O 的#O 一项#O 服务#O 。#O
+39 WWW#O 并#O 不#O 等同#O 互联网#O ，#O WWW#O 只是#O 互联网#O 所#O 能#O 提供#O 的#O 服务#O 其中#O 之一#MISC ，#O 是#O 靠着#O 互联网#O 运行#O 的#O 一项#O 服务#O 。#O
+NONE
+40 自#O 1938#MISC 年#MISC 创立#O 以来#O ，#O 琉森#MISC 音乐节#MISC 已有#O 七十多年#MISC 的#O 历史#O 。#O
+40 自#O 1938#MISC 年#MISC 创立#O 以来#O ，#O 琉森#MISC 音乐节#MISC 已有#O 70#MISC 多年#MISC 的#O 历史#O 。#O
+NONE
+41 最#O 年轻#O 踏上#O 红#O 磡#O 体育馆#O 开#O 演唱会#O 的#O 为#O 台湾#GPE 男歌手#O 林志颖#PERSON （#O 当时#O 18#MISC 岁#MISC ）#O 。#O
+41 最#O 年轻#O 踏上#O 红#O 磡#O 体育馆#O 开#O 演唱会#O 的#O 为#O 台湾#GPE 男歌手#O 林志颖#PERSON （#O 当时#O 年仅#O 十六岁#O ）#O 。#O
+NONE
+42 1981#MISC 年#MISC 6#MISC 月#MISC 6#MISC 日#MISC ，#O 美国#GPE 疾病#O 控制#O 与#O 预防#ORGANIZATION 中心#ORGANIZATION 通报#O 全球#O 首宗#O 爱滋病#O 感染#O 案例#O 。#O
+42 1983#MISC 年#MISC ，#O 美国#ORGANIZATION 疾病#ORGANIZATION 控制#ORGANIZATION 与#ORGANIZATION 预防#ORGANIZATION 中心#ORGANIZATION 通报#O 全球#O 首宗#O 爱滋病#O 感染#O 案例#O 。#O
+NONE
+43 核能#O 、#O 太阳能#O 、#O 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电站#O 的#O 发电#O 成本#O 仍然#O 高于#O 化石#O 燃料#O 发电#O 。#O
+43 核能#O 、#O 太阳能#O 、#O 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电站#O 的#O 发电#O 成本#O 仍然#O 明显#O 高于#O 化石#O 燃料#O 发电#O 。#O
+NONE
+44 美国#GPE 在台协会#O 基于#O 其#O 功能#O 业务#O ，#O 事实上#O 相当于#O 美国#GPE 在#O 中华民国#GPE （#O 台湾#GPE ）#O 的#O 大使级#O 外交代表#O 机构#O 。#O
+44 美国#GPE 在台协会#O 其#O 功能#O 业务#O ，#O 事实上#O 相当于#O 大使级#O 外交代表#O 机构#O 。#O
+NONE
+45 美国#GPE 认为#O 伊拉克#GPE 具有#O 生化武器#O ，#O 甚至#O 可能#O 发展#O 核武器#MISC
+45 伊拉克#GPE 认为#O 美国#GPE 具有#O 生化武器#O 以及#O 核武器#MISC
+NONE
+46 2001#MISC 年#MISC 9#MISC 月#MISC 11#MISC 日#MISC ，#O 美国#GPE 本土#O 遭受#O 恐怖袭击#O ,#O 于是#O 对#O 中东#LOCATION 发动战争#O ,#O 趁势#O 加强#O 对#O 从#O 中亚#LOCATION 延伸#O 到#O 中东#LOCATION ，#O 深#O 俱#O 战略#O 位置#O 并#O 拥有#O 丰富#O 石油资源#O 的#O 欧亚#LOCATION 心脏地带#O 的#O 控制#O
+46 2001#MISC 年#MISC 9#MISC 月#MISC 11#MISC 日#MISC ，#O 美国#GPE 本土#O 遭受#O 恐怖袭击#O ，#O 美国#GPE 随即#O 发动#O 对#O 阿富汗#MISC 战争#MISC
+NONE
+47 同性恋#O 权益#O 拥护者#O 则#O 对#O 若望#O ·#O 保禄#O 二世#MISC 代表#O 教会#O 宣示#O 同#O 性欲望#O 是#O “#O 明显#O 的#O 病态#O ”#O 并#O 反对#O 同性#O 婚姻#O 感到#O 不满#O 。#O
+47 同性恋#O 权益#O 拥护者#O 对若望#O ·#O 保禄#O 二世#MISC 代表#O 教会#O 反对#O 同性#O 婚姻#O 感到#O 不满#O 。#O
+NONE
+48 第#O 61#MISC 届#O 金球奖#MISC 颁奖典礼#O 已经#O 结束#O ，#O 《#O 指环王#MISC 3#MISC ：#MISC 王者#MISC 回归#MISC 》#O 囊括#O 了#O 最佳#O 剧情#O 类#O 影片#O 、#O 最佳#O 原创#O 配乐#O 、#O 最佳#O 原创#O 歌曲#O 、#O 最佳#O 导演奖#O 等#O 四项#MISC 金球奖#MISC 。#O
+48 指环王#O 3#MISC 在#O 第#O 61#MISC 届#O 金球奖#MISC 颁奖典礼#O 上#O 获得#O 四项#MISC 金球奖#MISC 。#O
+NONE
+49 大众#O 特#O 植物园#O 占地约#PERSON 8#MISC 公顷#O ，#O 是#O 夏威夷#LOCATION 最#O 古老#O 的#O 植物园#O ，#O 并且#O 是#O 属于#O 登记#O 的#O 美国#GPE 国家#O 历史#O 古#O 蹟#O 之一#O 。#O
+49 大众#O 特#O 植物园#O 占地约#O 18#MISC 公顷#O ，#O 是#O 夏威夷#LOCATION 最#O 古老#O 的#O 植物园#O 。#O
+NONE
+50 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 清朝#MISC 宫廷#O 女#O 官裕德龄#O 所#O 撰写#O 的#O 一本#O 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O
+50 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 清朝#MISC 宫廷#O 女#O 官裕德龄#O 所#O 撰写#O 的#O 一本#O 有关#O 光绪#O 一生#O 的#O 故事#O 。#O
+NONE
+51 头号#O 种子#O 费德勒#PERSON 以#O 4#MISC :#O 6#MISC 、#O 7#MISC :#O 5#MISC 、#O 6#MISC :#O 4#MISC 艰难#O 战胜#O 持#O 外卡#O 参赛#O 的#O 选手#O 吉内普#O 里#O
+51 费德勒#PERSON 艰难#O 战胜#O 持#O 外卡#O 参赛#O 的#O 选手#O 吉内普#O 里#O
+NONE
+52 燃煤#O 所#O 排出#O 的#O 二氧化碳#O 是#O 温室#O 气体#O 之一#O ，#O 会#O 造成#O 温室效应#O 。#O
+52 燃煤#O 所#O 吸收#O 的#O 二氧化碳#O 是#O 温室#O 气体#O 之一#O ，#O 会#O 造成#O 温室效应#O 。#O
+NONE
+53 《#O 和平#MISC 宪法#MISC 》#O 规定#O 日本#GPE 没有#O 交战#O 权#O ，#O 也#O 没有#O 集体#O 自卫权#O
+53 《#O 和平#MISC 宪法#MISC 》#O 规定#O 日本#GPE 拥有#O 交战#O 权#O ，#O 也#O 需有#O 集体#O 自卫权#O
+NONE
+54 在#O 中国#GPE 境内#O ，#O 中国#ORGANIZATION 行动#ORGANIZATION 通讯#ORGANIZATION 集团公司#ORGANIZATION 主要#O 经营#O 移动#O 语音#O 、#O 资料#O 、#O IP电话#O 和#O 多媒体业务#O 。#O
+54 在#O 中国#GPE 境外#O ，#O 中国#ORGANIZATION 行动#ORGANIZATION 通讯#ORGANIZATION 集团公司#ORGANIZATION 主要#O 经营#O 移动#O 语音#O 、#O 资料#O 、#O IP电话#O 和#O 多媒体业务#O 。#O
+NONE
+55 滚石#O 乐队#O 成立#O 开始#O 时期#O 他们#O 演奏#O 自己#O 改编#O 的#O 蓝调#O 、#O 节奏#O 蓝调#O 、#O 乡村音乐#O 和#O 摇滚乐#O 。#O
+55 滚石#O 乐队#O 成立#O 之后#O 他们#O 持续#O 演奏#O 自己#O 改编#O 的#O 蓝调#O 、#O 节奏#O 蓝调#O 、#O 乡村音乐#O 和#O 摇滚乐#O 。#O
+NONE
+56 BBC#O 在#O 报道#O 中说#O ,#O 神舟#O 六号#MISC 的#O 这次#O 飞行#O “#O 有助于#O 最终#O 使#O 中国#GPE 成为#O 与#O 美#GPE 俄#GPE 并列#O 的#O 航天#O 大国#O ”#O 。#O
+56 BBC#O 报道#O 了#O 神舟#O 六号#MISC 的#O 飞行#O
+NONE
+57 在#O 1911#MISC 年#MISC 标准#O 石油#O 被#O 判决#O 违反#O 反托拉斯法#O 并#O 被#O 拆#O 分为#O 34#MISC 家#O 公司#O 。#O
+57 标准#O 石油#O 被#O 判决#O 违反#O 反托拉斯法#O 并#O 在#O 1911#MISC 年#MISC 被#O 拆#O 分为#O 34#MISC 家#O 公司#O 。#O
+NONE
+58 自#O 1938#MISC 年#MISC 创立#O 以来#O ，#O 琉森#MISC 音乐节#MISC 已有#O 七十多年#MISC 的#O 历史#O 。#O
+58 自#O 1938#MISC 年#MISC 第一届#MISC 开办#O 至今#O ，#O 琉森#MISC 音乐节#MISC 已有#O 七十多年#MISC 的#O 历史#O 。#O
+NONE
+59 若望#O ·#O 保禄#O 二世#MISC 是#O 自#O 1522#MISC 年#MISC 哈德良#PERSON 六世#MISC 后#O 第一位#MISC 非#O 意大利人#DEMONYM 教宗#O 。#O
+59 若望#O ·#O 保禄#O 二世#MISC 不是#O 意大利人#DEMONYM 。#O
+NONE
+60 印度尼西亚#GPE 国家#ORGANIZATION 减灾#ORGANIZATION 协调局#ORGANIZATION 发布#O 的#O 数据#O 显示#O ，#O 印度洋#LOCATION 海啸#O 在#O 该国#O 造成#O 的#O 死亡#O 人数#O 达#O 234#O ,#O 271#MISC 人#O ，#O 失踪者#O 为#O 1#MISC ,#O 240#MISC 人#O ，#O 约#O 44000#MISC 人#O 需#O 接受#O 救治#O
+60 印度尼西亚#GPE 国家#ORGANIZATION 减灾#ORGANIZATION 协调局#ORGANIZATION 发布#O 的#O 数据#O 显示#O ，#O 印度洋#LOCATION 海啸#O 造成#O 的#O 死亡#O 人数#O 达#O 234#O ,#O 271#MISC 人#O ，#O 失踪者#O 为#O 1#MISC ,#O 240#MISC 人#O ，#O 约#O 44000#MISC 人#O 需#O 接受#O 救治#O
+NONE
+61 1989#MISC 年#MISC 英伦#MISC 航空#MISC 92#MISC 号#MISC 班机#O 空难#O ，#O 机上#O 118#MISC 名#O 乘客#O 中#O 的#O 39#MISC 人#O 当场#O 死亡#O ，#O 8#MISC 人于#O 稍后#O 时间#O 亦#O 过世#O ；#O 而#O 机上#O 的#O 8#MISC 名#O 机员#O 则#O 全部#O 生还#O 。#O
+61 1989#MISC 年#MISC 英伦#MISC 航空#MISC 92#MISC 号#MISC 班机#O 空难#O ，#O 机上#O 118#MISC 名#O 乘客#O 中#O 的#O 39#MISC 人#O 当场#O 罹难#O ，#O 8#MISC 人于#O 稍后#O 时间#O 亦#O 过世#O ；#O 而#O 机上#O 的#O 8#MISC 名#O 机员#O 则#O 全部#O 生还#O 。#O
+NONE
+62 据#O 《#O 圣经#MISC ·#MISC 申命记#MISC 》#O 所#O 载#O ，#O 约书亚#O 继#O 摩西#O 成为#O 以色列#DEMONYM 人#O 的#O 领袖#O ，#O 带领#O 以色列#DEMONYM 人#O 离开#O 旷野#O 进入#O 应许#O 之地#O ，#O 那#O 丰富#O 的#O 迦南#O 美地#O 。#O
+62 据#O 《#O 圣经#MISC ·#MISC 申命记#MISC 》#O 所#O 载#O ，#O 约书亚#O 继#O 摩西#O 成为#O 波斯#GPE 人#O 的#O 领袖#O ，#O 带领#O 波斯#GPE 人#O 离开#O 旷野#O 进入#O 应许#O 之地#O ，#O 那#O 丰富#O 的#O 迦南#O 美地#O 。#O
+NONE
+63 燃煤#O 所#O 排出#O 的#O 二氧化碳#O 是#O 温室#O 气体#O 之一#O ，#O 会#O 造成#O 温室效应#O 。#O
+63 燃煤#O 所#O 排出#O 的#O 二氧化碳#O 是#O 温室#O 气体#O 。#O
+NONE
+64 一九九七年#MISC 香港#GPE 发生#O 当地#O 居民#O 感染#O H5N1#O 禽流感#O 病毒#O 的#O 事件#O
+64 一九九七年#MISC 香港#GPE 发生#O 当地#O 居民#O 感染#O H1N5#MISC 禽流感#O 病毒#O 的#O 事件#O
+NONE
+65 在#O 台湾#GPE ，#O 公民#O 直选#O 产生#O 之#O 政府#O 首长#O 与#O 民意代表#O 的#O 去留#O 能#O 经由#O 罢免#O 、#O 弹劾#O 、#O 不信任案#O 等#O 机制#O 令其#O 强制#O 退场#O 。#O
+65 在#O 台湾#GPE ，#O 民选#O 产生#O 之#O 政府#O 首长#O 与#O 民意代表#O 的#O 去留#O 能#O 经由#O 罢免#O 、#O 弹劾#O 、#O 不信任案#O 等#O 机制#O 令其#O 强制#O 退场#O 。#O
+NONE
+66 截止#O 至#MISC 2012#MISC 年#MISC ，#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 共有#O 36#MISC 名#O 校友#O 获#O 诺贝尔奖#MISC 。#O
+66 约翰#PERSON ·#O 霍普金斯大学#PERSON 共#O 收藏#O 36#MISC 枚#O 诺贝尔奖#MISC 章#O 。#O
+NONE
+67 自#O 1897#MISC 年#MISC 起#O ，#O 恐龙#O 化石#O 已#O 在#O 各#O 大洲#O 发现#O ，#O 甚至#O 包含#O 南极洲#LOCATION 。#O
+67 自#O 1897#MISC 年#MISC 起#O ，#O 恐龙#O 化石#O 已#O 在#O 包含#O 南极洲#LOCATION 在内#O 的#O 各#O 大洲#O 发现#O 。#O
+NONE
+68 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 清朝#MISC 宫廷#O 女#O 官裕德龄#O 所#O 撰写#O 的#O 一本#O 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O
+68 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 一本#O 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O
+NONE
+69 美国#GPE 正在#O 紧锣密鼓#O 地#O 部署#O 攻打#O 伊拉克#GPE
+69 美国#GPE 计划#O 攻打#O 伊拉克#GPE
+NONE
+70 一九九二年#MISC 日本政府#PERSON 认为#O 日本#GPE 可派#O 部队#O 参与#O 国际#O 维和#O 任务#O ，#O 担任#O 非战斗#O 角色#O
+70 一九九二年#MISC 日本政府#O 派出#O 部队#O 参与#O 国际#O 维和#O 任务#O ，#O 引发#O 国际#O 争议#O
+NONE
+71 医用#O 酒精#O 主要#O 指#O 体积#O 浓度#O 为#O 75#MISC %#O 左右#O 的#O 乙醇#O 。#O
+71 医用#O 酒精#O 主要#O 指#O 体积#O 浓度#O 为#O 75#MISC %#O 左右#O 的#O 乙醇#O ，#O 也#O 包括#O 医学#O 上#O 使用#O 广泛#O 的#O 其他#O 浓度#O 酒精#O 。#O
+NONE
+72 1999#MISC 年#MISC ，#O A#O _#O E#O Network#ORGANIZATION 在#O 它#O 的#O “#O 千年#MISC 人物#MISC ”#O 排行#O 中将#O 古登堡#O 列为#O 第一位#MISC 。#O
+72 1999#MISC 年#MISC ，#O 古登堡#O 被#O A#O _#O E#O Network#ORGANIZATION 在#O 它#O 的#O “#O 千年#MISC 人物#MISC ”#O 排行#O 中#O 列为#O 第一位#MISC 。#O
+NONE
+73 纽伦堡#GPE 审判#O 中#O 的#O 被告#O 共计#O 22#MISC 名#O ，#O 均#O 为#O 纳粹德国#O 的#O 军政#O 首领#O 。#O
+73 纽伦堡#GPE 审判#O 中#O 原告#O 共计#O 22#MISC 名#O ，#O 均#O 为#O 纳粹德国#O 的#O 军政#O 首领#O 。#O
+NONE
+74 野口#PERSON 英世#PERSON 曾#O 被#O 三度#O 提名#O 诺贝尔#MISC 医学奖#MISC ，#O 而#O 最后#O 一次#MISC 有#O 机会#O 获奖#O ，#O 却#O 因为#O 第一次世界大战#MISC 发生#O ，#O 而#O 宣布#O 取消#O 颁奖#O 。#O
+74 诺贝尔奖#MISC 曾#O 因#O 战争#O 宣布#O 取消#O 颁奖#O 。#O
+NONE
+75 印度#GPE 与#O 巴基斯坦#GPE 和平谈判#O 中#O ,#O 巴基斯坦#GPE 总统#O 贾迈利#PERSON 建议#O 首先#O 恢复#O 两国间#O 的#O 体育#O 活动#O
+75 贾迈利#PERSON 是#O 印度#GPE 的#O 总统#O
+NONE
+76 诺贝尔经济学奖#PERSON 并#O 不#O 属于#O 诺贝尔#MISC 遗嘱#O 中#O 所#O 提到#O 的#O 5#MISC 大#O 奖励#O 领域#O 。#O
+76 诺贝尔经济学奖#PERSON 并#O 不#O 属于#O 诺贝尔#MISC 遗嘱#O 中#O 所#O 提到#O 的#O 三大#O 奖励#O 领域#O 。#O
+NONE
+77 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 清朝#MISC 宫廷#O 女#O 官裕德龄#O 所#O 撰写#O 的#O 一本#O 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O
+77 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 清朝#MISC 裕德龄#O 撰写#O 的#O 一本#O 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O
+NONE
+78 十诫#O 为#O 代表#O 的#O 摩西#O 律法#O 是#O 犹太人#DEMONYM 的#O 生活#O 和#O 信仰#O 的#O 准则#O ，#O 也#O 是#O 最初#O 的#O 法律条文#DEMONYM 。#O
+78 十诫#O 为#O 代表#O 的#O 摩西#O 律法#O 是#O 最初#O 的#O 法律条文#DEMONYM 。#O
+NONE
+79 丰臣秀吉#O 通过#O 不断#O 的#O 战争#O 逐渐#O 平定#O 整个#O 日本#GPE ，#O 完成#O 自#O 15#MISC 世纪#MISC 中叶#MISC ，#O 日本#GPE 分裂#O 以来#O 的#O 首次#O 统一#O 。#O
+79 丰臣秀吉#O 完成#O 自#O 15#MISC 世纪#MISC 中叶#MISC ，#O 日本#GPE 分裂#O 以来#O 的#O 首次#O 统一#O 。#O
+NONE
+80 此次#O 造成#O 东南亚#LOCATION 及#O 南亚地区#LOCATION 重大#O 伤亡#O 的#O 南亚#LOCATION 海啸#O 是#O 海底#O 因#O 板块#O 挤压#O 而#O 大幅#O 变形#O 所致#O
+80 此次#O 造成#O 东南亚#LOCATION 及#O 南亚地区#LOCATION 重大#O 伤亡#O 的#O 南亚#LOCATION 海啸#O 是#O 海底#O 因大#O 断层#O 活动#O 造成#O 垂直#O 位移#O 所致#O
+NONE
+81 虾夷地#O 以#O 现在#O 的#O 北海道#GPE 为#O 中心#O ，#O 包含#O 库页岛#LOCATION 与#O 千岛#LOCATION 列岛#O 等#O 地#O 。#O
+81 虾夷地#O 以#O 现在#O 的#O 札幌#O 为#O 中心#O ，#O 包含#O 库页岛#LOCATION 与#O 千岛#LOCATION 列岛#O 等#O 地#O 。#O
+NONE
+82 琉球#O 狐蝠#O 不#O 使用#O 超音波#O 定位#O ，#O 而是#O 依照#O 视觉#O 与#O 嗅觉#O 寻找#O 食物#O 。#O
+82 琉球#O 狐蝠#O 使用#O 超音波#O 定位#O 、#O 视觉#O 与#O 嗅觉#O 寻找#O 食物#O 。#O
+NONE
+83 近#O 一百年#MISC 来#O 二氧化碳#O 的#O 大量#O 排放#O 导致#O 全球#MISC 变暖#MISC 。#O
+83 近#O 二百年#MISC 来#O 一氧化碳#O 的#O 大量#O 排放#O 导致#O 全球#MISC 变暖#MISC 。#O
+NONE
+84 看上去#O 各#O 不相干#O 的#O 糖尿病#O 和#O 胆固醇#O 之间#O 其实#O 有#O 密不可分#O 的#O 关系#O
+84 糖尿病#O 与#O 胆固醇#O 有关#O
+NONE
+85 台湾#DEMONYM 演员#O 关颖#PERSON 是#O 日盛#ORGANIZATION 金控#ORGANIZATION 董事长#O 陈国#PERSON 和#O 与#O 夫人#O 蔡#PERSON 淑媛#O 的#O 女儿#O 。#O
+85 台湾#GPE 演员#O 关颖#PERSON 的#O 母亲#O 是#O 陈国#O 。#O
+NONE
+86 第二次世界大战#MISC （#O 又#O 常#O 被#O 简称#O 为#O 二次大战#MISC 、#O 二战#MISC 等#O ）#O 是#O 一次#MISC 自#O 1939#MISC 年#MISC 至#MISC 1945#MISC 年#MISC 所#O 爆发#O 的#O 全球性#O 军事冲突#O 。#O
+86 第二次世界大战#MISC （#O 又#O 常#O 被#O 简称#O 为#O 二次大战#MISC 、#O 二战#MISC 等#O ）#O 是#O 一次#MISC 自#O 1939#MISC 年#MISC 至#MISC 1945#MISC 年#MISC 所#O 爆发#O 的#O 区域性#O 军事冲突#O 。#O
+NONE
+87 活字印刷术#O 的#O 发明#O 使得#O 欧洲#LOCATION 的#O 文盲#O 大量#O 减少#O 。#O
+87 活字印刷术#O 使得#O 欧洲#LOCATION 的#O 文盲#O 大量#O 减少#O 。#O
+NONE
+88 “#O 神舟#O ”#O 六号#MISC 将#O 于#O 2005#MISC 年#MISC 发射#O ,#O 并#O 将#O 实现#O 多人多#MISC 天#MISC 飞行#O ,#O 目前#O 各项#O 研究进展#O 顺利#O 。#O
+88 “#O 神舟#O ”#O 六号#MISC 将#O 于#O 2005#MISC 年#MISC 发射#O
+NONE
+89 并非#O 所有#O 的#O 病毒#O 都#O 会#O 导致#O 疾病#O 。#O
+89 并非#O 所有#O 的#O 疾病#O 都#O 源自#O 病毒#O 。#O
+NONE
+90 台湾#MISC 319#MISC 枪击案#MISC 中#O ，#O 陈水扁#PERSON 受#O 枪击#O 时#O 没#O 穿#O 防弹衣#O
+90 台湾#MISC 319#MISC 枪击案#MISC 中#O ，#O 陈水扁#PERSON 遭#O 枪击#O 时未#O 着#O 防弹衣#O
+NONE
+91 丰富#O 的#O 想像力#O 、#O 精湛#O 的#O 数学#O 造诣#O 、#O 严谨#O 的#O 治学#O 态度#O ，#O 这些#O 都#O 是#O 成为#O 理论#O 物理学家#O 需要#O 培养#O 的#O 优良#O 素质#O 。#O
+91 想像力#O 不够#O 丰富#O 是#O 无法#O 成为#O 理论#O 物理学家#O 的#O 。#O
+NONE
+92 沈从文#PERSON 的#O 代表作#O 《#O 边城#MISC 》#O 寄寓#O 着#O 作者#O “#O 美#O ”#O 与#O “#O 爱#O ”#O 的#O 美学#O 理想#O ，#O 是#O 他#O 表现#O 人性美#O 最#O 突出#O 的#O 作品#O 。#O
+92 《#O 边城#MISC 》#O 寄寓#O 着#O 沈从文#DEMONYM “#O 美#O ”#O 与#O “#O 爱#O ”#O 的#O 美学#O 理想#O 。#O
+NONE
+93 1999#MISC 年#MISC ，#O 美国国会#DEMONYM 图书馆#O 将#O 罗马#GPE 假期#O 评为#O “#O 文化#O 杰出#O 奖#O ”#O ，#O 并#O 收入#O “#O 国家级#O 收藏#O ”#O 。#O
+93 西#O 元#O 一九九九年#MISC ，#O 美国国会#DEMONYM 图书馆#O 将#O 罗马#GPE 假期#O 评为#O “#O 文化#O 杰出#O 奖#O ”#O ，#O 并#O 收入#O “#O 国家级#O 收藏#O ”#O 。#O
+NONE
+94 檀香山#GPE 为#O 美国#GPE 夏威夷州#GPE 最大#O 的#O 城市#O 暨#O 首府#O 。#O
+94 檀香山#GPE 为#O 美国#GPE 本土#O 外#O 最大#O 的#O 城市#O 。#O
+NONE
+95 北京#MISC 奥运会#MISC 经济#O 带动#O 投资#O 与#O 消费#O 总需求#O 将#O 超过#O 人民币#MISC 3#MISC 万亿元#MISC ；#O 庞大#O 商机#O 已#O 吸引#O 三星#ORGANIZATION 、#O 通用电气#O 、#O 戴尔#ORGANIZATION 、#O 波音#ORGANIZATION 、#O 西门子#ORGANIZATION 等#O 跨国企业#O 赶赴#O 中国#GPE 设点#O 拓展#O 市场#O
+95 北京#GPE 奥运会#MISC 的#O 庞大#O 商机#O 已#O 吸引#O 三星#ORGANIZATION 、#O 通用电气#O 、#O 戴尔#ORGANIZATION 、#O 波音#ORGANIZATION 、#O 西门子#ORGANIZATION 等#O 跨国企业#O 赶赴#O 中国#GPE 设点#O 拓展#O 市场#O
+NONE
+96 近#O 一百年#MISC 来#O 二氧化碳#O 的#O 大量#O 排放#O 导致#O 全球#MISC 变暖#MISC 。#O
+96 近#O 一百年#MISC 来#O 二氧化碳#O 的#O 大量#O 排放#O 导致#O 全球#O 变冷#O 。#O
+NONE
+97 航海家#O 1#MISC 号#MISC （#O Voyager#MISC 1#MISC ）#O 是#O 美国#ORGANIZATION 太空#ORGANIZATION 总署#ORGANIZATION 研制#O 的#O 一艘#O 无人#O 外#O 太阳系#O 太空#O 探测船#O ，#O 重#O 815#O 千克#O ，#O 于#O 1977#MISC 年#MISC 9#MISC 月#MISC 5#MISC 日#MISC 发射#O 。#O
+97 航海家#O 1#MISC 号#MISC （#O Voyager#MISC 1#MISC ）#O 发射#O 至今#O 已#O 超过#MISC 30#MISC 年#MISC 。#O
+NONE
+98 美联社#ORGANIZATION 和#O 艾普索斯#ORGANIZATION 公司#ORGANIZATION 所#O 进行#O 的#O 民调#O 显示#O ，#O 美国#DEMONYM 总统#O 布什#PERSON 的#O 施政#O 满意度#O 已#O 首次#O 滑落#O 到#O 39#O %#O
+98 艾普索斯#ORGANIZATION 公司#ORGANIZATION 和#O 美联社#ORGANIZATION 所#O 进行#O 的#O 民调#O 显示#O ，#O 美国#DEMONYM 总统#O 布什#PERSON 的#O 施政#O 满意度#O 已#O 首次#O 滑落#O 到#O 39#MISC 个#MISC 百分点#MISC
+NONE
+99 火地#O 群岛#O 总面积#O 73#MISC ,#O 753#MISC 平方公里#O 。#O
+99 火地#O 群岛#O 总#O 周长#O 73#MISC ,#O 753#MISC 公里#O 。#O
+NONE
+100 西元#MISC 1600#MISC 年#MISC 12#MISC 月#MISC 31#MISC 日#MISC ，#O 英国女王#ORGANIZATION 伊莉莎白#ORGANIZATION 一世#ORGANIZATION 授予#ORGANIZATION 英国#ORGANIZATION 东印度#ORGANIZATION 公司#ORGANIZATION 皇家#O 特许状#GPE ，#O 给予#O 它#O 在#O 印度#GPE 贸易#O 的#O 特权#O 。#O
+100 西元#MISC 1600#MISC 年#MISC 12#MISC 月#MISC 31#MISC 日#MISC ，#O 英国女王#ORGANIZATION 伊莉莎白#ORGANIZATION 一世#ORGANIZATION 授予#ORGANIZATION 英国#ORGANIZATION 东印度#ORGANIZATION 公司#ORGANIZATION 皇家#O 特许状#GPE ，#O 给予#O 它#O 在#O 英国#GPE 贸易#O 的#O 特权#O 。#O
+NONE
+101 阿巴#GPE 多自#O 2003#MISC 年#MISC 接任#O 琉森#O 音乐节#O 音乐#O 总监#O 后#O ，#O 成立#O 了#O 琉森#O 节日#O 管弦乐团#O （#O Lucerne#O Festival#O Orchestra#O ,#O LFO#O ）#O 。#O
+101 阿巴#GPE 多自#O 本世纪初#O 接任#O 琉森#O 音乐节#O 音乐#O 总监#O 后#O ，#O 成立#O 了#O 琉森#O 节日#O 管弦乐团#O （#O Lucerne#O Festival#O Orchestra#O ,#O LFO#O ）#O 。#O
+NONE
+102 约翰#PERSON 走路#O （#O Johnnie#PERSON Walker#PERSON ）#O ，#O 是#O 世界#O 著名#O 的#O 苏格兰#GPE 威士忌#O 品牌#O ，#O 有#O 150#MISC 多年#MISC 的#O 历史#O 。#O
+102 要#O 成为#O 世界#O 著名#O 的#O 苏格兰#GPE 威士忌#O 品牌#O 需要#O 有#O 150#MISC 多年#MISC 的#O 历史#O 。#O
+NONE
+103 葡萄糖#O 很#O 容易#O 被#O 吸收#O 进入#O 血液#O 中#O ，#O 因此#O 医院#O 、#O 运动#O 爱好者#O 常常#O 使用#O 它#O 当作#O 强而有力#O 的#O 快速#O 能量#O 来源#O 。#O
+103 医院#O 、#O 运动#O 爱好者#O 常常#O 使用#O 血液#O 当作#O 强而有力#O 的#O 快速#O 能量#O 来源#O 。#O
+NONE
+104 恐龙#O 消失#O 于#O 6#MISC 千#MISC 5#MISC 百万年#MISC 前#O ，#O 通常#O 的#O 解释#O 是#O 一个#O 撞击#O 事件#O 造成#O 了#O 灭绝#O 。#O
+104 恐龙#O 消失#O 于#O 65#MISC ,#O 00#MISC ,#O 000#MISC 年前#MISC ，#O 通常#O 的#O 解释#O 是#O 一个#O 撞击#O 事件#O 造成#O 了#O 灭绝#O 。#O
+NONE
+105 《#O Top#MISC Gear#MISC 》#O 在#O 全世界#O 拥有#O 多达#O 3#MISC 亿#MISC 5#MISC ,#O 000#MISC 万#MISC 观众#O 。#O
+105 《#O Top#MISC Gear#MISC 》#O 在#O 全世界#O 拥有#O 多达#O 五亿#MISC 三千万#MISC 观众#O 。#O
+NONE
+106 若望#O ·#O 保禄#O 二世#MISC 是#O 自#O 1522#MISC 年#MISC 哈德良#PERSON 六世#MISC 后#O 第一位#MISC 非#O 意大利人#DEMONYM 教宗#O 。#O
+106 大部分#O 的#O 教宗#O 皆#O 非#O 意大利人#DEMONYM 。#O
+NONE
+107 1959#MISC 年#MISC ，#O 第一届#MISC 国际#MISC 奥林匹克#MISC 数学#MISC 竞赛#MISC 于#O 罗马尼亚#GPE 举行#O ，#O 参赛国#O 包括#O 7#MISC 个#O 东欧国家#O 。#O
+107 1959#MISC 年#MISC ，#O 第一届#MISC 国际#MISC 奥林匹克#MISC 数学#MISC 竞赛#MISC 于#O 东欧#LOCATION 罗马尼亚#GPE 举行#O ，#O 参赛国#O 包括#O 7#MISC 个#O 国家#O 。#O
+NONE
+108 法国#GPE 投票#O 反对#O 《#O 欧盟#MISC 宪法#MISC 条约#MISC 》#O 是因为#O 反对派#O 认为#O 就业机会#O 将#O 受#O 欧盟#ORGANIZATION 新#O 成员国#O 移民#O 威胁#O
+108 法国#GPE 投票#O 反对#O 《#O 欧盟#MISC 宪法#MISC 条约#MISC 》#O 是因为#O 欧盟#ORGANIZATION 新#O 成员国#O 移民#O 认为#O 就业机会#O 将#O 受#O 反对派#O 威胁#O
+NONE
+109 正在#O 香港#GPE 出席#O 2002#MISC 年度#MISC 国际#MISC 数学#MISC 卫星#MISC 会议#MISC 的#O 中国数学会#ORGANIZATION 副会长#O 张继平#PERSON 透露#O ,#O 目前#O ,#O 中国#GPE 有#O 2#MISC 万多#MISC 人#O 活跃#O 在#O 数学界#O 。#O
+109 张维平#PERSON 是#O 2002#MISC 年#MISC 中国数学会#MISC 副会长#O
+NONE
+110 燃煤#O 所#O 排出#O 的#O 二氧化碳#O 是#O 温室#O 气体#O 之一#O ，#O 会#O 造成#O 温室效应#O 。#O
+110 煤会#O 排出#O 二氧化碳#O ，#O 将#O 造成#O 温室效应#O 。#O
+NONE
+111 活字印刷术#O 的#O 发明#O 使得#O 欧洲#LOCATION 的#O 文盲#O 大量#O 减少#O 。#O
+111 活字印刷术#O 的#O 发明#O 使得#O 澳洲#DEMONYM 的#O 文盲#O 大量#O 减少#O 。#O
+NONE
+112 第#O 61#MISC 届#O 金球奖#MISC 颁奖典礼#O 已经#O 结束#O ，#O 《#O 指环王#MISC 3#MISC ：#MISC 王者#MISC 回归#MISC 》#O 囊括#O 了#O 最佳#O 剧情#O 类#O 影片#O 、#O 最佳#O 原创#O 配乐#O 、#O 最佳#O 原创#O 歌曲#O 、#O 最佳#O 导演奖#O 等#O 四项#MISC 金球奖#MISC 。#O
+112 HBO#ORGANIZATION 的#O 《#O 美国#MISC 天使#MISC 》#O 在#O 第#O 61#MISC 届#O 金球奖#MISC 中#O 大获全胜#O ，#O 抱回#O 最佳#O 电视#O 电影#O 等#O 五座#FACILITY 金球#FACILITY
+NONE
+113 医用#O 酒精#O 主要#O 指#O 体积#O 浓度#O 为#O 75#MISC %#O 左右#O 的#O 乙醇#O 。#O
+113 医用#O 酒精#O 主要#O 指#O 体积#O 浓度#O 为#O 百分之七十五#MISC 左右#O 的#O 乙醇#O 。#O
+NONE
+114 汽电#O 共生#O 在#O 丹麦#GPE 等#O 斯堪的纳维亚#GPE 国家#O 以及#O 德国#GPE 的#O 一部分#O 被#O 广泛#O 使用#O 。#O
+114 汽电#O 共生#O 在#O 意大利#GPE 等#O 斯堪的纳维亚#GPE 国家#O 以及#O 德国#GPE 的#O 一部分#O 被#O 广泛#O 使用#O 。#O
+NONE
+115 H5N1#O 型#O 病毒#O 能#O 通过#O 禽类#O 传染给#O 人体#O
+115 H5N1#O 型#O 病毒#O 能#O 通过#O 人体#O 传染给#O 禽类#O
+NONE
+116 丁克#O 族#O 除了#O 双#O 薪水#O 、#O 无#O 子女#O 的#O 明显#O 定义#O 之外#O ,#O 普遍#O 都#O 很#O 年轻#O
+116 丁克#O 族#O 的#O 明显#O 定义#O 是#O 双#O 薪水#O 、#O 无#O 子女#O
+NONE
+117 超级#O 油轮#O 诺克#PERSON ·#O 耐#O 维斯#PERSON 号#O （#O Knock#PERSON Nevis#PERSON ）#O 曾#O 是#O 世界#O 上#O 最长#O 的#O 船只#O 与#O 人工#O 制造#O 水面#O 漂浮物#O ，#O 船长#O 超过#O 1#MISC #MISC 4#MISC 英里#O （#O 458#MISC 公尺#O ）#O 。#O
+117 超级#O 油轮#O 诺克#PERSON ·#O 耐#O 维斯#PERSON 号#O （#O Knock#PERSON Nevis#PERSON ）#O 曾#O 是#O 世界#O 上#O 最长#O 的#O 船只#O 与#O 天然#O 制造#O 水面#O 漂浮物#O 。#O
+NONE
+118 《#O 三国演义#MISC 》#O 、#O 《#O 水浒传#MISC 》#O 、#O 《#O 西游记#MISC 》#O 、#O 和#O 《#O 红楼梦#MISC 》#O 被#O 称为#O 中国#GPE 明清#O 时代#O 的#O 四大名著#O
+118 《#O 三国演义#MISC 》#O 、#O 《#O 水浒传#MISC 》#O 、#O 《#O 西游记#MISC 》#O 、#O 和#O 《#O 红楼梦#MISC 》#O 被#O 称为#O 中国#GPE 宋代#O 的#O 四大名著#O
+NONE
+119 蝙蝠#O 在#O 四肢#MISC 和#O 尾#O 之间#O 覆蓋#O 著#O 薄#O 而#O 坚韧#O 的#O 翼#O 膜#O 可以#O 像#O 鸟#O 一样#O 鼓翼#O 飞行#O 。#O
+119 蝙蝠#O 有#O 像#O 鸟#O 一样#O 的#O 羽毛#O 可以#O 鼓翼#O 飞行#O 。#O
+NONE
+120 约翰#PERSON 走路#O （#O Johnnie#PERSON Walker#PERSON ）#O ，#O 是#O 世界#O 著名#O 的#O 苏格兰#GPE 威士忌#O 品牌#O ，#O 有#O 150#MISC 多年#MISC 的#O 历史#O 。#O
+120 约翰#PERSON 走路#O （#O Johnnie#PERSON Walker#PERSON ）#O ，#O 是#O 世界#O 著名#O 的#O 苏格兰#GPE 威士忌#O 品牌#O ，#O 创立#O 至今已有#O 150#MISC 多年#MISC 。#O
+NONE
+121 不吃#O 早餐#O 易#O 导致#O 高#O 胆固醇#O 而#O 增加#O 心脏病#O 风险#O
+121 心脏病#O 与#O 胆固醇#O 有关#O
+NONE
+122 造成#O 东南亚#LOCATION 及#O 南亚地区#O 的#O 重大#O 伤亡#O 的#O 南亚#LOCATION 海啸#O 是#O 以#O 800km#O #O hr#O 的#O 速度#O 前进#O 的#O 超大型#O 长波#O
+122 造成#O 东南亚#LOCATION 及#O 南亚地区#O 的#O 重大#O 伤亡#O 的#O 南亚#LOCATION 海啸#O 是#O 以#O 每#O 小时#O 八百公里#O 的#O 速度#O 前进#O 的#O 超大型#O 长波#O
+NONE
+123 琉球#O 狐蝠#O 为#O 一种#O 分布#O 于#O 日本#GPE 、#O 菲律宾#GPE 和#O 台湾岛#LOCATION 的#O 大型#O 蝙蝠#O 。#O
+123 琉球#O 狐蝠#O 为#O 三种#O 分布#O 于#O 日本#GPE 、#O 菲律宾#GPE 和#O 台湾岛#LOCATION 的#O 大型#O 蝙蝠#O 通称#O 。#O
+NONE
+124 1999#MISC 年#MISC ，#O 美国国会#DEMONYM 图书馆#O 将#O 罗马#GPE 假期#O 评为#O “#O 文化#O 杰出#O 奖#O ”#O ，#O 并#O 收入#O “#O 国家级#O 收藏#O ”#O 。#O
+124 1999#MISC 年#MISC ，#O 罗马#GPE 假期#O 被#O 美国国会#ORGANIZATION 图书馆#ORGANIZATION 评为#O “#O 文化#MISC 杰出#MISC 奖#MISC ”#O ，#O 并#O 收入#O “#O 国家级#O 收藏#O ”#O 。#O
+NONE
+125 全世界#O 共有#O 两大#MISC 地震带#MISC ,#O 一个#O 是#O 环#O 太平洋#LOCATION 地震带#O ,#O 另#O 一个#O 是#O 欧亚#LOCATION 地震带#O 。#O
+125 伊朗#GPE 全境#O 基本#O 都#O 处于#O 欧亚#LOCATION 地震带#O 上#O
+NONE
+126 琉球#PERSON 狐蝠#O 为#O 一种#O 分布#O 于#O 日本#GPE 、#O 菲律宾#GPE 和#O 台湾岛#LOCATION 的#O 大型#O 蝙蝠#O 。#O
+126 琉球#O 狐蝠#O 分布#O 区域#O 包括#O 菲律宾#GPE 和#O 台湾#GPE 。#O
+NONE
+127 酒精#O 分子#O 中#O 含有#O 两个#O 碳原子#O 与#O 六个#O 氢原子#O 。#O
+127 酒精#O 分子#O 由#O 两个#O 碳原子#O 与#O 六个#O 氢原子#O 组成#O 。#O
+NONE
+128 因为#O 柏油#O 对#O 健康#O 的#O 危害#O ，#O 现在#O 铺设#O 柏油#O 道路#O 已经#O 弃用#O 柏油#O 改用#O 沥青#O 。#O
+128 因为#O 柏油#O 对#O 健康#O 的#O 危害#O ，#O 未来#O 铺设#O 柏油#O 道路#O 将弃#O 用#O 柏油#O 改用#O 沥青#O 。#O
+NONE
+129 若望#O ·#O 保禄#O 二世#MISC 是#O 自#O 1522#MISC 年#MISC 哈德良#PERSON 六世#MISC 后#O 第一位#MISC 非#O 意大利人#DEMONYM 教宗#O 。#O
+129 若望#O ·#O 保禄#O 二世#MISC 是#O 自#O 1522#MISC 年#MISC 哈德良#PERSON 六世#MISC 后#O 第一位#MISC 意大利人#DEMONYM 教宗#O 。#O
+NONE
+130 1970#MISC 年代#MISC ，#O 瑞典#GPE 通过#O 现代#O 宪法#O ，#O 瑞典#GPE 国王#O 在#O 议会#O 的#O 一切#O 权力#O 被#O 废除#O 。#O 但#O 内阁#O 每月#O 仍会#O 向#O 国王#O 在#O 王宫#O 内#O 正式#O 汇报#O 。#O
+130 1970#MISC 年代#MISC ，#O 瑞典#GPE 通过#O 现代#O 宪法#O ，#O 瑞典#GPE 国王#O 在#O 议会#ORGANIZATION 的#O 权力#O 被#O 废除#O 。#O 但#O 内阁#O 每月#O 仍会#O 向#O 国王#O 在#O 王宫#O 内#O 正式#O 汇报#O 。#O
+NONE
+131 香港中文#DEMONYM 及#O 城市#O 大学#O 大量#O 吸纳#O 内地#O 应届#O 高考#O 优秀生#O
+131 很多#O 内地#O 学生#O 进入#O 香港中文大学#ORGANIZATION
+NONE
+132 瑞典#GPE 皇家学院#O 每年#O 都#O 颁布#O 诺贝尔文学奖#PERSON ，#O 以#O 纪念#O 阿尔弗雷#PERSON 德#O ·#O 诺贝尔#PERSON 。#O
+132 诺贝尔文学奖#ORGANIZATION 由#O 瑞典#ORGANIZATION 皇家学院#ORGANIZATION 颁布#O
+NONE
+133 在#O 1911#MISC 年#MISC 标准#O 石油#O 被#O 判决#O 违反#O 反托拉斯法#O 并#O 被#O 拆#O 分为#O 34#MISC 家#O 公司#O 。#O
+133 在#O 1911#MISC 年#MISC 标准#O 石油#O 被#O 判决#O 违反#O 反托拉斯法#O 并#O 拆#O 分为#O 34#MISC 家#O 公司#O 。#O
+NONE
+134 红牛#O 车队#O 旗下#O 车手#O 赛#O 巴斯蒂安#GPE ·#O 维#O 泰尔#PERSON 则#O 于#O 2010#MISC 、#O 2011#MISC 、#O 2012#MISC 及#MISC 2013#MISC 年#MISC 连续#MISC 四年#MISC 获得#O F1#MISC 年度#MISC 车手#O 总冠军#O 。#O
+134 红牛#O 车队#O 旗下#O 车手#O 赛#O 巴斯蒂安#GPE ·#O 维#O 泰尔#PERSON 则#O 于#O 2010#MISC 、#O 2011#MISC 、#O 2012#MISC 及#MISC 2013#MISC 年#MISC 连续#MISC 四年#MISC 抢下#O F1#MISC 年度#MISC 车手#O 总冠军#O 。#O
+NONE
+135 活字印刷术#O 的#O 发明#O 使得#O 欧洲#LOCATION 的#O 文盲#O 大量#O 减少#O 。#O
+135 雕版#O 印刷术#O 的#O 发明#O 使得#O 欧洲#LOCATION 的#O 文盲#O 大量#O 减少#O 。#O
+NONE
+136 唐卡系#PERSON 藏语#O ，#O 意为#O 用彩缎#O 织物#O 装裱#O 成#O 的#O 卷轴#O 画#O ，#O 它#O 具有#O 鲜明#O 的#O 民族#O 特点#O 、#O 浓郁#O 的#O 宗教#O 色彩#O 和#O 独特#O 的#O 艺术风格#O 。#O
+136 唐卡#O 具有#O 通史#O 性#O 、#O 趣味性#O 、#O 知识性#O 、#O 宗教性#O 、#O 工艺性#O 等#O 特点#O ，#O 故#O 被#O 人们#O 誉为#O 藏族#DEMONYM 的#O “#O 百科全书#O ”#O 。#O
+NONE
+137 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 清朝#MISC 宫廷#O 女#O 官裕德龄#O 所#O 撰写#O 的#O 一本#O 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O
+137 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 清朝#MISC 宫廷#O 女#O 官裕德龄#O 所#O 撰写#O 的#O 一本#O 有关#O 明朝#MISC 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O
+NONE
+138 1999#MISC 年#MISC ，#O A#O _#O E#O Network#ORGANIZATION 在#O 它#O 的#O “#O 千年#MISC 人物#MISC ”#O 排行#O 中将#O 古登堡#O 列为#O 第一位#MISC 。#O
+138 1999#MISC 年#MISC ，#O A#O _#O E#O Network#ORGANIZATION 在#O 它#O 的#O “#O 千年#MISC 人物#MISC ”#O 排行#O 中将#O 古登堡#O 列为#O 第#O 7#MISC 位#O 。#O
+NONE
+139 布朗#PERSON 尼#O 的#O 发明#O 就#O 像#O 很多#O 的#O 美食#O ，#O 很#O 可能#O 只是#O 一个#O 意外#O 的#O 结果#O 。#O
+139 巧克力#O 的#O 发明#O 就#O 像#O 很多#O 的#O 美食#O ，#O 很#O 可能#O 只是#O 一个#O 意外#O 的#O 结果#O 。#O
+NONE
+140 火地#O 群岛#LOCATION 南端#O 的#O 陆#O 岬#O 合恩角#O 被#O 广泛#O 认为#O 是#O 南美洲#LOCATION 的#O 最南端#O 。#O
+140 火地#O 群岛#LOCATION 南端#O 的#O 合恩角#O 被#O 广泛#O 认为#O 是#O 南美洲#LOCATION 的#O 最南端#O 。#O
+NONE
+141 核能#O 、#O 太阳能#O 、#O 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电站#O 的#O 发电#O 成本#O 仍然#O 高于#O 化石#O 燃料#O 发电#O 。#O
+141 核能#O 、#O 太阳能#O 、#O 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电站#O 的#O 发电#O 成本#O 仍然#O 少于#O 化石#O 燃料#O 发电#O 。#O
+NONE
+142 美国最高法院#GPE 首席#O 大法官#O 哈伦#PERSON ·#O 菲斯#PERSON 克#PERSON ·#O 斯#O 通称#O 纽伦堡#GPE 审判#O 是#O 一场#O 骗局#O 。#O
+142 哈伦#PERSON ·#O 菲斯#PERSON 克#PERSON ·#O 斯#O 通称#O 纽伦堡#GPE 审判#O 是#O 一场#O 骗局#O 。#O
+NONE
+143 若望#O ·#O 保禄#O 二世#MISC 曾#O 访问#O 罗马尼亚#GPE ，#O 成为#O 自从#O 1054#MISC 年#MISC 东西#O 教会#O 分裂#O 之后#O ，#O 第一位#MISC 拜访#O 东正教#O 国家#O 的#O 教宗#O 。#O
+143 自从#O 1054#MISC 年#MISC 东西#O 教会#O 分裂#O 之后#O ，#O 第一位#MISC 拜访#O 东正教#ORGANIZATION 国家#O 的#O 教宗#O 是#O 若望#O ·#O 保禄#O 二世#MISC 。#O
+NONE
+144 酸雨#O 又称#O 酸性#O 沉降#O ，#O 一般#O 指随#O 降水#O 而#O 沉降#O 到#O 地面#O 的#O 酸性#O 物质#O 。#O
+144 酸雨#O 一般#O 指随#O 降水#O 而#O 沉降#O 到#O 地面#O 的#O 酸性#O 物质#O 。#O
+NONE
+145 最#O 年轻#O 踏上#O 红#O 磡#O 体育馆#O 开#O 演唱会#O 的#O 为#O 台湾#GPE 男歌手#O 林志颖#PERSON （#O 当时#O 18#MISC 岁#MISC ）#O 。#O
+145 最#O 年轻#O 踏上#O 香港#FACILITY 体育馆#FACILITY 开#O 演唱会#O 的#O 为#O 台湾#GPE 男歌手#O 林志颖#PERSON （#O 当时#O 18#MISC 岁#MISC ）#O 。#O
+NONE
+146 柯布#O -#O 道格拉斯#PERSON 生产#O 函数#O 最早#O 由#O 努特#O ·#O 维#O 克塞尔#PERSON （#O Knut#PERSON Wicksell#PERSON ）#O 提出#O 。#O
+146 柯布#O -#O 道格拉斯#PERSON 生产#O 函数#O 首先#O 由#O 努特#O ·#O 维#O 克塞尔#PERSON （#O Knut#PERSON Wicksell#PERSON ）#O 提出#O 。#O
+NONE
+147 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 分割#O 为#O 两个#O 独立#O 的#O 集团#O 。#O
+147 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 分割#O 为#O 两个#O 交叉#O 持股#O 的#O 集团#O 。#O
+NONE
+148 无#O 实权#O 的#O 爱尔兰#GPE 总统#O 要#O 接触#O 内阁#O 官员#O 需#O 经过#O 总理#O 办公室#O 安排#O 。#O
+148 手握#O 实权#O 的#O 爱尔兰#GPE 总统#O 要#O 接触#O 内阁#O 官员#O 需#O 经过#O 总理#O 办公室#O 安排#O 。#O
+NONE
+149 美国#GPE 选手#O 菲尔#PERSON 普斯#PERSON 在#O “#O 水立方#O ”#O 连夺#O 八枚#MISC 金牌#MISC ，#O 成为#O 夏季#MISC 奥运会#MISC 获得#O 金牌#MISC 总数#O 最多#O 的#O 运动员#O 。#O
+149 美国#GPE 选手#O 菲尔#PERSON 普斯#PERSON 在#O “#O 水立方#O ”#O 连夺#O 八枚#MISC 金牌#MISC ，#O 成为#O 夏季#MISC 奥运会#MISC 获得#O 奖牌#O 总数#O 最多#O 的#O 运动员#O 。#O
+NONE
+150 成长性#O 投资#O 倾向#O 于#O 注重#O 目标#O 企业#O 的#O 利润#O 成长性#O 和#O 可持续性#O ，#O 往往#O 是#O 投资#O 于#O 高#O 市盈率#O 、#O 高#O 市净率#O 的#O 股票#O 。#O
+150 成长性#O 投资#O 倾#O 往往#O 是#O 投资#O 于#O 高#O 市盈率#O 、#O 高#O 市净率#O 的#O 股票#O 。#O
+NONE
+151 郭台铭#PERSON （#O 生于#O 1950#MISC 年#MISC ）#O 是鸿海#ORGANIZATION 集团#ORGANIZATION 的#O 董事长#O
+151 郭台铭#PERSON 是鸿海#ORGANIZATION 集团#ORGANIZATION 的#O 董事长#O
+NONE
+152 在#O 1911#MISC 年#MISC 标准#O 石油#O 被#O 判决#O 违反#O 反托拉斯法#O 并#O 被#O 拆#O 分为#O 34#MISC 家#MISC 公司#O 。#O
+152 在#O 1911#MISC 年#MISC 标准#O 石油#O 被#O 判决#O 违反#O 反托拉斯法#O 并#O 被#O 拆#O 分为#O 3#MISC 、#O 4#MISC 家#O 公司#O 。#O
+NONE
+153 中国教育部#ORGANIZATION 28#ORGANIZATION 日向#ORGANIZATION 新加坡#ORGANIZATION 国家图书馆#ORGANIZATION 捐赠#O 1000#MISC 册#O 中文#DEMONYM 图书#O ,#O 表示#O 对#O 新加坡#GPE 华语#DEMONYM 学习#O 的#O 支持#O
+153 中国教育部#ORGANIZATION 28#ORGANIZATION 日向#ORGANIZATION 新加坡#ORGANIZATION 国家图书馆#ORGANIZATION 捐赠#O 两千#MISC 册#O 中文#DEMONYM 图书#O ,#O 表示#O 对#O 新加坡#GPE 华语#DEMONYM 学习#O 的#O 支持#O
+NONE
+154 和#O 信#O 集团#O （#O 又称#O 和#O 信#O 企业#O 团#O ）#O 是#O 台湾#GPE 的#O 民营企业#O 集团#O ，#O 由#O 鹿港#GPE 辜家#O 的#O 辜振甫#O 所#O 创立#O 。#O
+154 和#O 信#O 是#O 台湾#GPE 的#O 民营企业#O 集团#O ，#O 由#O 鹿港#GPE 辜家#O 的#O 辜振甫#O 所#O 创立#O 。#O
+NONE
+155 1970#O 年代#O ，#O 瑞典#GPE 通过#O 现代#O 宪法#O ，#O 瑞典#GPE 国王#O 在#O 议会#O 的#O 一切#O 权力#O 被#O 废除#O 。#O 但#O 内阁#O 每月#O 仍会#O 向#O 国王#O 在#O 王宫#FACILITY 内#O 正式#O 汇报#O 。#O
+155 瑞典#GPE 国王#O 为#O 虚位#O 元首#O 。#O
+NONE
+156 印度#GPE 与#O 巴基斯坦#GPE 两#MISC 国#O 谈判#O 条件#O 是#O 要#O 巴国#GPE 制止#O 伊斯兰教#ORGANIZATION 好战#O 分子#O 渗透#O 印属#O 喀什米尔#PERSON
+156 印度#GPE 与#O 巴基斯坦#GPE 两#MISC 国#O 谈判#O 条件#O 是#O 要#O 印度#GPE 制止#O 伊斯兰教#ORGANIZATION 好战#ORGANIZATION 分子#ORGANIZATION 渗透#ORGANIZATION 印属#ORGANIZATION 喀什米尔#ORGANIZATION
+NONE
+157 室女座#O 最#O 显著#O 的#O 恒星#O 是#O 角宿#O 一#O ，#O 这颗#O 蓝白色#O 的#O 星#O 是#O 全天#O 最亮#O 的#O 21#MISC 颗#O 恒星#O 之一#MISC 。#O
+157 室女座#ORGANIZATION 是#O 全天#O 最亮#O 的#O 21#MISC 个#MISC 星座#MISC 之一#MISC 。#O
+NONE
+158 水晶宫#O （#O The#MISC Crystal#MISC Palace#MISC ）#O 是#O 十九世纪#MISC 的#O 英国#GPE 建筑#O 奇观#O 之一#O ，#O 也#O 是#O 工业革命#O 时代#O 的#O 重要#O 象征物#O 。#O
+158 水晶宫#O （#O The#O Crystal#O Palace#O ）#O 于#O 西元#MISC 1795#MISC 年#MISC 遭#O 大火#O 焚毁#O 。#O
+NONE
+159 韩国#GPE 成均馆#ORGANIZATION 大学#ORGANIZATION 由#O 韩国三星电子#PERSON 出资#O ，#O 优秀#O 学生会#O 直接#O 被#O 分配#O 到#O 三星电子公司#O 。#O
+159 韩国#GPE 成均馆#ORGANIZATION 大学#ORGANIZATION 由#O 韩国三星电子#PERSON 出资#O ，#O 优秀#O 学生会#O 直接#O 被#O 分配#O 到#O 三星#MISC 。#O
+NONE
+160 约翰#PERSON 走路#O （#O Johnnie#PERSON Walker#PERSON ）#O ，#O 是#O 世界#O 著名#O 的#O 苏格兰#GPE 威士忌#O 品牌#O ，#O 有#O 150#MISC 多年#MISC 的#O 历史#O 。#O
+160 约翰#PERSON 走路#O （#O Johnnie#PERSON Walker#PERSON ）#O ，#O 是#O 世界#O 著名#O 的#O 爱尔兰#GPE 威士忌#O 品牌#O ，#O 有#O 150#MISC 多年#MISC 的#O 历史#O 。#O
+NONE
+161 医用#O 酒精#O 主要#O 指#O 体积#O 浓度#O 为#O 75#MISC %#O 左右#O 的#O 乙醇#O 。#O
+161 医用#O 酒精#O 主要#O 指#O 浓度#O 为#O 75#MISC %#O 左右#O 的#O 乙醇#O 。#O
+NONE
+162 2005#MISC 年#MISC 7#MISC 月#MISC 7#MISC 日#MISC 的#O 伦敦#GPE 地铁#O 爆炸#O 发生#O 于#O 早上#O 8#MISC 点#O 50#O 分#O
+162 2005#MISC 年#MISC 7#MISC 月#MISC 7#MISC 日#MISC 的#O 伦敦#GPE 地铁#O 爆炸#O 发生#O 于#O 上午#MISC 8#MISC 点#O 50#MISC 分#MISC
+NONE
+163 九层#O 塔#O 对#O 寒冷#O 非常#O 敏感#O ，#O 在#O 热#O 和#O 干燥#O 的#O 环境#O 下#O 生长#O 得#O 最好#O 。#O
+163 九层#MISC 塔不耐#MISC 寒冷#O ，#O 在#O 热#O 和#O 干燥#O 的#O 环境#O 下#O 生长#O 得#O 最好#O 。#O
+NONE
+164 天满宫#O 是#O 指#O 日本#GPE 祭祀#O 学问#O 之神#O 菅#O 原道#O 真的#O 神社#O ，#O 遍及#O 于#O 日本#GPE 各地#O 。#O
+164 天满宫#O 是#O 指#O 日本#GPE 祭祀#O 学问#O 之神#O 菅#O 原道#O 真的#O 宗教建筑#O ，#O 遍及#O 于#O 日本#GPE 各地#O 。#O
+NONE
+165 超级#O 油轮#O 诺克#PERSON ·#O 耐#O 维斯#PERSON 号#O （#O Knock#PERSON Nevis#PERSON ）#O 曾#O 是#O 世界#O 上#O 最长#O 的#O 船只#O 与#O 人工#O 制造#O 水面#O 漂浮物#O ，#O 船长#O 超过#O 1#MISC #MISC 4#MISC 英里#O （#O 458#MISC 公尺#O ）#O 。#O
+165 油轮#O 诺克#PERSON ·#O 耐#O 维斯#PERSON 号#O （#O Knock#PERSON Nevis#PERSON ）#O 曾#O 是#O 世界#O 上#O 最长#O 的#O 船只#O 与#O 人工#O 制造#O 水面#O 漂浮物#O ，#O 船长#O 超过#O 1#MISC #MISC 4#MISC 英里#O （#O 458#MISC 公尺#O ）#O 。#O
+NONE
+166 由于#O 研发#O 和#O 生产成本#O 高昂#O ，#O LFA#O 被#O 指为#O 并#O 不会#O 为#O 凌志#O 带来#O 任何#O 盈利#O 。#O
+166 由于#O 研发#O 和#O 生产成本#O 高昂#O ，#O LFA#O 被#O 指为#O 并#O 不会#O 为#O 凌志#O 带来#O 任何#O 获利#O 。#O
+NONE
+167 世界#O 少棒#O 大赛#O 创办#O 于#O 1947#MISC 年#MISC ，#O 每年#O 8#MISC 月#MISC 在#O 宾州#GPE 南#MISC 威廉#MISC 波特#MISC 比赛#MISC 。#O
+167 世界#O 少棒#O 大赛#O 创办#O 于#O 1947#MISC 年#MISC ，#O 每年#MISC 8#MISC 月#MISC 在#O 宾州#GPE 北#O 威廉#O 波特#PERSON 比赛#O 。#O
+NONE
+168 中#GPE 俄#GPE 双方#O 各#O 取得#O 黑瞎子#O 岛#O 等#O 争议#O 领土#O 的#O 一半#MISC
+168 《#O 中#MISC 俄国#MISC 界#MISC 东段#MISC 补充#MISC 协定#MISC 》#O 签订#O 之前#O 双方#O 的#O 争议#O 点#O 是#O 黑瞎子#O 岛#O
+NONE
+169 火力发电厂#O 是#O 二氧化碳#O 的#O 主要#O 排放#O 来源#O 。#O
+169 二氧化碳#O 的#O 来源#O 包括#O 火力发电厂#O 等等#O 。#O
+NONE
+170 马来西亚#DEMONYM 陆军#O 的#O 前身#O 是#O 成立#O 于#O 1933#MISC 年#MISC 3#MISC 月#MISC 1#MISC 日#MISC 的#O 马来#O 志愿#O 兵团#O 。#O
+170 马来西亚#ORGANIZATION 海军#ORGANIZATION 的#O 前身#O 是#O 成立#O 于#O 1933#MISC 年#MISC 3#MISC 月#MISC 1#MISC 日#MISC 的#O 马来#O 志愿#O 兵团#O 。#O
+NONE
+171 成均馆#FACILITY 是#O 朝鲜半岛#LOCATION 历代#O 王朝#O 最高#O 学府#O ，#O 地位#O 同#O 等于#O 古代#O 中国#GPE 的#O 国子监#ORGANIZATION 、#O 太学#O 。#O
+171 成均馆#FACILITY 是#O 古代#O 中国#GPE 的#O 国子监#ORGANIZATION 于#O 朝鲜半岛#LOCATION 的#O 分院#O 。#O
+NONE
+172 《#O 罗马#MISC 假期#MISC 》#O （#O Roman#O Holiday#O ）#O 是#O 1953#MISC 年#MISC 拍摄#O 的#O 浪漫爱情#O 片#O 。#O
+172 《#O 罗马#MISC 假期#MISC 》#O （#O Roman#O Holiday#O ）#O 是#O 1953#MISC 年#MISC 上映#O 的#O 浪漫爱情#O 片#O 。#O
+NONE
+173 电影#O 《#O 无极#MISC 》#O 在#O 12#MISC 月#MISC 12#MISC 日晚#MISC 将#O 举行#O 首映典礼#MISC
+173 电影#O 《#O 无极#MISC 》#O 首映典礼#O 在#O 12#MISC 月#MISC 12#MISC 日#MISC
+NONE
+174 国际#MISC 奥林匹克#MISC 数学#MISC 竞赛#MISC 的#O 参赛者#O 在#O 比赛#O 时#O 必须#O 未满#O 20#MISC 周岁#MISC ，#O 最高#O 学历#O 为#O 中学#O 。#O
+174 国际#O 奥林匹克#O 数学#O 竞赛#O 严格#O 限制#O 参赛者#O 的#O 年龄#O 与#O 学历#O 。#O
+NONE
+175 凌志#O LFA#O 最早#O 以#O 概念车#O 的#O 形象#O 发表#O 于#O 2005#MISC 年#MISC 北美#MISC 国际#MISC 汽车展#MISC 。#O
+175 凌志#O LFA#O 是#O 一款#O 汽车#O 的#O 型号#O 。#O
+NONE
+176 男性#O 腰围#O 超过#O 94#MISC 厘米#O （#O 37#MISC 英寸#MISC ）#O 可#O 称为#O 肥胖#O
+176 男性#O 腰围#O 超过#O 94#MISC 厘米#O ，#O 患#O 糖尿病#O 和#O 心脏病#O 的#O 风险#O 会#O 增高#O
+NONE
+177 美国#GPE 在台协会#O 基于#O 其#O 功能#O 业务#O ，#O 事实上#O 相当于#O 美国#GPE 在#O 中华民国#GPE （#O 台湾#GPE ）#O 的#O 大使级#O 外交代表#O 机构#O 。#O
+177 AIT#O 基于#O 其#O 功能#O 业务#O ，#O 事实上#O 相当于#O 美国#GPE 在#O 中华民国#GPE （#O 台湾#GPE ）#O 的#O 大使级#O 外交代表#O 机构#O 。#O
+NONE
+178 红牛#O 车队#O 旗下#O 车手#O 赛#O 巴斯蒂安#GPE ·#O 维#O 泰尔#PERSON 则#O 于#O 2010#MISC 、#O 2011#MISC 、#O 2012#MISC 及#MISC 2013#MISC 年#MISC 连续#MISC 四年#MISC 获得#O F1#MISC 年度#MISC 车手#O 总冠军#O 。#O
+178 赛#O 巴斯蒂安#PERSON ·#O 维#O 泰尔#PERSON 曾#O 连续#O 四年#MISC 获得#O F1#MISC 年度#MISC 车手#O 总冠军#O 。#O
+NONE
+179 大英国协#PERSON 元首#O 为#O 伊丽莎白#PERSON 二世#O 女王#O 。#O
+179 大英国协#PERSON 总理#O 为#O 伊丽莎白#PERSON 二世#O 女王#O 。#O
+NONE
+180 室女座#O 是#O 希腊#GPE 正义#O 女神#O 阿斯特#PERSON 莉亚#PERSON 的#O 象征#O ，#O 亦#O 为#O 农业#O 女神#O 。#O
+180 室女座#O 是#O 罗马#GPE 正义#O 女神#O 阿斯特#PERSON 莉亚#PERSON 的#O 象征#O ，#O 亦#O 为#O 农业#O 女神#O 。#O
+NONE
+181 国际#O 奥林匹克#O 数学#O 竞赛#O 的#O 参赛者#O 在#O 比赛#O 时#O 必须#O 未满#O 20#MISC 周岁#MISC ，#O 最高#O 学历#O 为#O 中学#O 。#O
+181 国际#O 奥林匹克#O 数学#O 竞赛#O 的#O 参赛者#O 必须#O 在#O 比赛#O 时#O 未满#O 20#MISC 周岁#MISC ，#O 最高#O 学历#O 为#O 中学#O 。#O
+NONE
+182 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 清朝#MISC 宫廷#O 女#O 官裕德龄#O 所#O 撰写#O 的#O 一本#O 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O
+182 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 清朝#MISC 宫廷#O 女#O 官裕德龄#O 所#O 撰写#O 的#O 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O
+NONE
+183 除#O 广东#GPE 以外#O ，#O 萝#O 蔔#O 糕#O 在#O 台湾#GPE 、#O 新加坡#GPE 及#O 马来西亚#GPE 等#O 国家#O ，#O 甚至#O 东亚地区#O 也#O 极为#O 普遍#O 。#O
+183 除#O 广东#GPE 以外#O ，#O 萝#O 蔔#O 糕#O 在#O 台湾#GPE 、#O 新加坡#GPE 及#O 马来西亚#GPE 等#O 国家#O ，#O 甚至#O 东亚#LOCATION 也#O 极为#O 普遍#O 。#O
+NONE
+184 琉森#MISC 音乐节#MISC （#O Lucerne#O Festival#O ）#O 是#O 欧洲#LOCATION 主要#O 的#O 音乐节#O 之一#O ，#O 举办地#O 位于#O 瑞士#GPE 中部#O 的#O 城市#O 琉森#O 。#O
+184 琉森#MISC 音乐节#MISC （#O Lucerne#O Festival#O ）#O 是#O 欧洲#LOCATION 每年#O 主要#O 的#O 音乐节#O 之一#O ，#O 举办地#O 位于#O 瑞士#GPE 中部#O 的#O 城市#O 琉森#O 。#O
+NONE
+185 2003#MISC 年#MISC 印度#GPE 与#O 巴基斯坦#GPE 和平谈判#O ,#O 印度#GPE 总理#O 瓦杰帕伊#PERSON 说#O ，#O 印度#GPE 将#O 恢复#O 印巴#GPE 间#O 的#O 民航#O 交通#O
+185 2003#MISC 年#MISC 印度#GPE 与#O 巴基斯坦#GPE 和平谈判#O ,#O 印度#GPE 总理#O 瓦杰帕伊#PERSON 说#O ，#O 印度#GPE 将#O 恢复#O 两国间#O 的#O 民航#O 交通#O
+NONE
+186 在#O 奥运会#MISC 中#O 跌倒#O 而#O 失去#O 夺牌#O 机会#O 的#O 前#O 世界冠军#ORGANIZATION 艾伦#ORGANIZATION 约翰逊#ORGANIZATION ，#O 再次#O 向#O 世界冠军#O 刘翔#PERSON 挑战#O 。#O 新旧#O 跨栏#O 王#O 的#O 对决#O ，#O 也#O 是#O 此#O 奥运#MISC 注目#O 的#O 焦点#O
+186 刘翔#PERSON 和#O 约翰逊#PERSON 是#O 新旧#O 跨栏#O 王#PERSON
+NONE
+187 水晶宫#O （#O The#MISC Crystal#MISC Palace#MISC ）#O 是#O 十九世纪#MISC 的#O 英国#GPE 建筑#O 奇观#O 之一#O ，#O 也#O 是#O 工业革命#MISC 时代#MISC 的#O 重要#O 象征物#O 。#O
+187 水晶宫#O （#O The#MISC Crystal#MISC Palace#MISC ）#O 是#O 十九世纪#MISC 的#O 英国#GPE 奇观#O 之一#O ，#O 也#O 是#O 工业革命#MISC 时代#MISC 的#O 象征物#O 。#O
+NONE
+188 阿巴#GPE 多自#O 2003#MISC 年#MISC 接任#O 琉森#O 音乐节#O 音乐#O 总监#O 后#O ，#O 成立#O 了#O 琉森#O 节日#O 管弦乐团#O （#O Lucerne#O Festival#O Orchestra#O ,#O LFO#O ）#O 。#O
+188 阿巴#GPE 多自#O 2003#MISC 年#MISC 接任#MISC 琉森#MISC 音乐节#MISC 总监#O 后#O ，#O 成立#O 了#O 琉森#O 节日#O 管弦乐团#O （#O Lucerne#O Festival#O Orchestra#O ,#O LFO#O ）#O 。#O
+NONE
+189 蛤蟆功#PERSON 是#O 西毒#O 欧阳锋#O 的#O 成名#O 绝技#O ，#O 后#O 传给#O 义子#O 杨过#PERSON 。#O
+189 蛤蟆功#PERSON 是#O 西毒#O 欧阳锋#O 的#O 成名#O 绝技#O ，#O 后#O 传给#O 杨过#PERSON 。#O
+NONE
+190 阿巴#GPE 多自#O 2003#MISC 年#MISC 接任#O 琉森#O 音乐节#O 音乐#O 总监#O 后#O ，#O 成立#O 了#O 琉森#O 节日#O 管弦乐团#O （#O Lucerne#O Festival#O Orchestra#O ,#O LFO#O ）#O 。#O
+190 阿巴#GPE 多自#O 2003#MISC 年#MISC 接任#O 琉森#O 音乐节#O 音乐#O 总监#O 后#O ，#O 成立#O 了#O LFO#O 。#O
+NONE
+191 据#O 中国汽车工业协会#ORGANIZATION 统计#O ，#O 2009#O 年#O 排名#O 前#MISC 十位#MISC 的#O 轿车#O 品牌#O 共#O 销售#O 203.26#MISC 万辆#O ，#O 占#O 轿车#O 销售#O 总量#O 的#O 27#MISC %#O 。#O
+191 2009#O 年#O 排名#O 前#MISC 十位#MISC 的#O 轿车#O 品牌#O 共#O 销售#O 200#MISC 多万辆#MISC ，#O 占#O 轿车#O 销售#O 总量#O 的#O 百分之二十#MISC 七#MISC 。#O
+NONE
+192 世界#O 少棒#O 大赛#O 是#O 位于#O 美国#GPE 的#O 世界#ORGANIZATION 少棒#ORGANIZATION 联盟#ORGANIZATION (#O LLB#O )#O 所#O 举办#O 的#O 世界性#O 少年#O 棒球#O 比赛#O 。#O
+192 世界#O 少棒#O 大赛#O 是#O LLB#O 所#O 举办#O 的#O 世界性#O 少年#O 棒球#O 比赛#O 。#O
+NONE
+193 恐龙#O 可能#O 是#O 鸟类#O 祖先#O 的#O 理论#O ，#O 是#O 在#O 1868#MISC 年#MISC 由#O 汤玛斯#PERSON ·#O 亨利#PERSON ·#O 赫胥黎#O 首次#O 提出#O 。#O
+193 爬虫类#O 可能#O 是#O 鸟类#O 祖先#O 的#O 理论#O ，#O 是#O 在#O 1868#MISC 年#MISC 由#O 汤玛斯#PERSON ·#O 亨利#PERSON ·#O 赫胥黎#O 首次#O 提出#O 。#O
+NONE
+194 中国#GPE 行动#O 通讯#O 拥有#O 全球#O 第一#MISC 的#O 行动#O 通讯#O 网络#O 规模#O 和#O 客户#O 规模#O ，#O 该#O 公司#O 已#O 连续#MISC 多年#MISC 入选#MISC 《#MISC 财富#MISC 》#MISC 杂志#MISC 世界#MISC 500#MISC 强#O 企业#O 。#O
+194 中国#GPE 行动#O 通讯#O 连续#O 多年#O 入选#O 《#O 财富#O 》#O 杂志#O 世界#O 500#MISC 强#O 企业#O 。#O
+NONE
+195 大众#O 特#O 植物园#O 占地约#PERSON 8#MISC 公顷#O ，#O 是#O 夏威夷#LOCATION 最#O 古老#O 的#O 植物园#O ，#O 并且#O 是#O 属于#O 登记#O 的#O 美国#GPE 国家#O 历史#O 古#O 蹟#O 之一#O 。#O
+195 大众#O 特#O 植物园#O 面积#O 约#O 8#MISC 公顷#O ，#O 是#O 夏威夷#LOCATION 最#O 古老#O 的#O 植物园#O ，#O 并且#O 是#O 属于#O 登记#O 的#O 美国#GPE 国家#O 历史#O 古#O 蹟#O 之一#O 。#O
+NONE
+196 火地#O 群岛#O ，#O 是#O 南美洲#LOCATION 最南端#O 的#O 岛屿#O 群#O ，#O 由主岛#LOCATION 大#LOCATION 火地岛#LOCATION 及#O 周边#O 小岛#O 组成#O 。#O
+196 火地#O 群岛#O ，#O 是#O 南美洲#LOCATION 最#O 北端#O 的#O 岛屿#O 群#O 。#O
+NONE
+197 理察森#O 外推法#O 是#O 在#O 20#MISC 世纪#MISC 前期#MISC 由#O 英国#GPE 数学家#O ，#O 物理学家#O ，#O 气象学家#O Lewis#O Fry#O Richardson#O 提出#O 的#O 。#O
+197 理察森#O 外推法#O 是#O 由#O 英国#DEMONYM 数学家#O ，#O 物理学家#O ，#O 气象学家#O Lewis#O Fry#O Richardson#O 提出#O 的#O 。#O
+NONE
+198 日本#GPE 于#O 2005#MISC 年#MISC 发行#O 上映#O 的#O 动画电影#O 《#O 蒸气#MISC 男孩#MISC 》#MISC ，#O 其#O 故事#O 背景#O 以#O 英国#GPE 1851#MISC 年#MISC 万国#MISC 博览会#MISC 为主#O 。#O
+198 日本#GPE 于#O 2005#MISC 年#MISC 发行#O 上映#O 的#O 动画电影#O 《#O 蒸气#MISC 男孩#MISC 》#MISC ，#O 其#O 故事#O 背景#O 以#O 1851#MISC 年#MISC 英国#MISC 万国#MISC 博览会#MISC 为主#O 。#O
+NONE
+199 除#O 广东#GPE 以外#O ，#O 萝#O 蔔#O 糕#O 在#O 台湾#GPE 、#O 新加坡#GPE 及#O 马来西亚#GPE 等#O 国家#O ，#O 甚至#O 东亚地区#O 也#O 极为#O 普遍#O 。#O
+199 除#O 广东#GPE 以外#O ，#O 萝#O 蔔#O 糕#O 在#O 台湾#GPE 、#O 新加坡#GPE 及#O 马来西亚#GPE 等#O 国家#O ，#O 甚至#O 东亚地区#O 也#O 非常#O 普遍#O 。#O
+NONE
+200 约克#MISC 王朝#MISC (#O House#O of#O York#O )#O 于#O 15#MISC 世纪#MISC 后#O 半叶#O 与#O 兰开斯特#MISC 王朝#MISC 争夺#MISC 王位#MISC ，#O 最后#O 导致#O 了#O 玫瑰#MISC 战争#MISC 。#O
+200 兰开斯特#ORGANIZATION 王朝#ORGANIZATION 于#O 15#MISC 世纪#MISC 后#MISC 半叶#MISC 与#MISC 约克#MISC 王朝#MISC (#O House#O of#O York#O )#O 争夺#O 王位#O ，#O 最后#O 导致#O 了#O 玫瑰#MISC 战争#MISC 。#O
+NONE
+201 布朗#PERSON 尼#O 的#O 发明#O 就#O 像#O 很多#O 的#O 美食#O ，#O 很#O 可能#O 只是#O 一个#O 意外#O 的#O 结果#O 。#O
+201 布朗#PERSON 尼#O 的#O 发明#O 过程#O 不明#O 。#O
+NONE
+202 芥川#O 龙之介#O 的#O 《#O 地狱#MISC 变#MISC 》#O 通过#O 极端化#O 的#O 人间#O 悲剧#O 描写#O 了#O 权力#O 与#O 艺术#O 的#O 冲突#O 。#O
+202 芥川#O 龙之介#O 的#O 《#O 地狱#O 变#O 》#O 通过#O 极端化#O 的#O 悲剧#O 描写#O 了#O 权力#O 与#O 艺术#O 的#O 冲突#O 。#O
+NONE
+203 赛后#O ,#O 为#O 日本队#GPE 打入#O 一球#O 的#O 9#MISC 号#O 赤岭#GPE 真吾#O 告诉#O 记者#O ,#O 其实#O 日本队#ORGANIZATION 对#O 中国队#ORGANIZATION 的#O 特点#O 研究#O 得#O 还是#O 比较#O 透彻#O 的#O ,#O 中国队#GPE 最大#O 的#O 优势#O 就是#O 身体#O ,#O 确切#O 地说#O 就是#O 身高#O 。#O
+203 中国队#GPE 对#O 日本队#ORGANIZATION 对#O 有#O 身高#O 优势#O 。#O
+NONE
+204 红斑#O 性#O 狼疮#O 可能#O 影响#O 各种#O 器官#O ，#O 包括#O 心脏#O 、#O 关节#O 、#O 皮肤#O 、#O 肺#O 、#O 血管#O 、#O 肝#O 、#O 肾脏#O ，#O 以及#O 神经系统#O 。#O
+204 红斑#O 性#O 狼疮#O 会#O 同时#O 影响#O 各种#O 器官#O ，#O 包括#O 心脏#O 、#O 关节#O 、#O 皮肤#O 、#O 肺#O 、#O 血管#O 、#O 肝#O 、#O 肾脏#O ，#O 以及#O 神经系统#O 。#O
+NONE
+205 据#O 《#O 圣经#MISC ·#MISC 申命记#MISC 》#O 所#O 载#O ，#O 约书亚#O 继#O 摩西#O 成为#O 以色列#DEMONYM 人#O 的#O 领袖#O ，#O 他#O 带领#O 以色列#DEMONYM 人#O 离开#O 旷野#O 进入#O 应许#O 之地#O ，#O 那#O 丰富#O 的#O 迦南#O 美地#O 。#O
+205 据#O 《#O 圣经#MISC ·#MISC 申命记#MISC 》#O 所#O 载#O ，#O 约书亚#O 带领#O 以色列#DEMONYM 人#O 离开#O 旷野#O 进入#O 应许#O 之地#O ，#O 那#O 丰富#O 的#O 迦南#O 美地#O 。#O
+NONE
+206 英国#GPE 经济#O 增长率#O 大于#O 欧洲各国#ORGANIZATION
+206 英国#GPE 经济#O 增长率#O 超过#O 了#O 欧洲各国#ORGANIZATION
+NONE
+207 华特#ORGANIZATION 迪士尼#ORGANIZATION 从#O 纽约#GPE 乘火车#O 去#O 洛杉矶#GPE ，#O 在#O 漫长#O 的#O 旅途#O 中#O ，#O 他#O 抓起#O 笔#O 即兴#O 作画#O ，#O 深受#O 全世界#O 欢迎#O 的#O 米老鼠#O 终于#O 诞生#O
+207 华特#ORGANIZATION 迪士尼#ORGANIZATION 在#O 火车#O 上画#O 出#O 米老鼠#O 的#O 雏形#O
+NONE
+208 虾夷地#O 以#O 现在#O 的#O 北海道#GPE 为#O 中心#O ，#O 包含#O 库页岛#LOCATION 与#O 千岛#LOCATION 列岛#O 等#O 地#O 。#O
+208 库页岛#LOCATION 与#O 千岛#LOCATION 列岛#O 邻近#O 北海道#GPE 。#O
+NONE
+209 大部份#O 的#O 乳酪#O 是#O 通过#O 细菌#O 将#O 乳糖#O 变为#O 乳酸#O 后#O ，#O 加入#O 凝乳#O 酵素#O 使#O 之#O 完全#O 凝固#O 。#O
+209 大部份#O 的#O 乳酪#O 作法#O 是#O 通过#O 细菌#O 将#O 乳糖#O 变为#O 乳酸#O 后#O ，#O 加入#O 凝乳#O 酵素#O 使#O 之#O 完全#O 凝固#O 。#O
+NONE
+210 中国#GPE 行动#O 通讯#O 拥有#O 全球#O 第一#MISC 的#O 行动#O 通讯#O 网络#O 规模#O 和#O 客户#O 规模#O ，#O 连续#O 多年#O 入选#O 《#O 财富#O 》#O 杂志#O 世界#O 500#MISC 强#O 企业#O 。#O
+210 中国#GPE 行动#O 通讯#O 拥有#O 世界#O 第一#MISC 的#O 行动#O 通讯#O 网络#O 规模#O 和#O 客户#O 规模#O ，#O 连续#O 多年#O 入选#O 《#O 财富#O 》#O 杂志#O 世界#O 500#MISC 强#O 企业#O 。#O
+NONE
+211 干细胞#O 治疗#O 被#O 视为#O 新世纪#MISC 医学#MISC
+211 干细胞#O 治疗#O 被#O 称为#O 新世纪#O 医学#O
+NONE
+212 根据#O 富比#O 士#O 的#O 资料#O 显示#O ，#O 中国移动#ORGANIZATION 有限公司#ORGANIZATION 是#O 在#O 香港#GPE 注册#O 的#O 公司#O 中#O 市值#O 最高#O 的#O 一间#O 。#O
+212 根据#O 富比#O 士#O 的#O 资料#O 显示#O ，#O 中国移动#ORGANIZATION 有限公司#ORGANIZATION 是#O 公司#O 中#O 市值#O 最高#O 的#O 一间#O 。#O
+NONE
+213 根据#O 富比#O 士#O 的#O 资料#O 显示#O ，#O 中国移动#ORGANIZATION 有限公司#ORGANIZATION 是#O 在#O 香港#GPE 注册#O 的#O 公司#O 中#O 市值#O 最高#O 的#O 一间#O 。#O
+213 根据#O 富比#O 士#O 的#O 资料#O 显示#O ，#O 中国移动#O 有限公司#O 是#O 在#O 中国#GPE 注册#O 的#O 公司#O 中#O 市值#O 最高#O 的#O 一间#O 。#O
+NONE
+214 世界#O 少棒#O 大赛#O 创办#O 于#O 1947#MISC 年#MISC ，#O 每年#O 8#MISC 月#MISC 在#O 宾州#GPE 南#O 威廉#O 波特#GPE 比赛#O 。#O
+214 世界#O 少棒#O 大赛#O 创办#O 于#O 1947#MISC 年#MISC 8#MISC 月#MISC ，#O 在#O 宾州#GPE 南#MISC 威廉#MISC 波特#MISC 比赛#MISC 。#O
+NONE
+215 洛克菲勒#GPE 1870#MISC 年#MISC 创立#O 标准#O 石油#O ，#O 在#O 全盛期#O 垄断#O 了#O 全美#MISC 90#MISC %#O 的#O 石油市场#O 。#O
+215 标准#O 石油#O 至今#O 仍#O 垄断#O 了#O 全美#MISC 90#MISC %#O 的#O 石油市场#O 。#O
+NONE
+216 故#O 梵蒂冈城#GPE 国#O 国家元首#O 若望#O ·#O 保禄#O 二世#MISC 为#O 第#O 264#O 任教#O 宗#O 。#O
+216 故#O 教廷#O 国家元首#O 若望#O ·#O 保禄#O 二世#MISC 为#O 第#O 264#O 任教#O 宗#O 。#O
+NONE
+217 2004#MISC 年#MISC 奥运#MISC 罗马尼亚#GPE 籍#O 世界冠军#ORGANIZATION 拳手#O 西蒙#PERSON 在#O 16#MISC 强赛#O 以#O 24#O ：#O 36#O 点数#O 落后#O 、#O 败给#O 埃及#GPE 的#O 亚瑟#O 。#O
+217 2004#MISC 年#MISC 奥运#MISC 埃及#O 的#O 亚瑟#O 在#O 16#MISC 强赛#O 中以#O 36#MISC ：#O 24#O 赢#O 了#O 罗马尼亚#GPE 籍#O 世界冠军#ORGANIZATION 拳手#O 西蒙#PERSON 。#O
+NONE
+218 大量#O 使用#O 类固醇#O 者#O ，#O 可能#O 免疫#O 功能#O 会#O 变差#O
+218 一旦#O 身体#O 遭受#O 意外#O 伤害#O 、#O 压力#O 、#O 疾病#O 影响#O 导致#O 身体#O 免疫力#O 发生变化#O ，#O 皆#O 可#O 由#O 类固醇#O 来#O 治疗#O 改善#O 。#O
+NONE
+219 如果#O 张梓琳#PERSON 没有#O 跨入#O 模特#O 行业#O ，#O 也许#O 在#O 08#MISC 年#MISC 奥运会#MISC 跨栏#O 的#O 赛场#O 上#O ，#O 我们#O 还#O 能#O 看到#O 刘翔#PERSON 加张#O 梓琳#O “#O 金童玉女#O ”#O 组合#O 的#O 精彩表演#O 。#O
+219 在#O 08#MISC 年#MISC 奥运会#MISC 跨栏#O 的#O 赛场#O 上#O ，#O 我们#O 看到#O 了#O 刘翔#PERSON 加张#O 梓琳#O “#O 金童玉女#O ”#O 组合#O 的#O 精彩表演#O 。#O
+NONE
+220 1927#MISC 年末#MISC ，#O 苏联#GPE 谷物#O 短缺#O ，#O 史达林#PERSON 力求#O 迅速#O 消灭#O 富农#O 阶级#O ，#O 并始#O 推#O 农业#O 集体化#O 政策#O 。#O
+220 1927#MISC 年末#MISC ，#O 当时#O 苏联#GPE 的#O 主政者#O 是#O 史达林#PERSON 。#O
+NONE
+221 恐怖分子#O 扎卡维#O 领导#O 的#O 美索不达米亚#ORGANIZATION 基地#ORGANIZATION 组织#ORGANIZATION 在#O 网络#O 上#O 警告#O 约旦#GPE
+221 扎卡维#O 是#O 美索不达米亚#ORGANIZATION 基地#ORGANIZATION 组织#ORGANIZATION 的#O 头目#O
+NONE
+222 《#O Top#MISC Gear#MISC 》#O 在#O 全世界#O 拥有#O 多达#O 3#MISC 亿#MISC 5#MISC ,#O 000#MISC 万#MISC 观众#O 。#O
+222 《#O Top#MISC Gear#MISC 》#O 是#O 全世界#O 拥有#O 观众#O 数量#O 最多#O 的#O 节目#O 。#O
+NONE
+223 中国#GPE 行动#O 通讯#O 拥有#O 全球#O 第一#MISC 的#O 行动#O 通讯#O 网络#O 规模#O 和#O 客户#O 规模#O ，#O 首度#O 入选#O 《#O 财富#O 》#O 杂志#O 世界#O 500#MISC 强#O 企业#O 。#O
+223 中国#GPE 行动#O 通讯#O 拥有#O 全球#O 第一#MISC 的#O 行动#O 通讯#O 网络#O 规模#O 和#O 客户#O 规模#O ，#O 再次#O 入选#O 《#O 财富#O 》#O 杂志#O 世界#O 500#MISC 强#O 企业#O 。#O
+NONE
+224 1927#MISC 年末#MISC ，#O 苏联#GPE 谷物#O 短缺#O ，#O 史达林#PERSON 力求#O 迅速#O 消灭#O 富农#O 阶级#O ，#O 并始#O 推#O 农业#O 集体化#O 政策#O 。#O
+224 1927#MISC 年末#MISC ，#O 苏联#GPE 谷物#O 过剩#O ，#O 史达林#PERSON 力求#O 迅速#O 消灭#O 富农#O 阶级#O ，#O 并始#O 推#O 农业#O 集体化#O 政策#O 。#O
+NONE
+225 同性恋#O 权益#O 拥护者#O 对若望#O ·#O 保禄#O 二世#MISC 代表#O 教会#O 宣示#O 同#O 性欲望#O 是#O “#O 明显#O 的#O 病态#O ”#O 并#O 反对#O 同性#O 婚姻#O 感到#O 不满#O 。#O
+225 同性恋#O 权益#O 拥护者#O 对若望#O ·#O 保禄#O 二世#MISC 代表#O 教会#O 宣示#O 同#O 性欲望#O 是#O “#O 明显#O 的#O 病态#O ”#O 感到#O 不满#O 。#O
+NONE
+226 航海家#O 1#MISC 号#MISC （#O Voyager#MISC 1#MISC ）#O 是#O 美国#ORGANIZATION 太空#ORGANIZATION 总署#ORGANIZATION 研制#O 的#O 一艘#O 无人#O 外#O 太阳系#O 太空#O 探测船#O ，#O 重#O 815#O 千克#O ，#O 于#O 1977#MISC 年#MISC 9#MISC 月#MISC 5#MISC 日#MISC 发射#O 。#O
+226 航海家#O 1#MISC 号#MISC （#O Voyager#MISC 1#MISC ）#O 是#O 美国#ORGANIZATION 太空#ORGANIZATION 总署#ORGANIZATION 研制#O 的#O 唯一#O 一艘#O 无人#O 外#O 太阳系#LOCATION 太空#O 探测船#O ，#O 重#O 815#O 千克#O ，#O 于#O 1977#MISC 年#MISC 9#MISC 月#MISC 5#MISC 日#MISC 发射#O 。#O
+NONE
+227 水晶宫#O （#O The#MISC Crystal#MISC Palace#MISC ）#O 是#O 十九世纪#MISC 的#O 英国#GPE 建筑#O 奇观#O 之一#O ，#O 也#O 是#O 工业革命#O 时代#O 的#O 重要#O 象征物#O 。#O
+227 象征#O 工业革命#MISC 时代#MISC 的#O 水晶宫#O （#O The#MISC Crystal#MISC Palace#MISC ）#O 是#O 十九世纪#MISC 的#O 英国#GPE 建筑#O 奇观#O 之一#O 。#O
+NONE
+228 德#O 川家康#O 在位#O 后以#O 武力#O 占领#O 各#O 军阀#O 领地#O ，#O 统一#O 全#O 日本#GPE 。#O
+228 德#O 川家康#PERSON 统一#O 全#O 日本#GPE 的#O 主要#O 阻力#O 来自#O 各#O 军阀#O 。#O
+NONE
+229 何大一#PERSON 在#O 一九九六年#MISC 被#O 美国#GPE 《#O 时代#ORGANIZATION 》#O 杂志#O 评为#O 年度#O 风云人物#O
+229 何大一#PERSON 曾#O 被#O 美国#GPE 《#O 时代#ORGANIZATION 》#O 杂志#O 评为#O 年度#O 风云人物#O
+NONE
+230 “#O 春晓#FACILITY ”#FACILITY 油田#FACILITY 距离#O 日本政府#GPE 片面#O 主张#O 的#O “#O 日中#ORGANIZATION 中间线#ORGANIZATION ”#O 有#O 5#MISC 公里#O
+230 “#O 春晓#FACILITY ”#FACILITY 油田#FACILITY 距离#O 日本政府#GPE 片面#O 主张#O 的#O “#O 日中#O 中间线#O ”#O 五公里#O
+NONE
+231 古腾堡#O 的#O 印刷术#O 使得#O 印刷品#O 变得#O 非常#O 便宜#O ，#O 印刷#O 的#O 速度#O 也#O 提高#O 了#O 许多#O ，#O 印刷#O 量#O 增加#O 。#O
+231 古腾堡#O 的#O 印刷术#O 使得#O 印刷品#O 价格#O 变#O 的#O 非常低#O ，#O 印刷#O 的#O 速度#O 也#O 提高#O 了#O 许多#O ，#O 印刷#O 量#O 增加#O 。#O
+NONE
+232 中国移动#O 手握#O 互联网#O 国际#O 联网#O 单位#O 经营权#O 和#O 国际#O 出入口#O 局#O 业务#O 经营权#O 。#O
+232 中国移动#O 具有#O 互联网#O 国际#O 联网#O 单位#O 经营权#O 和#O 国际#O 出入口#O 局#O 业务#O 经营权#O 。#O
+NONE
+233 自#O 1938#MISC 年#MISC 创立#O 以来#O ，#O 琉森#MISC 音乐节#MISC 已有#O 七十多年#MISC 的#O 历史#O 。#O
+233 自#O 1938#MISC 年#MISC 创立#O 以来#O ，#O 琉森#MISC 音乐节#MISC 的#O 历史#O 已有#O 七十多年#MISC 。#O
+NONE
+234 现今#O 学界#O 普遍认为#O 红楼梦#O 通行本#O 前#O 八十回#MISC 为#O 曹雪芹#PERSON 所#O 作#O ，#O 后#O 四十回#O 不知#O 为何#O 人所作#O 。#O
+234 现今#O 学界#O 普遍#O 对于#O 红楼梦#O 通行本#O 前#O 八十回#MISC 的#O 作者#O 莫衷一是#O 。#O
+NONE
+235 无#O 实权#O 的#O 爱尔兰#GPE 总统#O 要#O 接触#O 内阁#O 官员#O 需#O 经过#O 总理#O 办公室#O 安排#O 。#O
+235 爱尔兰#GPE 总理#O 才#O 是#O 爱尔兰#GPE 的#O 元首#O 。#O
+NONE
+236 爱因斯坦#GPE 因在#O 光电效应#O 方面#O 的#O 研究#O ，#O 获#O 授予#O 1921#MISC 年#MISC 诺贝尔物理学奖#MISC 。#O
+236 爱因斯坦#PERSON 因#O 1921#MISC 年#MISC 在#O 光电效应#O 方面#O 的#O 研究#O ，#O 获#O 授予#O 诺贝尔物理学奖#PERSON 。#O
+NONE
+237 成均馆#FACILITY 是#O 朝鲜半岛#MISC 历代#MISC 王朝#MISC 最高#O 学府#O ，#O 地位#O 同#O 等于#O 古代#O 中国#GPE 的#O 国子监#ORGANIZATION 、#O 太学#O 。#O
+237 成均馆#FACILITY 地位#O 同#O 等于#O 古代#O 中国#GPE 的#O 国子监#ORGANIZATION 、#O 太学#O 。#O
+NONE
+238 东照宫#O 是#O 供奉#O 日本#GPE 最后#O 一代#O 幕府#O —#O 江户#O 幕府#O 的#O 开府#O 将军#O 德#O 川家康#O 的#O 神社#O 。#O
+238 江户#O 幕府#O 的#O 结束#O 代表#O 日本#GPE 幕府时代#O 的#O 落幕#O 。#O
+NONE
+239 二十世纪#MISC 开始#O ，#O 火葬#O 在#O 世界各地#O 得到#O 提倡#O ，#O 以#O 节约#O 日益#O 紧张#O 的#O 耕地#O 。#O
+239 进入#O 二十世纪#MISC 后#O ，#O 火葬#O 被#O 认为#O 能#O 有效#O 节约#O 耕地#O 。#O
+NONE
+240 主#O 校区#O 位于#O 巴尔的摩市#GPE 的#O 约翰#PERSON ·#O 霍普金斯大学#PERSON ，#O 以#O 医学#O 、#O 公共卫生#O 、#O 空间科学#O 、#O 国际#O 关系#O 、#O 文学#O 及#O 音乐#O 等#O 学科#O 而#O 闻名世界#O 。#O
+240 主#O 校区#O 位于#O 巴尔的摩市#GPE 的#O 约翰#PERSON ·#O 霍普金斯大学#PERSON ，#O 以#O 医学#O 、#O 公共卫生#O 、#O 空间科学#O 、#O 国际#O 关系#O 、#O 文学#O 及#O 音乐#O 等#O 学科#O 的#O 高度#O 成就#O 而#O 闻名世界#O 。#O
+NONE
+241 金沙江#LOCATION 古称#O 丽水#GPE ，#O 以#O 盛产#O 金沙#GPE 而#O 得名#O 。#O
+241 长江上游#O 的#O 金沙江#LOCATION 古称#O 丽水#GPE ，#O 以#O 盛产#O 金沙#GPE 而#O 得名#O 。#O
+NONE
+242 九层#O 塔#O 对#O 寒冷#O 非常#O 敏感#O ，#O 在#O 热#O 和#O 干燥#O 的#O 环境#O 下#O 生长#O 得#O 最好#O 。#O
+242 低温#O 的#O 高纬度#O 地区#O 不#O 适合#O 种植#O 九层#O 塔#O 。#O
+NONE
+243 中国科学院#O 资深#O 院士#O 、#O 第三世界科学院#ORGANIZATION 院士#O 、#O 著名#O 海洋#O 生物学家#O 曾呈奎#PERSON ,#O 一生#O 与#O 海洋#O 结下#O 不解之缘#O 。#O
+243 曾呈奎#PERSON 是#O 研究#O 海洋生物#O 的#O 科学家#O 。#O
+NONE
+244 头文字#PERSON D#O 改编自#O 日本#GPE 知名#O 的#O 赛车#O 漫画#O
+244 头文字#PERSON D#O 源自#O 日本#GPE 著名#O 漫画#O
+NONE
+245 自#O 1897#MISC 年#MISC 起#O ，#O 恐龙#O 化石#O 已#O 在#O 各#O 大洲#O 发现#O ，#O 甚至#O 包含#O 南极洲#LOCATION 。#O
+245 自#O 1897#MISC 年#MISC 起#O ，#O 恐龙#O 化石#O 大多#O 于#O 南极洲#LOCATION 被#O 发现#O 。#O
+NONE
+246 安东尼#PERSON ·#O 高#O 第#O 一直#O 在#O 巴塞罗那#GPE 生活#O 和#O 工作#O ，#O 在#O 这里#O 有#O 他#O 很多#O 的#O 设计#O ，#O 其中#O 最#O 著名#O 的#O 包括#O 桂尔宫#PERSON 、#O 桂尔#FACILITY 公园#FACILITY 和#O 圣家堂#PERSON 。#O
+246 安东尼#PERSON ·#O 高#O 第#O 一直#O 在#O 巴塞罗那#GPE 成家#O 和#O 工作#O ，#O 在#O 这里#O 有#O 他#O 很多#O 的#O 设计#O ，#O 其中#O 最#O 著名#O 的#O 包括#O 桂尔宫#PERSON 、#O 桂尔#FACILITY 公园#FACILITY 和#O 圣家堂#PERSON 。#O
+NONE
+247 超级#O 油轮#O 诺克#PERSON ·#O 耐#O 维斯#PERSON 号#O （#O Knock#PERSON Nevis#PERSON ）#O 曾#O 是#O 世界#O 上#O 最长#O 的#O 船只#O 与#O 人工#O 制造#O 水面#O 漂浮物#O ，#O 船长#O 超过#O 1#MISC #MISC 4#MISC 英里#O （#O 458#MISC 公尺#O ）#O 。#O
+247 船长#O 超过#O 458#MISC 公尺#O 的#O 超级#O 油轮#O 诺克#O ·#O 耐#O 维斯#PERSON 号#O （#O Knock#PERSON Nevis#PERSON ）#O 曾#O 是#O 世界#O 上#O 最长#O 的#O 船只#O 与#O 人工#O 制造#O 水面#O 漂浮物#O 。#O
+NONE
+248 虾夷地#O 以#O 现在#O 的#O 北海道#GPE 为#O 中心#O ，#O 包含#O 库页岛#LOCATION 与#O 千岛#LOCATION 列岛#O 等#O 地#O 。#O
+248 虾夷地#O 包括#O 现在#O 的#O 北海道#GPE 、#O 库页岛#LOCATION 与#O 千岛#LOCATION 列岛#O 等#O 地#O 。#O
+NONE
+249 截止#O 至#MISC 2012#MISC 年#MISC ，#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 共有#O 36#MISC 名#O 校友#O 获#O 诺贝尔奖#MISC 。#O
+249 在此之前#O ，#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 共有#O 36#MISC 名#O 校友#O 获#O 诺贝尔奖#MISC 。#O
+NONE
+250 天龙八部#O 中#O 三位#O 男主角#O 的#O 身世#O 均#O 十分#O 离奇#O ，#O 其中#O 虚竹#O 即#O 为#O 少林#O 方丈#O 玄慈及#O 四大#O 恶人#O 中#O 的#O “#O 无恶不作#O ”#O 叶二娘#PERSON 的#O 儿子#O 。#O
+250 天龙八部#O 中#O 两位#O 男主角#O 的#O 身世#O 均#O 十分#O 离奇#O ，#O 其中#O 虚竹#O 即#O 为#O 少林#O 方丈#O 玄慈及#O 四大#O 恶人#O 中#O 的#O “#O 无恶不作#O ”#O 叶二娘#PERSON 的#O 儿子#O 。#O
+NONE
+251 在#O 现代#O 法治#O 社会#O ，#O 严重#O 的#O 虐待#O 行为#O 是#O 一种#O 犯罪行为#O ，#O 可#O 被#O 起诉#O ，#O 并#O 要#O 受到#O 法律#O 惩罚#O 。#O
+251 在#O 现代#O 法治#O 社会#O ，#O 严重#O 的#O 虐待#O 行为#O 是#O 一种#O 犯罪行为#O ，#O 皆#O 会#O 被#O 起诉#O ，#O 并#O 要#O 受到#O 法律#O 惩罚#O 。#O
+NONE
+252 虎井屿#PERSON 是#O 澎湖群岛#LOCATION 的#O 第七#MISC 大岛#O ，#O 旧#O 称为#O 船篷#O 屿#PERSON 、#O 台屿#GPE 。#O
+252 澎湖群岛#LOCATION 旧#O 称为#O 船篷#O 屿#PERSON 、#O 台屿#GPE 。#O
+NONE
+253 日本#GPE 于#O 2005#MISC 年#MISC 发行#O 上映#O 的#O 动画电影#O 《#O 蒸气#MISC 男孩#MISC 》#MISC ，#O 其#O 故事#O 背景#O 以#O 英国#GPE 1851#MISC 年#MISC 万国#MISC 博览会#MISC 为主#O 。#O
+253 日本#GPE 于#O 2005#MISC 年#MISC 发行#O 上映#O 的#O 万国#MISC 博览会#MISC 《#O 蒸气#MISC 男孩#MISC 》#MISC ，#O 其#O 故事#O 背景#O 以#O 英国#GPE 1851#MISC 年#MISC 动画电影#O 为主#O 。#O
+NONE
+254 在#O 中国#GPE 境内#O ，#O 中国#ORGANIZATION 行动#ORGANIZATION 通讯#ORGANIZATION 集团公司#ORGANIZATION 主要#O 经营#O 移动#O 语音#O 、#O 资料#O 、#O IP电话#O 和#O 多媒体业务#O 。#O
+254 在#O 中国#GPE 境内#O ，#O 中国#ORGANIZATION 行动#ORGANIZATION 通讯#ORGANIZATION 集团公司#ORGANIZATION 的#O 副业#O 为#O 移动#O 语音#O 、#O 资料#O 、#O IP电话#O 和#O 多媒体业务#O 。#O
+NONE
+255 中国移动#O 是#O 2000#MISC 年#MISC 4#MISC 月#MISC 20#MISC 日#MISC 成立#O 的#O 中国#GPE 国有#O 重要#O 骨干企业#O 。#O
+255 中国移动#O 是#O 2000#MISC 年#MISC 4#MISC 月#MISC 20#MISC 日#MISC 被#O 整#O 并#O 的#O 中国#GPE 国有#O 重要#O 骨干企业#O 。#O
+NONE
+256 造成#O 东南亚#LOCATION 及#O 南亚地区#O 的#O 重大#O 伤亡#O 的#O 南亚#LOCATION 海啸#O 是#O 以#O 800km#O #O hr#O 的#O 速度#O 前进#O 的#O 超大型#O 长波#O
+256 造成#O 东南亚#LOCATION 及#O 南亚地区#O 的#O 重大#O 伤亡#O 的#O 南亚#LOCATION 海啸#O 是#O 以#O 800m#O #O hr#O 的#O 速度#O 前进#O 的#O 超大型#MISC 长波#MISC
+NONE
+257 1970#MISC 年代#MISC ，#O 瑞典#GPE 通过#O 现代#O 宪法#O ，#O 瑞典#GPE 国王#O 在#O 议会#O 的#O 一切#O 权力#O 被#O 废除#O 。#O 但#O 内阁#O 每月#O 仍会#O 向#O 国王#O 在#O 王宫#O 内#O 正式#O 汇报#O 。#O
+257 千禧年#MISC 前夕#O ，#O 瑞典#GPE 通过#O 现代#O 宪法#O ，#O 瑞典#GPE 国王#O 在#O 议会#O 的#O 一切#O 权力#O 被#O 废除#O 。#O 但#O 内阁#O 每月#O 仍会#O 向#O 国王#O 在#O 王宫#O 内#O 正式#O 汇报#O 。#O
+NONE
+258 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 分割#O 为#O 两个#O 独立#O 的#O 集团#O 。#O
+258 中信集团#O 与#O 和#O 信#O 集团#O 旗下#O 业务#O 相同#O 。#O
+NONE
+259 1989#MISC 年#MISC 英伦#MISC 航空#MISC 92#MISC 号#MISC 班机#O 空难#O ，#O 机上#O 118#MISC 名#O 乘客#O 中#O 的#O 39#MISC 人#O 当场#O 死亡#O ，#O 8#MISC 人于#O 稍后#O 时间#O 亦#O 过世#O ；#O 而#O 机上#O 的#O 8#MISC 名#O 机员#O 则#O 全部#O 生还#O 。#O
+259 1989#MISC 年#MISC 英伦#MISC 航空#MISC 92#MISC 号#MISC 班机#O 空难#O ，#O 机上#O 126#MISC 人仅#MISC 79#MISC 人生#O 还#O 。#O
+NONE
+260 印度#GPE 与#O 巴基斯坦#GPE 两#MISC 国#O 谈判#O 条件#O 是#O 要#O 巴国#GPE 制止#O 伊斯兰教#ORGANIZATION 好战#O 分子#O 渗透#O 印属#O 喀什米尔#PERSON
+260 印度#GPE 与#O 巴基斯坦#GPE 两#MISC 国#O 谈判#O 条件#O 是#O 要#O 巴基斯坦#GPE 制止#O 伊斯兰教#ORGANIZATION 好战#O 分子#O 渗透#O 印属#O 喀什米尔#PERSON
+NONE
+261 柯布#O -#O 道格拉斯#PERSON 生产#O 函数#O （#O Cobb#O –#O Douglas#O function#O ）#O 是#O 个体#O 经济学#O 上#O 用来#O 描述#O 生产#O 函数#O 的#O 常用#O 函数#O 之一#O 。#O
+261 柯布#O -#O 道格拉斯#PERSON 生产#O 函数#O （#O Cobb#O –#O Douglas#O function#O ）#O 是#O 个体#O 经济学#O 上#O 被#O 用来#O 描述#O 生产#O 函数#O 的#O 常用#O 函数#O 之一#O 。#O
+NONE
+262 红牛#O 车队#O 车手#O 赛#O 巴斯蒂安#GPE ·#O 维#O 泰尔#PERSON 则#O 于#O 2010#MISC 、#O 2011#MISC 、#O 2012#MISC 及#MISC 2013#MISC 年#MISC 连续#MISC 四年#MISC 获得#O F1#MISC 年度#MISC 车手#O 总冠军#O 。#O
+262 F1#O 车手#O 赛#O 巴斯蒂安#PERSON ·#O 维#O 泰尔#PERSON 则#O 于#O 2010#MISC 、#O 2011#MISC 、#O 2012#MISC 及#MISC 2013#MISC 年#MISC 连续#MISC 四年#MISC 获得#O F1#MISC 年度#MISC 车手#O 总冠军#O 。#O
+NONE
+263 中#GPE 俄#GPE 四千#MISC 三百多公里#MISC 的#O 边界线#O 走向#O 至#O 《#O 中#O 俄国#GPE 界#O 东段#O 补充#O 协定#O 》#O 以#O 法律#O 形式#O 全部#O 确定#O
+263 中#GPE 俄#GPE 边界#O 大约#O 有#O 三百多公里#MISC
+NONE
+264 二氧化碳#O 是#O 温室#O 气体#O 之一#O ，#O 会#O 造成#O 温室效应#O 。#O
+264 二氧化碳#O 会#O 造成#O 温室效应#O 。#O
+NONE
+265 因为#O 柏油#O 对#O 健康#O 的#O 危害#O ，#O 现在#O 铺设#O 柏油#O 道路#O 已经#O 弃用#O 柏油#O 改用#O 沥青#O 。#O
+265 因为#O 柏油#O 对#O 健康#O 的#O 危害#O ，#O 现在#O 铺设#O 柏油#O 道路#O 已#O 用#O 沥青#O 取代#O 柏油#O 。#O
+NONE
+266 近#O 一百年#MISC 来#O 二氧化碳#O 的#O 大量#O 排放#O 导致#O 全球#MISC 变暖#MISC 。#O
+266 二氧化碳#O 需要#O 大量#O 排放#O 才#O 会#O 导致#O 全球#MISC 变暖#MISC 。#O
+NONE
+267 世界#O 少棒#O 大赛#O 是#O 位于#O 美国#GPE 的#O 世界#ORGANIZATION 少棒#ORGANIZATION 联盟#ORGANIZATION (#O LLB#O )#O 所#O 举办#O 的#O 世界性#O 少年#O 棒球#O 比赛#O 。#O
+267 世界#O 少棒#O 大赛#O 是#O 位于#O 美国#GPE 的#O 世界#ORGANIZATION 少棒#ORGANIZATION 联盟#ORGANIZATION (#O LLB#O )#O 所#O 举办#O 的#O 世界性#O 青年#O 棒球#O 比赛#O 。#O
+NONE
+268 琉森#MISC 音乐节#MISC （#O Lucerne#O Festival#O ）#O 是#O 欧洲#LOCATION 主要#O 的#O 音乐节#O 之一#O ，#O 举办地#O 位于#O 瑞士#GPE 中部#O 的#O 城市#O 琉森#O 。#O
+268 欧洲#LOCATION 主要#O 的#O 音乐节#MISC 琉森#MISC 音乐节#MISC （#O Lucerne#O Festival#O ）#O 举办地#O 位于#O 瑞士#GPE 中部#O 的#O 城市#O 琉森#O 。#O
+NONE
+269 始新世#O （#O Eocene#O ）#O 大约#O 开始#O 于#O 5580#MISC 万年前#MISC ，#O 终于#O 3400#MISC 万年前#MISC 。#O
+269 始新世#O （#O Eocene#O ）#O 大约#O 开始#O 于#O 3400#MISC 万年前#MISC ，#O 终于#O 5580#MISC 万年前#MISC 。#O
+NONE
+270 中国科学院#O 资深#O 院士#O 、#O 第三世界科学院#ORGANIZATION 院士#O 、#O 著名#O 海洋#O 生物学家#O 曾呈奎#PERSON ,#O 一生#O 与#O 海洋#O 结下#O 不解之缘#O 。#O
+270 曾呈奎#PERSON 是#O 中国科学院#ORGANIZATION 资深#O 院士#O 。#O
+NONE
+271 巴尔的摩市#GPE 的#O 约翰#PERSON ·#O 霍普金斯大学#O ，#O 以#O 医学#O 、#O 公共卫生#O 、#O 空间科学#O 、#O 国际#O 关系#O 、#O 文学#O 及#O 音乐#O 等#O 学科#O 而#O 闻名世界#O 。#O
+271 主#O 校区#O 位于#O 巴尔的摩市#GPE 的#O 约翰#PERSON ·#O 霍普金斯大学#PERSON ，#O 以#O 医学#O 、#O 公共卫生#O 、#O 空间科学#O 、#O 国际#O 关系#O 、#O 文学#O 及#O 音乐#O 等#O 学科#O 而#O 闻名世界#O 。#O
+NONE
+272 琉球#PERSON 狐蝠#O 以#O 植物#O 的#O 果实#O 、#O 花朵#O 、#O 嫩叶#O 为主#O 食#O 。#O
+272 琉球#PERSON 狐蝠#O 是#O 食虫#O 动物#O 。#O
+NONE
+273 二十世纪#MISC 开始#O ，#O 火葬#O 在#O 世界各地#O 得到#O 提倡#O ，#O 以#O 节约#O 日益#O 紧张#O 的#O 耕地#O 。#O
+273 从#O 20#MISC 世纪#MISC 开始#O ，#O 火葬#O 在#O 世界各地#O 得到#O 提倡#O ，#O 以#O 节约#O 日益#O 紧张#O 的#O 耕地#O 。#O
+NONE
+274 纽伦堡#GPE 审判#O 中#O 的#O 被告#O 共计#O 22#MISC 名#O ，#O 均#O 为#O 纳粹德国#O 的#O 军政#O 首领#O 。#O
+274 纽伦堡#GPE 审判#O 中#O 原告#O 共计#O 22#MISC 名#O ，#O 均#O 为#O 二次大战#MISC 时#O 纳粹德国#O 的#O 军政#O 首领#O 。#O
+NONE
+275 二十世纪#MISC 初期#MISC 科学家#O 以为#O 只有#O H1#O 、#O H2#O 和#O H3#O 抗原#O 型#O 的#O 流感病毒#O 才#O 会#O 感染#O 人类#O
+275 二十世纪#MISC 中期#MISC 科学家#O 发现#O 只有#O H1#O 、#O H2#O 和#O H3#O 抗原#O 型#O 的#O 流感病毒#O 才#O 会#O 感染#O 人类#O
+NONE
+276 洛杉矶#GPE 奥运会#GPE 并未#O 投入#O 巨资#O 进行#O 基础#O 建设#O ，#O 但#O 仍#O 大幅#O 整建#O 了#O 国际#FACILITY 机场#FACILITY ,#O 因此#O 获利#O 丰厚#O
+276 洛杉矶#GPE 奥运会#MISC ，#O 洛杉矶#GPE 并未#O 耗资#O 兴建#O 太#O 多#O 场地#O ，#O 因此#O 获利#O 丰厚#O
+NONE
+277 爱因斯坦#PERSON 因在#O 光电效应#O 方面#O 的#O 研究#O ，#O 获#O 授予#O 1921#MISC 年#MISC 诺贝尔物理学奖#MISC 。#O
+277 爱因斯坦#PERSON 因在#O 光电效应#O 方面#O 的#O 研究#O ，#O 获#O 授予#O 诺贝尔物理学奖#MISC 。#O
+NONE
+278 西藏#GPE 独立#O 运动#O 是#O 寻求#O 西藏地区#GPE 建立#O 成#O 一个#O 主权国家#O 的#O 一系列#O 运动#O 。#O
+278 西藏#GPE 独立#O 运动#O 是#O 寻求#O 西藏地区#O 脱离#O 中国#GPE 建立#O 成#O 一个#O 主权国家#O 的#O 一系列#O 运动#O 。#O
+NONE
+279 理察森#PERSON 外推法#O 是#O 在#O 20#MISC 世纪#MISC 前期#MISC 由#O 英国#GPE 数学家#O ，#O 物理学家#O ，#O 气象学家#O Lewis#O Fry#O Richardson#O 提出#O 的#O 。#O
+279 Lewis#O Fry#O Richardson#O 除了#O 是#O 数学家#O ，#O 也#O 身兼#O 气象学家#O 。#O
+NONE
+280 室女座#O 最#O 显著#O 的#O 恒星#O 是#O 角宿#O 一#O ，#O 这颗#O 蓝白色#O 的#O 星#O 是#O 全天#O 最亮#O 的#O 21#MISC 颗#O 恒星#O 之一#O 。#O
+280 室女座#O 最#O 显著#O 的#O 恒星#O 是#O 角宿#O 一#O ，#O 这颗#O 粉红色#O 的#O 星#O 是#O 全天#O 最亮#O 的#O 21#MISC 颗#O 恒星#O 之一#O 。#O
+NONE
+281 在#O 中国#GPE 境内#O ，#O 中国#ORGANIZATION 行动#ORGANIZATION 通讯#ORGANIZATION 集团公司#ORGANIZATION 主要#O 经营#O 移动#O 语音#O 、#O 资料#O 、#O IP电话#O 和#O 多媒体业务#O 。#O
+281 中国#ORGANIZATION 行动#ORGANIZATION 通讯#ORGANIZATION 集团公司#ORGANIZATION 仅#O 在#O 中国#GPE 境内#O 多媒体业务#O 。#O
+NONE
+282 1215#MISC 年#MISC 订立#O 的#O 英国#GPE 大#O 宪章#O 在#O 1225#MISC 年#MISC 首次#O 成为#O 法律#O 。#O
+282 1215#MISC 年#MISC 订立#O 的#O 大#O 宪章#O 在#O 1225#MISC 年#MISC 首次#O 成为#O 法律#O 。#O
+NONE
+283 若望#O ·#O 保禄#O 二世#MISC 曾#O 访问#O 罗马尼亚#GPE ，#O 成为#O 自从#O 1054#MISC 年#MISC 东西#O 教会#O 分裂#O 之后#O ，#O 第一位#MISC 拜访#O 东正教#O 国家#O 的#O 教宗#O 。#O
+283 若望#O ·#O 保禄#O 二世#MISC 1054#MISC 年#MISC 曾#O 访问#O 罗马尼亚#GPE ，#O 成为#O 自从#O 东西#O 教会#O 分裂#O 之后#O ，#O 第一位#MISC 拜访#O 东正教#O 国家#O 的#O 教宗#O 。#O
+NONE
+284 火地#O 群岛#O 总面积#O 73#MISC ,#O 753#MISC 平方公里#O 。#O
+284 火地#O 群岛#LOCATION 最大#O 岛#O 总面积#O 73#MISC ,#O 753#MISC 平方公里#O 。#O
+NONE
+285 最#O 年轻#O 踏上#O 红#O 磡#O 体育馆#O 开#O 演唱会#O 的#O 为#O 台湾#GPE 男歌手#O 林志颖#PERSON （#O 当时#O 18#MISC 岁#MISC ）#O 。#O
+285 其他#O 踏上#O 红#O 磡#O 体育馆#O 开#O 演唱会#O 的#O 人#O 都#O 比#O 林志颖#PERSON 大#O 。#O
+NONE
+286 伊拉克#GPE 和#O 美国#ORGANIZATION 军队#ORGANIZATION 在#O 当地#O 时间#O 20#MISC 日#MISC 21#MISC 时#O (#O 北京#GPE 时间#O 21#MISC 日#MISC 2#MISC 时#MISC )#O 左右#O 交火#O
+286 伊拉克#GPE 和#O 美国#ORGANIZATION 军队#ORGANIZATION 在#O 北京#GPE 时间#O 21#MISC 日#MISC 2#MISC 时#O (#O 当地#O 时间#O 20#MISC 日#MISC 21#MISC 时#MISC )#O 左右#O 交火#O
+NONE
+287 丰富#O 的#O 想像力#O 、#O 精湛#O 的#O 数学#O 造诣#O 、#O 严谨#O 的#O 治学#O 态度#O ，#O 这些#O 都#O 是#O 成为#O 理论#O 物理学家#O 需要#O 培养#O 的#O 优良#O 素质#O 。#O
+287 想像力#O 丰富#O 、#O 数学#O 造诣#O 精湛#O 、#O 治学#O 态度#O 严谨#O ，#O 这些#O 都#O 是#O 成为#O 理论#O 物理学家#O 需要#O 培养#O 的#O 优良#O 素质#O 。#O
+NONE
+288 约克#MISC 王朝#MISC (#O House#O of#O York#O )#O 于#O 15#MISC 世纪#MISC 后#O 半叶#O 与#O 兰开斯特#MISC 王朝#MISC 争夺#MISC 王位#MISC ，#O 最后#O 导致#O 了#O 玫瑰#MISC 战争#MISC 。#O
+288 玫瑰#O 战争#O 的#O 起因#O 是#O 由于#O 约克#MISC 王朝#MISC (#O House#O of#O York#O )#O 于#O 15#MISC 世纪#MISC 后#O 半叶#O 与#O 兰开斯特#MISC 王朝#MISC 争夺#MISC 王位#MISC 。#O
+NONE
+289 十诫#O 为#O 代表#O 的#O 摩西#O 律法#O 是#O 犹太人#DEMONYM 的#O 生活#O 和#O 信仰#O 的#O 准则#O ，#O 也#O 是#O 最初#O 的#O 法律条文#DEMONYM 。#O
+289 十诫#O 为#O 代表#O 的#O 律法#O 是#O 最初#O 的#O 法律条文#DEMONYM ，#O 也#O 是#O 犹太人#DEMONYM 摩西#O 的#O 生活#O 和#O 信仰#O 的#O 准则#O 。#O
+NONE
+290 西元#MISC 1600#MISC 年#MISC 12#MISC 月#MISC 31#MISC 日#MISC ，#O 英国女王#ORGANIZATION 伊莉莎白#ORGANIZATION 一世#ORGANIZATION 授予#ORGANIZATION 英国#ORGANIZATION 东印度#ORGANIZATION 公司#ORGANIZATION 皇家#O 特许状#GPE ，#O 给予#O 它#O 在#O 印度#GPE 贸易#O 的#O 特权#O 。#O
+290 西元#MISC 1600#MISC 年#MISC 12#MISC 月#MISC 31#MISC 日#MISC ，#O 伊莉莎白#ORGANIZATION 一世#ORGANIZATION 授予#ORGANIZATION 英国#ORGANIZATION 东印度#ORGANIZATION 公司#ORGANIZATION 皇家#O 特许状#GPE ，#O 给予#O 它#O 在#O 印度#GPE 贸易#O 的#O 特权#O 。#O
+NONE
+291 燃煤#O 所#O 排出#O 的#O 二氧化碳#O 是#O 温室#O 气体#O 。#O
+291 燃煤#O 所#O 排出#O 的#O 二氧化碳#O 是#O 气体#O 。#O
+NONE
+292 20021002#O 韩国#GPE 击败#O 藤球#O 强国#O 泰国队#ORGANIZATION ，#O 夺下#O 亚运#O 藤球#O 圆场#O 赛#O 金牌#MISC ，#O 引发#O 泰国队#ORGANIZATION 主教练#O 斯里#PERSON 亚蓬#PERSON 差#O 抨击#O 裁判#O 不公#O
+292 20021002#O 韩国#GPE 与#O 藤球#O 强国#O 泰国队#ORGANIZATION 交手#O ，#O 夺下#O 亚运#O 藤球#O 圆场#O 赛#O 金牌#MISC ，#O 使得#O 泰国队#ORGANIZATION 主教练#O 斯里#PERSON 亚蓬#PERSON 差#O 指责#O 裁判#O 不公#O
+NONE
+293 截止#O 至#MISC 2012#MISC 年#MISC ，#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 共有#O 36#MISC 名#O 校友#O 获#O 诺贝尔奖#MISC 。#O
+293 截止#O 至#MISC 2012#MISC 年#MISC ，#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 共有#O 36#MISC 名#O 人士#O 获#O 诺贝尔奖#MISC 。#O
+NONE
+294 据#O 《#O 瞭望#MISC 》#O 杂志#O 的#O 估算#O ，#O 东海#FACILITY 油田#FACILITY 蕴含#O 石油#O 250#MISC 亿吨#O
+294 据#O 《#O 瞭望#MISC 》#O 杂志#O 的#O 估算#O ，#O 东海#FACILITY 油田#FACILITY 蕴含#FACILITY 石油#FACILITY 250#FACILITY 亿公斤#FACILITY
+NONE
+295 世界#O 少棒#O 大赛#O 创办#O 于#O 1947#MISC 年#MISC ，#O 每年#O 8#MISC 月#MISC 在#O 宾州#GPE 南#O 威廉#O 波特#PERSON 比赛#O 。#O
+295 世界#O 少棒#O 大赛#O 创办#O 于#O 一九四七年#MISC ，#O 每年#MISC 夏天#MISC 在#O 宾州#GPE 南#O 威廉#O 波特#PERSON 比赛#O 。#O
+NONE
+296 马来西亚#GPE 陆军#O 的#O 前身#O 是#O 成立#O 于#O 1933#MISC 年#MISC 3#MISC 月#MISC 1#MISC 日#MISC 的#O 马来#O 志愿#O 兵团#O 。#O
+296 马来西亚#GPE 陆军#O 源自#O 成立#O 于#O 1933#MISC 年#MISC 3#MISC 月#MISC 1#MISC 日#MISC 的#O 马来#O 志愿#O 兵团#O 。#O
+NONE
+297 火地#O 群岛#LOCATION 南端#O 的#O 合恩角#O 是#O 南美洲#LOCATION 智利#LOCATION 火地#LOCATION 群岛#LOCATION 南端#O 的#O 陆#O 岬#O ，#O 广泛#O 认为#O 是#O 南美洲#LOCATION 的#O 最南端#O 。#O
+297 火地#O 群岛#LOCATION 南端#O 的#O 合恩角#O 是#O 南美洲#LOCATION 智利#LOCATION 火地#LOCATION 群岛#LOCATION 南端#O 的#O 海湾#O 。#O
+NONE
+298 室女座#O 是#O 希腊#GPE 正义#O 女神#O 阿斯特#PERSON 莉亚#PERSON 的#O 象征#O ，#O 亦#O 为#O 农业#O 女神#O 。#O
+298 室女座#O 是#O 希腊#GPE 正义#O 女神#O 阿斯特#PERSON 莉亚#PERSON 的#O 化身#O ，#O 亦#O 为#O 农业#O 女神#O 。#O
+NONE
+299 火地#O 群岛#LOCATION 南端#O 的#O 合恩角#O 是#O 南美洲#LOCATION 智利#LOCATION 火地#LOCATION 群岛#LOCATION 南端#O 的#O 陆#O 岬#O ，#O 广泛#O 认为#O 是#O 南美洲#LOCATION 的#O 最南端#O 。#O
+299 火地#O 群岛#LOCATION 南端#O 的#O 合恩角#O 是#O 美洲#LOCATION 的#O 最南端#O 。#O
+NONE
+300 火地#O 群岛#O ，#O 是#O 南美洲#LOCATION 最南端#O 的#O 岛屿#O 群#O ，#O 由主岛#LOCATION 大#LOCATION 火地岛#LOCATION 及#O 周边#O 小岛#O 组成#O 。#O
+300 火地#O 群岛#O ，#O 是#O 南美洲#LOCATION 纬度#O 最高#O 的#O 地方#O 。#O
+NONE
+301 法国#DEMONYM 数学家#O 嘉当#O 62#MISC 岁#MISC 才#O 当选#O 法国#ORGANIZATION 科学院#ORGANIZATION 院士#O
+301 法国#DEMONYM 数学家#O 嘉是#O 法国#ORGANIZATION 科学院#ORGANIZATION 院士#O
+NONE
+302 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 分割#O 为#O 两个#MISC 独立#O 的#O 集团#O 。#O
+302 中信#ORGANIZATION 金控#ORGANIZATION 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 合并#O 。#O
+NONE
+303 世界#O 少棒#O 大赛#O 是#O 世界#ORGANIZATION 少棒#ORGANIZATION 联盟#ORGANIZATION (#O LLB#O )#O 所#O 举办#O 的#O 世界性#O 少年#O 棒球#O 比赛#O 。#O
+303 世界#O 少棒#O 大赛#O 是#O 位于#O 美国#GPE 的#O 世界#ORGANIZATION 少棒#ORGANIZATION 联盟#ORGANIZATION (#O LLB#O )#O 所#O 举办#O 的#O 世界性#O 少年#O 棒球#O 比赛#O 。#O
+NONE
+304 阿拉法特#PERSON 于#O 十一月#MISC 十一日#MISC 凌晨#MISC 二#MISC 时#MISC 三十分#MISC 病逝#O 法国#GPE 首都#O 巴黎市#GPE 西南郊#LOCATION 克拉#O 玛#O 的#O 裴西军#FACILITY 医院#FACILITY ，#O 享年#MISC 七十五岁#MISC
+304 阿拉法特#PERSON 在#O 巴黎#GPE 的#O 医院#O 辞世#O
+NONE
+305 为#O 纪念#O 野口#MISC 英世对#MISC 世人#O 的#O 贡献#O ，#O 2004#MISC 年#MISC 11#MISC 月#MISC 后#O 改版#O 的#O 1000#MISC 日圆#MISC 纸币#O 印有#O 他#O 的#O 肖像#O 。#O
+305 为#O 纪念#O 野口#MISC 英世对#MISC 世人#O 的#O 贡献#O ，#O 2004#MISC 年#MISC 11#MISC 月#MISC 后#O 改版#O 的#O 1000#MISC 日圆#MISC 纸币#MISC 印有#MISC 野口#MISC 英世#MISC 的#O 肖像#O 。#O
+NONE
+306 中国移动#O 有限公司#O （#O 简称#O “#O 中国#GPE 行动#O 通讯#O ”#O 或#O “#O 中国移动#O ”#O ）#O 。#O
+306 中国移动#O 是#O 行动#O 通讯#O 的#O 相关#O 产业#O 。#O
+NONE
+307 理察森#PERSON 外推法#O 是#O 在#O 20#MISC 世纪#MISC 前期#MISC 由#O 英国#GPE 数学家#O ，#O 物理学家#O ，#O 气象学家#O Lewis#O Fry#O Richardson#O 提出#O 的#O 。#O
+307 理察森#O 外推法#O 是#O 在#O 20#MISC 世纪#MISC 前期#MISC 由#O 德国#GPE 数学家#O ，#O 物理学家#O ，#O 气象学家#O Lewis#O Fry#O Richardson#O 提出#O 的#O 。#O
+NONE
+308 《#O Top#MISC Gear#MISC 》#O 在#O 全世界#O 拥有#O 多达#O 3#MISC 亿#MISC 5#MISC ,#O 000#MISC 万#MISC 观众#O 。#O
+308 《#O Top#MISC Gear#MISC 》#O 是#O 个#O 著名#O 的#O 广播节目#O 。#O
+NONE
+309 据#O 《#O 圣经#MISC ·#MISC 申命记#MISC 》#O 所#O 载#O ，#O 约书亚#O 继#O 摩西#O 成为#O 以色列#DEMONYM 人#O 的#O 领袖#O ，#O 带领#O 以色列#DEMONYM 人#O 离开#O 旷野#O 进入#O 应许#O 之地#O ，#O 那#O 丰富#O 的#O 迦南#O 美地#O 。#O
+309 据#O 《#O 圣经#MISC ·#MISC 申命记#MISC 》#O 所#O 载#O ，#O 约书亚#O 与#O 摩西#PERSON 都#O 曾#O 是#O 以色列#DEMONYM 人#O 的#O 领袖#O 。#O
+NONE
+310 何大一#PERSON 被#O 称为#O “#O 爱滋病#O 之#O 父#O ”#O
+310 何大一#PERSON 作为#O 第四个#O 发现#O 爱滋病#O 的#O 科学家#O ，#O 仅#O 比#O 首位#O 发现者#O 晚#O 了#O 3#MISC 个#MISC 月#MISC ，#O 却令#O 他#O 错失#O “#O 爱滋病#O 之#O 父#O ”#O 的#O 称号#O
+NONE
+311 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 分割#O 为#O 两个#O 独立#O 的#O 集团#O 。#O
+311 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 分割#O 为#O 两个#ORGANIZATION 集团#ORGANIZATION 。#O
+NONE
+312 20020220#O 有#O 自由式#O 滑雪#O 界库#O 妮可#O 娃之称#O 的#O 卡普林#PERSON 在#O 盐湖城#GPE 冬奥会#O 中#O 摘下#O 金牌#MISC 。#O
+312 20020220#O 有#O 自由式#O 滑雪#O 界卡#O 普林#O 之称#O 的#O 库#O 妮可#O 娃#O 在#O 盐湖城#GPE 冬奥会#O 中#O 摘下#O 金牌#MISC 。#O
+NONE
+313 传#O 巴基斯坦#GPE 伊斯兰#ORGANIZATION 学校#ORGANIZATION 训练#O 出#O 了#O 阿富汗#GPE 的#O 塔利班#ORGANIZATION 政权#O
+313 传#O 基地#O 组织#O 在#O 伊拉克#GPE 北部#O 设#O 恐怖分子#O 训练营#O
+NONE
+314 德#O 川家康#O 在位#O 后以#O 武力#O 攻破#O 各#O 军阀#O 领地#O ，#O 统一#O 全#O 日本#GPE 。#O
+314 德#O 川家康#O 以#O 武力#O 攻破#O 各#O 军阀#O 领地#O ，#O 统一#O 全#O 日本#GPE 。#O
+NONE
+315 爱因斯坦#PERSON 出生#O 后#O 不久#O ，#O 便于#O 1880#MISC 年#MISC 举家#O 迁往#O 慕尼黑#GPE 。#O
+315 爱因斯坦#GPE 出#O 生于#O 1880#MISC 年#MISC 。#O
+NONE
+316 世界#O 少棒#O 大赛#O 创办#O 于#O 1947#MISC 年#MISC ，#O 每年#O 8#MISC 月#MISC 在#O 宾州#GPE 南#O 威廉#O 波特#PERSON 比赛#O 。#O
+316 世界#O 少棒#O 大赛#O 创办#O 于#O 1947#MISC 年#MISC ，#O 每年#MISC 8#MISC 月#MISC 在#O 宾夕法尼亚州#GPE 南#O 威廉#O 波特#PERSON 比赛#O 。#O
+NONE
+317 1927#MISC 年末#MISC ，#O 苏联#GPE 谷物#O 短缺#O ，#O 史达林#PERSON 力求#O 迅速#O 消灭#O 富农#O 阶级#O ，#O 并始#O 推#O 农业#O 集体化#O 政策#O 。#O
+317 1927#MISC 年末#MISC ，#O 苏联#GPE 谷物#O 短缺#O ，#O 史达林#PERSON 始#O 推#O 农业#O 集体化#O 政策#O ，#O 其#O 目的#O 为#O 力求#O 迅速#O 消灭#O 富农#O 阶级#O 。#O
+NONE
+318 印度#GPE 与#O 巴基斯坦#GPE 和平谈判#O 的#O 重要#O 议题#O 有#O 共同#O 货币#O 的#O 可行性#O 、#O 讨论#O 区域合作#O 发展#O 经济#O 、#O 将共组#O 自由贸易区#O 并#O 解决#O 长久以来#O 的#O 喀什米尔#GPE 问题#O 。#O
+318 印巴#GPE 两#O 国#O 除了#O 喀什米尔#GPE 问题#O 外#O ,#O 也#O 希望#O 能#O 在#O 经济#O 发展#O 上#O 有#O 共同#O 合作#O 关系#O
+NONE
+319 国际货币基金组织#O （#O IMF#O ）#O 去年#MISC 12#MISC 月#MISC 停止#O 对#O 阿根廷#GPE 放款#O
+319 国际货币基金组织#O （#O IMF#O ）#O 去年#MISC 12#MISC 月#MISC 开放#O 对#O 阿根廷#GPE 放款#O 的#O 限制#O
+NONE
+320 为了#O 研究#O 黄热病#O 、#O 奥罗亚#PERSON 热#O 、#O 小儿#O 麻痺症#O 以及#O 沙眼#O ，#O 野口#ORGANIZATION 英世#ORGANIZATION 频繁#ORGANIZATION 地到#O 中美洲#LOCATION 与#O 南美洲#LOCATION 旅行#O 。#O
+320 野口#ORGANIZATION 英世#ORGANIZATION 致力于#O 研究#O 黄热病#O 、#O 奥罗亚#PERSON 热#O 、#O 小儿#O 麻痺症#O 以及#O 沙眼#O 。#O
+NONE
+321 2010#MISC 年#MISC Google#O 公司#O 因#O 内容#O 审查#O 问题#O 与#O 中国政府#ORGANIZATION 交涉#O ，#O 并#O 最终#O 关闭#O 中国#GPE 版#O 网页#O 搜寻#O 服务#O 。#O
+321 2010#MISC 年#MISC 起#O Google#ORGANIZATION 公司#ORGANIZATION 关闭#O 中国#GPE 版#O 网页#O 搜寻#O 服务#O 。#O
+NONE
+322 火地#O 群岛#LOCATION 南端#O 的#O 合恩角#O 是#O 南美洲#LOCATION 智利#LOCATION 火地#LOCATION 群岛#LOCATION 南端#O 的#O 陆#O 岬#O ，#O 该陆#O 岬#O 被#O 广泛#O 认为#O 是#O 南美洲#LOCATION 的#O 最南端#O 。#O
+322 合恩角#O 被#O 广泛#O 认为#O 是#O 南美洲#LOCATION 的#O 最南端#O 。#O
+NONE
+323 火力发电厂#O 是#O 二氧化碳#O 的#O 主要#O 排放#O 来源#O 。#O
+323 南极#LOCATION 的#O 火力发电厂#O 是#O 二氧化碳#O 的#O 主要#O 排放#O 来源#O 。#O
+NONE
+324 2008#MISC 年#MISC 北京#MISC 奥运会#MISC 即#O 第二十九届#ORGANIZATION 夏季#ORGANIZATION 奥林匹克运动会#ORGANIZATION 于#O 2008#MISC 年#MISC 8#MISC 月#MISC 8#MISC 日#MISC 20#MISC 时#O 开幕#O
+324 2008#MISC 年#MISC 北京#MISC 奥运会#MISC 即#O 第二十九届#ORGANIZATION 夏季#ORGANIZATION 奥林匹克运动会#ORGANIZATION 于#O 2008#MISC 年#MISC 8#MISC 月#MISC 8#MISC 日#MISC 22#MISC 时#O 开幕#O
+NONE
+325 美国最高法院#GPE 首席#O 大法官#O 哈伦#PERSON ·#O 菲斯#PERSON 克#PERSON ·#O 斯#O 通称#O 纽伦堡#GPE 审判#O 是#O 一场#O 骗局#O 。#O
+325 美国#GPE 地方法院#GPE 首席#O 大法官#O 哈伦#PERSON ·#O 菲斯#PERSON 克#PERSON ·#O 斯#O 通称#O 纽伦堡#GPE 审判#O 是#O 一场#O 骗局#O 。#O
+NONE
+326 第五轮#O 六方会谈#O 定于#O 本月#MISC 九日#MISC 在#O 北京钓鱼台国宾馆#FACILITY 举行#O
+326 第四轮#O 六方会谈#O 在#O 北京钓鱼台国宾馆#FACILITY 开幕#O
+NONE
+327 全身性#O 红斑狼疮#O 的#O 症状#O 千奇百怪#O ，#O 若#O 千面#O 女郎#O 一般#O ，#O 每个#O 人均#O 不尽相同#O 。#O
+327 若#O 千面#O 女郎#O 一般#O ，#O 每个#O 全身性#O 红斑狼疮#O 的#O 患者#O 症状#O 均#O 不尽相同#O 。#O
+NONE
+328 大部份#O 的#O 乳酪#O 是#O 通过#O 细菌#O 将#O 乳糖#O 变为#O 乳酸#O 后#O ，#O 加入#O 凝乳#O 酵素#O 使#O 之#O 完全#O 凝固#O 。#O
+328 大部份#O 的#O 乳酪#O 是#O 通过#O 细菌#O 将#O 乳糖#O 变为#O 乳酸#O 后#O ，#O 加入#O 凝乳#O 酵素#O 使#O 乳酪#O 完全#O 凝固#O 。#O
+NONE
+329 ESS#O 控诉#O 联发科#ORGANIZATION 侵权#O 一案#O 已获#O 解决#O ，#O 由联#O 发科#O 在#O 两年#MISC 内#O 支付#O 9#MISC ,#O 000#O 万元#O 给#O ESS#O 取得#O 授权#O
+329 ESS#O 通过#O 法律#O 途径#O 使得#O 联发科#ORGANIZATION 必须#O 支付#O 九#MISC 千万元#MISC 给#O ESS#O 取得#O 授权#O
+NONE
+330 1976#MISC 年#MISC 蒙特利尔#MISC 奥运会#MISC ，#O 拥有#O 628#MISC 家#MISC 赞助#O 厂商#O ，#O 赞助#O 资源#O 价值#O 高达#O 700#MISC 万美元#MISC ，#O 却#O 仍#O 严重#O 亏损#O 10#MISC 亿美元#MISC
+330 1976#MISC 年#MISC 蒙特利尔#MISC 奥运会#MISC ，#O 拥有#O 628#MISC 家#O 赞助#O 厂商#O ，#O 赞助#O 价值#O 高达#O 700#MISC 万美元#MISC
+NONE
+331 诺贝尔经济学奖#MISC 并#O 不#O 属于#O 诺贝尔#MISC 遗嘱#O 中#O 所#O 提到#O 的#O 5#MISC 大#O 奖励#O 领域#O 。#O
+331 经济学奖#MISC 并#O 不#O 属于#O 诺贝尔#MISC 遗嘱#O 中#O 所#O 提到#O 的#O 5#MISC 大#O 奖励#O 领域#O 。#O
+NONE
+332 日本#GPE 继#O 2003#MISC 年#MISC 中国#GPE 在#O 东海#LOCATION 开采#O 石油#O 两年#MISC 后#O 批准#O 民间#O 石油勘探#O 公司#O "#O 帝国#O 石油#O "#O 勘探#O 东海#FACILITY 油气田#FACILITY ，#O 并#O 给予#O 试凿权#O
+332 2005#MISC 年#MISC 日本政府#ORGANIZATION 批准#O 民间#O 石油勘探#O 公司#O "#O 帝国#O 石油#O "#O 勘探#O 东海#FACILITY 油气田#FACILITY ，#O 并#O 给予#O 试凿权#O
+NONE
+333 世界遗产#O 的#O 选出#O 是#O 由#O 联合国教科文组织世界遗产委员会#ORGANIZATION 来#O 投票#O 开会#O 决定#O 。#O
+333 每年#O 联合国教科文组织#DEMONYM 世界遗产#DEMONYM 委员#O 都#O 会#O 投票#O 开会#O 决定#O 世界遗产#O 的#O 遴选#O 。#O
+NONE
+334 1970#MISC 年代#MISC ，#O 瑞典#GPE 通过#O 现代#O 宪法#O ，#O 瑞典#GPE 国王#O 在#O 议会#O 的#O 一切#O 权力#O 被#O 废除#O 。#O 但#O 内阁#O 每月#O 仍会#O 向#O 国王#O 在#O 王宫#O 内#O 正式#O 汇报#O 。#O
+334 1970#MISC 年代#MISC ，#O 瑞典#GPE 通过#O 现代#O 宪法#O ，#O 瑞典#GPE 国王#O 在#O 议会#O 的#O 一切#O 权力#O 被#O 废除#O 。#O 但#O 总理#O 每月#O 仍会#O 向#O 国王#O 在#O 王宫#O 内#O 正式#O 汇报#O 。#O
+NONE
+335 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 分割#O 为#O 两个#O 独立#O 的#O 集团#O 。#O
+335 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 被迫#O 分割#O 为#O 两个#O 独立#O 的#O 集团#O 。#O
+NONE
+336 纽伦堡#GPE 审判#O 中#O 的#O 被告#O 共计#O 22#MISC 名#O ，#O 均#O 为#O 纳粹德国#ORGANIZATION 的#O 军政#O 首领#O 。#O
+336 纽伦堡#GPE 审判#O 中#O 的#O 被告#O 共计#O 22#MISC 名#O ，#O 均#O 为#O 纳粹#ORGANIZATION 的#O 军政#O 首领#O 。#O
+NONE
+337 龙应台#PERSON 客居#O 香港#GPE ，#O 先后#O 任#O 香港城市大学#ORGANIZATION 及#ORGANIZATION 香港大学#ORGANIZATION 的#O 客座教授#O ，#O 现时#O 在#O 香港大学#GPE 担任#O 杰出#O 人文#O 学者#O
+337 龙应台#PERSON 在#O 香港城市大学#GPE 担任#O 客座教授#O
+NONE
+338 琉球#PERSON 狐蝠#O 以#O 植物#O 的#O 果实#O 、#O 花朵#O 、#O 嫩叶#O 为主#O 食#O 。#O
+338 琉球#PERSON 狐蝠#O 以#O 植物#O 为主#O 食#O 。#O
+NONE
+339 马来西亚#GPE 陆军#O 的#O 前身#O 是#O 成立#O 于#O 1933#MISC 年#MISC 3#MISC 月#MISC 1#MISC 日#MISC 的#O 马来#O 志愿#O 兵团#O 。#O
+339 马来西亚#DEMONYM 陆军#O 的#O 前身#O 是#O 成立#O 于#O 1931#MISC 年#MISC 的#O 马来#O 志愿#O 兵团#O 。#O
+NONE
+340 全身性#O 红斑狼疮#O 的#O 症状#O 千奇百怪#O ，#O 若#O 千面#O 女郎#O 一般#O ，#O 每个#O 人均#O 不尽相同#O 。#O
+340 全身性#O 红斑狼疮#O 的#O 症状#O 千奇百怪#O ，#O 若#O 千面#O 女郎#O 一般#O ，#O 每个#O 人#O 的#O 症状#O 均#O 不尽相同#O 。#O
+NONE
+341 约翰#PERSON ·#O 霍普金斯大学#PERSON 是#O 哈伯#PERSON 太空#O 望远镜#O 和#O 詹姆斯#PERSON ·#O 韦伯#PERSON 太空#O 望远镜#O 的#O 地面#O 控制中心#O 所在地#O 。#O
+341 约翰#PERSON ·#O 霍普金斯大学#PERSON 是#O 哈伯#PERSON 太空#O 望远镜#O 和#O 詹姆斯#PERSON ·#O 韦伯#PERSON 太空#O 望远镜#O 的#O 所在地#O 。#O
+NONE
+342 酒精#O 分子#O 中#O 含有#O 两个#O 碳原子#O 与#O 六个#O 氢原子#O 。#O
+342 酒精#O 分子#O 中#O 的#O 碳#O 氢原子#O 比为#O 3#MISC :#O 1#MISC 。#O
+NONE
+343 居礼#O 夫人#O 是#O 历史#O 上#O 第一个#MISC 获得#O 两项#MISC 诺贝尔奖#MISC 的#O 人#O ，#O 而且#O 是#O 在#O 两个#O 不同#O 的#O 领域#O 获得#O 诺贝尔奖#MISC 。#O
+343 居礼#O 夫人#O 是#O 历史#O 上#O 第一个#MISC 获得#O 两项#MISC 诺贝尔奖#MISC 的#O 人#O ，#O 而且#O 是#O 在#O 两个#O 不同#O 的#O 奖项#O 获得#O 诺贝尔奖#MISC 。#O
+NONE
+344 诺贝尔经济学奖#PERSON 并#O 不#O 属于#O 诺贝尔#MISC 遗嘱#O 中#O 所#O 提到#O 的#O 5#MISC 大#O 奖励#O 领域#O 。#O
+344 诺贝尔经济学奖#MISC 并#O 不算#O 是#O 真正#O 的#O 诺贝尔奖#MISC 。#O
+NONE
+345 在#O 台湾#GPE ，#O 公民#O 直选#O 产生#O 之#O 政府#O 首长#O 与#O 民意代表#O 的#O 去留#O 能#O 经由#O 罢免#O 、#O 弹劾#O 、#O 不信任案#O 等#O 机制#O 令其#O 强制#O 退场#O 。#O
+345 在#O 台湾#GPE ，#O 政府#O 首长#O 与#O 民意代表#O 的#O 去留#O 能#O 经由#O 罢免#O 、#O 弹劾#O 、#O 不信任案#O 等#O 机制#O 令其#O 强制#O 退场#O 。#O
+NONE
+346 周杰伦#PERSON 的#O 第一部#MISC 电影#O 是#O 《#O 头文字#MISC D#MISC 》#O
+346 “#O 头文字#O 暴走族#O ”#O 全接触#O 第一#MISC 高手#O 周杰伦#PERSON
+NONE
+347 20041226#O 印尼#GPE 苏门答腊#O 海岸#O 地震#O ，#O 里氏#O 规模#O 9.0#O
+347 印度尼西亚#GPE 苏门答腊#O 于#O 2004#MISC 年#MISC 年底#MISC 发生#O 了#O 规模#O 9#MISC 级#O 的#O 大#O 地震#O
+NONE
+348 火力发电厂#O 是#O 二氧化碳#O 的#O 主要#O 排放#O 来源#O 。#O
+348 火力发电厂#O 是#O CO2#O 的#O 主要#O 排放#O 来源#O 。#O
+NONE
+349 大众#O 特#O 植物园#O 占地约#PERSON 8#MISC 公顷#O ，#O 是#O 夏威夷#LOCATION 最#O 古老#O 的#O 植物园#O ，#O 并且#O 是#O 属于#O 登记#O 的#O 美国#GPE 国家#O 历史#O 古#O 蹟#O 之一#O 。#O
+349 大众#O 特#O 植物园#O 占地约#PERSON 8#MISC 公顷#O ，#O 是#O 夏威夷#LOCATION 最#O 古老#O 的#O 植物园#O ，#O 并且#O 被#O 登记#O 为#O 美国#GPE 国家#O 历史#O 古#O 蹟#O 之一#O 。#O
+NONE
+350 1959#MISC 年#MISC ，#O 第一届#MISC 国际#MISC 奥林匹克#MISC 数学#MISC 竞赛#MISC 于#O 罗马尼亚#GPE 举行#O ，#O 参赛国#O 包括#O 7#MISC 个#O 东欧国家#O 。#O
+350 第一届#MISC 国际#MISC 奥林匹克#MISC 数学#MISC 竞赛#MISC 西#MISC 元#MISC 一九五九年#MISC 于#O 罗马尼亚#GPE 举行#O ，#O 参赛国#O 包括#O 7#MISC 个#O 东欧国家#O 。#O
+NONE
+351 从虎井屿#O 东山#LOCATION 的#O 海岸#O 往#O 海底#O 望#O 可以#O 看见#O 类似#O 城墙#O 建物#O 的#O 影像#O 在#O 海中#O 若隐若现#O 。#O
+351 在#O 天气晴朗#O 且#O 大#O 退潮#O 的#O 时候#O ，#O 从虎井屿#LOCATION 东山#LOCATION 的#O 海岸#O 往#O 海底#O 望#O 可以#O 看见#O 类似#O 城墙#O 建物#O 的#O 影像#O 在#O 海中#O 若隐若现#O 。#O
+NONE
+352 火地#O 群岛#LOCATION ，#O 是#O 南美洲#LOCATION 最南端#O 的#O 岛屿#O 群#O ，#O 由主岛#LOCATION 大#LOCATION 火地岛#LOCATION 及#O 周边#O 小岛#O 组成#O 。#O
+352 火地#O 群岛#O 的#O 主岛#O 大#O 火地岛#O 位于#O 南美洲#LOCATION 最南端#O 。#O
+NONE
+353 德#O 川家康#O 在位#O 后以#O 武力#O 攻破#O 各#O 军阀#O 领地#O ，#O 统一#O 全#O 日本#GPE 。#O
+353 德#O 川家康#PERSON 在位#O 后#O 统一#O 全#O 日本#GPE 。#O
+NONE
+354 SARS#O 病毒#O 属于#O 冠状病毒#O
+354 冠状病毒#O 属于#O SARS#O 病毒#O
+NONE
+355 影响#O 寿命#O 长短#O 的#O 生活#O 因素#O 之#O 睡眠不足#O ，#O 睡眠#O 中断#O 会#O 提高#O 心血管病#O 风险#O ，#O 血液#O 脂肪#O 、#O 胆固醇#O 、#O 皮质醇#O 和#O 血压#O 水准#O 都#O 会#O 增高#O ,#O 学者#O 研究#O 建议#O 每天#O 睡眠#O 7#MISC 小时#MISC ，#O 最#O 长寿#O
+355 学者#O 研究#O 建议#O 每天#O 睡眠#O 7#MISC 小时#MISC ，#O 最#O 长寿#O
+NONE
+356 印度教#O 、#O 佛教#O 盛行#O 火葬#O ，#O 儒家#DEMONYM 、#O 伊斯兰教#ORGANIZATION 和#O 基督教#ORGANIZATION 则#O 盛行#O 土葬#O 。#O
+356 印度教#O 、#O 大乘#O 教#O 盛行#O 火葬#O ，#O 儒家#DEMONYM 、#O 伊斯兰教#ORGANIZATION 和#O 基督教#ORGANIZATION 则#O 盛行#O 土葬#O 。#O
+NONE
+357 芥川#O 龙之介#O 的#O 《#O 地狱#MISC 变#MISC 》#O 通过#O 极端化#O 的#O 人间#O 悲剧#O 描写#O 了#O 权力#O 与#O 艺术#O 的#O 冲突#O 。#O
+357 日本#GPE 文豪#O 芥川#O 龙之介#O 的#O 《#O 地狱#MISC 变#MISC 》#O 通过#O 极端化#O 的#O 人间#O 悲剧#O 描写#O 了#O 权力#O 与#O 艺术#O 的#O 冲突#O 。#O
+NONE
+358 大众#O 特#O 植物园#O 占地约#PERSON 8#MISC 公顷#O ，#O 是#O 夏威夷#LOCATION 最#O 古老#O 的#O 植物园#O ，#O 并且#O 是#O 属于#O 登记#O 的#O 美国#GPE 国家#O 历史#O 古#O 蹟#O 之一#O 。#O
+358 大众#O 特#O 植物园#O 占地约#PERSON 8#MISC 公顷#O ，#O 是#O 檀香山#GPE 最#O 古老#O 的#O 植物园#O ，#O 并且#O 是#O 属于#O 登记#O 的#O 美国#GPE 国家#O 历史#O 古#O 蹟#O 之一#O 。#O
+NONE
+359 日本首相#O 小泉#PERSON 认为#O 应该#O 修改#O 日本#GPE 宪法#O 以便#O 承认#O 目前#O 的#O “#O 自卫队#ORGANIZATION ”#O 为#O 正式#O 的#O 军队#O
+359 日#O 首相#O 小泉#PERSON 纯一#O 郎#O 认为#O 应该#O 修改#O 日本#GPE 宪法#O 以便#O 承认#O 目前#O 的#O “#O 自卫队#ORGANIZATION ”#O 为#O 正式#O 的#O 军队#O
+NONE
+360 马来西亚#DEMONYM 陆军#O 的#O 前身#O 是#O 成立#O 于#O 1933#MISC 年#MISC 3#MISC 月#MISC 1#MISC 日#MISC 的#O 马来#O 志愿#O 兵团#O 。#O
+360 马来西亚#GPE 武装部队#O 的#O 前身#O 是#O 成立#O 于#O 1933#MISC 年#MISC 3#MISC 月#MISC 1#MISC 日#MISC 的#O 马来#O 志愿#O 兵团#O 。#O
+NONE
+361 中国移动#O 具有#O 互联网#O 国际#O 联网#O 单位#O 经营权#O 和#O 国际#O 出入口#O 局#O 业务#O 经营权#O 。#O
+361 中国移动#O 可#O 经营#O 国际#O 出入口#O 局#O 业务#O 。#O
+NONE
+362 NYMEX#O 原油期货#O 价格#O 在#O 2004#MISC 年#MISC 6#MISC 月#MISC 1#MISC 日#MISC 攀升#O 至#O 历史#O 新高#O 的#O 42.33#MISC 美元#MISC #O 桶#O
+362 NYMEX#O 原油期货#O 价格#O 在#O 2004#MISC 年#MISC 6#MISC 月#MISC 1#MISC 日#MISC 攀升#O 至#O 历史#O 新高#O 的#O 42.33#MISC 欧元#MISC #O 桶#O
+NONE
+363 约克#MISC 王朝#MISC (#O House#O of#O York#O )#O 于#O 15#MISC 世纪#MISC 后#O 半叶#O 与#O 兰开斯特#MISC 王朝#MISC 争夺#MISC 王位#MISC ，#O 最后#O 导致#O 了#O 玫瑰#MISC 战争#MISC 。#O
+363 约克#MISC 王朝#MISC (#O House#O of#O York#O )#O 于#O 15#MISC 世纪#MISC 后#O 半叶#O 与#O 兰开斯特#MISC 王朝#MISC 谦让#O 王位#O ，#O 最后#O 导致#O 了#O 玫瑰#MISC 战争#MISC 。#O
+NONE
+364 法国#DEMONYM 数学家#O 嘉当#O 62#MISC 岁#MISC 才#O 当选#O 法国#ORGANIZATION 科学院#ORGANIZATION 院士#O
+364 上个世纪#O 的#O 数学家#O 里#O ,#O 嘉当#O 是#O 对#O 21#MISC 世纪#MISC 的#O 数学#O 影响#O 最大#O 的#O 一位#O
+NONE
+365 火力发电厂#O 是#O 二氧化碳#O 的#O 主要#O 排放#O 来源#O 。#O
+365 火力发电厂#O 是#O 二氧化碳#O 的#O 主要#O 吸收#O 对象#O 。#O
+NONE
+366 心肺#O 复苏#O 术#O 是#O 一种#O 救助#O 心跳#O 停止#O 病患#O 的#O 急救#O 措施#O ，#O 通过#O 人工#O 保持#O 脑#O 功能#O 直到#O 自然#O 呼吸#O 和#O 血液循环#O 回复#O 。#O
+366 人工呼吸#O 是#O 一种#O 救助#O 心跳#O 停止#O 病患#O 的#O 急救#O 措施#O ，#O 通过#O 人工#O 保持#O 脑#O 功能#O 直到#O 自然#O 呼吸#O 和#O 血液循环#O 回复#O 。#O
+NONE
+367 中国移动#O 是#O 2000#MISC 年#MISC 4#MISC 月#MISC 20#MISC 日#MISC 成立#O 的#O 中国#GPE 国有#O 重要#O 骨干企业#O 。#O
+367 中国移动#GPE 成立#O 于#O 2000#MISC 年#MISC 4#MISC 月#MISC 。#O
+NONE
+368 中国#GPE 2010#MISC 年#MISC 上海#MISC 世界#MISC 博览会#MISC （#O Expo#MISC 2010#MISC Shanghai#MISC China#MISC ）#O ，#O 简称#O 上海#GPE 世博会#MISC ，#O 是#O 第#MISC 41#MISC 届#MISC 世界#MISC 博览会#MISC ，#O 于#O 2010#MISC 年#MISC 5#MISC 月#MISC 1#MISC 日至#MISC 10#MISC 月#MISC 31#MISC 日#MISC 在#O 中国#GPE 上海#GPE 举行#O
+368 中国#GPE 2010#MISC 年#MISC 上海#MISC 世界#MISC 博览会#MISC 简称#O 上海#ORGANIZATION 世博会#ORGANIZATION
+NONE
+369 从#O 拥有#O 核武器#O 的#O 第一天#MISC 起#O ,#O 中国#GPE 就#O 承诺#O 无条件#O 不#O 对#O 无核武器#O 国家#O 和#O 无核武器#O 区#O 使用#O 或#O 威胁#O 使用#O 核武器#O 。#O
+369 中国#GPE 拥有#O 核武器#O
+NONE
+370 诺贝尔经济学奖#PERSON 并#O 不#O 属于#O 诺贝尔#MISC 遗嘱#O 中#O 所#O 提到#O 的#O 5#MISC 大#O 奖励#O 领域#O 。#O
+370 诺贝尔经济学奖#PERSON 属于#O 诺贝尔#MISC 遗嘱#MISC 中#O 所#O 提到#O 的#O 5#MISC 大#O 奖励#O 领域#O 。#O
+NONE
+371 弥赛亚#PERSON （#O Messiah#O ）#O 是#O 巴洛克#GPE 时期#O 著名#O 音乐家#O 韩德尔#PERSON 创作#O 的#O 大型#O 神剧#O 。#O
+371 弥赛亚#PERSON （#O Messiah#O ）#O 是#O 巴洛克#GPE 时期#O 著名#O 音乐家#O 韩德尔#PERSON 创作#O 的#O 大型#O 宗教音乐#O 作品#O 。#O
+NONE
+372 火地#O 群岛#O ，#O 是#O 南美洲#LOCATION 最南端#O 的#O 岛屿#O 群#O ，#O 由主岛#LOCATION 大#LOCATION 火地岛#LOCATION 及#O 周边#O 小岛#O 组成#O 。#O
+372 南美洲#LOCATION 由主岛#LOCATION 大#LOCATION 火地岛#LOCATION 及#O 周边#O 小岛#O 组成#O 。#O
+NONE
+373 中国#GPE 行动#O 通讯#O 拥有#O 全球#O 第一#MISC 的#O 行动#O 通讯#O 网络#O 规模#O 和#O 客户#O 规模#O ，#O 连续#O 多年#O 入选#O 《#O 财富#O 》#O 杂志#O 世界#O 500#MISC 强#O 企业#O 。#O
+373 中国#GPE 行动#O 通讯#O 拥有#O 《#O 财富#ORGANIZATION 》#O 杂志#O 。#O
+NONE
+374 2003#MISC 年#MISC 北京#MISC 电影#MISC 市场#O 由#O 《#O 英雄#MISC 》#O 、#O 《#O 天地英雄#MISC 》#O 、#O 《#O 手机#O 》#O 等#O 三部#O 国产#O 大片#O 起#O 扛#O 鼎#O 作用#O ，#O 国产片#O 占#O 到#O 全部#O 票房#O 收入#O 的#O 47#MISC ％#O 。#O
+374 《#O 英雄#MISC 》#O 、#O 《#O 天地英雄#MISC 》#O 、#O 《#O 手机#O 》#O 都#O 是#O 2003#MISC 年#MISC 在#O 北京#GPE 上映#O 的#O 国产#O 大片#O 。#O
+NONE
+375 2002#MISC 年#MISC 5#MISC 月#MISC 3#MISC 日以#O 漫画#O 改编#O 的#O 电影#O 蜘蛛人#O 被#O 搬#O 上#O 了#O 银幕#O 。#O 由陶#O 比#O ·#O 麦#O 奎尔#PERSON 扮演#O 彼得#PERSON ·#O 帕克#PERSON 。#O
+375 陶比#PERSON ·#O 麦#O 奎尔#PERSON 不是#O 唯一#O 扮演#O 过#O 彼得#PERSON ·#O 帕克#PERSON (#O 蜘蛛人#O )#O 的#O 演员#O 。#O
+NONE
+376 洛克菲勒#GPE 1870#MISC 年#MISC 创立#O 标准#O 石油#O ，#O 在#O 全盛期#O 垄断#O 了#O 全美#MISC 90#MISC %#O 的#O 石油市场#O 。#O
+376 洛克菲勒#GPE 1870#MISC 年#MISC 创立#O 标准#O 石油#O ，#O 在#O 全盛期#O 垄断#O 了#O 90#MISC %#O 的#O 石油市场#O 。#O
+NONE
+377 南北朝#O 陶弘景#PERSON 所著#O 的#O 《#O 名医#MISC 别录#MISC 》#O 概括#O 的#O 琥珀#O 三大#MISC 功效#O 为#O ：#O 去#O 惊#O 定神#O ，#O 活血#O 散#O 淤#O ，#O 利尿#O 通淋#O 。#O
+377 南北朝#O 陶弘景#PERSON 所著#O 的#O 《#O 名医#MISC 别录#MISC 》#O 概括#O 琥珀#O 的#O 功效#O 包括#O 去#O 惊#O 定神#O 及#O 利尿#O 通淋#O 。#O
+NONE
+378 王毅#PERSON ，#O 外交部#ORGANIZATION 副#O 部长#O ，#O 一个#O 低调#O 而#O 又#O 引人注目#O 的#O 外交#O 新星#O 。#O
+378 外交部#ORGANIZATION 副#O 部长#O 王毅#PERSON 曾#O 作为#O 中国#GPE 代表团#O 团长#O 参加#O 六方会谈#MISC
+NONE
+379 九层#O 塔#O 对#O 寒冷#O 非常#O 敏感#O ，#O 在#O 热#O 和#O 干燥#O 的#O 环境#O 下#O 生长#O 得#O 最好#O 。#O
+379 九层#O 塔#O 对#O 寒冷#O 非常#O 敏感#O ，#O 在#O 热#O 的#O 环境#O 下#O 生长#O 得#O 最好#O 。#O
+NONE
+380 根据#O 富比#O 士#O 的#O 资料#O 显示#O ，#O 中国移动#ORGANIZATION 有限公司#ORGANIZATION 是#O 在#O 香港#GPE 注册#O 的#O 公司#O 中#O 市值#O 最高#O 的#O 一间#O 。#O
+380 根据#O 富比#O 士#O 的#O 资料#O 显示#O ，#O 中国移动#ORGANIZATION 有限公司#ORGANIZATION 并非#O 在#O 香港#GPE 注册#O 的#O 公司#O 中#O 市值#O 最高#O 的#O 一间#O 。#O
+NONE
+381 20020619#MISC 世界杯#MISC 意大利#O 败给#O 韩国#GPE 惨遭#O 淘汰#O ，#O 欧洲各国#DEMONYM 媒体#O 均#O 以#O 严厉#O 语气#O 和#O 大篇幅#O 报导#O 指责#O 此役#O 厄瓜多尔#GPE 裁判#O 莫雷诺#PERSON 不公#O 。#O
+381 2002#MISC 年#MISC 6#MISC 月#MISC 19#MISC 日#MISC 世界杯#MISC 意大利#GPE 败给#O 韩国#GPE 惨遭#O 淘汰#O ，#O 欧洲各国#DEMONYM 媒体#O 均#O 以#O 大篇幅#O 报导#O 和#O 严厉#O 语气#O 指责#O 此役#O 裁判#O 厄瓜多尔人#O 莫雷诺#PERSON 不公#O 。#O
+NONE
+382 20020301#O 吉尼斯世界纪录#PERSON 大全#O 今年#MISC 二月#MISC 将#O 日本#ORGANIZATION 名古屋#ORGANIZATION 车站#ORGANIZATION 列为#O 世界#O 最大#O 火车站#O 。#O
+382 20020301#O 吉尼斯世界纪录#PERSON 大全#O 今年#MISC 二月#MISC 将#O 日本#ORGANIZATION 名古屋#ORGANIZATION 车站#ORGANIZATION 列为#O 世界#O 第一#MISC 大#O 火车站#O 。#O
+NONE
+383 1989#MISC 年#MISC 英伦#MISC 航空#MISC 92#MISC 号#MISC 班机#O 空难#O ，#O 机上#O 118#MISC 名#O 乘客#O 中#O 的#O 39#MISC 人#O 当场#O 死亡#O ，#O 8#MISC 人于#O 稍后#O 时间#O 亦#O 过世#O ；#O 而#O 机上#O 的#O 8#MISC 名#O 机员#O 则#O 全部#O 生还#O 。#O
+383 1989#MISC 年#MISC 英伦#MISC 航空#MISC 92#MISC 号#MISC 班机#O 坠毁#O ，#O 机上#O 118#MISC 名#O 乘客#O 中#O 的#O 39#MISC 人#O 当场#O 死亡#O ，#O 8#MISC 人于#O 稍后#O 时间#O 亦#O 过世#O ；#O 而#O 机上#O 的#O 8#MISC 名#O 机员#O 则#O 全部#O 生还#O 。#O
+NONE
+384 2005#O 年#O 超级女#O 声#O 全国#O 总冠军#O 李宇春#PERSON 毕业#O 于#O 四川#ORGANIZATION 音乐学院#ORGANIZATION 通俗#ORGANIZATION 音乐学院#ORGANIZATION 。#O
+384 李宇春#PERSON 是#O 四川#ORGANIZATION 音乐学院#ORGANIZATION 女#O 学生#O
+NONE
+385 在#O 发展中国家#O ,#O 麻风病#O 是#O 一个#O 严重#O 的#O 公共卫生#O 问题#O
+385 麻疯#O 也#O 称为#O “#O 汉#GPE 生病#O ”#O
+NONE
+386 为了#O 纪念#O 这次#O 玫瑰#O 战争#O ，#O 英格兰#GPE 以#O 玫瑰#O 为#O 国花#O ，#O 并#O 把#O 皇室#O 徽章#O 改为#O 红#O 白玫瑰#O 。#O
+386 为了#O 纪念#O 这次#O 玫瑰#O 战争#O ，#O 英格兰#GPE 以#O 玫瑰#O 为#O 国花#O ，#O 并#O 把#O 皇室#O 徽章#O 改为#O 黄#O 白玫瑰#O 。#O
+NONE
+387 目前#O 中国#GPE 经济#O 正#O 进入#O 一个#O 新#O 增长#O 时期#O 的#O 上升#O 阶段#O ，#O 2001#MISC 年#MISC GDP#O 增长#O 7.5#MISC %#O ,#O 2002#MISC 年#MISC 增长#O 8#MISC %#O 。#O 今年#MISC 一季度#O 增长#O 9.9#MISC %#O 。#O
+387 目前#O 中国#GPE 经济#O 正#O 进入#O 一个#O 新#O 增长#O 时期#O 的#O 上升#O 阶段#O ，#O 并#O 使得#O 老百姓#O 的#O 生活#O 有#O 了#O 显著#O 的#O 提高#O
+NONE
+388 老年人#O 不宜#O 摄取#O 太多#O 的#O 咖啡因#O
+388 老年人#O 不#O 适合#O 摄取#O 太多#O 的#O 咖啡因#O
+NONE
+389 在#O 民主#O 社会#O 中#O ，#O 允许#O 女性#O 拥有#O 平等#O 参与#O 选举#O 投票#O 以及#O 担任#O 候选人#O 的#O 政治权利#O ，#O 被#O 认为#O 是#O 妇女#O 权利#O 的#O 一部#O 份#O 。#O
+389 在#O 民主#O 社会#O 中#O ，#O 允许#O 男性#O 拥有#O 平等#O 参与#O 选举#O 投票#O 以及#O 担任#O 候选人#O 的#O 政治权利#O ，#O 被#O 认为#O 是#O 男性#O 权利#O 的#O 一部#O 份#O 。#O
+NONE
+390 金沙江#LOCATION 古称#O 丽水#GPE ，#O 以#O 盛产#O 金沙#GPE 而#O 得名#O 。#O
+390 长江#LOCATION 古称#LOCATION 丽水#LOCATION ，#O 以#O 盛产#O 金沙#GPE 而#O 得名#O 。#O
+NONE
+391 印度教#O 、#O 佛教#O 盛行#O 火葬#O ，#O 儒家#DEMONYM 、#O 伊斯兰教#ORGANIZATION 和#O 基督教#ORGANIZATION 则#O 盛行#O 土葬#O 。#O
+391 印度教#O 是#O 盛行#O 火葬#O 的#O 宗教#O 之一#O 。#O
+NONE
+392 第#O 76#O 届#O 奥斯卡#PERSON 最佳#O 男主角#O 是#O 肖恩#PERSON ·#O 潘#O
+392 第#O 76#O 届#O 奥斯卡#PERSON 最佳#O 男主角#O 奖得主#O 是#O 肖恩#PERSON ·#O 潘#O
+NONE
+393 爱因斯坦#GPE 因在#O 光电效应#O 方面#O 的#O 研究#O ，#O 获#O 授予#O 1921#MISC 年#MISC 诺贝尔物理学奖#MISC 。#O
+393 爱因斯坦#GPE 因在#O 光电效应#O 方面#O 的#O 研究#O ，#O 获颁#O 1921#MISC 年#MISC 诺贝尔物理学奖#MISC 。#O
+NONE
+394 东照宫#O 是#O 供奉#O 日本#GPE 最后#O 一代#O 幕府#O —#O 江户#O 幕府#O 的#O 开府#O 将军#O 德#O 川家康#O 的#O 神社#O 。#O
+394 东照宫#O 是#O 供奉#O 德#O 川家康#O —#O 日本#GPE 最后#O 一代#O 幕府#O 江户#O 幕府#O 的#O 开府#O 将军#O 的#O 神社#O 。#O
+NONE
+395 恐龙#O 可能#O 是#O 鸟类#O 祖先#O 的#O 理论#O ，#O 是#O 在#O 1868#MISC 年#MISC 由#O 汤玛斯#PERSON ·#O 亨利#PERSON ·#O 赫胥黎#O 首次#O 提出#O 。#O
+395 汤玛斯#PERSON ·#O 亨利#PERSON ·#O 赫胥黎#O 在#O 1868#MISC 年#MISC 首次#O 提出#O 恐龙#O 可能#O 是#O 鸟类#O 祖先#O 的#O 理论#O 。#O
+NONE
+396 中国#GPE 以#O 市场#O 供求#O 为#O 基础#O 在#O 2005#MISC 年#MISC 七月#MISC 实施#MISC 人民币#MISC 汇率#MISC 改革#MISC
+396 中国#GPE 在#O 2005#MISC 年#MISC 七月#MISC 以#O 市场#O 供求#O 为#O 基础#O 实施#O 人民币#O 汇率#O 改革#O
+NONE
+397 淡水#GPE 的#O 红毛城#O 不#O 但是#O 台湾#GPE 现存#O 最#O 古老#O 的#O 建筑#O 之一#O ，#O 同时#O 也#O 被#O 列为#O 国家一级#O 古#O 蹟#O 。#O
+397 台湾#GPE 的#O 红毛城#O 不#O 但是#O 淡水#GPE 现存#O 最#O 古老#O 的#O 建筑#O 之一#O ，#O 同时#O 也#O 被#O 列为#O 国家一级#O 古#O 蹟#O 。#O
+NONE
+398 理察森#O 外推法#O 是#O 在#O 20#MISC 世纪#MISC 前期#MISC 由#O 英国#GPE 数学家#O ，#O 物理学家#O ，#O 气象学家#O Lewis#O Fry#O Richardson#O 提出#O 的#O 。#O
+398 理察森#O 外推法#O 是#O 在#O 20#MISC 世纪#MISC 前期#MISC 由#O 大英国协#O 的#O 数学家#O ，#O 物理学家#O ，#O 气象学家#O Lewis#O Fry#O Richardson#O 提出#O 的#O 。#O
+NONE
+399 汽电#O 共生#O 在#O 丹麦#GPE 等#O 斯堪的纳维亚#GPE 国家#O 以及#O 德国#GPE 的#O 一部分#O 被#O 广泛#O 使用#O 。#O
+399 汽电#O 共生#O 在#O 瑞典#GPE 等#O 斯堪的纳维亚#GPE 国家#O 以及#O 德国#GPE 的#O 一部分#O 被#O 广泛#O 使用#O 。#O
+NONE
+400 根据#O 富比#O 士#O 的#O 资料#O 显示#O ，#O 中国移动#ORGANIZATION 有限公司#ORGANIZATION 是#O 在#O 香港#GPE 注册#O 的#O 公司#O 中#O 市值#O 最高#O 的#O 一间#O 。#O
+400 根据#O 富比#O 士#O 的#O 资料#O 显示#O ，#O 中国移动#ORGANIZATION 有限公司#ORGANIZATION 是#O 在#O 香港#GPE 注册#O 的#O 公司#O 中#O 市值#O 最高#O 的#O 其中#O 之一#MISC 。#O
+NONE
+401 成长性#O 投资#O 倾向#O 于#O 注重#O 目标#O 企业#O 的#O 利润#O 成长性#O 和#O 可持续性#O ，#O 往往#O 是#O 投资#O 于#O 高#O 市盈率#O 、#O 高#O 市净率#O 的#O 股票#O 。#O
+401 成长性#O 投资#O 倾向#O 于#O 注重#O 目标#O 企业#O 的#O 利润#O 成长性#O 和#O 可持续性#O ，#O 往往#O 不是#O 投资#O 于#O 高#O 市盈率#O 、#O 高#O 市净率#O 的#O 股票#O 。#O
+NONE
+402 大众#O 特#O 植物园#O 占地约#PERSON 8#MISC 公顷#O ，#O 是#O 夏威夷#LOCATION 最#O 古老#O 的#O 植物园#O ，#O 并且#O 是#O 属于#O 登记#O 的#O 美国#GPE 国家#O 历史#O 古#O 蹟#O 之一#O 。#O
+402 大众#O 特#O 植物园#O 占地约#PERSON 8#MISC 公顷#O ，#O 是#O 美国#GPE 最#O 古老#O 的#O 植物园#O ，#O 并且#O 是#O 属于#O 登记#O 的#O 美国#GPE 国家#O 历史#O 古#O 蹟#O 之一#O 。#O
+NONE
+403 德#O 川家康#PERSON 病逝#O 后#O 被#O 尊为#O 江户#O 幕府#O 的#O 守护神#O 东照#O 大权#O 现#O 。#O
+403 德#O 川家康#PERSON 去世#O 后#O 被#O 尊为#O 江户#O 幕府#O 的#O 守护神#O 东照#O 大权#O 现#O 。#O
+NONE
+404 约翰#PERSON ·#O 霍普金斯大学#PERSON 是#O 哈伯#PERSON 太空#O 望远镜#O 和#O 詹姆斯#PERSON ·#O 韦伯#PERSON 太空#O 望远镜#O 的#O 地面#O 控制中心#O 所在地#O 。#O
+404 哈伯#PERSON 太空#O 望远镜#O 和#O 詹姆斯#PERSON ·#O 韦伯#PERSON 太空#O 望远镜#O 的#O 地面#O 控制中心#O 所在地#O 是#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 。#O
+NONE
+405 德#O 川家康#PERSON 死后#O 被#O 尊为#O 江户#O 幕府#O 的#O 守护神#O 东照#O 大权#O 现#O 。#O
+405 德#O 川家康#PERSON 死后#O 被#O 尊为#O 江户#O 幕府#O 的#O 守护神#O 。#O
+NONE
+406 汽电#O 共生#O 在#O 丹麦#GPE 等#O 斯堪的纳维亚#GPE 国家#O 以及#O 德国#GPE 的#O 一部分#O 被#O 广泛#O 使用#O 。#O
+406 丹麦#O 属于#O 斯堪的纳维亚#GPE 国家#O 。#O
+NONE
+407 319#O 枪击案#O 是#O 压垮#O 台湾#GPE 蓝营#O 竞选#O 的#O 最后#O 一根#O 稻草#O
+407 台湾#GPE 蓝营#O 在#O 319#O 枪击案#O 后#O 竞选#O 失利#O
+NONE
+408 据#O 《#O 圣经#MISC ·#MISC 申命记#MISC 》#O 所#O 载#O ，#O 约书亚#O 继#O 摩西#O 成为#O 以色列#DEMONYM 人#O 的#O 领袖#O ，#O 带领#O 以色列#DEMONYM 人#O 离开#O 旷野#O 进入#O 应许#O 之地#O ，#O 那#O 丰富#O 的#O 迦南#O 美地#O 。#O
+408 据#O 《#O 圣经#MISC ·#MISC 申命记#MISC 》#O 所#O 载#O ，#O 约书亚#O 继#O 摩西#O 成为#O 以色列#GPE 人#O 的#O 首领#O ，#O 带领#O 以色列#DEMONYM 人#O 离开#O 旷野#O 进入#O 应许#O 之地#O ，#O 那#O 丰富#O 的#O 迦南#O 美地#O 。#O
+NONE
+409 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 分割#O 为#O 两个#MISC 独立#O 的#O 集团#O 。#O
+409 中信#O 金控#O 与#O 中信集团#O 皆#O 源自#O 和#O 信#O 集团#O 。#O
+NONE
+410 巴基斯坦#GPE 伊斯兰#ORGANIZATION 学校#ORGANIZATION 训练#ORGANIZATION 基地#ORGANIZATION 组织#ORGANIZATION 的#O 成员#O
+410 基地#O 组织#O 在#O 阿富汗#GPE 拥有#O 十多个#MISC 基地#MISC ，#O 专门#O 训练#O 成员#O
+NONE
+411 1998#MISC 年#MISC 9#MISC 月#MISC ，#O 朱镕基#PERSON 巡视#O 发生#O 水灾#O 的#O 江西省#GPE 九江市#GPE 时#O ，#O 因#O 九江#GPE 新筑#O 的#O 防洪#O 大堤#O 不堪一击#O ，#O 朱镕基#PERSON 怒斥#O 这是#O “#O 豆腐渣工程#O ”#O 。#O
+411 1998#MISC 年#MISC 9#MISC 月#MISC ，#O 朱镕基#PERSON 巡视#O 发生#O 水灾#O 的#O 江西省#GPE 九江市#GPE 时#O ，#O 因#O 九江#GPE 新筑#O 的#O 防洪#O 大堤#O 坚若#O 磐石#O ，#O 朱镕基#PERSON 怒斥#O 这是#O “#O 豆腐渣工程#O ”#O 。#O
+NONE
+412 滚石#O 乐队#O 成立#O 开始#O 时期#O 他们#O 演奏#O 自己#O 改编#O 的#O 蓝调#O 、#O 节奏#O 蓝调#O 、#O 乡村音乐#O 和#O 摇滚乐#O 。#O
+412 滚石#O 乐队#O 成立#O 开始#O 时期#O 他们#O 演奏#O 自己#O 创作#O 的#O 蓝调#O 、#O 节奏#O 蓝调#O 、#O 乡村音乐#O 和#O 摇滚乐#O 。#O
+NONE
+413 丰富#O 的#O 想像力#O 、#O 精湛#O 的#O 数学#O 造诣#O 、#O 严谨#O 的#O 治学#O 态度#O ，#O 这些#O 都#O 是#O 成为#O 理论#O 物理学家#O 需要#O 培养#O 的#O 优良#O 素质#O 。#O
+413 丰富#O 的#O 想像力#O 、#O 严谨#O 的#O 治学#O 态度#O 、#O 精湛#O 的#O 数学#O 造诣#O ，#O 这些#O 都#O 是#O 成为#O 理论#O 物理学家#O 需要#O 培养#O 的#O 优良#O 素质#O 。#O
+NONE
+414 心肺#O 复苏#O 术#O 是#O 一种#O 救助#O 心跳#O 停止#O 病患#O 的#O 急救#O 措施#O ，#O 通过#O 人工#O 保持#O 脑#O 功能#O 直到#O 自然#O 呼吸#O 和#O 血液循环#O 回复#O 。#O
+414 心肺#O 复苏#O 术#O 通过#O 人工#O 保持#O 脑#O 功能#O 直到#O 自然#O 呼吸#O 和#O 血液循环#O 回复#O 。#O
+NONE
+415 并非#O 所有#O 的#O 病毒#O 都#O 会#O 导致#O 疾病#O 。#O
+415 病毒#O 会#O 导致#O 传染病#O 。#O
+NONE
+416 除#O 广东#GPE 以外#O ，#O 萝#O 蔔#O 糕#O 在#O 台湾#GPE 、#O 新加坡#GPE 及#O 马来西亚#GPE 等#O 国家#O ，#O 甚至#O 东亚地区#O 也#O 极为#O 普遍#O 。#O
+416 除#O 广东#GPE 以外#O ，#O 萝#O 蔔#O 糕#O 在#O 台湾#GPE 、#O 新加坡#GPE 及#O 马来西亚#GPE 等#O 国家#O ，#O 甚至#O 东北亚地区#LOCATION 也#O 极为#O 普遍#O 。#O
+NONE
+417 大众#O 特#O 植物园#O 占地约#PERSON 8#MISC 公顷#O ，#O 是#O 夏威夷#LOCATION 最#O 古老#O 的#O 植物园#O ，#O 并且#O 是#O 属于#O 登记#O 的#O 美国#GPE 国家#O 历史#O 古#O 蹟#O 之一#O 。#O
+417 大众#O 特#O 植物园#O 占地约#PERSON 8#MISC 万平方米#MISC ，#O 是#O 夏威夷#LOCATION 最#O 古老#O 的#O 植物园#O ，#O 并且#O 是#O 属于#O 登记#O 的#O 美国#GPE 国家#O 历史#O 古#O 蹟#O 之一#O 。#O
+NONE
+418 印度教#O 、#O 佛教#O 盛行#O 火葬#O ，#O 儒家#DEMONYM 、#O 伊斯兰教#ORGANIZATION 和#O 基督教#ORGANIZATION 则#O 盛行#O 土葬#O 。#O
+418 各大#O 宗教#O 对#O 葬礼#O 的#O 喜好#O 不尽相同#O 。#O
+NONE
+419 天龙八部#O 中#O 三位#O 男主角#O 的#O 身世#O 均#O 十分#O 离奇#O ，#O 其中#O 虚竹#O 即#O 为#O 少林#O 方丈#O 玄慈及#O 四大#O 恶人#O 中#O 的#O “#O 无恶不作#O ”#O 叶二娘#PERSON 的#O 儿子#O 。#O
+419 天龙八部#O 中#O ，#O 其中#O 虚竹#O 为#O 叶二娘#PERSON 所#O 生#O 。#O
+NONE
+420 英国#GPE 一项#O 最新#O 调查报告#O 显示#O ,#O 英国#DEMONYM 学生#O 的#O 整体#O 数学#O 水平#O 正在#O 下降#O 。#O
+420 英国#GPE 一项#O 最新#O 调查报告#O 显示#O ,#O 英国#DEMONYM 学生#O 的#O 整体#O 数学#O 水平#O 正在#O 提高#O 。#O
+NONE
+421 国际#O 奥林匹克#O 数学#O 竞赛#O 的#O 参赛者#O 在#O 比赛#O 时#O 必须#O 未满#O 20#MISC 周岁#MISC ，#O 最高#O 学历#O 为#O 中学#O 。#O
+421 国际#O 奥林匹克#O 数学#O 竞赛#O 的#O 参赛者#O 被#O 限制#O 在#O 比赛#O 时#O 必须#O 未满#O 20#MISC 周岁#MISC ，#O 最高#O 学历#O 为#O 中学#O 。#O
+NONE
+422 “#O 麻疯#O ”#O 又名#O 癞病#O
+422 麻疯#O 又#O 称为#O 韩森氏病#O
+NONE
+423 水晶宫#O （#O The#MISC Crystal#MISC Palace#MISC ）#O 是#O 十九世纪#MISC 的#O 英国#GPE 建筑#O 奇观#O 之一#O ，#O 也#O 是#O 工业革命#MISC 时代#MISC 的#O 重要#O 象征物#O 。#O
+423 英国#GPE 于#O 十九世纪#MISC 历经#O 工业革命#O 。#O
+NONE
+424 在#O 中国#GPE 境内#O ，#O 中国#ORGANIZATION 行动#ORGANIZATION 通讯#ORGANIZATION 集团公司#ORGANIZATION 主要#O 经营#O 移动#O 语音#O 、#O 资料#O 、#O IP电话#O 和#O 多媒体业务#O 。#O
+424 中国#GPE 行动#O 通讯#O 集团公司#O 的#O 收益#O 主要#O 来自#O 移动#O 语音#O 、#O 资料#O 、#O IP电话#O 和#O 多媒体业务#O 。#O
+NONE
+425 中国#GPE 行动#O 通讯#O 拥有#O 全球#O 第一#MISC 的#O 行动#O 通讯#O 网络#O 规模#O 和#O 客户#O 规模#O ，#O 连续#O 多年#O 入选#O 《#O 财富#O 》#O 杂志#O 世界#O 500#MISC 强#O 企业#O 。#O
+425 连续#O 多年#O 入选#O 《#O 财富#MISC 》#MISC 杂志#MISC 世界#MISC 500#MISC 强#O 企业#O 的#O 中国#GPE 行动#O 通讯#O 拥有#O 全球#O 第一#MISC 的#O 行动#O 通讯#O 网络#O 规模#O 和#O 客户#O 规模#O ，#O
+NONE
+426 1970#MISC 年代#MISC ，#O 瑞典#GPE 通过#O 现代#O 宪法#O ，#O 瑞典#GPE 国王#O 在#O 议会#O 的#O 一切#O 权力#O 被#O 废除#O 。#O 但#O 内阁#O 每月#O 仍会#O 向#O 国王#O 在#O 王宫#O 内#O 正式#O 汇报#O 。#O
+426 内阁#O 每月#O 向#O 国王#O 在#O 王宫#FACILITY 内#O 正式#O 汇报#O 代表#O 国王#O 仍#O 手握#O 实权#O 。#O
+NONE
+427 在#O 1911#MISC 年#MISC 标准#O 石油#O 被#O 判决#O 违反#O 反托拉斯法#O 并#O 被#O 拆#O 分为#O 34#MISC 家#O 公司#O 。#O
+427 在#O 一#O 九一三#MISC 年#MISC 标准#O 石油#O 被#O 判决#O 违反#O 反托拉斯法#O 并#O 被#O 拆#O 分为#O 34#MISC 家#O 公司#O 。#O
+NONE
+428 瀛台#O 泣血#O 记#O 原著#O 为#O 英文#DEMONYM ，#O 后#O 由#O 民初#O 作家#O 秦瘦鸥#PERSON 翻译#O 为#O 中文#DEMONYM 。#O
+428 瀛台#O 泣血#O 记#O 原著#O 为#O 英文#DEMONYM ，#O 并未#O 被#O 翻译#O 为#O 中文#DEMONYM 。#O
+NONE
+429 由于#O 研发#O 和#O 生产成本#O 高昂#O ，#O LFA#O 被#O 指为#O 并#O 不会#O 为#O 凌志#O 带来#O 任何#O 盈利#O 。#O
+429 LFA#O 的#O 制造#O 可能#O 不#O 敷#O 成本#O 。#O
+NONE
+430 《#O 罪与罚#MISC 》#O 是#O 俄国#DEMONYM 文学家#O 杜斯妥#PERSON 也#O 夫斯基#O 的#O 长篇小说#O 作品#O ，#O 出版#O 于#O 1866#MISC 年#MISC 。#O
+430 《#O 罪与罚#MISC 》#O 是#O 西方#O 文学家#O 杜斯妥#PERSON 也#O 夫斯基#O 的#O 长篇小说#O 作品#O ，#O 出版#O 于#O 1866#MISC 年#MISC 。#O
+NONE
+431 二十世纪#MISC 开始#O ，#O 火葬#O 在#O 世界各地#O 得到#O 提倡#O ，#O 以#O 节约#O 日益#O 紧张#O 的#O 耕地#O 。#O
+431 二十世纪#MISC 开始#O ，#O 火葬#O 在#O 世界各地#O 得到#O 提倡#O ，#O 以#O 节约#O 日益#O 不安#O 的#O 耕地#O 。#O
+NONE
+432 1998#MISC 年#MISC 9#MISC 月#MISC ，#O 朱镕基#PERSON 巡视#O 发生#O 水灾#O 的#O 江西省#GPE 九江市#GPE 时#O ，#O 因#O 九江#GPE 新筑#O 的#O 防洪#O 大堤#O 不堪一击#O ，#O 朱镕基#PERSON 怒斥#O 这是#O “#O 豆腐渣工程#O ”#O 。#O
+432 1998#MISC 年#MISC 9#MISC 月#MISC ，#O 朱镕基#PERSON 以#O 豆腐渣#O 修筑#O 防洪#O 大堤#O 以#O 救援#O 发生#O 水灾#O 的#O 九江市#GPE 。#O
+NONE
+433 金沙江#GPE 奔流#O 在川藏#O 边境#O 沙鲁里山#LOCATION 和#O 芒康#GPE 山#O 之间#O 。#O
+433 长江#LOCATION 奔流#LOCATION 在川藏#LOCATION 边境#LOCATION 沙鲁里山#LOCATION 和#O 芒康#GPE 山#O 之间#O 。#O
+NONE
+434 核能#O 、#O 太阳能#O 、#O 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电站#O 的#O 发电#O 成本#O 仍然#O 高于#O 化石#O 燃料#O 发电#O 。#O
+434 太阳能#O 、#O 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电#O 不需#O 发电#O 成本#O 。#O
+NONE
+435 理察森#O 外推法#O 是#O 在#O 20#MISC 世纪#MISC 前期#MISC 由#O 英国#GPE 数学家#O ，#O 物理学家#O ，#O 气象学家#O Lewis#O Fry#O Richardson#O 提出#O 的#O 。#O
+435 理察森#PERSON 外推法#O 是#O 在#O 20#MISC 世纪#MISC 前期#MISC 由#O 英国#GPE 学者#O Lewis#O Fry#O Richardson#O 提出#O 的#O 。#O
+NONE
+436 电影#O 《#O 头文字#MISC D#MISC 》#O 男女#O 主角#O 分别#O 是#O 周杰伦#PERSON 与#O 铃木杏#O
+436 周杰伦#PERSON 和#O 铃木杏#O 在#O 电影#O 《#O 头文字#MISC D#MISC 》#O 里#O 扮演#O 一对#O 小#O 情侣#O
+NONE
+437 超级#O 油轮#O 诺克#PERSON ·#O 耐#O 维斯#PERSON 号#O （#O Knock#PERSON Nevis#PERSON ）#O 曾#O 是#O 世界#O 上#O 最长#O 的#O 船只#O 与#O 人工#O 制造#O 水面#O 漂浮物#O ，#O 船长#O 超过#O 1#MISC #MISC 4#MISC 英里#O （#O 458#MISC 公尺#MISC ）#O 。#O
+437 现在#O 没有#O 船只#O 的#O 长度#O 超过#O 当初#O 的#O 诺克#O ·#O 耐#O 维斯#O 号#O 。#O
+NONE
+438 核能#O 、#O 太阳能#O 、#O 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电站#O 的#O 发电#O 成本#O 仍然#O 高于#O 化石#O 燃料#O 发电#O 。#O
+438 发电#O 方式#O 有#O 核能#O 、#O 太阳能#O 、#O 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力#O 以及#O 化石#O 燃料#O 发电#O 。#O
+NONE
+439 1970#MISC 年代#MISC ，#O 瑞典#GPE 通过#O 现代#O 宪法#O ，#O 瑞典#GPE 国王#O 在#O 议会#O 的#O 一切#O 权力#O 被#O 废除#O 。#O 但#O 内阁#O 每月#O 仍会#O 向#O 国王#O 在#O 王宫#O 内#O 正式#O 汇报#O 。#O
+439 1970#MISC 年代#MISC ，#O 瑞典#GPE 通过#O 现代#O 宪法#O ，#O 瑞典#GPE 王室#O 在#O 议会#O 的#O 一切#O 权力#O 被#O 废除#O 。#O 但#O 内阁#O 每月#O 仍会#O 向#O 国王#O 在#O 王宫#O 内#O 正式#O 汇报#O 。#O
+NONE
+440 火地#O 群岛#O 总面积#O 73#MISC ,#O 753#MISC 平方公里#O 。#O
+440 火地#O 群岛#O 总面积#O 37#MISC ,#O 753#MISC 平方英里#O 。#O
+NONE
+441 德#O 川家康#PERSON 在位#O 后以#O 武力#O 攻破#O 各#O 军阀#O 领地#O ，#O 统一#O 全#O 日本#GPE 。#O
+441 德#O 川家康#PERSON 在位#O 后以#O 武力#O 攻破#O 各#O 军阀#O ，#O 统一#O 全#O 日本#GPE 。#O
+NONE
+442 南北朝#O 陶弘景#PERSON 所著#O 的#O 《#O 名医#MISC 别录#MISC 》#O 概括#O 的#O 琥珀#O 三大#MISC 功效#O 为#O ：#O 去#O 惊#O 定神#O ，#O 活血#O 散#O 淤#O ，#O 利尿#O 通淋#O 。#O
+442 韩国#GPE 陶弘景#PERSON 所著#O 的#O 《#O 名医#MISC 别录#MISC 》#O 概括#O 的#O 琥珀#O 三大#MISC 功效#O 为#O ：#O 去#O 惊#O 定神#O ，#O 活血#O 散#O 淤#O ，#O 利尿#O 通淋#O 。#O
+NONE
+443 红牛#O 车队#O 旗下#O 车手#O 赛#O 巴斯蒂安#GPE ·#O 维#O 泰尔#PERSON 则#O 于#O 2010#MISC 、#O 2011#MISC 、#O 2012#MISC 及#MISC 2013#MISC 年#MISC 连续#MISC 四年#MISC 获得#O F1#MISC 年度#MISC 车手#O 总冠军#O 。#O
+443 红牛#O 车队#O 旗下#O 车手#O 赛#O 巴斯蒂安#GPE ·#O 维#O 泰尔#PERSON 则#O 于#O 2010#MISC 、#O 2011#MISC 、#O 2012#MISC 及#MISC 2013#MISC 年#MISC 连续#O 4#MISC 年#MISC 获得#O F1#MISC 年度#MISC 车手#O 总冠军#O 。#O
+NONE
+444 菲尔茨奖#O 被#O 认为#O 是#O 国际#O 数学界#O 的#O 诺贝尔奖#MISC 。#O
+444 菲尔茨奖#O ―#O ―#O 数学界#O 的#O 最高奖#O
+NONE
+445 全球#O 资讯网#O 并#O 不#O 等同#O 互联网#O ，#O 全球#O 资讯网#O 只是#O 互联网#O 所#O 能#O 提供#O 的#O 服务#O 其中#O 之一#MISC ，#O 是#O 靠着#O 互联网#O 运行#O 的#O 一项#O 服务#O 。#O
+445 互联网#O 并#O 不#O 等同#O 全球#O 资讯网#O ，#O 互联网#O 只是#O 全球#O 资讯网#O 所#O 能#O 提供#O 的#O 服务#O 其中#O 之一#MISC ，#O 是#O 靠着#O 全球#O 资讯网#O 运行#O 的#O 一项#O 服务#O 。#O
+NONE
+446 中国移动#O 是#O 2000#MISC 年#MISC 4#MISC 月#MISC 20#MISC 日#MISC 成立#O 的#O 中国#GPE 国有#O 重要#O 骨干企业#O 。#O
+446 中国移动#O 于#O 1998#MISC 年#MISC 4#MISC 月#MISC 20#MISC 日#MISC 成立#O 。#O
+NONE
+447 汽电#O 共生#O 在#O 丹麦#GPE 等#O 斯堪的纳维亚#GPE 国家#O 以及#O 德国#GPE 的#O 一部分#O 被#O 广泛#O 使用#O 。#O
+447 汽电#O 共生#O 在#O 欧洲#LOCATION 部分#O 国家#O 被#O 广泛#O 使用#O 。#O
+NONE
+448 大英国协#O 元首#O 为#O 伊丽莎白#PERSON 二世#O 女王#O 。#O
+448 大英国协#O 元首#O 统领#O 整个#O 大英国协#O 包括#O 内政#O 、#O 外交#O 、#O 军事#O 等#O 国家#O 政策#O 。#O
+NONE
+449 无#O 实权#O 的#O 爱尔兰#GPE 总统#O 要#O 接触#O 内阁#O 官员#O 需#O 经过#O 总理#O 办公室#O 安排#O 。#O
+449 爱尔兰#GPE 总统#O 为#O 虚位#O 元首#O 。#O
+NONE
+450 核能#O 、#O 太阳能#O 、#O 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电站#O 的#O 发电#O 成本#O 仍然#O 高于#O 化石#O 燃料#O 发电#O 。#O
+450 核能#O 、#O 太阳能#O 、#O 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电#O 皆#O 为#O 高#O 成本#O 的#O 发电#O 方式#O 。#O
+NONE
+451 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 分割#O 为#O 两个#MISC 独立#O 的#O 集团#O 。#O
+451 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2005#MISC 年#MISC 分割#O 为#O 两个#MISC 独立#O 的#O 集团#O 。#O
+NONE
+452 中#GPE 俄#GPE 双方#O 各#O 取得#O 黑瞎子#O 岛#O 等#O 争议#O 领土#O 的#O 一半#MISC
+452 中#GPE 俄#GPE 双方#O 分别#O 取得#O 黑瞎子#O 岛#O 等#O 争议#O 领土#O 的#O 一半#MISC
+NONE
+453 中国移动#MISC 是#O 2000#MISC 年#MISC 4#MISC 月#MISC 20#MISC 日#MISC 成立#O 的#O 中国#GPE 国有#O 重要#O 骨干企业#O 。#O
+453 中国移动#MISC 是#O 2000#MISC 年#MISC 4#MISC 月#MISC 20#MISC 日#MISC 成立#O 的#O 亚洲#LOCATION 国有#O 重要#O 骨干企业#O 。#O
+NONE
+454 纽伦堡#GPE 审判#O 中#O 的#O 被告#O 共计#O 22#MISC 名#O ，#O 均#O 为#O 纳粹德国#O 的#O 军政#O 首领#O 。#O
+454 纽伦堡#GPE 审判#O 中#O 的#O 被告#O 共计#O 二十二名#MISC ，#O 均#O 为#O 纳粹德国#O 的#O 军政#O 首领#O 。#O
+NONE
+455 在#O 中国#GPE 境内#O ，#O 中国#ORGANIZATION 行动#ORGANIZATION 通讯#ORGANIZATION 集团公司#ORGANIZATION 主要#O 经营#O 移动#O 语音#O 、#O 资料#O 、#O IP电话#O 和#O 多媒体业务#O 。#O
+455 在#O 中国#GPE 境内#O ，#O 中国#ORGANIZATION 行动#ORGANIZATION 通讯#ORGANIZATION 集团公司#ORGANIZATION 主要#O 经营#O 行动#O 通讯#O 、#O 资料#O 、#O IP电话#O 和#O 多媒体业务#O 。#O
+NONE
+456 火力发电厂#O 是#O 二氧化碳#O 的#O 主要#O 排放#O 来源#O 。#O
+456 发电厂#O 是#O 二氧化碳#O 的#O 主要#O 排放#O 来源#O 。#O
+NONE
+457 布什#PERSON 在#O 卡特里娜#PERSON 飓风#O 席卷#O 墨西哥湾#LOCATION 时#O 还#O 待#O 在#O 德州#GPE 农场#O 度假#O
+457 布什#PERSON 在#O 卡特里娜#ORGANIZATION 飓风#ORGANIZATION 席卷#ORGANIZATION 墨西哥湾#ORGANIZATION 时正待#ORGANIZATION 在#O 白宫#FACILITY
+NONE
+458 中国#GPE 行动#O 通讯#O 拥有#O 全球#O 第一#MISC 的#O 行动#O 通讯#O 网络#O 规模#O 和#O 客户#O 规模#O ，#O 连续#O 多年#O 入选#O 《#O 财富#O 》#O 杂志#O 世界#O 500#MISC 强#O 企业#O 。#O
+458 中国移动#O 拥有#O 全球#O 第一#MISC 的#O 行动#O 通讯#O 网络#O 规模#O 和#O 客户#O 规模#O ，#O 连续#O 多年#O 入选#O 《#O 财富#O 》#O 杂志#O 世界#O 500#MISC 强#O 企业#O 。#O
+NONE
+459 国际#O 奥林匹克#O 数学#O 竞赛#O 的#O 参赛者#O 在#O 比赛#O 时#O 必须#O 未满#O 20#MISC 周岁#MISC ，#O 最高#O 学历#O 为#O 中学#O 。#O
+459 国际#O 奥林匹克#O 数学#O 竞赛#O 在#O 比赛#O 时#O 必须#O 未满#O 20#MISC 周岁#MISC ，#O 最高#O 学历#O 为#O 中学#O 。#O
+NONE
+460 超级#O 油轮#O 诺克#PERSON ·#O 耐#O 维斯#O 号#O 曾#O 名为#O 海上#O 巨人#O 号#O 、#O 快乐#O 巨人#O 号#O 、#O 与#O 亚勒#O 维京#O 号#O 。#O
+460 海上#O 巨人#O 号#O 与#O 快乐#O 巨人#O 号#O 指#O 的#O 都#O 是#O 超级#O 油轮#O 诺克#O ·#O 耐#O 维斯#O 号#O 。#O
+NONE
+461 在#O 现代#O 法治#O 社会#O ，#O 严重#O 的#O 虐待#O 行为#O 是#O 一种#O 犯罪行为#O ，#O 可#O 被#O 起诉#O ，#O 并#O 要#O 受到#O 法律#O 惩罚#O 。#O
+461 在#O 现代#O 法治#O 社会#O ，#O 严重#O 的#O 虐待#O 是#O 一种#O 犯罪行为#O ，#O 可#O 被#O 起诉#O ，#O 并#O 要#O 受到#O 法律#O 惩罚#O 。#O
+NONE
+462 第二次世界大战#MISC （#O 又#O 常#O 被#O 简称#O 为#O 二次大战#MISC 、#O 二战#MISC 等#O ）#O 是#O 一次#MISC 自#O 1939#MISC 年#MISC 至#MISC 1945#MISC 年#MISC 所#O 爆发#O 的#O 全球性#O 军事冲突#O 。#O
+462 第二次世界大战#MISC （#O 又#O 常#O 被#O 简称#O 为#O 二次大战#MISC 、#O 二战#MISC 等#O ）#O 是#O 一次#MISC 自#O 1939#MISC 年#MISC 至#MISC 1945#MISC 年#MISC 所#O 爆发#O 的#O 全球性#O 经济#O 冲突#O 。#O
+NONE
+463 琉球#O 狐蝠#O 不#O 使用#O 超音波#O 定位#O ，#O 而是#O 依照#O 视觉#O 与#O 嗅觉#O 寻找#O 食物#O 。#O
+463 琉球#O 狐蝠#O 偶而#O 依照#O 视觉#O 与#O 嗅觉#O 寻找#O 食物#O 。#O
+NONE
+464 火地#O 群岛#LOCATION 南端#O 的#O 合恩角#O 是#O 南美洲#LOCATION 智利#LOCATION 火地#LOCATION 群岛#LOCATION 南端#O 的#O 陆#O 岬#O ，#O 广泛#O 认为#O 是#O 南美洲#LOCATION 的#O 最南端#O 。#O
+464 火地#O 群岛#LOCATION 南端#O 的#O 合恩角#O 是#O 南美洲#LOCATION 智利#LOCATION 火地#LOCATION 群岛#LOCATION 南端#O 的#O 海#O 岬#O ，#O 广泛#O 认为#O 是#O 南美洲#LOCATION 的#O 最南端#O 。#O
+NONE
+465 国际货币基金组织#O （#O IMF#O ）#O 去年#MISC 12#MISC 月#MISC 停止#O 对#O 阿根廷#GPE 放款#O
+465 IMF#O 停止#O 对#O 阿根廷#GPE 放款#O
+NONE
+466 弥赛亚#PERSON （#O Messiah#O ）#O 是#O 巴洛克#GPE 时期#O 著名#O 音乐家#O 韩德尔#PERSON 创作#O 的#O 大型#O 神剧#O 。#O
+466 弥赛亚#PERSON （#O Messiah#O ）#O 是#O 巴洛克#GPE 时期#O 英国#GPE 著名#O 音乐家#O 韩德尔#PERSON 创作#O 的#O 大型#O 神剧#O 。#O
+NONE
+467 冯小刚#PERSON 的#O 贺岁片#O 《#O 大腕#MISC 》#O
+467 冯小刚#PERSON 《#O 大腕#MISC 》#O 刷新#O 我国#O 大陆#GPE 票房#O 纪录#O
+NONE
+468 中国移动#O 是#O 2000#MISC 年#MISC 4#MISC 月#MISC 20#MISC 日#MISC 成立#O 的#O 中国#GPE 国有#O 重要#O 骨干企业#O 。#O
+468 中国移动#GPE 是#O 千禧年#MISC 成立#O 的#O 中国#GPE 国有#O 重要#O 骨干企业#O 。#O
+NONE
+469 1989#MISC 年#MISC 英伦#MISC 航空#MISC 92#MISC 号#MISC 班机#O 空难#O ，#O 机上#O 118#MISC 名#O 乘客#O 中#O 的#O 39#MISC 人#O 当场#O 死亡#O ，#O 8#MISC 人于#O 稍后#O 时间#O 亦#O 过世#O ；#O 而#O 机上#O 的#O 8#MISC 名#O 机员#O 则#O 全部#O 生还#O 。#O
+469 1989#MISC 年#MISC 英伦#MISC 航空#MISC 92#MISC 号#MISC 班机#O 空难#O ，#O 没有#O 寻获#O 生还者#O 。#O
+NONE
+470 德#O 川家康#PERSON 死后#O 被#O 尊为#O 江户#O 幕府#O 的#O 守护神#O 东照#O 大权#O 现#O 。#O
+470 德#O 川家康#PERSON 死后#O 成为#O 江户#O 幕府#O 的#O 守护神#O 东照#O 大权#O 现#O 。#O
+NONE
+471 98#MISC 年#MISC 朱镕基#PERSON 巡视#O 发生#O 水灾#O 的#O 江西省#GPE 九江市#GPE 时#O ，#O 因#O 九江#GPE 新筑#O 的#O 防洪#O 大堤#O 不堪一击#O ，#O 朱镕基#PERSON 怒斥#O 这是#O “#O 豆腐渣工程#O ”#O 。#O
+471 1998#MISC 年#MISC 9#MISC 月#MISC ，#O 朱镕基#PERSON 巡视#O 发生#O 水灾#O 的#O 江西省#GPE 九江市#GPE 时#O ，#O 因#O 九江#GPE 新筑#O 的#O 防洪#O 大堤#O 不堪一击#O ，#O 朱镕基#PERSON 怒斥#O 这是#O “#O 豆腐渣工程#O ”#O 。#O
+NONE
+472 柯布#O -#O 道格拉斯#PERSON 生产#O 函数#O 于#O 1900#MISC 年#MISC 至#MISC 1928#MISC 年间#MISC 经过#O Charles#O Cobb#O 和#O Paul#O Douglas#O 的#O 统计#O 验证#O 后#O 确立#O ，#O 并#O 因而#O 得名#O 。#O
+472 柯布#O -#O 道格拉斯#PERSON 生产#O 函数#O 于#O 1928#MISC 年#MISC 至#MISC 1900#MISC 年间#MISC 经过#O Charles#O Cobb#O 和#O Paul#O Douglas#O 的#O 统计#O 验证#O 后#O 确立#O ，#O 并#O 因而#O 得名#O 。#O
+NONE
+473 若望#O ·#O 保禄#O 二世#MISC 曾#O 访问#O 罗马尼亚#GPE ，#O 成为#O 自从#O 1054#MISC 年#MISC 东西#O 教会#O 分裂#O 之后#O ，#O 第一位#MISC 拜访#O 东正教#O 国家#O 的#O 教宗#O 。#O
+473 若望#O ·#O 保禄#O 二世#MISC 曾#O 访问#O 罗马尼亚#GPE ，#O 成为#O 自从#O 1054#MISC 年#MISC 之后#O 第一位#MISC 拜访#O 东正教#ORGANIZATION 国家#O 的#O 教宗#O 。#O
+NONE
+474 柯布#O -#O 道格拉斯#PERSON 生产#O 函数#O 于#O 1900#MISC 年#MISC 至#MISC 1928#MISC 年间#MISC 经过#O Charles#O Cobb#O 和#O Paul#O Douglas#O 的#O 统计#O 验证#O 后#O 确立#O ，#O 并#O 因而#O 得名#O 。#O
+474 Charles#O Cobb#O 曾#O 参与#O 验证#O 柯布#O -#O 道格拉斯#PERSON 生产#O 函数#O 。#O
+NONE
+475 因#O 参加#O 湖南卫视#ORGANIZATION 《#O 超级女#MISC 声#MISC 》#O 并#O 获得#O 当年#MISC 超女#O 总冠军#O 的#O 李宇春#PERSON ，#O 几乎#O 是#O 一夜#MISC 红遍#MISC 大江南北#MISC
+475 李宇春#PERSON 是#O 超级女#O 声#O 的#O 冠军#O
+NONE
+476 水晶宫#MISC 展示馆#MISC 是#MISC 十九世纪#MISC 的#O 英国#GPE 建筑#O 奇观#O 之一#O ，#O 也#O 是#O 工业革命#O 时代#O 的#O 重要#O 象征物#O 。#O
+476 水晶宫#MISC 是#MISC 十九世纪#MISC 的#O 英国#GPE 建筑#O 奇观#O 。#O
+NONE
+477 伦敦#GPE 七七#O 连环#O 爆炸案#O ，#O 在#O 三个#FACILITY 地铁#FACILITY 列车#O 和#O 一辆#O 公交车#O 引爆#O 炸弹#O
+477 2005#MISC 年#MISC 7#MISC 月#MISC 7#MISC 日#MISC 发生#O 了#O 伦敦#GPE 地铁#O 爆炸事件#O
+NONE
+478 因为#O 柏油#O 对#O 健康#O 的#O 危害#O ，#O 现在#O 铺设#O 柏油#O 道路#O 已经#O 弃用#O 柏油#O 改用#O 沥青#O 。#O
+478 因为#O 柏油#O 对#O 健康#O 的#O 危害#O ，#O 现在#O 铺设#O 道路#O 已经#O 弃用#O 柏油#O 改用#O 沥青#O 。#O
+NONE
+479 全球#O 资讯网#O 并#O 不#O 等同#O 互联网#O ，#O 全球#O 资讯网#O 只是#O 互联网#O 所#O 能#O 提供#O 的#O 服务#O 其中#O 之一#MISC ，#O 是#O 靠着#O 互联网#O 运行#O 的#O 一项#O 服务#O 。#O
+479 互联网#O 是#O 一项#O 服务#O 。#O
+NONE
+480 西藏#GPE 独立#O 运动#O 是#O 寻求#O 西藏地区#GPE 建立#O 成#O 一个#O 主权国家#O 的#O 一系列#O 运动#O 。#O
+480 西藏#GPE 独立#O 运动#O 是#O 寻求#O 西藏#GPE 南部#O 地区#O 建立#O 成#O 一个#O 主权国家#O 的#O 一系列#O 运动#O 。#O
+NONE
+481 新加坡#FACILITY 樟宜#FACILITY 机场#FACILITY 是#O 新加坡#GPE 主要#O 的#O 民用机场#O ，#O 由#O 新加坡#ORGANIZATION 民航局#ORGANIZATION 营运#O 。#O
+481 新加坡#FACILITY 樟宜#FACILITY 机场#FACILITY 是#O 新加坡#GPE 主要#O 的#O 民用机场#O ，#O 由星国#O 民航局#ORGANIZATION 营运#O 。#O
+NONE
+482 ESS#O 控诉#O 联发科#ORGANIZATION 侵权#O 一案#O 已获#O 解决#O ，#O 由联#O 发科#O 在#O 两年#MISC 内#O 支付#O 9#MISC ,#O 000#O 万元#O 给#O ESS#O 取得#O 授权#O
+482 联发科#ORGANIZATION 必须#O 在#O 两年#MISC 内#O 支付#O 九#MISC 千万元#MISC 给#O ESS#O 取得#O 授权#O
+NONE
+483 2002#MISC 年#MISC 全美#ORGANIZATION 职业#ORGANIZATION 篮球#ORGANIZATION 联盟#ORGANIZATION (#O NBA#O )#O 选秀#O 大会#O 将#O 于#O 6#MISC 月#MISC 26#MISC 日#GPE 举行#O
+483 2002#MISC 年#MISC 全美#ORGANIZATION 职业#ORGANIZATION 篮球#ORGANIZATION 联盟#ORGANIZATION (#O NBA#O )#O 选秀#O 大会#O 将#O 在#O 纽约#GPE 举行#O
+NONE
+484 虾夷地#O 以#O 现在#O 的#O 北海道#GPE 为#O 中心#O ，#O 包含#O 库页岛#LOCATION 与#O 千岛#LOCATION 列岛#O 等#O 地#O 。#O
+484 虾夷地#O 包括#O 千岛#LOCATION 列岛#O 等#O 地#O 。#O
+NONE
+485 美国#GPE 在台协会#O 基于#O 其#O 功能#O 业务#O ，#O 事实上#O 相当于#O 美国#GPE 在#O 中华民国#GPE （#O 台湾#GPE ）#O 的#O 大使级#O 外交代表#O 机构#O 。#O
+485 美国#GPE 在台协会#O 就是#O 美国#GPE 在#O 中华民国#GPE （#O 台湾#GPE ）#O 的#O 大使馆#O 。#O
+NONE
+486 在#O 美国#GPE 看来#O ,#O 反#O 美的#O 恐怖分子#O 主要#O 来自#O 中东地区#LOCATION 的#O 阿拉伯#DEMONYM 国家#O ,#O 美国#GPE 受到#O 的#O 威胁#O 主要#O 来自#O 伊斯兰#DEMONYM 世界#O 。#O
+486 美国#GPE 认为#O 伊斯兰#DEMONYM 世界#O 恐怖分子#O 对#O 其#O 构成威胁#O
+NONE
+487 琉球#PERSON 狐蝠#O 为#O 一种#O 分布#O 于#O 日本#GPE 、#O 菲律宾#GPE 和#O 台湾岛#LOCATION 的#O 大型#O 蝙蝠#O 。#O
+487 琉球#PERSON 狐蝠#O 为#O 一种#O 大型#O 爬虫类#O 。#O
+NONE
+488 在#O 中国#GPE 境内#O ，#O 中国#ORGANIZATION 行动#ORGANIZATION 通讯#ORGANIZATION 集团公司#ORGANIZATION 主要#O 经营#O 移动#O 语音#O 、#O 资料#O 、#O IP电话#O 和#O 多媒体业务#O 。#O
+488 中国#ORGANIZATION 行动#ORGANIZATION 通讯#ORGANIZATION 集团公司#ORGANIZATION 主要#O 经营#O 在#O 中国#GPE 境内#O 的#O 移动#O 语音#O 、#O 资料#O 、#O IP电话#O 和#O 多媒体业务#O 。#O
+NONE
+489 和#O 信#O 集团#O （#O 又称#O 和#O 信#O 企业#O 团#O ）#O 是#O 台湾#GPE 的#O 民营企业#O 集团#O ，#O 由#O 鹿港#GPE 辜家#O 的#O 辜振甫#O 所#O 创立#O 。#O
+489 鹿港#O 辜家#O 的#O 辜振甫#O 所#O 创立#O 的#O 和#O 信#O 集团#O 是#O 台湾#GPE 的#O 民营企业#O ，#O 又#O 称为#O 和#O 信#O 企业#O 团#O 。#O
+NONE
+490 国家#O 发展#O 和#O 改革#ORGANIZATION 委员会#ORGANIZATION 官员#O 29#MISC 日#MISC 表示#O ,#O 中国#GPE 能源需求#O 增长#O 没有#O 对#O 世界#O 能源#O 市场#O 构成威胁#O 。#O
+490 有人#O 认为#O 中国#GPE 能源需求#O 增长#O 对#O 世界#O 能源#O 市场#O 有#O 威胁#O
+NONE
+491 核能#O 、#O 太阳能#O 、#O 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电站#O 的#O 发电#O 成本#O 仍然#O 高于#O 化石#O 燃料#O 发电#O 。#O
+491 核能#O 、#O 太阳能#O 、#O 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电站#O 的#O 发电#O 花费#O 仍然#O 高于#O 化石#O 燃料#O 发电#O 。#O
+NONE
+492 阿巴#GPE 多自#O 2003#MISC 年#MISC 接任#O 琉森#O 音乐节#O 音乐#O 总监#O 后#O ，#O 成立#O 了#O 琉森#O 节日#O 管弦乐团#O （#O Lucerne#O Festival#O Orchestra#O ,#O LFO#ORGANIZATION ）#O 。#O
+492 阿巴#GPE 多先#O 接任#O 琉森#O 音乐节#O 音乐#O 总监#O ，#O 才#O 成立#O 琉森#O 节日#O 管弦乐团#O 。#O
+NONE
+493 澳门#GPE 于#O 一九九九年#MISC 十二月#MISC 回归#O 中国#GPE
+493 香港#GPE 于#O 1997#MISC 年#MISC 回归#O 中国#GPE
+NONE
+494 1959#MISC 年#MISC ，#O 第一届#MISC 国际#MISC 奥林匹克#MISC 数学#MISC 竞赛#MISC 于#O 罗马尼亚#GPE 举行#O ，#O 参赛国#O 包括#O 7#MISC 个#O 东欧国家#O 。#O
+494 1959#MISC 年#MISC ，#O 最后#O 一届#O 国际#O 奥林匹克#O 数学#O 竞赛#O 于#O 罗马尼亚#GPE 举行#O ，#O 参赛国#O 包括#O 7#MISC 个#O 东欧国家#O 。#O
+NONE
+495 长江三峡#O 水坝#O 工程#O 完成#O 后#O ,#O 防洪#O 和#O 蓄水#O 能力#O 提升#O 、#O 万吨级#O 船队#O 由#O 重庆#GPE 直达#O 汉口#GPE 和#O 上海#GPE 、#O 年发电量#O 世界#O 第一#MISC 。#O
+495 长江三峡#O 水坝#O 工程#O 是#O 兼具#O 防洪#O 、#O 蓄水#O 、#O 发电#O 、#O 航运#O 等#O 功能#O 的#O 综合型#O 水利#O 建筑#O
+NONE
+496 红斑#O 性#O 狼疮#O 可能#O 侵犯#O 各种#O 器官#O ，#O 包括#O 心脏#O 、#O 关节#O 、#O 皮肤#O 、#O 肺#O 、#O 血管#O 、#O 肝#O 、#O 肾脏#O ，#O 以及#O 神经系统#O 。#O
+496 红斑#O 性#O 狼疮#O 可能#O 影响#O 各种#O 器官#O ，#O 包括#O 心脏#O 、#O 关节#O 、#O 皮肤#O 、#O 肺#O 、#O 血管#O 、#O 肝#O 、#O 肾脏#O ，#O 以及#O 神经系统#O 。#O
+NONE
+497 国际#O 奥林匹克#O 数学#O 竞赛#O 的#O 参赛者#O 在#O 比赛#O 时#O 必须#O 未满#O 20#MISC 周岁#MISC ，#O 最高#O 学历#O 为#O 中学#O 。#O
+497 国际#O 奥林匹克#O 数学#O 竞赛#O 的#O 参赛者#O 在#O 比赛#O 时#O 必须#O 未满#O 二十岁#MISC ，#O 最高#O 学历#O 为#O 中学#O 。#O
+NONE
+498 2004#MISC 年#MISC 国际#O 油价#O 急剧#O 攀升#O ,#O 除#O 多种#O 短期#O 因素#O 影响#O 外#O ,#O 主要#O 原因#O 是#O 世界#O 能源#O 体系#O 本身#O 存在#O 问题#O 。#O
+498 世界#O 能源#O 体系#O 本身#O 存在#O 问题#O 很大#O 程度#O 上#O 导致#O 了#O 2004#MISC 年#MISC 国际#O 油价#O 急剧#O 攀升#O
+NONE
+499 主#O 校区#O 位于#O 巴尔的摩市#GPE 的#O 约翰#PERSON ·#O 霍普金斯大学#PERSON ，#O 以#O 医学#O 、#O 公共卫生#O 、#O 空间科学#O 、#O 国际#O 关系#O 、#O 文学#O 及#O 音乐#O 等#O 学科#O 而#O 闻名世界#O 。#O
+499 主#O 校区#O 位于#O 巴尔的摩市#GPE 的#O 约翰霍普金斯#ORGANIZATION 大学#ORGANIZATION ，#O 以#O 医学#O 、#O 公共卫生#O 、#O 空间科学#O 、#O 国际#O 关系#O 、#O 文学#O 及#O 音乐#O 等#O 学科#O 而#O 闻名世界#O 。#O
+NONE
+500 火地#O 群岛#O 总面积#O 73#MISC ,#O 753#MISC 平方公里#O 。#O
+500 火地#O 群岛#O 总#O 体积#O 73#MISC ,#O 753#MISC 平方公里#O 。#O
+NONE
+501 瀛台#O 泣血#O 记#O 原著#O 为#O 英文#DEMONYM ，#O 后#O 由#O 民初#O 作家#O 秦瘦鸥#PERSON 翻译#O 为#O 中文#DEMONYM 。#O
+501 瀛台#O 泣血#O 记#O 原著#O 为#O 英文#DEMONYM ，#O 后#O 由#O 清末#O 作家#O 秦瘦鸥#PERSON 翻译#O 为#O 中文#DEMONYM 。#O
+NONE
+502 美国#GPE 选手#O 菲尔#PERSON 普斯#PERSON 在#O “#O 水立方#O ”#O 连夺#O 八枚#MISC 金牌#MISC ，#O 成为#O 夏季#MISC 奥运会#MISC 获得#O 金牌#MISC 总数#O 最多#O 的#O 运动员#O 。#O
+502 美国#GPE 选手#O 菲尔#PERSON 普斯#PERSON 在#O “#O 水立方#O ”#O 连夺#O 八枚#MISC 奖牌#MISC ，#O 成为#O 夏季#MISC 奥运会#MISC 获得#O 金牌#MISC 总数#O 最多#O 的#O 运动员#O 。#O
+NONE
+503 1981#MISC 年#MISC 6#MISC 月#MISC 6#MISC 日#MISC ，#O 美国#GPE 疾病#O 控制#O 与#O 预防#ORGANIZATION 中心#ORGANIZATION 通报#ORGANIZATION 美国#ORGANIZATION 首宗#ORGANIZATION 爱滋病#O 感染#O 案例#O 。#O
+503 1981#MISC 年#MISC 6#MISC 月#MISC 6#MISC 日#MISC ，#O 美国#GPE 疾病#O 控制#O 与#O 预防#ORGANIZATION 中心#ORGANIZATION 通报#O 全球#O 首宗#O 爱滋病#O 感染#O 案例#O 。#O
+NONE
+504 如果#O 张梓琳#PERSON 没有#O 跨入#O 模特#O 行业#O ，#O 也许#O 在#O 08#MISC 年#MISC 奥运会#MISC 跨栏#O 的#O 赛场#O 上#O ，#O 我们#O 还#O 能#O 看到#O 刘翔#PERSON 加张#O 梓琳#O “#O 金童玉女#O ”#O 组合#O 的#O 精彩表演#O 。#O
+504 张梓琳#PERSON 是#O 国内#O 知名#O 模特#O ，#O 北京科技大学#ORGANIZATION 毕业#O 。#O
+NONE
+505 第二次世界大战#MISC （#O 又#O 常#O 被#O 简称#O 为#O 二次大战#MISC 、#O 二战#MISC 等#O ）#O 是#O 一次#MISC 自#O 1939#MISC 年#MISC 至#MISC 1945#MISC 年#MISC 所#O 爆发#O 的#O 全球性#O 军事冲突#O 。#O
+505 第二次世界大战#MISC （#O 又#O 常#O 被#O 简称#O 为#O 二次大战#MISC 、#O 二战#MISC 等#O ）#O 是#O 一次#MISC 自#O 1939#MISC 年#MISC 至#MISC 1945#MISC 年#MISC 所#O 开始#O 的#O 全球性#O 军事冲突#O 。#O
+NONE
+506 在#O 法国#GPE 大革命#O 之后#O ，#O 欧洲#LOCATION 开始#O 有人#O 推动#O 让#O 女性#O 拥有#O 投票权#O 。#O
+506 在#O 法国#GPE 大革命#O 之前#O ，#O 欧洲#LOCATION 女性#O 都#O 没有#O 投票权#O 。#O
+NONE
+507 水晶宫#O （#O The#MISC Crystal#MISC Palace#MISC ）#O 是#O 十九世纪#MISC 的#O 英国#GPE 建筑#O 奇观#O 之一#O ，#O 也#O 是#O 工业革命#MISC 时代#MISC 的#O 重要#O 象征物#O 。#O
+507 石英#PERSON 宫#O （#O The#MISC Crystal#MISC Palace#MISC ）#O 是#O 十九世纪#MISC 的#O 英国#GPE 建筑#O 奇观#O 之一#O ，#O 也#O 是#O 工业革命#MISC 时代#MISC 的#O 重要#O 象征物#O 。#O
+NONE
+508 因为#O 柏油#O 对#O 健康#O 的#O 危害#O ，#O 现在#O 铺设#O 柏油#O 道路#O 已经#O 弃用#O 柏油#O 改用#O 沥青#O 。#O
+508 因为#O 柏油#O 的#O 危害#O ，#O 现在#O 铺设#O 柏油#O 道路#O 已经#O 弃用#O 柏油#O 改用#O 沥青#O 。#O
+NONE
+509 琉球#O 狐蝠#O 不#O 使用#O 超音波#O 定位#O ，#O 而是#O 依照#O 视觉#O 与#O 嗅觉#O 寻找#O 食物#O 。#O
+509 蝙蝠#O 不#O 使用#O 超音波#O 定位#O ，#O 而是#O 依照#O 视觉#O 与#O 嗅觉#O 寻找#O 食物#O 。#O
+NONE
+510 中国移动#O 是#O 2000#MISC 年#MISC 4#MISC 月#MISC 20#MISC 日#MISC 成立#O 的#O 中国#GPE 国有#O 重要#O 骨干企业#O 。#O
+510 中国移动#O 不是#O 民营企业#O 。#O
+NONE
+511 截至#O 2012#MISC 年#MISC 2#MISC 月#MISC 10#MISC 日#MISC 为止#O ，#O 航海家#O 1#MISC 号#O 离#O 太阳#O 约#O 179.1#MISC 亿#MISC 公里#O 。#O
+511 2012#MISC 年#MISC 2#MISC 月#MISC 10#MISC 日#MISC ，#O 航海家#O 1#MISC 号#O 离#O 太阳#O 约#O 179.1#MISC 亿#MISC 公里#O 。#O
+NONE
+512 故#O 梵蒂冈城#GPE 国#O 国家元首#O 若望#O ·#O 保禄#O 二世#MISC 为#O 第#O 264#O 任教#O 宗#O 。#O
+512 故#O 梵蒂冈#GPE 元首#O 若望#O ·#O 保禄#O 二世#MISC 为#O 第#O 264#O 任教#O 宗#O 。#O
+NONE
+513 日本#GPE 于#O 2005#MISC 年#MISC 发行#O 上映#O 的#O 动画电影#O 《#O 蒸气#MISC 男孩#MISC 》#MISC ，#O 其#O 故事#O 背景#O 以#O 英国#GPE 1851#MISC 年#MISC 万国#MISC 博览会#MISC 为主#O 。#O
+513 日本#GPE 于#O 2005#MISC 年#MISC 发行#O 上映#O 的#O 动画电影#O 《#O 蒸气#MISC 男孩#MISC 》#O ，#O 以#O 英国#GPE 1851#MISC 年#MISC 万国#MISC 博览会#MISC 作为#O 其#O 故事#O 背景#O 。#O
+NONE
+514 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 分割#O 为#O 两个#O 独立#O 的#O 集团#O 。#O
+514 中信集团#O 的#O 旗下#O 业务#O 包括#O 金融业#O 跨业#O 整合#O 。#O
+NONE
+515 航海家#O 1#MISC 号#MISC （#O Voyager#MISC 1#MISC ）#O 是#O 美国#ORGANIZATION 太空#ORGANIZATION 总署#ORGANIZATION 研制#O 的#O 一艘#O 无人#O 外#O 太阳系#O 太空#O 探测船#O ，#O 重#O 815#O 千克#O ，#O 于#O 1977#MISC 年#MISC 9#MISC 月#MISC 5#MISC 日#MISC 发射#O 。#O
+515 航海家#O 1#MISC 号#MISC （#O Voyager#MISC 1#MISC ）#O 是#O NASA#ORGANIZATION 研制#O 的#O 一艘#O 无人#O 外#O 太阳系#O 太空#O 探测船#O ，#O 重#O 815#O 千克#O ，#O 于#O 1977#MISC 年#MISC 9#MISC 月#MISC 5#MISC 日#MISC 发射#O 。#O
+NONE
+516 据#O 《#O 圣经#MISC ·#MISC 申命记#MISC 》#O 所#O 载#O ，#O 约书亚#O 继#O 摩西#O 成为#O 以色列#DEMONYM 人#O 的#O 领袖#O ，#O 带领#O 以色列#DEMONYM 人#O 离开#O 旷野#O 进入#O 应许#O 之地#O ，#O 那#O 丰富#O 的#O 迦南#O 美地#O 。#O
+516 据#O 《#O 圣经#MISC ·#MISC 申命记#MISC 》#O 所#O 载#O ，#O 约书亚#O 继#O 摩西#O 成为#O 以色列#DEMONYM 人#O 的#O 领袖#O ，#O 带领#O 以色列#DEMONYM 人#O 离开#O 旷野#O 进入#O 应许#O 之地#O ，#O 那#O 贫瘠#O 的#O 迦南#O 美地#O 。#O
+NONE
+517 科比#PERSON 本赛季#PERSON 平均#O 每场#O 得#O 27.5#MISC 分#O ,#O 得分#O 排#O 第二位#MISC
+517 科比#PERSON 本赛季#PERSON 场均#O 得分#O 27.5#MISC ，#O 排名#O 第二位#MISC
+NONE
+518 南北朝#MISC 陶弘景#PERSON 所著#O 的#O 《#O 名医#MISC 别录#MISC 》#O 概括#O 的#O 琥珀#O 三大#MISC 功效#O 为#O ：#O 去#O 惊#O 定神#O ，#O 活血#O 散#O 淤#O ，#O 利尿#O 通淋#O 。#O
+518 琥珀#O 可用#O 来#O 入药#O 。#O
+NONE
+519 蒙特利尔#MISC 奥运会#MISC 之后#O ，#O 蒙特利尔市#GPE 几乎#O 破产#O 。#O
+519 蒙特利尔#MISC 奥运#MISC ，#O 拥有#O 628#MISC 家#MISC 赞助#O 厂商#O ，#O 赞助#O 资源#O 价值#O 高达#O 700#MISC 万美元#MISC
+NONE
+520 自#O 1992#MISC 年#MISC 进入#O 中国#GPE 内地#O 以来#O ,#O 微软#ORGANIZATION 陆续#O 建立#O 了#O 一批#O 研发#O 、#O 服务#O 机构#O ,#O 包括#O 设在#O 北京#GPE 的#O 微软#ORGANIZATION 亚洲#ORGANIZATION 研究院#ORGANIZATION 和#O 设在#O 上海#GPE 的#O 微软#ORGANIZATION 全球#O 技术支持#O 中心#O
+520 自#O 1992#MISC 年#MISC 进入#O 中国#GPE 内地#O 以来#O ,#O 微软#ORGANIZATION 陆续#O 建立#O 了#O 一批#O 研发#O 、#O 服务#O 机构#O ,#O 包括#O 设在#O 上海#GPE 的#O 微软#ORGANIZATION 亚洲#ORGANIZATION 研究院#ORGANIZATION 和#O 设在#O 北京#GPE 的#O 微软#ORGANIZATION 全球#O 技术支持#O 中心#O
+NONE
+521 近#O 一百年#MISC 来#O 二氧化碳#O 的#O 大量#O 排放#O 导致#O 全球#MISC 变暖#MISC 。#O
+521 二氧化碳#O 的#O 大量#O 排放#O 导致#O 近#MISC 一百年#MISC 来#O 全球#MISC 变暖#MISC 。#O
+NONE
+522 类固醇#O 在#O 药理学#O 上#O 分为#O 皮质#O 类固醇#O 及#O 矿物质#O 类固醇#O ,#O 后者#O 在#O 医生#O 处理#O 休克#O 等#O 一些#O 紧急状况#O 才#O 会#O 使用#O ,#O 一般#O 民众#O 极少#O 有#O 机会#O 接触#O
+522 矿物质#O 类固醇#O 多#O 在#O 医师#O 处理#O 休克#O 等#O 一些#O 紧急状况#O 使用#O
+NONE
+523 为#O 确保#O 航天员#O 的#O 安全#O ,#O 发射#O 神舟#O 六号#MISC 的#O 火箭#O 在#O 安全性#O 和#O 舒适性#O 方面#O 都#O 有#O 改善#O 。#O
+523 为#O 确保#O 航天员#O 的#O 安全#O ,#O 发射#O 神舟#O 六号#MISC 的#O 火箭#O 在#O 安全性#O 方面#O 有#O 改善#O 。#O
+NONE
+524 澳门#GPE 于#O 一九九九年#MISC 十二月#MISC 回归#O 中国#GPE
+524 澳门#GPE 于#O 1999#MISC 年#MISC 回归#O 中国#GPE
+NONE
+525 某些#O 核子反应#O 炉#O 使用#O 重水#O 来#O 减慢#O 中子#O 的#O 速度#O 。#O
+525 某些#O 核子反应#O 炉#O 使用#O 重水#O 来#O 减慢#O 中子#O 的#O 衰变#O 速度#O 。#O
+NONE
+526 《#O 绿茶#MISC 》#O 是#O 由#O 姜文#PERSON 和#O 赵薇#PERSON 主演#O 的#O
+526 赵薇#PERSON 是#O 《#O 绿茶#MISC 》#O 的#O 主演#O 之一#MISC
+NONE
+527 1998#MISC 年#MISC 9#MISC 月#MISC ，#O 朱镕基#PERSON 巡视#O 发生#O 水灾#O 的#O 江西省#GPE 九江市#GPE 时#O ，#O 因#O 九江#GPE 新筑#O 的#O 防洪#O 大堤#O 不堪一击#O ，#O 朱镕基#PERSON 怒斥#O 这是#O “#O 豆腐渣工程#O ”#O 。#O
+527 1994#MISC 年#MISC ，#O 朱镕基#PERSON 巡视#O 发生#O 水灾#O 的#O 江西省#GPE 九江市#GPE 时#O ，#O 因#O 九江#GPE 新筑#O 的#O 防洪#O 大堤#O 不堪一击#O ，#O 朱镕基#PERSON 怒斥#O 这是#O “#O 豆腐渣工程#O ”#O 。#O
+NONE
+528 克隆人#DEMONYM 和#O 同卵#O 双胞胎#O 一样#O 并非#O 复制出#O 两个#O 长相#O 、#O 个性#O 、#O 记忆#O 完全#O 一样#O 的#O 人#O ，#O 但#O 基因#O 是#O 相同#O 的#O
+528 克隆人#O 和#O 同卵#O 双胞胎#O 一样#O 拥有#O 相同#O 的#O 基因#O ，#O 但#O 并非#O 复制出#O 两个#O 长相#O 、#O 个性#O 、#O 记忆#O 完全#O 一样#O 的#O 人#O 。#O
+NONE
+529 海底#O 地震#O 造成#O 地层#O 的#O 大幅度#O 陷落#O 或#O 抬升#O ，#O 是#O 引发#O 大#O 海啸#O 的#O 主要#O 原因#O
+529 海底#O 地震#O 造成#O 地层#O 的#O 大幅度#O 陷落#O 或#O 抬升#O ，#O 是#O 引发#O 大#O 海啸#O 的#O 次要#O 原因#O
+NONE
+530 天满宫#O 是#O 指#O 日本#GPE 祭祀#O 学问#O 之神#O 菅#O 原道#O 真的#O 神社#O ，#O 遍及#O 于#O 日本#GPE 各地#O 。#O
+530 天满宫#O （#O て#O ん#O ま#O ぐ#O う#O ）#O 是#O 指#O 日本#GPE 祭祀#O 学问#O 之神#O 菅#O 原道#O 真的#O 神社#O ，#O 遍及#O 于#O 日本#GPE 各地#O 。#O
+NONE
+531 跟#O 年轻人#O 比较#O ，#O 有#O 更#O 高#O 比例#O 的#O 老年人#O 有#O 睡眠#O 障碍#O
+531 老年人#O 较#O 年轻人#O 来说#O 有#O 更#O 高#O 比例#O 的#O 睡眠#O 障碍#O
+NONE
+532 弥赛亚#PERSON （#O Messiah#O ）#O 是#O 巴洛克#GPE 时期#O 著名#O 音乐家#O 韩德尔#PERSON 创作#O 的#O 大型#O 神剧#O 。#O
+532 弥赛亚#PERSON （#O Messiah#O ）#O 是#O 文艺复兴#MISC 时期#MISC 著名#O 音乐家#O 韩德尔#PERSON 创作#O 的#O 大型#O 歌剧#O 。#O
+NONE
+533 据#O 《#O 圣经#MISC ·#MISC 申命记#MISC 》#O 所#O 载#O ，#O 约书亚#O 继#O 摩西#O 成为#O 以色列#DEMONYM 人#O 的#O 领袖#O ，#O 带领#O 以色列#DEMONYM 人#O 离开#O 旷野#O 进入#O 应许#O 之地#O ，#O 那#O 丰富#O 的#O 迦南#O 美地#O 。#O
+533 据#O 《#O 圣经#MISC ·#MISC 申命记#MISC 》#O 所#O 载#O ，#O 约书亚#O 继#O 摩西#O 成为#O 以色列#DEMONYM 人#O 的#O 领袖#O ，#O 带领#O 以色列#GPE 人#O 离开#O 旷野#O 前往#O 应许#O 之地#O ，#O 那#O 丰富#O 的#O 迦南#O 美地#O 。#O
+NONE
+534 火力发电厂#O 是#O 二氧化碳#O 的#O 主要#O 排放#O 来源#O 。#O
+534 火力发电厂#O 是#O 氧#O 与#O 碳#O 的#O 主要#O 排放#O 来源#O 。#O
+NONE
+535 人类#O 活动#O 破坏#O ，#O 瓦解#O 从#O 红树林#O 沼泽#O 到#O 珊瑚礁#O 这些#O 可#O 抵挡#O 海水#O 倒灌#O 的#O 天然屏障#O 是#O 南亚#LOCATION 海啸#O 造成#O 东南亚#LOCATION 及#O 南亚地区#LOCATION 的#O 重大#O 伤亡#O 的#O 原因#O
+535 南亚#LOCATION 海啸#O 造成#O 东南亚#LOCATION 及#O 南亚地区#LOCATION 的#O 重大#O 伤亡#O 是因为#O 人类#O 活动#O 破坏#O ，#O 瓦解#O 从#O 红树林#O 沼泽#O 到#O 珊瑚礁#O 这些#O 可#O 抵挡#O 海水#O 倒灌#O 的#O 天然屏障#O
+NONE
+536 东照宫#O 是#O 供奉#O 日本#GPE 最后#O 一代#O 幕府#O —#O 江户#O 幕府#O 的#O 开府#O 将军#O 德#O 川家康#PERSON 的#O 神社#O 。#O
+536 东照宫#O 是#O 供奉#O 日本#GPE 最后#O 一代#O 幕府#O —#O 江户#O 幕府#O 的#O 第一任#MISC 将军#O 德#GPE 川家康#GPE 的#O 神社#O 。#O
+NONE
+537 巴基斯坦#GPE 总统#O 贾迈利#PERSON 在#O 印度#GPE 与#O 巴基斯坦#GPE 和平谈判#O 中#O 建议#O 首先#O 恢复#O 两国间#O 的#O 体育#O 活动#O
+537 印度#GPE 与#O 巴基斯坦#GPE 和平谈判#O 中#O ，#O 巴基斯坦#GPE 总统#O 贾迈利#PERSON 希望#O 首先#O 恢复#O 两国间#O 的#O 体育#O 活动#O
+NONE
+538 2005#MISC 年#MISC 日本政府#ORGANIZATION 批准#O 民间#O 石油勘探#O 公司#O "#O 帝国#O 石油#O "#O 勘探#O 东海#FACILITY 油气田#FACILITY ，#O 并#O 给予#O 试凿权#O
+538 “#O 帝国#O 石油#O ”#O 是#O 一家#O 民营#O 石油勘探#O 公司#O
+NONE
+539 夏雨#O 与#O 袁泉#PERSON 一直#O 被#O 称为#O 圈内#O “#O 金童玉女#O ”#O ，#O 两人#MISC 从#O 中央戏剧学院#ORGANIZATION 开始#O 相识#O 谈恋爱#O ，#O 一谈#O 就是#O 7#MISC 、#O 8#MISC 年#MISC
+539 袁泉#PERSON 和#O 夏雨#O 相识#O 并#O 相恋#O 于#O 中央戏剧学院#ORGANIZATION
+NONE
+540 火地#O 群岛#O ，#O 是#O 南美洲#LOCATION 最南端#O 的#O 岛屿#O 群#O ，#O 由主岛#LOCATION 大#LOCATION 火地岛#LOCATION 及#O 周边#O 小岛#O 组成#O 。#O
+540 火地#O 群岛#LOCATION ，#O 是#O 南美洲#LOCATION 最南端#O 的#O 岛屿#O 群#O ，#O 由大#LOCATION 火地岛#LOCATION 及#O 周边#O 小岛#O 组成#O 。#O
+NONE
+541 理察森#O 外推法#O 是#O 在#O 20#MISC 世纪#MISC 前期#MISC 由#O 英国#GPE 数学家#O ，#O 物理学家#O ，#O 气象学家#O Lewis#O Fry#O Richardson#O 提出#O 的#O 。#O
+541 理察森#O 外推法#O 是#O 在#O 19#MISC 世纪#MISC 中叶#MISC 由#O 英国#GPE 数学家#O ，#O 物理学家#O ，#O 气象学家#O Lewis#O Fry#O Richardson#O 提出#O 的#O 。#O
+NONE
+542 沈从文#PERSON (#O 1902#O -#O 1988#O ）#O 原名#O 沈岳焕#O ，#O 湖南#GPE 凤凰县#GPE 人#O ，#O 汉族#O ，#O 但#O 有#O 部分#O 苗族#O 血统#O 。#O
+542 沈从文#PERSON ，#O 湖南#GPE 凤凰县#GPE 人#O ，#O 生于#O 1902#MISC 年#MISC ，#O 1988#MISC 年#MISC 去世#O 。#O
+NONE
+543 电影#O 《#O 头文字#MISC D#MISC 》#O 与#O 《#O 世界大战#MISC 》#O 将#O 正面#O 竞争#O 我国#O 票房#O 市场#O
+543 据#O 透露#O ，#O 汤姆#PERSON ·#O 克鲁斯#PERSON 主演#O 《#O 世界大战#MISC 》#O 在#O 我国#O 的#O 上映#O 时间#O 推后#O 到#O 7#MISC 月#MISC 8#MISC 日#MISC 之后#O ，#O 给#O 《#O 头文字#MISC D#MISC 》#O 带来#O 两个#MISC 星期#MISC 独占#O 票房#O 的#O 好时机#O
+NONE
+544 某些#O 核子反应#O 炉#O 使用#O 重水#O 来#O 减慢#O 中子#O 的#O 速度#O 。#O
+544 某些#O 核能#O 电厂#O 使用#O 重水#O 来#O 减慢#O 中子#O 的#O 速度#O 。#O
+NONE
+545 由于#O 研发#O 和#O 生产成本#O 高昂#O ，#O LFA#O 被#O 指为#O 并#O 不会#O 为#O 凌志#O 带来#O 任何#O 盈利#O 。#O
+545 LFA#O 是#O 凌志#O 旗下#O 的#O 产品#O 。#O
+NONE
+546 大量#O 使用#O 类固醇#O 对#O 某些#O 人#O 容易#O 引起#O 高血压#O ，#O 特别#O 是#O 在#O 原本#O 就#O 有#O 肾脏#O 疾病#O 者#O ，#O 长期#O 服用#O 会#O 降低#O 免疫力#O
+546 大量#O 使用#O 类固醇#O 者#O ，#O 可能#O 免疫#O 功能#O 会#O 变差#O
+NONE
+547 中国#GPE 行动#O 通讯#O 拥有#O 全球#O 第一#MISC 的#O 行动#O 通讯#O 网络#O 规模#O 和#O 客户#O 规模#O ，#O 连续#O 多年#O 入选#O 《#O 财富#MISC 》#MISC 杂志#MISC 世界#MISC 500#MISC 强#O 企业#O 。#O
+547 中国#GPE 行动#O 通讯#O 拥有#O 全球#O 第一#MISC 的#O 网络#O 规模#O 和#O 客户#O 规模#O ，#O 连续#O 多年#O 入选#O 《#O 财富#O 》#O 杂志#O 世界#O 500#MISC 强#O 企业#O 。#O
+NONE
+548 美国#ORGANIZATION 国家#ORGANIZATION 科学#ORGANIZATION 基金会#ORGANIZATION 连续#O 31#MISC 年#MISC 将#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 列为#O 全美#O 科研经费#O 开支#O 最高#O 的#O 大学#O 。#O
+548 约翰#PERSON ·#O 霍普金斯大学#PERSON 被#O 美国#ORGANIZATION 国家#ORGANIZATION 科学#ORGANIZATION 基金会#ORGANIZATION 连续#O 31#MISC 年#MISC 列为#O 全美#O 科研经费#O 开支#O 最高#O 的#O 大学#O 。#O
+NONE
+549 在#O 1911#MISC 年#MISC 标准#O 石油#O 被#O 判决#O 违反#O 反托拉斯法#O 并#O 被#O 拆#O 分为#O 34#MISC 家#O 公司#O 。#O
+549 1911#MISC 年#MISC 标准#O 石油#O 遭#O 拆#O 分为#O 34#MISC 家#MISC 公司#O 。#O
+NONE
+550 高丽#O 政府#O 委任#O 饱读#O 中国#GPE 的#O 儒家思想#O 学者#O 来#O 经营#O 成均馆#O ，#O 对#O 学生#O 传授#O 儒家思想#O 、#O 高丽#O 法律#O 、#O 数学#O 及#O 书法#O 等#O 科目#O 。#O
+550 成均馆#FACILITY 传授#O 科目#O 包括#O 四书五经#O 。#O
+NONE
+551 主#O 校区#O 位于#O 巴尔的摩市#GPE 的#O 约翰#PERSON ·#O 霍普金斯大学#PERSON ，#O 以#O 医学#O 、#O 公共卫生#O 、#O 空间科学#O 、#O 国际#O 关系#O 、#O 文学#O 及#O 音乐#O 等#O 学科#O 而#O 闻名世界#O 。#O
+551 主#O 校区#O 位于#O 马里兰州#GPE 巴尔的摩市#GPE 的#O 约翰#PERSON ·#O 霍普金斯大学#O ，#O 以#O 医学#O 、#O 公共卫生#O 、#O 空间科学#O 、#O 国际#O 关系#O 、#O 文学#O 及#O 音乐#O 等#O 学科#O 而#O 闻名世界#O 。#O
+NONE
+552 夏雨#O 袁泉#PERSON 夫妻#O 两人#O 都#O 是#O 中戏#O 毕业#O ，#O 两人#MISC 更#O 被#O 视为#O 中国#GPE 话剧#O 演员#O 新生代#O 的#O 代表#O 人物#O ，#O 舞台剧#O 代表作#O 有#O 《#O 梁祝#MISC 》#O 、#O 《#O 狂飙#O 》#O 、#O 《#O 琥珀#MISC 》#O 。#O
+552 夏雨#O 和#O 袁泉#PERSON 两人#O 都#O 是#O 中国#GPE 话剧#O 演员#O 新生代#O 的#O 代表#O 人物#O
+NONE
+553 大#O 宪章#O 确立#O 了#O 一些#O 英国#DEMONYM 贵族#O 享有#O 的#O 政治权利#O 与#O 自由#O ，#O 亦#O 保障#O 了#O 教会#O 不#O 受#O 国王#O 的#O 控制#O 。#O
+553 大#O 宪章#O 确立#O 了#O 一些#O 英国#DEMONYM 贵族#O 的#O 政治权利#O 与#O 自由#O 。#O
+NONE
+554 美国#ORGANIZATION 国家#ORGANIZATION 科学#ORGANIZATION 基金会#ORGANIZATION 连续#O 31#MISC 年#MISC 将#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 列为#O 全美#O 科研经费#O 开支#O 最高#O 的#O 大学#O 。#O
+554 美国#ORGANIZATION 国家#ORGANIZATION 科学#ORGANIZATION 基金会#ORGANIZATION 连续#O 31#MISC 年#MISC 将#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 列为#O 全美#ORGANIZATION 科技#ORGANIZATION 研究#O 经费#O 开支#O 最高#O 的#O 大学#O 。#O
+NONE
+555 印度教#O 、#O 佛教#O 盛行#O 火葬#O ，#O 儒家#DEMONYM 、#O 伊斯兰教#ORGANIZATION 和#O 基督教#ORGANIZATION 则#O 盛行#O 土葬#O 。#O
+555 盛行#O 火葬#O 的#O 宗教#O 包括#O 印度教#ORGANIZATION 与#O 佛教#ORGANIZATION 。#O
+NONE
+556 1981#MISC 年#MISC 6#MISC 月#MISC 6#MISC 日#MISC ，#O 美国#GPE 疾病#O 控制#O 与#O 预防#ORGANIZATION 中心#ORGANIZATION 通报#O 全球#O 首宗#O 爱滋病#O 感染#O 案例#O 。#O
+556 1981#MISC 年#MISC 6#MISC 月#MISC 6#MISC 日#MISC ，#O 美国#GPE 疾病#O 控制#O 与#O 预防#ORGANIZATION 中心#ORGANIZATION 通报#O 全球#O 首宗#O 爱滋病#O 感染#O 死亡#O 案例#O 。#O
+NONE
+557 全身性#O 红斑狼疮#O 的#O 症状#O 千奇百怪#O ，#O 若#O 千面#O 女郎#O 一般#O ，#O 每个#O 人均#O 不尽相同#O 。#O
+557 红斑狼疮#O 的#O 症状#O 千奇百怪#O ，#O 若#O 千面#O 女郎#O 一般#O ，#O 每个#O 人均#O 不尽相同#O 。#O
+NONE
+558 胚胎#O 干细胞#O 是#O 最#O 原始#O 的#O 细胞#O ，#O 深具#O 发展#O 成#O 各种#O 器官#O 和#O 组织#O 的#O 潜力#O
+558 胚胎#O 干细胞#O 可以#O 经由#O 适当#O 的#O 培养#O 而#O 产生#O 各种#O 器官#O 组织#O 。#O
+NONE
+559 紫外线#O 根据#O 波长#O 长短#O 可以#O 区分#O 为#O UVA#O 、#O UVB#O 和#O UVC#O 。#O 波长#O 最长#O 的#O UVA#O 穿透#O 能力#O 最强#O ，#O 它#O 可#O 使#O 皮肤#O 产生#O 变化#O ,#O 这些#O 变化#O 包括#O 轻微#O 的#O 色素#O 变化#O 、#O 血管#O 扩张#O 、#O 角质层#O 变厚#O 、#O 皱纹#O 生成#O 。#O
+559 紫外线#O UVA#O 会#O 使#O 角质层#O 变厚#O
+NONE
+560 医用#O 酒精#O 主要#O 指#O 体积#O 浓度#O 为#O 75#MISC %#O 左右#O 的#O 乙醇#O 。#O
+560 酒精#O 就是#O 乙醇#O 。#O
+NONE
+561 爱因斯坦#PERSON 因在#O 光电效应#O 方面#O 的#O 研究#O ，#O 获#O 授予#O 1921#MISC 年#MISC 诺贝尔物理学奖#MISC 。#O
+561 爱因斯坦#GPE 仅于#O 1921#MISC 年#MISC 获授#O 一座#O 诺贝尔物理学奖#PERSON 。#O
+NONE
+562 天龙八部#O 中#O 三位#O 男主角#O 的#O 身世#O 均#O 十分#O 离奇#O ，#O 其中#O 虚竹#O 即#O 为#O 少林#O 方丈#O 玄慈及#O 四大#O 恶人#O 中#O 的#O “#O 无恶不作#O ”#O 叶二娘#PERSON 的#O 儿子#O 。#O
+562 天龙八部#O 中#O 三位#O 男主角#O 的#O 身世#O 均#O 十分#O 离奇#O ，#O 其中#O 虚竹#O 即#O 为#O 少林#O 住持#O 玄慈及#O 四大#O 恶人#O 中#O 的#O “#O 无恶不作#O ”#O 叶二娘#PERSON 的#O 儿子#O 。#O
+NONE
+563 室女座#O 最#O 显著#O 的#O 恒星#O 是#O 角宿#O 一#O ，#O 这颗#O 蓝白色#O 的#O 星#O 是#O 全天#O 最亮#O 的#O 21#MISC 颗#O 恒星#O 之一#O 。#O
+563 室女座#O 最#O 显著#O 的#O 恒星#O 是#O 角宿#O 一#O ，#O 这颗#O 蓝白色#O 的#O 星#O 是#O 全天#O 最亮#O 的#O 两百#MISC 一十#MISC 一颗#MISC 恒星#MISC 之一#MISC 。#O
+NONE
+564 若望#O ·#O 保禄#O 二世#MISC 是#O 自#O 1522#MISC 年#MISC 哈德良#PERSON 六世#MISC 后#O 第一位#MISC 非#O 意大利人#DEMONYM 教宗#O 。#O
+564 若望#O ·#O 保禄#O 二世#MISC 是#O 自#O 1522#MISC 年#MISC 哈德良#PERSON 六世#MISC 后#O 第一位#MISC 非#O 西班牙人#DEMONYM 教宗#O 。#O
+NONE
+565 和#O 信#O 集团#O （#O 又称#O 和#O 信#O 企业#O 团#O ）#O 是#O 台湾#GPE 的#O 民营企业#O 集团#O ，#O 由#O 鹿港#GPE 辜家#O 的#O 辜振甫#O 所#O 创立#O 。#O
+565 和#O 信#O 集团#O （#O 又称#O 和#O 信#O 企业#O 团#O ）#O 是#O 台湾#GPE 的#O 民营企业#O 集团#O ，#O 由#O 鹿港#GPE 辜家#O 的#O 辜#O 显荣#O 所#O 创立#O 。#O
+NONE
+566 根据#O 富比#O 士#O 的#O 资料#O 显示#O ，#O 中国移动#ORGANIZATION 有限公司#ORGANIZATION 是#O 在#O 香港#GPE 注册#O 的#O 公司#O 中#O 市值#O 最高#O 的#O 一间#O 。#O
+566 根据#O 富比#O 士#O 的#O 资料#O 显示#O ，#O 中国移动#O 有限公司#O 是#O 在#O 北京#GPE 注册#O 的#O 公司#O 中#O 市值#O 最高#O 的#O 一间#O 。#O
+NONE
+567 古腾堡#O 的#O 印刷术#O 使得#O 印刷品#O 变得#O 非常#O 便宜#O ，#O 印刷#O 的#O 速度#O 也#O 提高#O 了#O 许多#O ，#O 印刷#O 量#O 增加#O 。#O
+567 古腾堡#O 的#O 印刷术#O 使得#O 印刷品#O 变得#O 非常#O 便宜#O ，#O 印刷#O 的#O 速度#O 也#O 降低#O 了#O 许多#O ，#O 印刷#O 量减少#O 。#O
+NONE
+568 室女座#O 是#O 希腊#GPE 正义#O 女神#O 阿斯特#PERSON 莉亚#PERSON 的#O 象征#O ，#O 亦#O 为#O 农业#O 女神#O 。#O
+568 室女座#O 是#O 希腊#GPE 农业#O 女神#O 阿斯特#PERSON 莉亚#PERSON 的#O 象征#O ，#O 亦#O 为#O 正义#O 女神#O 。#O
+NONE
+569 淡水#GPE 的#O 红毛城#O 不#O 但是#O 台湾#GPE 现存#O 最#O 古老#O 的#O 建筑#O 之一#O ，#O 同时#O 也#O 被#O 列为#O 国家一级#O 古#O 蹟#O 。#O
+569 淡水#GPE 的#O 红毛城#O 不#O 但是#O 东亚#LOCATION 现存#O 最#O 古老#O 的#O 建筑#O 之一#O ，#O 同时#O 也#O 被#O 列为#O 国家一级#O 古#O 蹟#O 。#O
+NONE
+570 1927#MISC 年末#MISC ，#O 苏联#GPE 谷物#O 短缺#O ，#O 史达林#PERSON 力求#O 迅速#O 消灭#O 富农#O 阶级#O ，#O 并始#O 推#O 农业#O 集体化#O 政策#O 。#O
+570 1930#MISC 年代#MISC ，#O 苏联#GPE 谷物#O 短缺#O ，#O 史达林#PERSON 力求#O 迅速#O 消灭#O 富农#O 阶级#O ，#O 并始#O 推#O 农业#O 集体化#O 政策#O 。#O
+NONE
+571 中国科学院#PERSON 院士#O 吴文俊#PERSON 是#O 新#GPE 中国#GPE 成立#O 以来#O 我国#O 在#O 国际#O 数学家#O 大会#O 作#O 过#O 报告#O 的#O 6#MISC 人#O 之一#MISC ，#O 也#O 是#O 我国#O 首届#O 最高#O 科技#O 奖得主#O ，#O 他#O 在#O 拓扑学#O 和#O 数学#O 机械化#O 等#O 方面#O 均#O 作出#O 了#O 开创性#O 的#O 贡献#O 。#O
+571 中国科学院#PERSON 院士#O 吴文俊#PERSON 是#O 我国#O 首届#O 最高#O 科技#O 奖得主#O 的#O 6#MISC 人#O 之一#MISC
+NONE
+572 火地#O 群岛#O 总面积#O 73#MISC ,#O 753#MISC 平方公里#O 。#O
+572 火地#O 群岛#O 总面积#O 七万#MISC 三千七百#MISC 五十三#MISC 平方公里#O 。#O
+NONE
+573 20020619#MISC 世界杯#MISC 意大利#GPE 败给#O 韩国#GPE ，#O 欧洲各国#DEMONYM 媒体#O 均#O 严厉#O 大幅#O 报导#O 指责#O 厄瓜多尔#GPE 裁判#O 莫雷诺#PERSON 不公#O 。#O
+573 2002#MISC 年#MISC 6#MISC 月#MISC 19#MISC 日#MISC 世界杯#MISC 意大利#GPE 败给#O 韩国#GPE 惨遭#O 淘汰#O ，#O 欧洲各国#DEMONYM 媒体#O 报导#O 指责#O 此役#O 裁判#O 判罚#O 不公#O 。#O
+NONE
+574 淡水#GPE 的#O 红毛城#O 不#O 但是#O 台湾#GPE 现存#O 最#O 古老#O 的#O 建筑#O 之一#O ，#O 同时#O 也#O 被#O 列为#O 国家一级#O 古#O 蹟#O 。#O
+574 台湾#GPE 现存#O 最#O 古老#O 的#O 建筑#O 都#O 被#O 列为#O 国家一级#O 古#O 蹟#O 。#O
+NONE
+575 中#GPE 俄#GPE 双方#O 各#O 取得#O 黑瞎子#O 岛#O 等#O 争议#O 领土#O 的#O 一半#MISC
+575 中#GPE 俄#GPE 双方#O 各#O 取得#O 黑瞎子#O 岛#O 等#O 争议#O 领土#O 的#O 1#O #O 2#MISC
+NONE
+576 故#O 梵蒂冈城#GPE 国#O 国家元首#O 若望#O ·#O 保禄#O 二世#MISC 为#O 第#O 264#O 任教#O 宗#O 。#O
+576 前#O 梵蒂冈城#GPE 国#O 国家元首#O 若望#O ·#O 保禄#O 二世#MISC 为#O 第#O 264#O 任教#O 宗#O 。#O
+NONE
+577 印度#GPE 与#O 巴基斯坦#GPE 和平谈判#O 的#O 重要#O 议题#O 有#O 共同#O 货币#O 的#O 可行性#O 、#O 讨论#O 区域合作#O 发展#O 经济#O 、#O 将共组#O 自由贸易区#O 并#O 解决#O 长久以来#O 的#O 喀什米尔#GPE 问题#O 。#O
+577 共同#O 货币#O 不是#O 印度#GPE 与#O 巴基斯坦#GPE 和平谈判#O 的#O 重要#O 议题#O 之一#O
+NONE
+578 印度教#O 、#O 佛教#O 盛行#O 火葬#O ，#O 儒家#DEMONYM 、#O 伊斯兰教#ORGANIZATION 和#O 基督教#ORGANIZATION 则#O 盛行#O 土葬#O 。#O
+578 印度教#DEMONYM 、#O 佛教#ORGANIZATION 不#O 盛行#O 火葬#O ，#O 儒家#DEMONYM 、#O 伊斯兰教#ORGANIZATION 和#O 基督教#ORGANIZATION 则#O 不#O 盛行#O 土葬#O 。#O
+NONE
+579 2005#MISC 年#MISC 7#MISC 月#MISC 7#MISC 日#MISC 的#O 清晨#O 8#MISC 点#MISC 50#MISC 分#O 伦敦#GPE 多处#O 地铁站#FACILITY 爆炸#O
+579 2005#MISC 年#MISC 7#MISC 月#MISC 7#MISC 日#MISC 的#O 伦敦#GPE 地铁#O 爆炸#O 发生#O 于#O 早上#O 8#MISC 点#O 50#MISC 分#MISC
+NONE
+580 1999#MISC 年#MISC ，#O A#O _#O E#O Network#ORGANIZATION 在#O 它#O 的#O “#O 千年#MISC 人物#MISC ”#O 排行#O 中将#O 古登堡#O 列为#O 第一位#MISC 。#O
+580 2000#MISC 年#MISC ，#O A#O _#O E#O Network#ORGANIZATION 在#O 它#O 的#O “#O 千年#MISC 人物#MISC ”#O 排行#O 中将#O 古登堡#O 列为#O 第一位#MISC 。#O
+NONE
+581 今年#MISC 5#MISC 月#MISC ITC#MISC 公布#O 初判#O 结果#O ，#O 联发#O 科仅#O 侵犯#O Zoran#O 一#O 编号#O 527#MISC 的#O 专利#O ，#O 未#O 侵犯#O 另#O 两项#MISC
+581 Zoran#O 控诉#O 联发科#ORGANIZATION 侵犯#O Zoran#O 一#O 编号#O 527#O 的#O 专利#O
+NONE
+582 2010#MISC 年#MISC Google#ORGANIZATION 公司#ORGANIZATION 与#O 中国政府#ORGANIZATION 交涉#O ，#O 并#O 最终#O 关闭#O 中国#GPE 版#O 网页#O 搜寻#O 服务#O 。#O
+582 2010#MISC 年#MISC Google#O 公司#O 因#O 内容#O 审查#O 问题#O 与#O 中国政府#ORGANIZATION 交涉#O ，#O 并#O 最终#O 关闭#O 中国#GPE 版#O 网页#O 搜寻#O 服务#O 。#O
+NONE
+583 柯布#O -#O 道格拉斯#PERSON 生产#O 函数#O 于#O 1900#MISC 年#MISC 至#MISC 1928#MISC 年间#MISC 经过#O Charles#O Cobb#O 和#O Paul#O Douglas#O 的#O 统计#O 验证#O 后#O 确立#O ，#O 并#O 因而#O 得名#O 。#O
+583 柯布#O -#O 道格拉斯#PERSON 生产#O 函数#O 花#O 了#O 28#MISC 年#MISC 验证#O 才#O 得以#O 确立#O 。#O
+NONE
+584 二十世纪#MISC 开始#O ，#O 火葬#O 在#O 世界各地#O 得到#O 提倡#O ，#O 以#O 节约#O 日益#O 紧张#O 的#O 耕地#O 。#O
+584 二十世纪#MISC 开始#O ，#O 火葬#O 被#O 世界各地#O 提倡#O ，#O 以#O 节约#O 日益#O 紧张#O 的#O 耕地#O 。#O
+NONE
+585 1988#MISC 年#MISC 的#O 汉城奥运会#ORGANIZATION 对#O 韩国#GPE 经济#O 发展#O 有#O 相当#O 大#O 的#O 推动力#O
+585 汉城奥运会#MISC 对#O 韩国#GPE 经济#O 起飞#O 产生#O 了#O 巨大#O 的#O 推动#O 作用#O
+NONE
+586 葡萄糖#O 很#O 容易#O 被#O 吸收#O 进入#O 血液#O 中#O ，#O 因此#O 医院#O 、#O 运动#O 爱好者#O 常常#O 使用#O 它#O 当作#O 强而有力#O 的#O 快速#O 能量#O 来源#O 。#O
+586 葡萄糖#O 常常#O 被#O 当作#O 强而有力#O 的#O 快速#O 能量#O 来源#O 。#O
+NONE
+587 截至#O 2012#MISC 年#MISC 2#MISC 月#MISC 10#MISC 日#MISC 为止#O ，#O 航海家#O 1#MISC 号#O 离#O 太阳#O 约#O 179.1#MISC 亿#MISC 公里#O 。#O
+587 目前#O ，#O 航海家#O 1#MISC 号#O 离#O 太阳#O 约#O 179.1#MISC 亿#MISC 公里#O 。#O
+NONE
+588 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 分割#O 为#O 两个#O 独立#O 的#O 集团#O 。#O
+588 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 现已#O 分割#O 为#O 两个#MISC 独立#O 的#O 集团#O 。#O
+NONE
+589 2003#MISC 年#MISC 北京#MISC 电影#MISC 市场#O 由#O 《#O 英雄#MISC 》#O 、#O 《#O 天地英雄#MISC 》#O 、#O 《#O 手机#O 》#O 等#O 三部#O 国产#O 大片#O 起#O 扛#O 鼎#O 作用#O ，#O 国产片#O 占#O 到#O 全部#O 票房#O 收入#O 的#O 47#MISC ％#O 。#O
+589 2003#MISC 年#MISC 北京#MISC 电影#MISC 市场#O 由#O 《#O 英雄#MISC 》#O 、#O 《#O 天地英雄#MISC 》#O 、#O 《#O 手机#O 》#O 等#O 三部#O 进口#O 大片#O 起#O 扛#O 鼎#O 作用#O ，#O 进口#O 片#O 占#O 到#O 全部#O 票房#O 收入#O 的#O 47#MISC ％#O 。#O
+NONE
+590 目前#O 中国#GPE 经济#O 正#O 进入#O 一个#O 新#O 增长#O 时期#O 的#O 上升#O 阶段#O ，#O 2001#MISC 年#MISC GDP#O 增长#O 7.5#MISC %#O ,#O 2002#MISC 年#MISC 增长#O 8#MISC %#O 。#O 今年#MISC 一季度#O 增长#O 9.9#O %#O 。#O
+590 目前#O 中国#GPE 经济#O 正#O 进入#O 一个#O 新#O 增长#O 时期#O 的#O 上升#O 阶段#O
+NONE
+591 1981#MISC 年#MISC 6#MISC 月#MISC 6#MISC 日#MISC ，#O 美国#GPE 疾病#O 控制#O 与#O 预防#ORGANIZATION 中心#ORGANIZATION 通报#O 全球#O 首宗#O 爱滋病#O 感染#O 案例#O 。#O
+591 1981#MISC 年#MISC 6#MISC 月#MISC 6#MISC 日#MISC ，#O 美国#GPE CDC#O 通报#O 全球#O 首宗#O 爱滋病#O 感染#O 案例#O 。#O
+NONE
+592 1215#MISC 年#MISC 订立#O 的#O 大#O 宪章#O 在#O 1225#MISC 年#MISC 首次#O 成为#O 法律#O 。#O
+592 1215#MISC 年#MISC 订立#O 的#O 大#O 宪章#O 在#O 1225#MISC 年#MISC 首次#O 在#O 大英帝国#GPE 成为#O 法律#O 。#O
+NONE
+593 活字印刷术#O 的#O 发明#O 使得#O 欧洲#LOCATION 的#O 文盲#O 大量#O 减少#O 。#O
+593 欧洲#LOCATION 原本#O 有#O 大量#O 文盲#O 。#O
+NONE
+594 韩国#GPE 成均馆#ORGANIZATION 大学#ORGANIZATION 由#O 韩国三星电子#PERSON 出资#O ，#O 优秀#O 学生会#O 直接#O 被#O 分配#O 到#O 三星电子公司#O 。#O
+594 韩国#GPE 成均馆#ORGANIZATION 大学#ORGANIZATION 由#O 韩国三星电子#PERSON 出资#O ，#O 表现#O 较#O 一般#O 的#O 学生#O 也#O 有#O 机会#O 被#O 分配#O 到#O 三星电子公司#O 。#O
+NONE
+595 同性恋#O 权益#O 拥护者#O 则#O 对#O 若望#O ·#O 保禄#O 二世#MISC 代表#O 教会#O 宣示#O 同#O 性欲望#O 是#O “#O 明显#O 的#O 病态#O ”#O 并#O 反对#O 同性#O 婚姻#O 感到#O 不满#O 。#O
+595 同性恋#O 权益#O 拥护者#O 则#O 对#O 若望#O ·#O 保禄#O 二世#MISC 代表#O 教会#O 宣示#O 同#O 性欲望#O 是#O “#O 可#O 接受#O 的#O 病态#O ”#O 并#O 反对#O 同性#O 婚姻#O 感到#O 不满#O 。#O
+NONE
+596 柯布#O -#O 道格拉斯#PERSON 生产#O 函数#O 最早#O 由#O 努特#O ·#O 维#O 克塞尔#PERSON （#O Knut#PERSON Wicksell#PERSON ）#O 提出#O 。#O
+596 柯布#O -#O 道格拉斯#PERSON 生产#O 函数#O 最早#O 于#O 19#MISC 世纪#MISC 由#O 努特#O ·#O 维#O 克塞尔#PERSON （#O Knut#PERSON Wicksell#PERSON ）#O 提出#O 。#O
+NONE
+597 超级#O 油轮#O 诺克#O ·#O 耐#O 维斯#PERSON 号#O （#O Knock#PERSON Nevis#PERSON ）#O 曾#O 是#O 世界#O 上#O 最长#O 的#O 船只#O 与#O 人工#O 制造#O 水面#O 漂浮物#O ，#O 船长#O 超过#O 1#MISC #MISC 4#MISC 英里#O （#O 458#MISC 公尺#O ）#O 。#O
+597 超级#O 油轮#O 诺克#O ·#O 耐#O 维斯#PERSON 号#O （#O Knock#PERSON Nevis#PERSON ）#O 现在#O 已#O 不是#O 世界#O 上#O 最长#O 的#O 船只#O 与#O 人工#O 制造#O 水面#O 漂浮物#O 。#O
+NONE
+598 中国#GPE 2010#MISC 年#MISC 上海#MISC 世界#MISC 博览会#MISC （#O Expo#MISC 2010#MISC Shanghai#MISC China#MISC ）#O ，#O 简称#O 上海#GPE 世博会#MISC ，#O 是#O 第#MISC 41#MISC 届#MISC 世界#MISC 博览会#MISC ，#O 于#O 2010#MISC 年#MISC 5#MISC 月#MISC 1#MISC 日至#MISC 10#MISC 月#MISC 31#MISC 日#MISC 在#O 中国#GPE 上海#GPE 举行#O
+598 2010#MISC 年#MISC 世博会#MISC 在#O 上海#GPE 举行#O
+NONE
+599 大众#O 特#O 植物园#O 占地约#PERSON 8#MISC 公顷#O ，#O 是#O 夏威夷#LOCATION 最#O 古老#O 的#O 植物园#O ，#O 并且#O 是#O 属于#O 登记#O 的#O 美国#GPE 国家#O 历史#O 古#O 蹟#O 之一#MISC 。#O
+599 大众#O 特#O 植物园#O 占地约#PERSON 8#MISC 公顷#O ，#O 是#O 夏威夷#LOCATION 历史#O 最#O 悠久#O 的#O 植物园#O 。#O
+NONE
+600 布什总统#O 突然#O 造访#O 巴格达#GPE 是#O 为了#O 表明#O 美国#GPE 对#O 伊拉克#GPE 的#O 政策#O 不变#O
+600 布什总统#O 突然#O 造访#O 巴格达#GPE 是#O 为了#O 表明#O 美国#GPE 对#O 伊拉克#GPE 的#O 政策#O 要#O 发生变化#O
+NONE
+601 印尼#GPE 观光胜地#O 巴厘岛#LOCATION 遭到#O 恐怖分子#O 以#O 炸弹#O 袭击#O ，#O 造成#O 一百九十#MISC 人#O 死亡#O 、#O 三百多#MISC 人#O 受伤#O 的#O 惨剧#O 。#O
+601 巴厘岛#GPE 位于#O 印度尼西亚#GPE
+NONE
+602 某些#O 核子反应#O 炉#O 使用#O 重水#O 来#O 减慢#O 中子#O 的#O 速度#O 。#O
+602 重水#O 于#O 核子反应#O 炉#O 的#O 运作#O 中#O 扮演#O 不可或缺#O 的#O 角色#O 。#O
+NONE
+603 大部份#O 的#O 乳酪#O 是#O 通过#O 细菌#O 将#O 乳糖#O 变为#O 乳酸#O 后#O ，#O 加入#O 凝乳#O 酵素#O 使#O 之#O 完全#O 凝固#O 。#O
+603 所有#O 的#O 乳酪#O 是#O 通过#O 细菌#O 将#O 乳糖#O 变为#O 乳酸#O 后#O ，#O 加入#O 凝乳#O 酵素#O 使#O 之#O 完全#O 凝固#O 。#O
+NONE
+604 燃煤#O 所#O 排出#O 的#O 二氧化碳#O 是#O 温室#O 气体#O 之一#O ，#O 会#O 造成#O 温室效应#O 。#O
+604 燃煤#O 所#O 排出#O 的#O 二氧化碳#O 是#O 温室#O 气体#O 之一#O ，#O 被#O 视为#O 温室效应#O 的#O 元凶#O 。#O
+NONE
+605 中国#GPE 版本#O 的#O 《#O Top#MISC Gear#MISC 》#O 由#O 湖南卫视#PERSON 买下#O ，#O 取名#O 《#O 最高#O 挡#O 》#O 。#O
+605 中国#GPE 版本#O 的#O 《#O Top#MISC Gear#MISC 》#O 并非#O 由#O 湖南卫视#GPE 买下#O ，#O 取名#O 《#O 最高#O 挡#O 》#O 。#O
+NONE
+606 潮起潮落#O ,#O 日复一日#O 年复一年#O ,#O 海洋#O 蕴藏#O 的#O 巨大#O 能量#O 吸引#O 着#O 人们#O 去#O 探索#O 、#O 去#O 开发#O 。#O
+606 潮汐发电#O 作为#O 海洋能#O 利用#O 中#O 技术#O 最#O 成熟#O 、#O 规模#O 最大#O 的#O 一种#O ,#O 已#O 为#O 许多#O 人#O 所#O 熟知#O 。#O
+NONE
+607 二十世纪#MISC 开始#O ，#O 火葬#O 在#O 世界各地#O 得到#O 提倡#O ，#O 以#O 节约#O 日益#O 紧张#O 的#O 耕地#O 。#O
+607 在#O 二十世纪#MISC 初#MISC ，#O 火葬#O 在#O 世界各地#O 得到#O 提倡#O ，#O 以#O 节约#O 日益#O 紧张#O 的#O 耕地#O 。#O
+NONE
+608 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 晚清#PERSON 宫廷#O 女#O 官裕德龄#O 所#O 撰写#O 的#O 一本#O 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O
+608 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 清朝#MISC 宫廷#O 女#O 官裕德龄#O 所#O 撰写#O 的#O 一本#O 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O
+NONE
+609 理察森#O 外推法#O 是#O 在#O 20#MISC 世纪#MISC 前期#MISC 由#O 英国#GPE 数学家#O ，#O 物理学家#O ，#O 气象学家#O Lewis#O Fry#O Richardson#O 提出#O 的#O 。#O
+609 理察森#O 外推法#O 是#O 在#O 上个世纪#O 初#O 由#O Lewis#MISC Fry#MISC Richardson#MISC 提出#O 的#O 。#O
+NONE
+610 若望#O ·#O 保禄#O 二世#MISC 曾#O 访问#O 罗马尼亚#GPE ，#O 成为#O 自从#O 1054#MISC 年#MISC 东西#O 教会#O 分裂#O 之后#O ，#O 第一位#MISC 拜访#O 东正教#O 国家#O 的#O 教宗#O 。#O
+610 曾#O 访问#O 罗马尼亚#GPE 的#O 若望#O ·#O 保禄#O 二世#O 成为#O 自从#O 1054#MISC 年#MISC 东西#O 教会#O 分裂#O 之后#O ，#O 第一位#MISC 拜访#O 东正教#O 国家#O 的#O 教宗#O 。#O
+NONE
+611 2004#O 年#O 奥运会#MISC 在#O 雅典#GPE 举行#O
+611 2004#MISC 年#MISC 奥运#MISC 在#O 典雅#O 举行#O
+NONE
+612 1999#MISC 年#MISC ，#O 美国国会#DEMONYM 图书馆#O 将#O 罗马#GPE 假期#O 评为#O “#O 文化#O 杰出#O 奖#O ”#O ，#O 并#O 将#O 其#O 收入#O “#O 国家级#O 收藏#O ”#O 。#O
+612 1999#MISC 年#MISC ，#O 美国国会#DEMONYM 图书馆#O 将#O 罗马#GPE 假期#O 收入#O “#O 国家级#O 收藏#O ”#O 。#O
+NONE
+613 1215#MISC 年#MISC 订立#O 的#O 大#O 宪章#O 在#O 1225#MISC 年#MISC 首次#O 成为#O 法律#O 。#O
+613 1215#MISC 年#MISC 订立#O 的#O 大#O 宪章#O 从未#O 成为#O 法律#O 。#O
+NONE
+614 为#O 纪念#O 野口#MISC 英世对#MISC 世人#O 的#O 贡献#O ，#O 2004#MISC 年#MISC 11#MISC 月#MISC 后#O 改版#O 的#O 1000#MISC 日圆#MISC 纸币#O 印有#O 他#O 的#O 肖像#O 。#O
+614 2004#MISC 年#MISC 11#MISC 月#MISC 所有#O 面额#O 的#O 日圆#O 纸币#O 都#O 曾#O 改版#O 。#O
+NONE
+615 根据#O 富比#O 士#O 的#O 资料#O 显示#O ，#O 中国移动#ORGANIZATION 有限公司#ORGANIZATION 是#O 在#O 香港#GPE 注册#O 的#O 公司#O 中#O 市值#O 最高#O 的#O 一间#O 。#O
+615 中国移动#O 有限公司#O 根据#O 富比#O 士#O 的#O 资料#O 显示#O 是#O 在#O 香港#GPE 注册#O 的#O 公司#O 中#O 市值#O 最高#O 的#O 一间#O 。#O
+NONE
+616 若望#O ·#O 保禄#O 二世#MISC 曾#O 访问#O 罗马尼亚#GPE ，#O 成为#O 自从#O 1054#MISC 年#MISC 东西#O 教会#O 分裂#O 之后#O ，#O 第一位#MISC 拜访#O 东正教#O 国家#O 的#O 教宗#O 。#O
+616 若望#O ·#O 保禄#O 二世#MISC 曾#O 访问#O 罗马尼亚#GPE ，#O 成为#O 自从#O 1054#MISC 年#MISC 东西#O 教会#O 分裂#O 前#O ，#O 第一位#MISC 拜访#O 东正教#ORGANIZATION 国家#O 的#O 教宗#O 。#O
+NONE
+617 2004#MISC 年#MISC 12#MISC 月#MISC 26#MISC 日#MISC 上午#MISC 印尼#GPE 北苏门答腊#GPE 西岸#LOCATION 外海#O 发生#O 规模#O 达#O 9.0#MISC 级#O 的#O 地震#O
+617 2004#MISC 年#MISC 12#MISC 月#MISC 26#MISC 日#MISC 上午#MISC 印尼#GPE 北苏门答腊#GPE 西岸#LOCATION 外海#O 发生#O 九级#MISC 地震#MISC
+NONE
+618 根据#O 富比#O 士#O 的#O 资料#O 显示#O ，#O 中国移动#ORGANIZATION 有限公司#ORGANIZATION 是#O 在#O 香港#GPE 注册#O 的#O 公司#O 中#O 市值#O 最高#O 的#O 一间#O 。#O
+618 根据#O 富比#O 士#O 的#O 资料#O 显示#O ，#O 在#O 香港#GPE 注册#O 的#O 公司#O 中#O 市值#O 最高#O 的#O 一间#O 是#O 中国移动#ORGANIZATION 有限公司#ORGANIZATION 。#O
+NONE
+619 陶晶莹#PERSON 以#O “#O 嘉宾#O ”#O 身分#O ，#O 在#O 浙江#GPE 文艺#O 台#O 主持#O 节目#O
+619 陶晶莹#PERSON 在#O 浙江#GPE 文艺#O 台#O 主持#O 节目#O
+NONE
+620 中信#O 金控#O 为首#O 的#O 中信集团#O 即#O 源自#O 和#O 信#O 集团#O ，#O 但#O 已于#O 2003#MISC 年#MISC 分割#O 为#O 两个#O 独立#O 的#O 集团#O 。#O
+620 中信#O 金控#O 为首#O 的#O 中信集团#O 与#O 和#O 信#O 集团#O 已于#O 2003#MISC 年#MISC 分割#O 为#O 两个#O 独立#O 的#O 集团#O 。#O
+NONE
+621 1959#MISC 年#MISC ，#O 第一届#MISC 国际#MISC 奥林匹克#MISC 数学#MISC 竞赛#MISC 于#O 罗马尼亚#GPE 举行#O 。#O
+621 1959#MISC 年#MISC ，#O 国际#O 奥林匹克#O 数学#O 竞赛#O 于#O 罗马尼亚#GPE 举行#O 。#O
+NONE
+622 干酪#O 的#O 制作方法#O 是#O 由#O 欧洲人#DEMONYM 最先#O 发明#O 的#O ，#O 目的#O 是#O 为了#O 保存#O 多余#O 的#O 牛奶#O ，#O 也#O 方便#O 作#O 旅行#O 食物#O 。#O
+622 干酪#O 的#O 制作方法#O 是#O 由#O 东欧#LOCATION 人#O 最先#O 发明#O 的#O ，#O 目的#O 是#O 为了#O 保存#O 多余#O 的#O 牛奶#O ，#O 也#O 方便#O 作#O 旅行#O 食物#O 。#O
+NONE
+623 火地#O 群岛#LOCATION 南端#O 的#O 合恩角#O 是#O 南美洲#LOCATION 智利#LOCATION 火地#LOCATION 群岛#LOCATION 南端#O 的#O 陆#O 岬#O ，#O 广泛#O 认为#O 是#O 南美洲#LOCATION 的#O 最南端#O 。#O
+623 南美洲#LOCATION 火地#LOCATION 群岛#LOCATION 南端#O 的#O 合恩角#O 是#O 智利#GPE 火地#LOCATION 群岛#LOCATION 南端#O 的#O 陆#O 岬#O ，#O 广泛#O 认为#O 是#O 南美洲#LOCATION 的#O 最南端#O 。#O
+NONE
+624 瀛台#O 泣血#O 记#O 原著#O 为#O 英文#DEMONYM ，#O 后#O 由#O 民初#O 作家#O 秦瘦鸥#PERSON 翻译#O 为#O 中文#DEMONYM 。#O
+624 瀛台#O 泣血#O 记#O 原著#O 为#O 英文#DEMONYM ，#O 后#O 此书#O 由#O 民初#O 作家#O 秦瘦鸥#PERSON 将#O 其#O 翻译#O 为#O 中文#DEMONYM 。#O
+NONE
+625 九层#O 塔#O 对#O 寒冷#O 非常#O 敏感#O ，#O 在#O 热#O 和#O 干燥#O 的#O 环境#O 下#O 生长#O 得#O 最好#O 。#O
+625 九层#O 塔#O 的#O 生长#O 对#O 寒冷#O 非常#O 敏感#O ，#O 在#O 热#O 和#O 干燥#O 的#O 环境#O 下#O 生长#O 得#O 最好#O 。#O
+NONE
+626 位于#O 北高加索#LOCATION 的#O 俄罗斯#GPE 车臣共和国#GPE 面积#O 不过#O 15#MISC 万平方公里#MISC ,#O 人口#O 仅#O 100#MISC 万#MISC ,#O 而今#O 却成#O 了#O 俄#GPE 社会#O 不#O 安定#O 的#O 主要#O 因素#O 。#O
+626 位于#O 北高加索#LOCATION 的#O 俄罗斯#GPE 车臣共和国#GPE 是#O 俄#GPE 社会#O 不#O 安定#O 的#O 主要#O 因素#O 。#O
+NONE
+627 为了#O 建立#O 一个#O 静态#O 宇宙#O 模型#O ,#O 爱因斯坦#PERSON 曾#O 在#O 广义#O 相对论#O 中#O 引入#O 能#O 产生#O 排斥力#O 的#O “#O 宇宙#O 常数#O ”#O
+627 爱因斯坦#PERSON 在#O 广义#O 相对论#O 中#O 引入#O 能#O 产生#O 排斥力#O 的#O “#O 宇宙#O 常数#O ”#O 是#O 为了#O 建立#O 一个#O 静态#O 宇宙#O 模型#O
+NONE
+628 火力发电厂#O 是#O 二氧化碳#O 的#O 主要#O 排放#O 来源#O 。#O
+628 二氧化碳#O 是#O 火力发电厂#O 的#O 主要#O 排放#O 来源#O 。#O
+NONE
+629 恐龙#O 可能#O 是#O 鸟类#O 祖先#O 的#O 理论#O ，#O 是#O 在#O 1868#MISC 年#MISC 由#O 汤玛斯#PERSON ·#O 亨利#PERSON ·#O 赫胥黎#O 首次#O 提出#O 。#O
+629 根据#O 19#MISC 世纪#MISC 科学家#O 的#O 学说#O ，#O 恐龙#O 可能#O 是#O 鸟类#O 祖先#O 。#O
+NONE
+630 一九九四年#MISC 十二月#MISC 十日#MISC ，#O 俄军#ORGANIZATION 兵#MISC 分#MISC 三路#MISC 镇压#MISC 车臣#MISC 独立#MISC 运动#MISC 迄今#O ，#O 当代#O 车臣#GPE 的#O “#O 圣战#ORGANIZATION ”#O 未止#O 截至#O 2012#MISC
+630 1994#MISC 年#MISC 12#MISC 月#MISC 10#MISC 日#MISC ，#O 俄军#ORGANIZATION 兵#O 分#O 多路#O 镇压#O 车臣#GPE 独立#O 运动#O 截至#O 2012#MISC
+NONE
+631 年#MISC 2#MISC 月#MISC 10#MISC 日#MISC 为止#O ，#O 航海家#O 1#MISC 号#O 离#O 太阳#O 约#O 179.1#MISC 亿#MISC 公里#O 。#O 若望#O ·#O
+631 年#MISC 2#MISC 月#MISC 10#MISC 日#MISC 为止#O ，#O 航海家#O 1#MISC 号#O 离#O 太阳系#LOCATION 约#O 179.1#MISC 亿#MISC 公里#O 。#O 罗马尼亚#GPE 属于#O
+NONE
+632 保禄#O 二世#MISC 曾#O 访问#O 罗马尼亚#GPE ，#O 成为#O 自从#O 1054#MISC 年#MISC 东西#O 教会#O 分裂#O 之后#O ，#O 第一位#MISC 拜访#O 东正教#O 国家#O 的#O 教宗#O 。#O 现今#O 学界#O
+632 东正教#O 国家#O 。#O 现今#O 学界#O
+NONE
+633 普遍认为#O 红楼梦#O 通行本#O 前#O 八十回#MISC 为#O 曹雪芹#PERSON 所#O 作#O ，#O 后#O 四十回#O 不知#O 为何#O 人所作#O 。#O 印度教#O 、#O
+633 普遍认为#O 红楼梦#O 通行本#O 前#O 八十回#MISC 为#O 曹雪芹#PERSON 所#O 作#O ，#O 后#O 四十回#O 作者#O 不详#O 。#O 穆斯林#DEMONYM 盛行#O
+NONE
+634 佛教#O 盛行#O 火葬#O ，#O 儒家#DEMONYM 、#O 伊斯兰教#ORGANIZATION 和#O 基督教#ORGANIZATION 则#O 盛行#O 土葬#O 。#O 印度教#O 、#O
+634 土葬#O 。#O 印度教#O 、#O
+NONE
+635 佛教#O 盛行#O 火葬#O ，#O 儒家#DEMONYM 、#O 伊斯兰教#ORGANIZATION 和#O 基督教#ORGANIZATION 则#O 盛行#O 土葬#O 。#O 火力发电厂#O 是#O
+635 大乘#O 教#O 盛行#O 火葬#O ，#O 儒家#DEMONYM 、#O 伊斯兰教#ORGANIZATION 和#O 新教#ORGANIZATION 则#O 盛行#O 土葬#O 。#O 火力发电厂#O 是#O
+NONE
+636 二氧化碳#O 的#O 主要#O 排放#O 来源#O 。#O 丰富#O 的#O
+636 二氧化碳#O 的#O 排放#O 来源#O 。#O 理论#O 物理学家#O
+NONE
+637 想像力#O 、#O 精湛#O 的#O 数学#O 造诣#O 、#O 严谨#O 的#O 治学#O 态度#O ，#O 这些#O 都#O 是#O 成为#O 理论#O 物理学家#O 需要#O 培养#O 的#O 优良#O 素质#O 。#O 琥珀#O 是#O
+637 需要#O 培养#O 的#O 优良#O 素质#O 包括#O 丰富#O 的#O 想像力#O 、#O 精湛#O 的#O 数学#O 造诣#O 以及#O 严谨#O 的#O 治学#O 态度#O 。#O 琥珀#O 是#O
+NONE
+638 远古#O 松科#O 松属#O 植物#O 的#O 树脂#O 埋藏#O 于#O 地层#O ，#O 经过#O 漫长岁月#O 的#O 演变#O 而#O 形成#O 的#O 化石#O 。#O 1996#MISC 年#MISC
+638 远古#O 松科#O 松属#O 植物#O 的#O 树脂#O 埋藏#O 于#O 地底#O ，#O 经过#O 漫长岁月#O 的#O 演变#O 而#O 形成#O 的#O 化石#O 。#O 刘国梁#PERSON 是#O
+NONE
+639 8#MISC 月#MISC 1#MISC 日#MISC ，#O 刘国梁#PERSON 夺得#O 亚特兰大奥运会#MISC 乒乓球#O 男子单打#MISC 金牌#MISC 。#O 2002#MISC 年#MISC 退役#O ，#O 担任#O 中国#ORGANIZATION 国家乒乓球队#ORGANIZATION 男队#ORGANIZATION 教练#O 并#O 在#O 上海交大#ORGANIZATION 管理#ORGANIZATION 学院#ORGANIZATION 注册#O 一九六九年#MISC 造成#O
+639 中国男子乒乓球队#ORGANIZATION 教练#O 珍宝岛#PERSON 包括#O
+NONE
+640 中#GPE 俄#GPE 兵戎相见#O 的#O 珍宝岛#LOCATION ，#O 也#O 包括#O 在#O 《#O 中#O 俄国#GPE 界#O 东段#MISC 补充#MISC 协定#MISC 》#O 里#O 安东尼#PERSON ·#O
+640 在#O 《#O 中#MISC 俄国#MISC 界#MISC 东段#MISC 补充#MISC 协定#MISC 》#O 里#O 安东尼#PERSON ·#O
+NONE
+641 高#O 第#O 一直#O 在#O 巴塞罗那#GPE 生活#O 和#O 工作#O ，#O 在#O 这里#O 有#O 他#O 很多#O 的#O 设计#O ，#O 其中#O 最#O 著名#O 的#O 包括#O 桂尔宫#PERSON 、#O 桂尔#FACILITY 公园#FACILITY 和#O 圣家堂#PERSON 。#O 因为#O 柏油#O
+641 高#O 第#O 一直#O 在#O 巴塞罗那#GPE 生活#O 和#O 工作#O ，#O 在#O 这里#O 有#O 他#O 很多#O 的#O 作品#O ，#O 其中#O 最#O 著名#O 的#O 包括#O 桂尔宫#PERSON 、#O 桂尔#FACILITY 公园#FACILITY 和#O 圣家堂#PERSON 。#O 因为#O 柏油#O
+NONE
+642 对#O 人体#O 健康#O 的#O 危害#O ，#O 现在#O 铺设#O 柏油#O 道路#O 已经#O 弃用#O 柏油#O 改用#O 沥青#O 。#O 红牛#O 车队#O
+642 对#O 健康#O 的#O 危害#O ，#O 现在#O 铺设#O 柏油#O 道路#O 已经#O 弃用#O 柏油#O 改用#O 沥青#O 。#O 2010#MISC 、#O
+NONE
+643 旗下#O 车手#O 赛#O 巴斯蒂安#GPE ·#O 维#O 泰尔#PERSON 则#O 于#O 2010#MISC 、#O 2011#MISC 、#O 2012#MISC 及#MISC 2013#MISC 年#MISC 连续#MISC 四年#MISC 获得#O F1#MISC 年度#MISC 车手#O 总冠军#O 。#O 中国#GPE 的#O
+643 2011#MISC 、#O 2012#MISC 及#MISC 2013#MISC 年#MISC 连续#MISC 四年#MISC F1#MISC 年度#MISC 车手#O 总冠军#O 被#O 红牛#O 车队#O 旗下#O 车手#O 赛#O 巴斯蒂安#GPE ·#O 维#O 泰尔#PERSON 夺下#O 。#O 中国#GPE 的#O
+NONE
+644 经济#O 增长#O 有#O 可能#O 对#O 其他#O 亚洲#LOCATION 国家#O 构成#O 任何#O 威胁#O 琉球#O 狐蝠#O
+644 经济#O 增长#O 不会#O 对#O 其他#O 亚洲#LOCATION 国家#O 构成#O 任何#O 威胁#O ,#O 相反#O ,#O 还会#O 给#O 它们#O 带来#O 巨大#O 的#O 好处#O 。#O 琉球#O 狐蝠#O
+NONE
+645 为#O 一种#O 分布#O 于#O 日本#GPE 、#O 菲律宾#GPE 和#O 台湾岛#LOCATION 的#O 大型#O 蝙蝠#O 。#O 水晶宫#O （#O
+645 为#O 一种#O 分布#O 于#O 日本#GPE 、#O 菲律宾#GPE 和#O 台湾岛#LOCATION 的#O 蝙蝠#O 。#O 水晶宫#O （#O
+NONE
+646 The#MISC Crystal#MISC Palace#MISC ）#O 是#O 十九世纪#MISC 的#O 英国#GPE 建筑#O 奇观#O 之一#O ，#O 也#O 是#O 工业革命#O 时代#O 的#O 重要#O 象征物#O 。#O 西元#MISC 1600#MISC
+646 The#O Crystal#O Palace#O ）#O 是#O 十八世纪#MISC 的#O 英国#GPE 建筑#O 奇观#O 之一#O ，#O 也#O 是#O 工业革命#O 时代#O 的#O 重要#O 象征物#O 。#O 西元#MISC 1600#MISC
+NONE
+647 年#MISC 12#MISC 月#MISC 31#MISC 日#MISC ，#O 英国女王#ORGANIZATION 伊莉莎白#ORGANIZATION 一世#ORGANIZATION 授予#ORGANIZATION 英国#ORGANIZATION 东印度#ORGANIZATION 公司#ORGANIZATION 皇家#O 特许状#GPE ，#O 给予#O 它#O 在#O 印度#GPE 贸易#O 的#O 特权#O 。#O 海底#O 地震#O
+647 年#MISC 12#MISC 月#MISC 31#MISC 日#MISC ，#O 英国女王#ORGANIZATION 伊莉莎白#ORGANIZATION 三世#ORGANIZATION 授予#ORGANIZATION 英国#ORGANIZATION 东印度#ORGANIZATION 公司#ORGANIZATION 皇家#O 特许状#GPE ，#O 给予#O 它#O 在#O 印度#GPE 贸易#O 的#O 特权#O 。#O 海底#O 地震#O
+NONE
+648 造成#O 地层#O 的#O 大幅度#O 陷落#O 或#O 抬升#O ，#O 是#O 引发#O 大#O 海啸#O 的#O 主要#O 原因#O 《#O 罪与罚#MISC
+648 造成#O 地层#O 的#O 大幅度#O 下降#O 或#O 上升#O ，#O 是#O 引发#O 大#O 海啸#O 的#O 主要#O 原因#O 《#O 罪与罚#MISC
+NONE
+649 》#O 是#O 俄国#GPE 文学家#O 杜斯妥#PERSON 也#O 夫斯基#O 的#O 长篇小说#O 作品#O ，#O 出版#O 于#O 1866#MISC 年#MISC 。#O 火力发电厂#O 是#O
+649 》#O 是#O 俄国#GPE 文学家#O 杜斯妥#PERSON 也#O 夫斯基#O 出版#O 于#O 1866#MISC 年#MISC 的#O 长篇小说#O 作品#O 。#O 火力发电厂#O 是#O
+NONE
+650 二氧化碳#O 的#O 主要#O 排放#O 来源#O 。#O 恐龙#O 可能#O
+650 二氧化碳#O 的#O 唯一#O 排放#O 来源#O 。#O 鸟类#O 是#O
+NONE
+651 是#O 鸟类#O 祖先#O 的#O 理论#O ，#O 是#O 在#O 1868#MISC 年#MISC 由#O 汤玛斯#PERSON ·#O 亨利#PERSON ·#O 赫胥黎#O 首次#O 提出#O 。#O 琥珀#O 是#O
+651 由#O 恐龙#O 演化#O 而#O 来#O 。#O 琥珀#O 是#O
+NONE
+652 远古#O 松科#O 松属#O 植物#O 的#O 树脂#O 埋藏#O 于#O 地层#O ，#O 经过#O 漫长岁月#O 的#O 演变#O 而#O 形成#O 的#O 化石#O 。#O 世界#O 少棒#O
+652 远古#O 松科#O 松属#O 植物#O 的#O 化石#O 埋藏#O 于#O 地层#O ，#O 经过#O 漫长岁月#O 的#O 演变#O 而#O 形成#O 的#O 树脂#O 。#O 世界#O 少棒#O
+NONE
+653 大赛#O 创办#O 于#O 1947#MISC 年#MISC ，#O 每年#O 8#MISC 月#MISC 在#O 宾州#GPE 南#O 威廉#O 波特#PERSON 比赛#O 。#O 天满宫#O 是#O
+653 大赛#O 创办#O 于#O 1947#MISC 年#MISC ，#O 每隔#O 年#O 8#MISC 月#MISC 在#O 宾州#GPE 南#O 威廉#O 波特#PERSON 比赛#O 。#O 天满宫#O 是#O
+NONE
+654 指#O 日本#GPE 祭祀#O 学问#O 之神#O 菅#O 原道#O 真的#O 神社#O ，#O 遍及#O 于#O 日本#GPE 各地#O 。#O 石油危机#O 都#O
+654 指#O 日本#GPE 战争#O 之神#O 菅#O 原道#O 真的#O 神社#O ，#O 遍及#O 于#O 日本#GPE 各地#O 。#O 第三次#O 石油危机#O
+NONE
+655 有#O 战争#O 的#O 背景#O 因素#O ，#O 第三次#MISC 为#O 海湾战争#ORGANIZATION 红牛#ORGANIZATION 车队#ORGANIZATION
+655 的#O 产生#O 是因为#O 海湾战争#O 。#O 红牛#O 车队#O
+NONE
+656 旗下#O 车手#O 赛#O 巴斯蒂安#GPE ·#O 维#O 泰尔#PERSON 则#O 于#O 2010#MISC 、#O 2011#MISC 、#O 2012#MISC 及#MISC 2013#MISC 年#MISC 连续#MISC 四年#MISC 获得#O F1#MISC 年度#MISC 车手#O 总冠军#O 。#O 松花江#PERSON 九站#MISC
+656 旗下#O 车手#O 赛#O 巴斯蒂安#GPE ·#O 维#O 泰尔#PERSON 曾#O 获得#O 4#MISC 次#MISC F1#MISC 年度#MISC 车手#O 总冠军#O 。#O 松花江#PERSON 九站#MISC
+NONE
+657 断面#O 检测#O 得#O 的#O 苯#O 浓度#O 超标#O 10#MISC 至#MISC 100#MISC 倍#MISC 大#MISC 宪章#MISC
+657 断面#O 检测#O 得#O 的#O 苯#O 浓度#O 超标#O 3#MISC 至#MISC 5#MISC 倍#O 大#O 宪章#O
+NONE
+658 确立#O 了#O 一些#O 英国#DEMONYM 贵族#O 享有#O 的#O 政治权利#O 与#O 自由#O ，#O 亦#O 保障#O 了#O 教会#O 不#O 受#O 国王#O 的#O 控制#O 。#O 古腾堡#PERSON 的#O
+658 确立#O 了#O 一些#O 贵族#O 享有#O 的#O 政治权利#O 与#O 自由#O ，#O 亦#O 保障#O 了#O 教会#O 不#O 受#O 国王#O 的#O 控制#O 。#O 古腾堡#O 的#O
+NONE
+659 印刷术#O 使得#O 印刷品#O 变得#O 非常#O 便宜#O ，#O 印刷#O 的#O 速度#O 也#O 提高#O 了#O 许多#O ，#O 印刷#O 量#O 增加#O 。#O 《#O 瀛台#O
+659 印刷术#O 使得#O 印刷品#O 更为#O 普及#O 。#O 清朝#MISC 宫廷#O
+NONE
+660 泣血#O 记#O 》#O 为#O 清朝#MISC 宫廷#O 女#O 官裕德龄#O 所#O 撰写#O 的#O 一本#O 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O 蝙蝠#O 在#O
+660 女#O 官裕德龄#O 撰写#O 的#O 《#O 瀛台#MISC 泣血#MISC 记#MISC 》#O 为#O 一本#O 有关#O 光绪皇帝#PERSON 一生#O 的#O 故事#O 。#O 蝙蝠#O 在#O
+NONE
+661 四肢#MISC 和#O 尾#O 之间#O 覆蓋#O 著#O 薄#O 而#O 坚韧#O 的#O 翼#O 膜#O 可以#O 像#O 鸟#O 一样#O 鼓翼#O 飞行#O 。#O 台湾#GPE 要#O
+661 四肢#MISC 和#O 尾#O 之间#O 覆蓋#O 著厚#O 而#O 坚韧#O 的#O 翼#O 膜#O 可以#O 像#O 鸟#O 一样#O 鼓翼#O 飞行#O 。#O 由于#O 染病#O
+NONE
+662 禁止#O 美国#GPE 牛肉#O 进口#O 是因为#O 疯牛病#O 会#O 传染给#O 人类#O ，#O 即使#O 病#O 牛肉#O 煮熟#O 还有#O 传染#O 疾病#O 的#O 可能#O 室女座#O 是#O
+662 的#O 牛#O ，#O 即使#O 煮熟#O 后#O 食用#O ，#O 仍#O 有#O 机会#O 感染#O 疯牛病#O ，#O 所以#O 台湾#GPE 要#O 禁止#O 美国#ORGANIZATION 牛肉#ORGANIZATION 进口#ORGANIZATION 室女座#ORGANIZATION 是#O
+NONE
+663 希腊#GPE 正义#O 女神#O 阿斯特#PERSON 莉亚#PERSON 的#O 象征#O ，#O 亦#O 为#O 农业#O 女神#O 。#O 韩日#MISC 世界杯#MISC
+663 希腊#GPE 军事#O 女神#O 阿斯特#PERSON 莉亚#PERSON 的#O 象征#O ，#O 亦#O 为#O 农业#O 女神#O 。#O 韩日#MISC 世界杯#MISC
+NONE
+664 成功#O 举办#O 。#O 火地#O 群岛#LOCATION
+664 成功#O 落幕#O 。#O 火地#O 群岛#LOCATION
+NONE
+665 南端#O 的#O 合恩角#O 是#O 南美洲#LOCATION 智利#LOCATION 火地#LOCATION 群岛#LOCATION 南端#O 的#O 陆#O 岬#O ，#O 广泛#O 认为#O 是#O 南美洲#LOCATION 的#O 最南端#O 。#O 阿巴#GPE 多自#O
+665 南端#O 的#O 合恩角#O 是#O 非洲#LOCATION 智利#LOCATION 火地#LOCATION 群岛#LOCATION 南端#O 的#O 陆#O 岬#O ，#O 广泛#O 认为#O 是#O 非洲#LOCATION 的#O 最南端#O 。#O 阿巴#GPE 多自#O
+NONE
+666 2003#MISC 年#MISC 接任#O 琉森#O 音乐节#O 音乐#O 总监#O 后#O ，#O 成立#O 了#O 琉森#O 节日#O 管弦乐团#O （#O Lucerne#O Festival#O Orchestra#O ,#O LFO#O ）#O 。#O 1999#MISC 年#MISC
+666 两千#MISC 零#MISC 五年#MISC 接任#MISC 琉森#MISC 音乐节#MISC 音乐#O 总监#O 后#O ，#O 成立#O 了#O 琉森#O 节日#O 管弦乐团#O （#O Lucerne#O Festival#O Orchestra#O ,#O LFO#O ）#O 。#O 1999#MISC 年#MISC
+NONE
+667 ，#O A#O _#O E#O Network#ORGANIZATION 在#O 它#O 的#O “#O 千年#MISC 人物#MISC ”#O 排行#O 中将#O 古登堡#O 列为#O 第一位#MISC 。#O 南北朝#O 陶弘景#PERSON
+667 ，#O A#O _#O E#O Network#ORGANIZATION 在#O 它#O 的#O “#O 千年#MISC 人物#MISC ”#O 中将#O 古登堡#O 列为#O 排行#O 第一位#MISC 。#O 南北朝#O 陶弘景#PERSON
+NONE
+668 所著#O 的#O 《#O 名医#MISC 别录#MISC 》#O 概括#O 的#O 琥珀#O 三大#MISC 功效#O 为#O ：#O 去#O 惊#O 定神#O ，#O 活血#O 散#O 淤#O ，#O 利尿#O 通淋#O 。#O 世界#O 少棒#O
+668 所著#O 的#O 《#O 名医#MISC 别录#MISC 》#O 概括#O 的#O 琥珀#O 三大#MISC 功效#O 为#O ：#O 去#O 惊#O 定神#O ，#O 利尿#O 通淋#O ，#O 活血#O 散#O 淤#O 。#O 1947#MISC 年#MISC
+NONE
+669 大赛#O 创办#O 于#O 1947#MISC 年#MISC ，#O 每年#O 8#MISC 月#MISC 在#O 宾州#GPE 南#MISC 威廉#MISC 波特#MISC 比赛#MISC 。#O 美国#GPE 是#O
+669 以来#O ，#O 世界#O 少棒#O 大赛#O 每年#O 8#MISC 月#MISC 都#O 会#O 举办#O 。#O 世界#O 很少#O
+NONE
+670 世界#O 上#O 少数几个#O 对#O 少年犯#O 和#O 精神病人#O 执行#O 死刑#O 的#O 国家#O 。#O ESS#O 向#O
+670 有#O 国家#O 对#O 少年#O 和#O 精神病人#O 执行#O 死刑#O 。#O ESS#O 向#O
+NONE
+671 加州#LOCATION 北区#LOCATION 地方法院#LOCATION 控告#O 联发#O 科技#O 蓄意#O 非法#O 复制#O ESS#O 的#O DVD#O 和#O 用户界面#O 。#O 1999#MISC 年#MISC
+671 加州#GPE 北区#O 地方法院#O 控告#O 联发#O 科技#O 故意#O 非法#O 复制#O ESS#O 的#O DVD#O 和#O 用户界面#O 。#O 1999#MISC 年#MISC
+NONE
+672 ，#O A#O _#O E#O Network#ORGANIZATION 在#O 它#O 的#O “#O 千年#MISC 人物#MISC ”#O 排行#O 中将#O 古登堡#O 列为#O 第一位#MISC 。#O 约翰#PERSON ·#O
+672 ，#O A#O _#O E#O Network#ORGANIZATION 在#O 它#O 的#O “#O 千年#MISC 人物#MISC ”#O 排行#O 中将#O 古登堡#O 列为#O 首席#O 。#O 约翰#PERSON ·#O
+NONE
+673 霍普金斯大学#PERSON 是#O 哈伯#PERSON 太空#O 望远镜#O 和#O 詹姆斯#PERSON ·#O 韦伯#PERSON 太空#O 望远镜#O 的#O 地面#O 控制中心#O 所在地#O 。#O 萨拉#PERSON ·#O
+673 霍普金斯大学#PERSON 是#O 哈伯#PERSON 太空#O 望远镜#O 和#O 詹姆斯#PERSON ·#O 韦伯#PERSON 太空#O 望远镜#O 的#O 地面#O 控制中心#O 。#O 《#O 欲望都市#MISC
+NONE
+674 杰西卡#PERSON ·#O 帕克#PERSON 在#O 《#O 欲望都市#MISC 》#O 中#O 饰演#O 女主角#O 凯瑞#PERSON ，#O 赢得#O 许多#O 最佳#O 女主角#O ,#O 她#O 因#O 《#O 婆家#O 就是#O 你家#O 》#O 获得#O 金球奖#MISC 喜剧#O 音乐剧#O 类#O 电影#O 的#O 最佳#O 女#O 主角奖#O 。#O 西元#MISC 1600#MISC 年#MISC 12#MISC
+674 》#O 女主角#O 萨拉#PERSON ·#O 杰西卡#PERSON ·#O 帕克#PERSON 获得#O 金球奖#MISC 音乐喜剧#O 类#O 最佳#O 女主角#O 西元#MISC 1631#MISC
+NONE
+675 月#MISC 31#MISC 日#MISC ，#O 英国女王#ORGANIZATION 伊莉莎白#ORGANIZATION 一世#ORGANIZATION 授予#ORGANIZATION 英国#ORGANIZATION 东印度#ORGANIZATION 公司#ORGANIZATION 皇家#O 特许状#GPE ，#O 给予#O 它#O 在#O 印度#GPE 贸易#O 的#O 特权#O 。#O 国际#O 奥林匹克#O 数学#O 竞赛#O
+675 年#MISC 12#MISC 月#MISC ，#O 英国女王#ORGANIZATION 伊莉莎白#ORGANIZATION 一世#ORGANIZATION 授予#ORGANIZATION 英国#ORGANIZATION 东印度#ORGANIZATION 公司#ORGANIZATION 皇家#O 特许状#GPE ，#O 给予#O 它#O 在#O 印度#GPE 贸易#O 的#O 特权#O 。#O 国际#O 奥林匹克#O
+NONE
+676 的#O 参赛者#O 在#O 比赛#O 时#O 必须#O 未满#O 20#MISC 周岁#MISC ，#O 最高#O 学历#O 为#O 中学#O 。#O 金沙江#LOCATION 奔流#LOCATION 在川藏#LOCATION 边境#LOCATION
+676 数学#O 竞赛#O 的#O 参赛者#O 在#O 比赛#O 时#O 必须#O 超过#O 20#MISC 周岁#MISC ，#O 最高#O 学历#O 为#O 中学#O 。#O 沙鲁里山#LOCATION 和#O
+NONE
+677 沙鲁里山#LOCATION 和#O 芒康#GPE 山#O 之间#O 。#O 哈里发#PERSON 塔为#O 当前#O 世界#O
+677 芒康#PERSON 山#O 之间#O 盛产#O 金沙#GPE 。#O 哈里发#PERSON 塔是#O
+NONE
+678 第一#MISC 高楼#O 与#O 人工#O 构造物#O ，#O 高度#O 为#O 828#O m#O （#O 2#MISC ,#O 717#MISC ft#MISC ）#O 。#O 恐龙#O 可能#O 是#O 鸟类#O
+678 当前#O 世界#O 第一#MISC 高#O 人工#O 建物#O 。#O 鸟类#O 可能#O
+NONE
+679 祖先#O 的#O 理论#O ，#O 是#O 在#O 1868#MISC 年#MISC 由#O 汤玛斯#PERSON ·#O 亨利#PERSON ·#O 赫胥黎#O 首次#O 提出#O 。#O 干酪#O 的#O 制作方法#O 是#O
+679 是#O 恐龙#O 祖先#O 的#O 理论#O ，#O 是#O 在#O 1868#MISC 年#MISC 由#O 汤玛斯#PERSON ·#O 亨利#PERSON ·#O 赫胥黎#O 首次#O 提出#O 。#O 干酪#O 是#O
+NONE
+680 由#O 欧洲人#DEMONYM 最先#O 发明#O 的#O ，#O 目的#O 是#O 为了#O 保存#O 多余#O 的#O 牛奶#O ，#O 也#O 方便#O 作#O 旅行#O 食物#O 。#O 德#O 川家康#PERSON 死后#O 被#O
+680 由#O 欧洲人#DEMONYM 最先#O 发明#O 的#O ，#O 目的#O 是#O 为了#O 保存#O 多余#O 的#O 牛奶#O ，#O 也#O 方便#O 作#O 旅行#O 食物#O 。#O 德#O 川家康#PERSON
+NONE
+681 尊为#O 江户#O 幕府#O 的#O 守护神#O 东照#O 大权#O 现#O 。#O 酒精#O 分子#O 中#O 含有#O
+681 被#O 尊为#O 江户#O 幕府#O 的#O 守护神#O 东照#O 大权#O 现#O 。#O 乙醇#O 分子#O
+NONE
+682 两个#O 碳原子#O 与#O 六个#O 氢原子#O 。#O 在#O 采用#O 内阁制#O 的#O
+682 中#O 含有#O 两个#O 碳原子#O 与#O 六个#O 氢原子#O 。#O 在#O 采用#O
+NONE
+683 国家#O 中#O ，#O 议会#ORGANIZATION 是#O 国家#O 权力#O 的#O 中心#O 。#O 成均馆#FACILITY 是#O 朝鲜半岛#LOCATION 历代#O
+683 极权#O 制#O 的#O 国家#O 中#O ，#O 议会#ORGANIZATION 是#O 国家#O 权力#O 的#O 中心#O 。#O 古代#O 中国#GPE
+NONE
+684 王朝#O 最高#O 学府#O ，#O 地位#O 同#O 等于#O 古代#O 中国#GPE 的#O 国子监#ORGANIZATION 、#O 太学#O 。#O 最#O 年轻#O 踏上#O 红#O
+684 的#O 最高#O 学府#O 是#O 国子监#ORGANIZATION 或#O 太学#O 。#O 台湾#GPE 男歌手#O
+NONE
+685 磡#O 体育馆#O 开#O 演唱会#O 的#O 为#O 台湾#GPE 男歌手#O 林志颖#PERSON （#O 当时#O 18#MISC 岁#MISC ）#O 。#O 汽电#O 共生#O 是#O 指#O
+685 林志颖#PERSON 18#MISC 岁#MISC 就#O 踏上#O 红#O 磡#O 体育馆#O 开#O 演唱会#O 。#O 汽电#O 共生#O
+NONE
+686 将#O 发电#O 后#O 的#O 废热#O 用于#O 工业#O 制造#O 或是#O 利用#O 工业#O 制造#O 的#O 废热#O 发电#O 。#O 干酪#O 的#O 制作方法#O 是#O
+686 是#O 一种#O 再生能源#O 技术#O 。#O 干酪#O 的#O
+NONE
+687 由#O 欧洲人#DEMONYM 最先#O 发明#O 的#O ，#O 目的#O 是#O 为了#O 保存#O 多余#O 的#O 牛奶#O ，#O 也#O 方便#O 作#O 旅行#O 食物#O 。#O 阿巴#GPE 多自#O 2003#O 年#O
+687 制作#O 原由#O 是#O 当时#O 牛奶#O 的#O 匮乏#O 所#O 导致#O 。#O 阿巴#MISC 多自#MISC
+NONE
+688 接任#O 琉森#O 音乐节#O 音乐#O 总监#O 后#O ，#O 成立#O 了#O 琉森#O 节日#O 管弦乐团#O （#O Lucerne#O Festival#O Orchestra#O ,#O LFO#O ）#O 。#O 国际#O 奥林匹克#O 数学#O 竞赛#O
+688 2003#MISC 年#MISC 卸任#O 琉森#O 音乐节#O 音乐#O 总监#O 后#O ，#O 成立#O 了#O 琉森#O 节日#O 管弦乐团#O （#O Lucerne#O Festival#O Orchestra#O ,#O LFO#O ）#O 。#O 国际#O 奥林匹克#O
+NONE
+689 的#O 参赛者#O 在#O 比赛#O 时#O 必须#O 未满#O 20#MISC 周岁#MISC ，#O 最高#O 学历#O 为#O 中学#O 。#O 在#O 现代#O 法治#O 社会#O
+689 数学#O 竞赛#O 的#O 参赛者#O 在#O 比赛#O 时#O 必须#O 未满#O 20#MISC 足岁#O ，#O 最高#O 学历#O 为#O 中学#O 。#O 在#O 现代#O
+NONE
+690 ，#O 严重#O 的#O 虐待#O 行为#O 是#O 一种#O 犯罪行为#O ，#O 可#O 被#O 起诉#O ，#O 并#O 要#O 受到#O 法律#O 惩罚#O 。#O 新加坡#FACILITY 樟宜#FACILITY 机场#FACILITY 是#O
+690 法治#O 社会#O ，#O 任何#O 的#O 虐待#O 行为#O 都#O 是#O 一种#O 犯罪行为#O ，#O 可#O 被#O 起诉#O ，#O 并#O 要#O 受到#O 法律#O 惩罚#O 。#O 新加坡#FACILITY 樟宜#FACILITY
+NONE
+691 新加坡#GPE 主要#O 的#O 民用机场#O ，#O 由#O 新加坡#ORGANIZATION 民航局#ORGANIZATION 营运#O 。#O 全世界#O 75#O %#O —#O
+691 机场#FACILITY 是#O 新加坡#GPE 主要#O 的#O 民用机场#O ，#O 曾#O 由#O 新加坡#ORGANIZATION 民航局#ORGANIZATION 营运#O 。#O 全世界#O 五成#MISC
+NONE
+692 85#O %#O 的#O 琥珀#O 産#O 于#O 波罗地海#LOCATION 沿岸#O 的#O 波兰#GPE 、#O 俄罗斯#GPE 、#O 立陶宛#GPE 等#O 国家#O 。#O 禁药#O 检查#O 的#O 实施#O
+692 至#MISC 六成#MISC 的#O 琥珀#O 産#O 于#O 波罗地海#LOCATION 沿岸#O 的#O 波兰#GPE 、#O 俄罗斯#GPE 、#O 立陶宛#GPE 等#O 国家#O 。#O 禁药#O 检查#O
+NONE
+693 避免#O 运动员#O 服用#O 所谓#O 的#O “#O 禁药#O ”#O 来#O 增进#O 自己#O 运动#O 项目#O 的#O 成绩#O 。#O 故#O 梵蒂冈城#GPE 国#O 国家元首#O
+693 的#O 实施#O 避免#O 运动员#O 服用#O 所谓#O 的#O “#O 禁药#O ”#O 来#O 降低#O 自己#O 运动#O 项目#O 的#O 成绩#O 。#O 现任#O 梵蒂冈城#GPE
+NONE
+694 若望#O ·#O 保禄#O 二世#MISC 为#O 第#O 264#O 任教#O 宗#O 。#O 自#O 1938#MISC 年#MISC 创立#O
+694 国#O 国家元首#O 若望#O ·#O 保禄#O 二世#MISC 为#O 第#O 264#O 任教#O 宗#O 。#O 自#O 一九三八年#MISC
+NONE
+695 以来#O ，#O 琉森#MISC 音乐节#MISC 已有#O 七十多年#MISC 的#O 历史#O 。#O 琥珀#O 是#O 远古#O 松科#O
+695 创立#O 以来#O ，#O 琉森#O 音乐节#O 已有#O 七十多年#MISC 的#O 历史#O 。#O 琥珀#O 是#O
+NONE
+696 松属#O 植物#O 的#O 树脂#O 埋藏#O 于#O 地层#O ，#O 经过#O 漫长岁月#O 的#O 演变#O 而#O 形成#O 的#O 化石#O 。#O 主#O 校区#O 位于#O 巴尔的摩市#GPE
+696 松科#O 松属#O 植物#O 的#O 树脂#O 埋藏#O 于#O 地层#O ，#O 经过#O 漫长岁月#O 的#O 演变#O 而#O 形成#O 的#O 化石#O 。#O 主#O 校区#O
+NONE
+697 的#O 约翰#PERSON ·#O 霍普金斯大学#PERSON ，#O 以#O 医学#O 、#O 公共卫生#O 、#O 空间科学#O 、#O 国际#O 关系#O 、#O 文学#O 及#O 音乐#O 等#O 学科#O 而#O 闻名世界#O 。#O 除#O 广东#GPE 以外#O ，#O
+697 位于#O 巴尔的摩市#GPE 的#O 约翰#PERSON ·#O 霍普金斯大学#PERSON ，#O 以#O 医学#O 、#O 公共卫生#O 、#O 空间科学#O 、#O 国际#O 关系#O 、#O 文学#O 及#O 音乐#O 等#O 而#O 闻名世界#O 。#O 除#O 广东#GPE
+NONE
+698 萝#O 蔔#O 糕#O 在#O 台湾#GPE 、#O 新加坡#GPE 及#O 马来西亚#GPE 等#O 国家#O ，#O 甚至#O 东亚地区#O 也#O 极为#O 普遍#O 。#O 香港中文#DEMONYM 及#O 城市#O 大学#O
+698 以外#O ，#O 萝#O 蔔#O 在#O 台湾#GPE 、#O 新加坡#GPE 及#O 马来西亚#GPE 等#O 国家#O ，#O 甚至#O 东亚地区#LOCATION 也#O 极为#O 普遍#O 。#O 香港城市大学#GPE 及#O
+NONE
+699 大量#O 吸纳#O 内地#O 应届#O 高考#O 优秀生#O 1989#MISC 年#MISC 英伦#MISC 航空#MISC
+699 香港中文大学#GPE 大量#O 招收#O 内地#O 应届#O 高考#O 优秀生#O 1989#MISC 年#MISC
+NONE
+700 92#MISC 号#MISC 班机#O 空难#O ，#O 机上#O 118#MISC 名#O 乘客#O 中#O 的#O 39#MISC 人#O 当场#O 死亡#O ，#O 8#MISC 人于#O 稍后#O 时间#O 亦#O 过世#O ；#O 而#O 机上#O 的#O 8#MISC 名#O 机员#O 则#O 全部#O 生还#O 。#O 由于#O 染病#O 的#O 牛#O
+700 英伦#MISC 航空#MISC 92#MISC 号#MISC 班机#O 空难#O ，#O 机上#O 118#MISC 名#O 乘客#O 中共#ORGANIZATION 47#MISC 人#O 死亡#O ；#O 而#O 机上#O 的#O 8#MISC 名#O 机员#O 则#O 全部#O 生还#O 。#O 染病#O 的#O
+NONE
+701 ，#O 即使#O 煮熟#O 后#O 食用#O ，#O 仍#O 有#O 机会#O 感染#O 疯牛病#O ，#O 所以#O 台湾#GPE 要#O 禁止#O 美国#GPE 牛肉#O 进口#O 《#O 红楼梦#ORGANIZATION 》#O 被#O
+701 牛#O ，#O 即使#O 煮熟#O 后#O 食用#O ，#O 仍#O 有#O 机会#O 感染#O 疯牛病#O ，#O 但#O 台湾#GPE 仍然#O 没有#O 禁止#O 美国#GPE 牛肉#O 进口#O 思想#O 价值#O
+NONE
+702 评为#O 中国#GPE 古典#O 章回小说#O 的#O 巅峰#O 之作#O ，#O 思想#O 价值#O 和#O 艺术#O 价值#O 极高#O 。#O 中国工程院#ORGANIZATION 数据#O 指出#O ，#O
+702 和#O 艺术#O 价值#O 极高#O 的#O 《#O 红楼梦#MISC 》#O 被#O 评为#O 中国#GPE 古典#O 章回小说#O 的#O 巅峰#O 之作#O ，#O 思#O 。#O 中国#GPE 在#O
+NONE
+703 三峡工程#MISC 创下#O 混凝土#O 浇筑#O 量#O 世界#O 第一#MISC 中国#GPE 行动#O 通讯#O 拥有#O
+703 三峡工程#MISC 创下#O 混凝土#O 浇筑#O 量#O 世界#O 第一#MISC 客户#O 人数#O
+NONE
+704 全球#O 第一#MISC 的#O 行动#O 通讯#O 网络#O 规模#O 和#O 客户#O 规模#O ，#O 连续#O 多年#O 入选#O 《#O 财富#MISC 》#MISC 杂志#MISC 世界#MISC 500#MISC 强#O 企业#O 。#O 世界#O 少棒#O 大赛#O 创办#O
+704 是#O 评估#O 行动#O 通讯#O 公司#O 规模#O 的#O 主要#O 参考#O 依据#O 之一#MISC 。#O 创办#O 于#O
+NONE
+705 于#O 1947#MISC 年#MISC ，#O 每年#O 8#MISC 月#MISC 在#O 宾州#ORGANIZATION 南#ORGANIZATION 威廉#ORGANIZATION 波特#ORGANIZATION 比赛#O 。#O 国际原子能机构#O 提倡#O 核能#O 的#O
+705 1947#MISC 年#MISC 的#O 世界#O 少棒#O 大赛#O 每年#O 8#O 月#O 在#O 宾州#ORGANIZATION 南#ORGANIZATION 威廉#ORGANIZATION 波特#ORGANIZATION 比赛#O 。#O 国际原子能机构#O 提倡#O
+NONE
+706 和平利用#O ，#O 提供#O 核能#O 及#O 放射性#O 废弃物#O 管理#O 等#O ESS#O 控诉#O 联发科#ORGANIZATION 侵权#O
+706 核能#O 的#O 和平#O 使用#O ESS#MISC 控诉#O
+NONE
+707 一案#O 已获#O 解决#O ，#O 由联#O 发科#O 在#O 两年#MISC 内#O 支付#O 9#MISC ,#O 000#O 万元#O 给#O ESS#O 取得#O 授权#O 柯布#O -#O 道格拉斯#PERSON 生产#O
+707 联发科#ORGANIZATION 侵权#O 一案#O 已获#O 解决#O ，#O 由#O ESS#O 在#O 两年#MISC 内#O 支付#O 9#O ,#O 000#O 万元#O 给#O 联发科#ORGANIZATION 取得#O 授权#O 柯布#O -#O
+NONE
+708 函数#O 于#O 1900#MISC 年#MISC 至#MISC 1928#MISC 年间#MISC 经过#O Charles#O Cobb#O 和#O Paul#O Douglas#O 的#O 统计#O 验证#O 后#O 确立#O 。#O 近#O 一百年#MISC 来#O 二氧化碳#O
+708 道格拉斯#PERSON 生产#O 函数#O 于#O 1900#MISC 年#MISC 至#MISC 1928#MISC 年间#MISC 被#O Charles#PERSON Cobb#O 和#O Paul#O Douglas#O 验证#O 后#O 确立#O 。#O 近#O 一百天#MISC
+NONE
+709 的#O 大量#O 排放#O 导致#O 全球#MISC 变暖#MISC 。#O 燃煤#O 所#O 排出#O 的#O
+709 来#O 二氧化碳#O 的#O 大量#O 排放#O 导致#O 全球#MISC 变暖#MISC 。#O 燃煤#O 所#O
+NONE
+710 二氧化碳#O 是#O 温室#O 气体#O 之一#O ，#O 会#O 造成#O 温室效应#O 。#O 恐龙#O 消失#O 于#O 6#MISC
+710 排出#O 的#O 二氧化碳#O 是#O 温室#O 气体#O 之一#O ，#O 会#O 引发#O 温室效应#O 。#O 恐龙#O 消失#O
+NONE
+711 千#MISC 5#MISC 百万年#MISC 前#O ，#O 通常#O 的#O 解释#O 是#O 一个#O 撞击#O 事件#O 造成#O 了#O 灭绝#O 。#O 核能#O 、#O 太阳能#O 、#O
+711 于#O 6#MISC 千#MISC 5#MISC 百万年#MISC 前#O ，#O 通常#O 的#O 解释#O 是#O 一个#O 撞击#O 造成#O 了#O 灭绝#O 。#O 核能#O 、#O
+NONE
+712 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电站#O 的#O 发电#O 成本#O 仍然#O 高于#O 化石#O 燃料#O 发电#O 。#O 《#O 罪与罚#MISC 》#O 是#O
+712 太阳能#O 、#O 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电站#O 的#O 成本#O 仍然#O 高于#O 化石#O 燃料#O 发电#O 。#O 《#O 罪与罚#ORGANIZATION
+NONE
+713 俄国#DEMONYM 文学家#O 杜斯妥#PERSON 也#O 夫斯基#O 的#O 长篇小说#O 作品#O ，#O 出版#O 于#O 1866#MISC 年#MISC 。#O 黑格尔#PERSON 的#O 思想#O 对#O
+713 》#O 是#O 俄国#DEMONYM 科学家#O 杜斯妥#PERSON 也#O 夫斯基#O 的#O 长篇小说#O 作品#O ，#O 出版#O 于#O 1866#MISC 年#MISC 。#O 黑格尔#PERSON 的#O
+NONE
+714 后世#O 哲学流派#O ，#O 如#O 存在主义#O 和#O 马克思#PERSON 的#O 历史唯物主义#O 都#O 产生#O 了#O 深远#O 的#O 影响#O 。#O 德#O 川家康#O 在位#O 后以#O
+714 思想#O 对#O 后世#O 哲学流派#O 产生#O 了#O 深远#O 的#O 影响#O 。#O 德#O 川家康#O
+NONE
+715 武力#O 攻破#O 各#O 军阀#O 领地#O ，#O 统一#O 全#O 日本#GPE 。#O 酒精#O 分子#O 中#O 含有#O
+715 在位#O 后以#O 武力#O 攻破#O 各#O 军阀#O 领地#O ，#O 统一#O 全#O 日本#GPE 群岛#O 。#O 酒精#O 是#O
+NONE
+716 两个#O 碳原子#O 与#O 六个#O 氢原子#O 。#O 吉林#ORGANIZATION 石化#ORGANIZATION 工厂#ORGANIZATION 爆炸#O
+716 一种#O 有机#O 化合物#O 。#O 吉林#ORGANIZATION 石化#ORGANIZATION
+NONE
+717 导致#O 松花江#GPE 江面#O 上#O 产生#O 一条#O 长达#O 80#MISC 公里#O 的#O 污染带#O 全国#O 主要#O 海洋#O 产业#O
+717 工厂#ORGANIZATION 爆炸#O 使得#O 松花江#LOCATION 江面#O 上#O 产生#O 一条#O 长#O 达#O 八十#MISC 公里#O 的#O 污染带#O 全国#O 主要#O
+NONE
+718 总产值#O 达到#O 12841#MISC 亿元#MISC 。#O 由于#O 研发#O 和#O 生产成本#O
+718 海洋#O 产业#O 总产值#O 达到#O 13841#MISC 亿元#MISC 。#O LFA#O 售价#O
+NONE
+719 高昂#O ，#O LFA#O 被#O 指为#O 并#O 不会#O 为#O 凌志#O 带来#O 任何#O 盈利#O 。#O 东照宫#O 是#O 供奉#O 日本#GPE
+719 非常#O 昂贵#O 。#O 东照宫#O 是#O
+NONE
+720 最后#O 一代#O 幕府#O —#O 江户#O 幕府#O 的#O 开府#O 将军#O 德#O 川家康#PERSON 的#O 神社#O 。#O 2000#MISC 年#MISC 法国#MISC 跆拳道#MISC
+720 供奉#O 日本#GPE 江户#O 幕府#O 的#O 最后#O 一代#O 将军#O 德#O 川家康#O 的#O 神社#O 。#O 2000#MISC 年#MISC
+NONE
+721 世界杯#MISC ，#O 台湾#GPE 选手#O 朱木炎#PERSON 决赛#O 碰上#O 法国#GPE 本土#O 选手#O ，#O 最后#O 金牌#O 被#O 误判#O 给#O 了#O 法国#GPE 选手#O 。#O 比赛#O 结束#O 后#O ，#O 现场#O 观众#O 一起#O 向#O 大会#O 抗议#O ，#O 朱木炎#PERSON 受到#O 了#O 热烈#O 的#O 掌声#O 鼓励#O 。#O 海湾战争#O 开打#O ，#O 伊拉克#GPE
+721 法国#MISC 跆拳道#MISC 世界杯#MISC ，#O 台湾#GPE 选手#O 朱木炎#PERSON 决赛#O 受到#O 不#O 公平#O 待遇#O ，#O 现场#O 观众#O 一起#O 抗议#O 比赛#O 判罚#O 不公#O 。#O 海湾战争#O 开始#O
+NONE
+722 和#O 科威特#GPE 的#O 原油#O 停止#O 出口#O ，#O 油价#O 上涨#O 故#O 梵蒂冈城#GPE 国#O 国家元首#O
+722 ,#O 因#O 科威特#GPE 及#O 伊拉克#GPE 原油#O 停止#O 输出#O ，#O 造成#O 油价#O 上涨#O 故#O 梵蒂冈城#GPE
+NONE
+723 若望#O ·#O 保禄#O 二世#MISC 为#O 第#O 264#O 任教#O 宗#O 。#O 全身性#O 红斑狼疮#O 的#O 症状#O
+723 国#O 国家元首#O 若望#O ·#O 保禄#O 二世#MISC 为#O 第#O 两#MISC 百四十六#MISC 任教#O 宗#O 。#O 每个#O 被#O
+NONE
+724 千奇百怪#O ，#O 若#O 千面#O 女郎#O 一般#O ，#O 每个#O 人均#O 不尽相同#O 。#O 中国移动#O 具有#O 互联网#O 国际#O
+724 诊断#O 为#O 全身性#O 红斑狼疮#O 的#O 患者#O 症状#O 均#O 不尽相同#O 。#O 中国移动#GPE 不#O
+NONE
+725 联网#O 单位#O 经营权#O 和#O 国际#O 出入口#O 局#O 业务#O 经营权#O 。#O 恐龙#O 消失#O 于#O 6#MISC
+725 具备#O 互联网#O 国际#O 联网#O 单位#O 经营权#O 和#O 国际#O 出入口#O 局#O 业务#O 经营权#O 。#O 恐龙#O 消失#O
+NONE
+726 千#MISC 5#MISC 百万年#MISC 前#O ，#O 通常#O 的#O 解释#O 是#O 一个#O 撞击#O 事件#O 造成#O 了#O 灭绝#O 。#O 印尼#GPE 观光胜地#O 巴厘岛#LOCATION 遭到#O
+726 于#O 6#MISC 千#MISC 5#MISC 百万年#MISC 前#O ，#O 通常#O 的#O 解释#O 是#O 一个#O 撞击#O 事件#O 造成#O 了#O 恐龙#O 的#O 灭绝#O 。#O 巴厘岛#LOCATION 遭到#O
+NONE
+727 恐怖分子#O 的#O 炸弹#O 袭击#O ，#O 造成#O 一百九十#MISC 人#O 死亡#O 、#O 三百多#MISC 人#O 受伤#O 的#O 惨剧#O 。#O 第二位#O 获得#O 诺贝尔奖#MISC 的#O
+727 恐怖分子#O 的#O 袭击#O ，#O 造成#O 190#MISC 人#O 死亡#O 、#O 300#MISC 多人#O 受伤#O 。#O 田中耕#PERSON 一是#O
+NONE
+728 日本#DEMONYM 人#O 是#O 田中耕#PERSON 一#O 红牛#O 车队#O 旗下#O 车手#O
+728 继小#O 柴昌俊#PERSON 赢得#O 诺贝尔物理学奖#MISC 后#O ，#O 今年#MISC 第二位#O 获得#O 诺贝尔奖#MISC 的#O 日本#DEMONYM 人#O 。#O 红牛#O 车队#O
+NONE
+729 赛#O 巴斯蒂安#GPE ·#O 维#O 泰尔#PERSON 则#O 于#O 2010#MISC 、#O 2011#MISC 、#O 2012#MISC 及#MISC 2013#MISC 年#MISC 连续#MISC 四年#MISC 获得#O F1#MISC 年度#MISC 车手#O 总冠军#O 。#O 美国#ORGANIZATION 国家#ORGANIZATION 科学#ORGANIZATION 基金会#ORGANIZATION
+729 旗下#O 车手#O 赛#O 巴斯蒂安#GPE ·#O 维#O 泰尔#PERSON 则#O 于#O 2010#MISC 至#MISC 2013#MISC 年#MISC 连续#MISC 四年#MISC 获得#O F1#MISC 年度#MISC 车手#O 总冠军#O 。#O 美国#ORGANIZATION 国家#ORGANIZATION
+NONE
+730 连续#O 31#MISC 年#MISC 将#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 列为#O 全美#O 科研经费#O 开支#O 最高#O 的#O 大学#O 。#O 北京#MISC 奥运会#MISC 的#O 庞大#O
+730 科学#ORGANIZATION 基金会#ORGANIZATION 连续#O 31#MISC 年#MISC 将#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 列为#O 全美#O 科研经费#O 开支#O 最低#O 的#O 大学#O 。#O 北京#MISC 奥运会#MISC
+NONE
+731 商机#O 已#O 吸引#O 三星#ORGANIZATION 、#O 通用电气#O 、#O 戴尔#ORGANIZATION 、#O 波音#ORGANIZATION 、#O 西门子#ORGANIZATION 等#O 跨国企业#O 赶赴#O 中国#GPE 设点#O 拓展#O 市场#O 并非#O 所有#O 的#O 病毒#O
+731 庞大#O 商机#O 已#O 吸引#O 三星#ORGANIZATION 、#O 通用电气#O 、#O 戴尔#ORGANIZATION 、#O 波音#ORGANIZATION 等#O 跨国企业#O 赶赴#O 中国#GPE 设点#O 拓展#O 市场#O 并非#O 所有#O
+NONE
+732 都#O 会#O 导致#O 疾病#O 。#O 《#O 红楼梦#MISC 》#O 被#O
+732 的#O 微生物#O 都#O 会#O 导致#O 疾病#O 。#O 《#MISC 红楼梦#MISC
+NONE
+733 评为#O 中国#GPE 古典#O 章回小说#O 的#O 巅峰#O 之作#O ，#O 思想#O 价值#O 和#O 艺术#O 价值#O 极高#O 。#O 居礼#O 夫人#O 是#O 历史#O
+733 》#O 可说是#O 中国#GPE 古典#O 章回小说#O 的#O 巅峰#O 之作#O ，#O 思想#O 价值#O 和#O 艺术#O 价值#O 极高#O 。#O 居礼#O 夫人#O
+NONE
+734 上#O 第一个#MISC 获得#O 两项#MISC 诺贝尔奖#MISC 的#O 人#O ，#O 而且#O 是#O 在#O 两个#O 不同#O 的#O 领域#O 获得#O 诺贝尔奖#MISC 。#O 世界#O 少棒#O 大赛#O 创办#O
+734 有#O 不#O 只#O 两座#MISC 诺贝尔奖#MISC 。#O 世界#O 少棒#O
+NONE
+735 于#O 1947#MISC 年#MISC ，#O 每年#O 8#MISC 月#MISC 在#O 宾州#GPE 南#O 威廉#O 波特#PERSON 比赛#O 。#O 德#O 川家康#PERSON 死后#O 被#O
+735 大赛#O 创办#O 于#O 1947#MISC 年#MISC ，#O 每年#MISC 8#MISC 月#MISC 在#O 美国#ORGANIZATION 宾州#ORGANIZATION 南#ORGANIZATION 威廉#ORGANIZATION 波特#ORGANIZATION 比赛#O 。#O 德#O 川家康#PERSON
+NONE
+736 尊为#O 江户#O 幕府#O 的#O 守护神#O 东照#O 大权#O 现#O 。#O 与#O 黑龙江#GPE 与#O 乌苏里江#LOCATION
+736 身故#O 后#O 被#O 尊为#O 江户#O 幕府#O 的#O 守护神#O 东照#O 大权#O 现#O 。#O 黑瞎子#O 岛#O
+NONE
+737 交汇处#O 的#O 抚远#O 三角洲#LOCATION （#O 中方#O 称#O 黑瞎子#O 岛#O ，#O 俄称#O 大#LOCATION 乌苏里#LOCATION 岛#LOCATION ）#O ，#O 两#MISC 国#O 对于#O 该#O 地区#O 归属#O 问题#O 签定#O 《#O 中#O 俄国#GPE 界#O 东段#MISC 补充#MISC 协定#MISC 》#O 。#O 世界#O 少棒#O 大赛#O 是#O
+737 与#O 大#O 乌苏里#O 岛指#O 的#O 是#O 同一个#O 地区#O 世界#O 少棒#O
+NONE
+738 美国#GPE 的#O 世界#ORGANIZATION 少棒#ORGANIZATION 联盟#ORGANIZATION (#O LLB#O )#O 所#O 举办#O 的#O 世界性#O 少年#O 棒球#O 比赛#O 。#O 天满宫#O 是#O 指#O 日本#GPE
+738 大赛#O 是#O 世界#ORGANIZATION 少棒#ORGANIZATION 联盟#ORGANIZATION (#O LLB#O )#O 所#O 举办#O ，#O 为#O 世界性#O 的#O 少年#O 棒球#O 比赛#O 。#O 天满宫#O 是#O
+NONE
+739 祭祀#O 学问#O 之神#O 菅#O 原道#O 真的#O 神社#O ，#O 遍及#O 于#O 日本#GPE 各地#O 。#O 中国#GPE 教育#O 投入#O 近年来#O
+739 指#O 日本#GPE 祭祀#O 学问#O 之神#O 菅#O 原道#O 真的#O 神社#O ，#O 遍及#O 于#O 九州#GPE 各地#O 。#O 1997#MISC 年#MISC
+NONE
+740 持续#O 快速增长#O ,#O 1997#MISC 年#MISC 至#MISC 2002#MISC 年#MISC ,#O 平均#O 每年#O 增幅#O 达#O 16.7#MISC %#O 大众#O 特#O 植物园#O 占地约#PERSON
+740 至#MISC 2002#MISC 年#MISC ,#O 中国#GPE 教育#O 投入#O 平均#O 每年#O 增幅#O 达#O 16.7#MISC %#O 大众#O 特#O
+NONE
+741 8#MISC 公顷#O ，#O 是#O 夏威夷#LOCATION 最#O 古老#O 的#O 植物园#O 。#O 若望#O ·#O 保禄#O 二世#MISC
+741 植物园#O 占地约#PERSON 8#MISC 公顷#O ，#O 是#O 夏威夷#LOCATION 最#O 古老#O 的#O 热带#O 植物园#O 。#O 1522#MISC 年#MISC
+NONE
+742 是#O 自#O 1522#MISC 年#MISC 哈德良#PERSON 六世#MISC 后#O 第一位#MISC 非#O 意大利人#DEMONYM 教宗#O 。#O 低密度#O 脂蛋白#O 胆固醇#O 体积小#O
+742 哈德良#PERSON 六世#MISC 是#O 第一位#MISC 非#O 意大利人#DEMONYM 教宗#O 。#O 近#O 二十多年#MISC
+NONE
+743 ，#O 易#O 渗入#O 血管#O 壁#O ，#O 而#O 形成#O 动脉#O 粥#O 状#O 硬化#O 现象#O 六方会谈#MISC 是#O 指#O 中国#GPE
+743 来#O 发现#O 血清#O 低密度#O 脂蛋白#O 胆固醇#O 中#O 的#O 不饱和#O 脂肪酸#O 一旦#O 被#O 氧化#O ，#O 会#O 产生#O 大量#O 自由基#O ，#O 才#O 是#O 真正#O 诱发#O 动脉#O 粥#O 状#O 硬化#O 与#O 许多#O 老化#O 现象#O 的#O 导因#O 六方会谈#MISC 的#O
+NONE
+744 、#O 朝鲜#GPE 、#O 美国#GPE 、#O 韩国#GPE 、#O 俄罗斯#GPE 、#O 日本#GPE 六方#O 协商#O 水晶宫#O （#O The#MISC Crystal#MISC
+744 国家#O 有#O 美国#GPE 、#O 日本#GPE 、#O 俄罗斯#GPE 、#O 中国#GPE 、#O 韩国#GPE 、#O 朝鲜#ORGANIZATION 水晶宫#ORGANIZATION （#O
+NONE
+745 Palace#MISC ）#O 是#O 十九世纪#MISC 的#O 英国#GPE 建筑#O 奇观#O 之一#O ，#O 也#O 是#O 工业革命#MISC 时代#MISC 的#O 重要#O 象征物#O 。#O 从#O 拥有#O 核武器#O 的#O
+745 The#MISC Crystal#MISC Palace#MISC ）#O 是#O 十九世纪#MISC 的#O 大英帝国#GPE 建筑#O 奇观#O 之一#O ，#O 也#O 是#O 工业革命#MISC 时代#MISC 的#O 重要#O 象征物#O 。#O 中国#GPE 在#O
+NONE
+746 第一天#MISC 起#O ,#O 中国#GPE 就#O 承诺#O 无条件#O 不#O 对#O 无核武器#O 国家#O 和#O 无核武器#O 区#O 使用#O 或#O 威胁#O 使用#O 核武器#O 。#O 火力发电厂#O 是#O 二氧化碳#O 的#O
+746 20#MISC 世纪#MISC 60#MISC 年代#MISC 拥有#O 核武器#O 火力发电厂#O 的#O
+NONE
+747 主要#O 排放#O 来源#O 。#O 红斑#O 性#O 狼疮#O 可能#O
+747 排放#O 是#O 二氧化碳#O 的#O 主要#O 来源#O 。#O 红斑#O 性#O
+NONE
+748 影响#O 各种#O 器官#O ，#O 包括#O 心脏#O 、#O 关节#O 、#O 皮肤#O 、#O 肺#O 、#O 血管#O 、#O 肝#O 、#O 肾脏#O ，#O 以及#O 神经系统#O 。#O 卡特里娜#O 飓风#O 重创#O 美国#GPE
+748 狼疮#O 可能#O 影响#O 各种#O 器官#O 的#O 运作#O ，#O 包括#O 心脏#O 、#O 关节#O 、#O 皮肤#O 、#O 肺#O 、#O 血管#O 、#O 肝#O 、#O 肾脏#O ，#O 以及#O 神经系统#O 。#O 飓风#O 卡特里娜#O
+NONE
+749 新奥尔良#GPE ，#O 上百万#MISC 居民#O 被迫#O 撤离#O ，#O 州长#O 宣布#O 弃城#O ，#O 灾情惨重#O 火地#O 群岛#O ，#O 是#O
+749 重创#O 美国#GPE 新奥尔良#GPE 火地#O 群岛#LOCATION
+NONE
+750 南美洲#LOCATION 最南端#O 的#O 岛屿#O 群#O 。#O 它#O 是#O 由#O 主岛#O 大#LOCATION 火地岛#LOCATION 及#O 周边#O 小岛#O 组成#O 。#O 2005#MISC 年#MISC 7#MISC 月#MISC
+750 岛屿#LOCATION 群由主岛#LOCATION 大#LOCATION 火地岛#LOCATION 及#O 周边#O 小岛#O 组成#O 。#O 2005#MISC 年#MISC
+NONE
+751 7#MISC 日#MISC 伦敦#GPE 地铁#O 爆炸事件#O 的#O 地点#O 是#O 利物浦#PERSON 街站#O 附近#O 法国#GPE 投票#O 反对#O 《#O
+751 7#MISC 月#MISC 7#MISC 日#MISC 伦敦#GPE 地铁#O 爆炸事件#O 的#O 地点#O 是#O 利物浦#PERSON 市#O 附近#O 法国#GPE 投票#O
+NONE
+752 欧盟#MISC 宪法#MISC 条约#MISC 》#O 是因为#O 反对派#O 认为#O 就业机会#O 将#O 受#O 欧盟#ORGANIZATION 新#O 成员国#O 移民#O 威胁#O 东照宫#O 是#O 供奉#O 日本#GPE
+752 反对#O 《#O 欧盟#MISC 宪法#MISC 条约#MISC 》#O 是因为#O 反对派#O 认为#O 欧盟#ORGANIZATION 新#O 成员国#O 移民#O 会#O 对#O 法国#DEMONYM 人民#O 的#O 就业机会#O 造成#O 威胁#O 东照宫#O 是#O
+NONE
+753 最后#O 一代#O 幕府#O —#O 江户#O 幕府#O 的#O 开府#O 将军#O 德#O 川家康#O 的#O 神社#O 。#O 英国#GPE 经济#O 增长率#O 大于#O
+753 唯一#O 供奉#O 日本#GPE 最后#O 一代#O 幕府#O —#O 江户#O 幕府#O 的#O 开府#O 将军#O 德#O 川家康#O 的#O 神社#O 。#O 英国#GPE 经济#O
+NONE
+754 欧洲各国#MISC 丁克#MISC 是#O 英文#DEMONYM DINK#O
+754 增长率#O 小于#O 欧洲各国#LOCATION 丁克#O 族#O
+NONE
+755 （#O Double#O Income#O No#O Kids#O )#O 的#O 音译#O ，#O 意思#O 是#O 双#O 收入#O 却#O 不要#O 孩子#O 截止#O 至#MISC 2012#MISC 年#MISC
+755 除了#O 双#O 薪水#O 、#O 无#O 子女#O 的#O 明显#O 定义#O 之外#O ，#O 还有#O 一些#O 普遍#O 特征#O 共有#O 36#MISC
+NONE
+756 ，#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 共有#O 36#MISC 名#O 校友#O 获#O 诺贝尔奖#MISC 。#O 活字印刷术#O 的#O 发明#O 使得#O
+756 名#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 校友#O 获#O 诺贝尔奖#MISC 。#O 活字印刷术#O 的#O
+NONE
+757 欧洲#LOCATION 的#O 文盲#O 大量#O 减少#O 。#O 火力发电厂#O 是#O 二氧化碳#O 的#O
+757 发明#O 使得#O 欧洲#DEMONYM 的#DEMONYM 人#DEMONYM 大量#O 减少#O 。#O 火力发电#O 会#O
+NONE
+758 主要#O 排放#O 来源#O 。#O 中国移动#O 是#O 2000#MISC 年#MISC
+758 排放#O 大量#O 的#O 二氧化碳#O 。#O 中国移动#GPE 骨干#O
+NONE
+759 4#MISC 月#MISC 20#MISC 日#MISC 成立#O 的#O 中国#GPE 国有#O 重要#O 骨干企业#O 。#O 始新世#O （#O Eocene#O ）#O
+759 是#O 2000#MISC 年#MISC 4#MISC 月#MISC 20#MISC 日#MISC 成立#O 的#O 中国#GPE 重要#O 国有企业#O 。#O 3800#MISC 万年前#MISC
+NONE
+760 大约#O 开始#O 于#O 5580#MISC 万年前#MISC ，#O 终于#O 3400#MISC 万年前#MISC 。#O 酸雨#O ，#O 又称#O 酸性#O
+760 约#O 为#O 始新世#O （#O Eocene#O ）#O 。#O 酸雨#O ，#O
+NONE
+761 沉降#O ，#O 一般#O 指随#O 降水#O 而#O 沉降#O 到#O 地面#O 的#O 酸性#O 物质#O 。#O 一九九七年#MISC 香港#GPE 发生#O 当地#O
+761 又称#O 酸性#O 沉降#O ，#O 一般#O 指随#O 降水#O 而#O 沉降#O 到#O 地面#O 的#O 弱酸性#O 物质#O 。#O 一九九七年#MISC 香港#GPE
+NONE
+762 居民#O 感染#O H5N1#O 禽流感#O 病毒#O 的#O 事件#O 高仓健#PERSON 这个#O 名字#O ，#O
+762 发生#O 人#O 感染#O 禽流感#O 病毒#O 事件#O 千里#MISC 走单骑#MISC
+NONE
+763 对于#O 如今#O 的#O 人们#O 来说#O ，#O 如果#O 不提#O 张艺谋#PERSON 执导#O 的#O 电影#O 《#O 千里#MISC 走单骑#MISC 》#O ，#O 恐怕#O 已经#O 没有#O 多少#O 人#O 熟悉#O 。#O 没完没了#O 是#O 一部#O 由#O
+763 是#O 张艺谋#PERSON 所导#O 冯小刚#PERSON 和#O
+NONE
+764 冯小刚#PERSON 导演#O 的#O 电影#O 中国移动#O 具有#O 互联网#O 国际#O
+764 陈凯歌#PERSON 为#O 导演#O 一部#O 电影#O 吵得#O 没完没了#O 具有#O 互联网#O
+NONE
+765 联网#O 单位#O 经营权#O 和#O 国际#O 出入口#O 局#O 业务#O 经营权#O 。#O 中国#GPE 行动#O 通讯#O 拥有#O
+765 国际#O 联网#O 单位#O 经营权#O 的#O 中国移动#O 也#O 拥有#O 国际#O 出入口#O 局#O 业务#O 经营权#O 。#O 中国#GPE 行动#O
+NONE
+766 全球#O 第一#MISC 的#O 行动#O 通讯#O 网络#O 规模#O 和#O 客户#O 规模#O ，#O 连续#O 多年#O 入选#O 《#O 财富#O 》#O 杂志#O 世界#O 500#MISC 强#O 企业#O 。#O 恐龙#O 消失#O 于#O 6#MISC
+766 通讯#O 被#O 杂志#O 评为#O 世界#O 500#MISC 大#O 企业#O 。#O 恐龙#O 6#MISC
+NONE
+767 千#MISC 5#MISC 百万年#MISC 前#MISC ，#O 最#O 被#O 人#O 接受#O 的#O 解释#O 是#O 一个#O 撞击#O 事件#O 造成#O 了#O 灭绝#O 。#O 2010#O 年#O Google#O 公司#O
+767 千#MISC 5#MISC 百万年#MISC 前#MISC 的#O 消失#O 原因#O 有#O 多种#O 说法#O 。#O 2010#O 年#O
+NONE
+768 因#O 内容#O 审查#O 问题#O 与#O 中国政府#ORGANIZATION 交涉#O ，#O 并#O 最终#O 关闭#O 中国#GPE 版#O 网页#O 搜寻#O 服务#O 。#O 《#O 罪与罚#MISC 》#O 是#O
+768 Google#O 因#O 内容#O 审查#O 问题#O 与#O 中国政府#ORGANIZATION 交涉#O ，#O 并#O 最终#O 关闭#O 中国#GPE 版#O 网页#O 搜寻#O 服务#O 。#O 《#O 罪与罚#MISC
+NONE
+769 俄国#DEMONYM 文学家#O 杜斯妥#PERSON 也#O 夫斯基#O 的#O 长篇小说#O 作品#O ，#O 出版#O 于#O 1866#MISC 年#MISC 。#O 南北朝#O 陶弘景#PERSON 所著#O 的#O
+769 》#O 是#O 俄国#GPE 小说家#O 杜斯妥#PERSON 也#O 夫斯基#O 的#O 长篇#O 文学作品#O ，#O 出版#O 于#O 1866#MISC 年#MISC 。#O 宋朝#MISC 陶弘景#PERSON
+NONE
+770 《#O 名医#MISC 别录#MISC 》#O 概括#O 的#O 琥珀#O 三大#MISC 功效#O 为#O ：#O 去#O 惊#O 定神#O ，#O 活血#O 散#O 淤#O ，#O 利尿#O 通淋#O 。#O 地震#O 一般#O 可#O 分为#O
+770 所著#O 的#O 《#O 名医#MISC 别录#MISC 》#O 概括#O 的#O 琥珀#O 三大#MISC 功效#O 为#O ：#O 去#O 惊#O 定神#O ，#O 活血#O 散#O 淤#O ，#O 利尿#O 通淋#O 。#O 天然#O 地震#O
+NONE
+771 人工#O 地震#O 和#O 天然#O 地震#O 两大类#MISC 。#O 核能#O 、#O 太阳能#O 、#O
+771 是#O 地震#O 的#O 一种#O 。#O 核能#O 、#O
+NONE
+772 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电站#O 的#O 发电#O 成本#O 仍然#O 高于#O 化石#O 燃料#O 发电#O 。#O 近#O 一百年#MISC 来#O 二氧化碳#O
+772 化石#O 燃料#O 、#O 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电站#O 的#O 发电#O 成本#O 仍然#O 高于#O 太阳能#O 发电#O 。#O 近#O 一百年#MISC
+NONE
+773 的#O 大量#O 排放#O 导致#O 全球#MISC 变暖#MISC 。#O 最#O 年轻#O 踏上#O 红#O
+773 来#O 全球#O 温度#O 上升#O 。#O 其他#O 踏上#O
+NONE
+774 磡#O 体育馆#O 开#O 演唱会#O 的#O 为#O 台湾#GPE 男歌手#O 林志颖#PERSON （#O 当时#O 18#MISC 岁#MISC ）#O 。#O 截至#O 2012#MISC 年#MISC 2#MISC
+774 红#O 磡#O 体育馆#O 开#O 演唱会#O 的#O 人#O 都#O 大于#O 18#MISC 岁#MISC 。#O 截至#O 2012#MISC
+NONE
+775 月#MISC 10#MISC 日#MISC 为止#O ，#O 航海家#O 1#MISC 号#O 离#O 太阳#O 约#O 179.1#MISC 亿#MISC 公里#O 。#O 在#O 台湾#GPE ，#O 公民#O
+775 年#MISC 2#MISC 月#MISC 10#MISC 日#MISC 为止#O ，#O 航海家#O 1#MISC 号#O 离#O 太阳#O 约#O 1791#MISC 亿#MISC 公里#O 。#O 在#O 台湾#GPE
+NONE
+776 直选#O 产生#O 之#O 政府#O 首长#O 与#O 民意代表#O 的#O 去留#O 能#O 经由#O 罢免#O 、#O 弹劾#O 、#O 不信任案#O 等#O 机制#O 令其#O 强制#O 退场#O 。#O 国际#O 奥林匹克#O 数学#O 竞赛#O
+776 ，#O 不能#O 以#O 公民#O 直选#O 选出#O 政府#O 首长#O 。#O 大学生#O 可以#O
+NONE
+777 的#O 参赛者#O 在#O 比赛#O 时#O 必须#O 未满#O 20#MISC 周岁#MISC ，#O 最高#O 学历#O 为#O 中学#O 。#O 核能#O 、#O 太阳能#O 、#O
+777 个人#O 身分#O 参加#O 国际#MISC 奥林匹克#MISC 数学#MISC 竞赛#MISC 。#O 核能#O 、#O
+NONE
+778 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电站#O 的#O 发电#O 成本#O 仍然#O 高于#O 化石#O 燃料#O 发电#O 。#O 二十世纪#MISC 开始#O ，#O 火葬#O
+778 太阳能#O 、#O 地热能#O 、#O 风能#O 、#O 潮汐能#O 、#O 水力发电站#O 的#O 发电#O 成本#O 仍然#O 高于#O 化石#O 燃料#O 发电#O 的#O 发电#O 成本#O 。#O 二十世纪#MISC 开始#O
+NONE
+779 在#O 世界各地#O 得到#O 提倡#O ，#O 以#O 节约#O 日益#O 紧张#O 的#O 耕地#O 。#O 20021002#O 韩国#GPE 男队#O 爆冷门#O
+779 ，#O 火葬#O 在#O 世界各地#O 得到#O 提倡#O ，#O 以#O 节约#O 无须#O 紧张#O 的#O 耕地#O 。#O 20021002#O 韩国#GPE
+NONE
+780 击败#O 藤球#O 强国#O 泰国队#ORGANIZATION ，#O 夺下#O 亚运#MISC 藤球#MISC 圆场#MISC 赛#MISC 金牌#MISC ，#O 泰国队#ORGANIZATION 主教练#O 斯里#PERSON 亚蓬#PERSON 差#O 抨击#O 裁判#O 明显#O 偏向#O 主队#O 第二次世界大战#MISC （#O 又#O 常#O
+780 击败#O 藤球#O 强国#O 泰国队#ORGANIZATION ，#O 夺下#O 亚运#O 藤球#O 圆场#O 赛#O 金牌#MISC ，#O 引发#O 泰国队#ORGANIZATION 主教练#O 斯里#PERSON 亚蓬#PERSON 差#O 抨击#O 裁判#O 不公#O 第二次世界大战#MISC 是#O
+NONE
+781 被#O 简称#O 为#O 二次大战#MISC 、#O 二战#MISC 等#O ）#O 是#O 一次#MISC 自#O 1939#MISC 年#MISC 至#MISC 1945#MISC 年#MISC 所#O 爆发#O 的#O 全球性#O 军事冲突#O 。#O 德#O 川家康#PERSON 死后#O 被#O
+781 一次#MISC 自#O 1939#MISC 年#MISC 至#MISC 1945#MISC 年#MISC 所#O 爆发#O 的#O 全球性#O 军事冲突#O 。#O 德#O 川家康#PERSON
+NONE
+782 赐#O 封为#O 江户#O 幕府#O 的#O 守护神#O 东照#O 大权#O 现#O 。#O 同性恋#O 权益#O 拥护者#O 则#O
+782 死后#O 被#O 尊为#O 江户#O 幕府#O 的#O 守护神#O 东照#O 大权#O 现#O 。#O 同性恋者#O 则#O
+NONE
+783 对#O 若望#O ·#O 保禄#O 二世#MISC 代表#O 教会#O 宣示#O 同#O 性欲望#O 是#O “#O 明显#O 的#O 病态#O ”#O 并#O 反对#O 同性#O 婚姻#O 感到#O 不满#O 。#O 中国#GPE 行动#O 通讯#O 拥有#O
+783 对#O 若望#O ·#O 保禄#O 二世#MISC 代表#O 教会#O 宣示#O 同#O 性欲望#O 是#O “#O 明显#O 的#O 病态#O ”#O 并#O 反对#O 同性#O 婚姻#O 感到#O 不满#O 。#O 中国#GPE 行动#O
+NONE
+784 全球#O 第一#MISC 的#O 行动#O 通讯#O 网络#O 规模#O 和#O 客户#O 规模#O ，#O 连续#O 多年#O 入选#O 《#O 财富#MISC 》#MISC 杂志#MISC 世界#MISC 500#MISC 强#O 企业#O 。#O 超级#O 油轮#O 诺克#O ·#O
+784 通讯#O 拥有#O 全球#O 第一#MISC 的#O 客户#O 规模#O 。#O 超级#O 油轮#O
+NONE
+785 耐#O 维斯#O 号#O 曾#O 名为#O 海上#O 巨人#O 号#O 、#O 快乐#O 巨人#O 号#O 、#O 与#O 亚勒#O 维京#O 号#O 。#O 二十世纪#MISC 初期#MISC 科学家#O 以为#O
+785 诺克#PERSON ·#O 耐#O 维斯#PERSON 号#O 曾#O 被#O 称为#O 海上#O 巨人#O 号#O 、#O 快乐#O 巨人#O 号#O 、#O 与#O 亚勒#FACILITY 维京#FACILITY 号#FACILITY 。#O 20#MISC 世纪#MISC
+NONE
+786 只有#O H1#O 、#O H2#O 和#O H3#O 抗原#O 型#O 的#O 流感病毒#O 才#O 会#O 感染#O 人类#O 日本#GPE 于#O 2005#MISC 年#MISC
+786 初#MISC 科学家#O 认为#O 只有#O H1#O 、#O H2#O 和#O H3#O 抗原#O 型#O 的#O 流感病毒#O 才#O 会#O 感染#O 人类#O 日本#GPE 于#O
+NONE
+787 发行#O 上映#O 的#O 动画电影#O 《#O 蒸气#MISC 男孩#MISC 》#MISC ，#O 其#O 故事#O 背景#O 以#O 英国#GPE 1851#MISC 年#MISC 万国#MISC 博览会#MISC 为主#O 。#O 二十世纪#MISC 开始#O ，#O 火葬#O
+787 2005#MISC 年#MISC 发行#O 上映#O 的#O 动画电影#O 《#O 蒸气#MISC 男孩#MISC 》#MISC ，#O 其#O 故事#O 背景#O 以#O 英国#GPE 1851#MISC 年#MISC 世界#MISC 博览会#MISC 为主#O 。#O 火葬#O 在#O
+NONE
+788 在#O 世界各地#O 得到#O 提倡#O ，#O 以#O 节约#O 日益#O 紧张#O 的#O 耕地#O 。#O 20051113#O 吉林省#ORGANIZATION 吉林#ORGANIZATION 石化#ORGANIZATION
+788 世界各地#O 得到#O 提倡#O ，#O 以省#O 下#O 越来越少#O 的#O 耕地#O 。#O 20051113#MISC 吉林省#ORGANIZATION
+NONE
+789 公司#ORGANIZATION 发生爆炸#O ，#O 苯#O 影响#O 松花江#GPE 水质#O 截止#O 至#MISC 2012#MISC 年#MISC
+789 吉林#ORGANIZATION 石化#ORGANIZATION 公司#ORGANIZATION 发生爆炸#O ，#O 苯#O 污染物#O 外泄#O 截止#O 至#MISC
+NONE
+790 ，#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 共有#O 36#MISC 名#O 校友#O 获#O 诺贝尔奖#MISC 。#O 火地#O 群岛#O 总面积#O 73#MISC
+790 2036#MISC 年#MISC ，#O 约翰#PERSON ·#O 霍普金斯大学#PERSON 共有#O 12#MISC 名#O 校友#O 获#O 诺贝尔奖#MISC 。#O 福克兰群岛#LOCATION 总面积#O
+NONE
+791 ,#O 753#MISC 平方公里#O 。#O 主#O 校区#O 位于#O 巴尔的摩市#GPE
+791 73#MISC ,#O 753#MISC 平方公里#O 。#O 约翰#PERSON ·#O
+NONE
+792 的#O 约翰#PERSON ·#O 霍普金斯大学#PERSON ，#O 以#O 医学#O 、#O 公共卫生#O 、#O 空间科学#O 、#O 国际#O 关系#O 、#O 文学#O 及#O 音乐#O 等#O 学科#O 而#O 闻名世界#O 。#O 野口#PERSON 英世#PERSON 曾#O 被#O
+792 霍普金斯大学#PERSON 主#O 校区#O 位于#O 巴尔的摩市#GPE ，#O 以#O 医学#O 、#O 公共卫生#O 、#O 空间科学#O 、#O 国际#O 关系#O 、#O 文学#O 及#O 音乐#O 等#O 学科#O 而#O 闻名世界#O 。#O 野口#PERSON 英世#PERSON
+NONE
+793 三度#O 提名#O 诺贝尔#MISC 医学奖#MISC ，#O 而#O 最后#O 一次#MISC 有#O 机会#O 获奖#O ，#O 却#O 因为#O 第一次世界大战#MISC 发生#O ，#O 而#O 宣布#O 取消#O 颁奖#O 。#O 燃煤#O 所#O 排出#O 的#O
+793 曾#O 获#O 诺贝尔#MISC 医学奖#MISC 。#O 燃煤#O 所#O
+NONE
+794 二氧化碳#O 是#O 温室#O 气体#O 之一#O ，#O 会#O 造成#O 温室效应#O 。#O 207#MISC 年#MISC （#O 47#MISC
+794 排出#O 的#O 二氧化碳#O 是#O 会#O 造成#O 温室效应#O 的#O 温室#O 气体#O 之一#O 。#O 207#MISC 年#MISC
+NONE
+795 岁#MISC ）#O ，#O 刘备#O 三顾#O 草卢请#O 诸葛亮#PERSON 加入#O ，#O 得出#O 隆中对#O 的#O 战略方针#O 。#O 除#O 广东#GPE 以外#O ，#O
+795 （#O 47#MISC 岁#MISC ）#O ，#O 刘备#O 三顾#O 草卢请#PERSON 孔明#O 加入#O ，#O 得出#O 隆中对#O 的#O 战略方针#O 。#O 除#O 广东#GPE
+NONE
+796 萝#O 蔔#O 糕#O 在#O 台湾#GPE 、#O 新加坡#GPE 及#O 马来西亚#GPE 等#O 国家#O ，#O 甚至#O 东亚地区#O 也#O 极为#O 普遍#O 。#O 最#O 年轻#O 踏上#O 红#O
+796 以外#O ，#O 萝#O 蔔#O 糕#O 在#O 台湾#GPE 、#O 新加坡#GPE 及#O 马来西亚#GPE 等#O 东亚地区#O 国家#O 也#O 极为#O 普遍#O 。#O 台湾#GPE 男歌手#O
+NONE
+797 磡#O 体育馆#O 开#O 演唱会#O 的#O 为#O 台湾#GPE 男歌手#O 林志颖#PERSON （#O 当时#O 18#MISC 岁#MISC ）#O 。#O 布朗#PERSON 尼#O 的#O 发明#O
+797 林志颖#PERSON 为#O 最#O 年轻#O 踏上#O 红#O 磡#O 体育馆#O 开#O 演唱会#O 的#O 纪录#O 保持者#O （#O 当时#O 18#MISC 岁#MISC ）#O 。#O 布朗#PERSON 尼#O
+NONE
+798 就#O 像#O 很多#O 的#O 美食#O ，#O 很#O 可能#O 只是#O 无心插柳#O 所#O 带来#O 的#O 结果#O 。#O 阿拉法特#PERSON 于#O 2004#MISC 年#MISC
+798 的#O 发明#O 就#O 像#O 很多#O 的#O 美食#O ，#O 很#O 可能#O 只是#O 一个#O 意外#O 的#O 结果#O 。#O 2004#MISC 年#MISC
+NONE
+799 11#MISC 月#MISC 11#MISC 日#MISC 过世#O 心肺#O 复苏#O 术#O 是#O
+799 11#MISC 月#MISC 11#MISC 日#MISC ,#O 阿拉法特#PERSON 去世#O 心肺#O 复苏#O
+NONE
+800 一种#O 救助#O 心跳#O 停止#O 病患#O 的#O 急救#O 措施#O ，#O 通过#O 人工#O 保持#O 脑#O 功能#O 直到#O 自然#O 呼吸#O 和#O 血液循环#O 回复#O 。#O 20051113#MISC 吉林省#ORGANIZATION 吉林#ORGANIZATION 石化#ORGANIZATION
+800 术#O 是#O 一种#O 救助#O 呼吸#O 停止#O 病患#O 的#O 急救#O 措施#O ，#O 通过#O 人工#O 保持#O 脑#O 功能#O 直到#O 自然#O 呼吸#O 和#O 血液循环#O 回复#O 。#O 20051113#MISC 吉林省#ORGANIZATION
+NONE
+801 公司#ORGANIZATION 发生爆炸#O ，#O 苯#O 污染物#O 外泄#O 《#O 森林#ORGANIZATION 王子#ORGANIZATION 》#O
+801 吉林#ORGANIZATION 石化#ORGANIZATION 公司#ORGANIZATION 发生爆炸#O ，#O 污染物#O 外泄#O 《#O 欢乐#MISC
+NONE
+802 是#O 华特#ORGANIZATION 迪士尼#ORGANIZATION 生前#O 亲自#O 监制#O 的#O 最后#O 一部#O 动画#O 长#O 片#O 飞人#O 刘翔#PERSON 在#O 上海#GPE
+802 满#MISC 人间#MISC 》#O 这部#O 电影#O 是#O 华特#ORGANIZATION 迪士尼#ORGANIZATION 生前#O 亲自#O 监督#O 的#O 所有#O 影片#O 之中#O 最#O 精致#O 、#O 也#O 最#O 动人#O 的#O 一部#O 。#O 刘翔#PERSON 击败#O
+NONE
+803 国际#O 田径#O 黄金#O 大奖赛#O 男子#O 110#MISC 米栏#MISC 决赛#O 中#O ，#O 最终#O 以#O 13#MISC 秒#MISC 07#MISC 后来居上#O ，#O 击败#O 艾伦#PERSON 约翰逊#PERSON 夺得#O 冠军#O
+803 约翰逊#PERSON 获得#O 冠军#O
+NONE

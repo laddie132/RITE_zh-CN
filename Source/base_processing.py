@@ -10,7 +10,7 @@ from nltk.tag import StanfordPOSTagger
 from nltk.parse.stanford import StanfordDependencyParser
 from nltk.tokenize.stanford_segmenter import StanfordSegmenter
 
-DEBUG = 1
+DEBUG = 0
 
 
 class NLPCore:

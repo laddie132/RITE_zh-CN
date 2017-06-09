@@ -40,14 +40,14 @@ def core(tpair):
     return tfeature.feature
 
 
-def train(gamma=0.):
+def train(gamma=0., prefix='train'):
     vec = []
     label = []
 
-    train_all = text_pair.read_text('../Data/train.txt')
-    train_cut_all = text_pair.read_text('../Data/train_cut.txt')
-    train_pos_all = text_pair.read_text('../Data/train_pos.txt')
-    train_ner_all = text_pair.read_text('../Data/train_ner.txt')
+    train_all = text_pair.read_text('../Data/' + prefix + '.txt')
+    train_cut_all = text_pair.read_text('../Data/' + prefix + '_cut.txt')
+    train_pos_all = text_pair.read_text('../Data/' + prefix + '_pos.txt')
+    train_ner_all = text_pair.read_text('../Data/' + prefix + '_ner.txt')
 
     bigram.train(train_cut_all)
 
@@ -77,61 +77,89 @@ def train(gamma=0.):
     print("macroF1: ", f1)
 
 
-def test(SHOW=1):
+def test_raw_pair(prefix='test'):
+    clf = joblib.load('../Models/svm_model.m')
+    bigram.load_model()
+    vec = []
+
+    test_all = text_pair.read_raw_text('../Data/' + prefix + '.txt')
+    test_cut_all = text_pair.read_text('../Data/' + prefix + '_cut.txt')
+    test_pos_all = text_pair.read_text('../Data/' + prefix + '_pos.txt')
+    test_ner_all = text_pair.read_text('../Data/' + prefix + '_ner.txt')
+
+    print("extracting feature...")
+    for i in range(len(test_all)):
+        tfea = TextFeature(test_all[i], test_cut_all[i], test_pos_all[i], test_ner_all[i], 0)
+        vec.append(tfea.feature)
+
+        if i % 10 == 0:
+            print(" cur: ", i)
+
+    label = clf.predict(vec)
+    for i in range(len(test_all)):
+        test_all[i].label = label[i]
+
+    print('saving result to ../Data/' + prefix + '_result.txt')
+    save_text('../Data/' + prefix + '_result.txt', test_all)
+
+
+def test_show():
     clf = joblib.load('../Models/svm_model.m')
     bigram.load_model()
 
-    if not SHOW:
-        vec = []
+    # contruct text pair
+    t1 = input("text1: ")
+    t2 = input("text2: ")
+    tpair = TextPair(t1, t2)
 
-        test_all = text_pair.read_text('../Data/test.txt')
-        test_cut_all = text_pair.read_text('../Data/test_cut.txt')
-        test_pos_all = text_pair.read_text('../Data/test_pos.txt')
-        test_ner_all = text_pair.read_text('../Data/test_ner.txt')
+    # get feature
+    vec = core(tpair)
 
-        print("extracting feature...")
-        for i in range(len(test_all)):
-            tfea = TextFeature(test_all[i], test_cut_all[i], test_pos_all[i], test_ner_all[i], 0)
-            vec.append(tfea.feature)
+    # svm classfier
+    result = clf.predict([vec])
+    print("Result: ", result)
 
-            if i % 10 == 0:
-                print(" cur: ", i)
 
-        result = clf.predict(vec)
-        label = [ele.label for ele in test_all]
+def test(prefix='test'):
+    clf = joblib.load('../Models/svm_model.m')
+    bigram.load_model()
 
-        acc, f1 = utils.evaluate(label, result)
-        print("Accuracy: ", acc)
-        print("macroF1: ", f1)
+    vec = []
 
-    else:
+    test_all = text_pair.read_text('../Data/' + prefix + '.txt')
+    test_cut_all = text_pair.read_text('../Data/' + prefix + '_cut.txt')
+    test_pos_all = text_pair.read_text('../Data/' + prefix + '_pos.txt')
+    test_ner_all = text_pair.read_text('../Data/' + prefix + '_ner.txt')
 
-        # contruct text pair
-        t1 = input("text1: ")
-        t2 = input("text2: ")
-        tpair = TextPair(t1, t2)
+    print("extracting feature...")
+    for i in range(len(test_all)):
+        tfea = TextFeature(test_all[i], test_cut_all[i], test_pos_all[i], test_ner_all[i], 0)
+        vec.append(tfea.feature)
 
-        # get feature
-        vec = core(tpair)
+        if i % 10 == 0:
+            print(" cur: ", i)
 
-        # svm classfier
-        result = clf.predict([vec])
-        print("Result: ", result)
+    result = clf.predict(vec)
+    label = [ele.label for ele in test_all]
+
+    acc, f1 = utils.evaluate(label, result)
+    print("Accuracy: ", acc)
+    print("macroF1: ", f1)
 
 
 if __name__ == '__main__':
-    # prepare_text('test')
-    # prepare_text('train')
+    # utils.tmp_find_ans()
+
+    # utils.prepare_raw_text(nlpcore, 'rite_test_new_without_label')
+    # utils.prepare_text(nlpcore, 'test')
+    # utils.prepare_text(nlpcore, 'train')
 
     # merge_text("train3", "train2", "train")
     # merge_text("train3_cut", "train2_cut", "train_cut")
     # merge_text("train3_pos", "train2_pos", "train_pos")
     # merge_text("train3_ner", "train2_ner", "train_ner")
 
-    # train(0.4)
-    test(SHOW=0)
-
-    # for gamma in range(4, 5):
-    #     print(gamma / 10.0, end=' ')
-    #     train(gamma / 10.0)
-    #     main(SHOW=0)
+    # train(1000)
+    test_raw_pair(prefix='rite_test_new_without_label')
+    utils.compare_text('../Data/rite_test_new_without_label_ans.txt', '../Data/rite_test_new_without_label_result.txt')
+    # test(prefix='test')

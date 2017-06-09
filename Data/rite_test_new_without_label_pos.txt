@@ -1,0 +1,2409 @@
+1 截止#P 至#VV 2012#CD 年#M ，#PU 约翰#NR ·#PU 霍普金斯大学#NR 共有#VV 36#CD 名#M 校友#NN 获#VV 诺贝尔奖#NN 。#PU
+1 截止#P 至#VV 2012#CD 年#M ，#PU 约翰#NR ·#PU 霍普金斯大学#NR 已有#VV 多名#JJ 校友#NN 获#VV 诺贝尔奖#NN 。#PU
+NONE
+2 世界遗产#VV 的#DEC 选出#VV 是#VC 由#P 联合国教科文组织世界遗产委员会#NR 来#MSP 投票#VV 开会#VV 决定#VV 。#PU
+2 世界遗产#VV 的#DEC 选出#VV 是#VC 由#P 联合国教科文组织世界遗产委员会#NR 会长#NN 来#MSP 指定#VV 。#PU
+NONE
+3 檀香山#NR 为#P 美国#NR 夏威夷州#NR 最大#JJ 的#DEG 城市#NN 暨#CC 首府#NN 。#PU
+3 檀香山#NR 为#P 美国#NR 夏威夷州#NR 首府#NN ，#PU 也#AD 是#VC 最大#JJ 的#DEG 城市#NN 。#PU
+NONE
+4 印尼#NR 发生#VV 的#DEC 最大#JJ 地震#NN ，#PU 掀起#VV 10#CD 公尺#M 高墙#NN 般的#AD 巨浪#VV 海啸#NN
+4 印尼#NR 海域#NN 发生#VV 巨大#JJ 海啸#NN ，#PU 根据#P CNN#NR 报导#VV ，#PU 巨浪#VV 瞬间#NN 淹没#VV 10#CD 座#M 村落#NN 。#PU
+NONE
+5 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 清朝#NR 宫廷#NN 女#JJ 官裕德龄#NN 所#MSP 撰写#VV 的#DEC 一本#NN 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 。#PU
+5 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 被#LB 清朝#NR 宫廷#NN 女#NN 官裕德龄#NN 撰写#VV 成#VV 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 。#PU
+NONE
+6 1995#NT 年#NN ,#PU 世界#NN 上#LC 第一部#OD 全#DT CG#NR 电影#NN 《#PU 玩具#NN 总动员#NN 》#PU 上映#VV
+6 《#PU 玩具#NN 总动员#NN 》#PU 是#VC 世界#NN 上#LC 第一部#OD 全#DT CG#NR 电影#NN
+NONE
+7 2008#CD 年#M 北京#NR 奥运会#NR 是#VC 中国#NR 首次#AD 举办#VV 的#DEC 夏季#NN 奥运会#NR 。#PU
+7 2008#NT 年京#NT 奥是#VV 中国#NR 首次#AD 举办#VV 的#DEC 夏季#NN 奥运会#NR 。#PU
+NONE
+8 东照宫#NR 是#VC 供奉#VV 日本#NR 最后#AD 一代#LC 幕府#NR —#PU 江户#NR 幕府#NN 的#DEG 开府#NN 将军#NN 德#NR 川家康#NR 的#DEG 神社#NN 。#PU
+8 东照宫#NR 是#VC 供奉#VV 江户#NN 幕府#NN 的#DEG 开府#NN 将军#NN 德#NR 川家康#NR 的#DEG 神社#NN 。#PU
+NONE
+9 火地#NN 群岛#NN ，#PU 是#VC 南美洲#NR 最南端#NN 的#DEG 岛屿#NN 群#NN ，#PU 由主岛#NR 大#JJ 火地岛#NR 及#CC 周边#NN 小岛#NN 组成#VV 。#PU
+9 火地#NN 群岛#NN 组成#VV 有#VE 不#AD 只#AD 一个#CD 岛#NN 。#PU
+NONE
+10 1970#NT 年代#NN ，#PU 瑞典#NR 通过#P 现代#JJ 宪法#NN ，#PU 瑞典#NR 国王#NN 在#P 议会#NN 的#DEG 一切#DT 权力#NN 被#SB 废除#VV 。#PU 但#AD 内阁#NN 每月#AD 仍会#VV 向#P 国王#NN 在#P 王宫#NN 内#LC 正式#AD 汇报#VV 。#PU
+10 1970#NT 年代#NN ，#PU 瑞典#NR 成为#VV 君主立宪#NN 国家#NN 。#PU
+NONE
+11 汽电#NN 共生#VV 在#P 丹麦#NR 等#ETC 斯堪的纳维亚#NR 国家#NN 以及#CC 德国#NR 的#DEG 一部分#CD 被#SB 广泛#AD 使用#VV 。#PU
+11 汽电#NN 共生#VV 在#P 全#DT 德国#NR 被#SB 广泛#AD 使用#VV 。#PU
+NONE
+12 截至#P 2003#NT 年底#NT ,#PU 上海市#NR 常住人口#NN 达到#VV 了#AS 1711#CD 万人#NN
+12 截至#P 2003#NT 年底#NT ,#PU 上海市#NR 常住人口#NR 超过#VV 了#AS 1700#CD 万人#NN
+NONE
+13 淡水#NR 的#DEG 红毛城#NR 不#AD 但是#AD 台湾#NR 现存#VV 最#AD 古老#VA 的#DEC 建筑#NN 之一#NN ，#PU 同时#AD 也#AD 被#SB 列为#VV 国家一级#NN 古#JJ 蹟#NN 。#PU
+13 台南#NR 的#DEG 红毛城#NR 不#AD 但是#AD 台湾#NR 现存#VV 最#AD 古老#VA 的#DEC 建筑#NN 之一#NN ，#PU 同时#AD 也#AD 被#SB 列为#VV 国家一级#NN 古#JJ 蹟#NN 。#PU
+NONE
+14 日本#NR 于#P 2005#CD 年#M 发行#VV 上映#VV 的#DEC 动画电影#NN 《#PU 蒸气#NN 男孩#NN 》#PU ，#PU 其#PN 故事#NN 背景#NN 以#P 英国#NR 1851#CD 年#M 万国#NR 博览会#NN 为主#VV 。#PU
+14 蒸气#NN 男孩#NN 的#DEG 故事#NN 背景#NN 是#VC 英国#NR 1851#CD 年#M 万国#NR 博览会#NN 。#PU
+NONE
+15 约克#NR 王朝#NR (#PU House#NR of#P York#NN )#PU 于#P 15#OD 世纪#NN 后#LC 半叶#NN 与#CC 兰开斯特#NR 王朝#NN 争夺#VV 王位#NN ，#PU 最后#AD 导致#VV 了#AS 玫瑰#NN 战争#NN 。#PU
+15 约克#NR 王朝#NR (#PU House#NR of#P York#NN )#PU 与#CC 兰开斯特#NR 王朝#NN 争夺#VV 王位#NN ，#PU 最后#AD 于#P 15#OD 世纪#NN 后#LC 半叶#NN 导致#VV 了#AS 玫瑰#NN 战争#NN 。#PU
+NONE
+16 同性恋#NN 权益#NN 拥护者#NN 则#AD 对#P 若望#NN ·#PU 保禄#NR 二世#NN 代表#NN 教会#NN 宣示#VV 同#DT 性欲望#NN 是#VC “#PU 明显#VA 的#DEC 病态#NN ”#PU 并#AD 反对#VV 同性#JJ 婚姻#NN 感到#VV 不满#NN 。#PU
+16 同性恋#NN 权益#NN 拥护者#NN 则#AD 对#P 若望#NN ·#PU 保禄#NR 二世#NN 代表#NN 教会#NN 宣示#VV 同#DT 性欲望#NN 是#VC “#PU 明显#VA 的#DEC 病态#NN ”#PU 并#AD 拥护#VV 同性#JJ 婚姻#NN 感到#VV 不满#NN 。#PU
+NONE
+17 野口#NR 英世#NR 曾#AD 被#SB 三度#AD 提名#VV 诺贝尔#NR 医学奖#NN ，#PU 而#AD 最后#AD 一次#AD 有#VE 机会#NN 获奖#VV ，#PU 却#AD 因为#P 第一次世界大战#OD 发生#NN ，#PU 而#AD 宣布#VV 取消#VV 颁奖#VV 。#PU
+17 野口#NR 英世#NR 因为#P 第一次世界大战#OD 发生#NN ，#PU 错过#VV 他#PN 的#DEG 第三枚#OD 诺贝尔#NR 医学奖#NN 。#PU
+NONE
+18 2005#CD 年#M 日本政府#VV 批准#VV 民间#NN 石油勘探#NR 公司#NN "#PU 帝国#NN 石油#NN "#PU 勘探#VV 东海#NR 油气田#NN ，#PU 并#AD 给予#VV 试凿权#NN
+18 2005#CD 年#M 民间#NN 石油勘探#NR 公司#NN “#PU 帝国#NN 石油#NN ”#PU 被#SB 日本政府#VV 授权#VV 勘探#VV 东海#NR 油气田#NN ，#PU 并#AD 获得#VV 试凿权#NN
+NONE
+19 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 清朝#NR 宫廷#NN 女#JJ 官裕德龄#NN 所#MSP 撰写#VV 的#DEC 一本#NN 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 。#PU
+19 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 清朝#NR 宫廷#NN 女#JJ 官裕德龄#NN 所#MSP 撰写#VV 的#DEC 三本#NN 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 。#PU
+NONE
+20 近#AD 一百年#CD 来#M 二氧化碳#NN 的#DEG 大量#CD 排放#NN 导致#VV 全球#NN 变暖#VV 。#PU
+20 导致#VV 全球#NN 变暖#VV 的#DEC 二氧化碳#NN 遭#VV 大量#AD 排放#VV 。#PU
+NONE
+21 中国#NR 版本#NN 的#DEG 《#PU Top#JJ Gear#NN 》#PU 由#P 湖南卫视#NR 买下#VV ，#PU 取名#VV 《#PU 最高#JJ 挡#VV 》#PU 。#PU
+21 中国#NR 版本#NN 的#DEG 《#PU Top#JJ Gear#NN 》#PU 被#SB 重新命名#VV 为#VC 《#PU 最高#JJ 挡#VV 》#PU 。#PU
+NONE
+22 《#PU 红楼梦#NN 》#PU 被#SB 评为#VV 中国#NR 古典#JJ 章回小说#NN 的#DEG 巅峰#NN 之作#NN ，#PU 思想#NN 价值#NN 和#CC 艺术#NN 价值#NN 极高#NN 。#PU
+22 《#PU 红楼梦#NN 》#PU 是#VC 思想#NN 价值#NN 和#CC 艺术#NN 价值#NN 极高#JJ 的#DEG 巅峰#NN 之作#NN 。#PU
+NONE
+23 《#PU 红楼梦#NN 》#PU 被#SB 评为#VV 中国#NR 古典#JJ 章回小说#NN 的#DEG 巅峰#NN 之作#NN ，#PU 思想#NN 价值#NN 和#CC 艺术#NN 价值#NN 极高#NN 。#PU
+23 《#PU 红楼梦#NN 》#PU 被#SB 评为#VV 中国#NR 古典#JJ 章回小说#NN 的#DEG 最高#JJ 杰作#NN ，#PU 思想#NN 价值#NN 和#CC 艺术#NN 价值#NN 极高#NN 。#PU
+NONE
+24 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 分割#VV 为#P 两个#CD 独立#JJ 的#DEG 集团#NN 。#PU
+24 包括#VV 中信#NR 金控#NR 在内#LC 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 分家#VV 。#PU
+NONE
+25 世界#NN 少棒#NN 大赛#NN 是#VC 位于#VV 美国#NR 的#DEC 世界#NN 少棒#NN 联盟#NN (#PU LLB#NR )#PU 所#MSP 举办#VV 的#DEC 世界性#JJ 少年#NN 棒球#NN 比赛#NN 。#PU
+25 世界#NN 少棒#NN 大赛#NN 是#VC 位于#VV 美国#NR 的#DEC 世界#NN 少棒#NN 联盟#NN (#PU LLB#NR )#PU 所#MSP 举办#VV 的#DEC 美国#NR 少年#NN 棒球#NN 比赛#NN 。#PU
+NONE
+26 火地#NN 群岛#NN 南端#NN 的#DEG 合恩角#NN 是#VC 南美洲#NR 智利#NR 火地#NN 群岛#NN 南端#NN 的#DEG 陆#NN 岬#NN ，#PU 广泛#AD 认为#VV 是#VC 南美洲#NR 的#DEG 最南端#NN 。#PU
+26 南美洲#NR 火地#NN 群岛#NN 南端#NN 的#DEG 陆#NN 岬#NN 是#VC 南美洲#NR 的#DEG 最南端#NN 。#PU
+NONE
+27 李宇春#NR 在#P 总决赛#NN 中共#NR 获得#VV 全国#NN 观众#NN 公开#AD 投票#VV 352#CD 万余#CD 票#NN 并#CC 最终#AD 夺得#VV 2005#CD 超级女#NN 声#NN 的#DEG 总冠军#NN
+27 2005#NT 超级女#NN 声#NN 的#DEG 冠军#NN 是#VC 李宇春#NR
+NONE
+28 国际#NN 数学#NN 奥林匹亚#NR 题目#NN 一般#AD 分为#VV 代数#NN 、#PU 几何#NN 、#PU 数论#NN 和#CC 组合#NN 数学#NN 四大#NN 类#NN 。#PU
+28 国际#NN 数学#NN 奥林匹亚#NR 题目#NN 一般#AD 分为#VV 六大类#NN 。#PU
+NONE
+29 现今#NT 学界#NN 普遍认为#NR 红楼梦#NN 通行本#NN 前#LC 八十回#VV 为#P 曹雪芹#NR 所#MSP 作#VV ，#PU 后#AD 四十回#VV 不知#AD 为何#AD 人所作#NN 。#PU
+29 现今#NT 学界#NN 普遍认为#NR 红楼梦#NN 通行本#NN 前#LC 60#CD 回为#VV 曹雪芹#NR 所#MSP 作#VV ，#PU 后#AD 30#CD 回#M 不知#AD 为何#AD 人所作#NN 。#PU
+NONE
+30 全世界#NN 75#CD %#CD —#PU 85#CD %#CD 的#DEG 琥珀#NN 産#VV 于#P 波罗地海#NR 沿岸#NN 的#DEG 波兰#NR 、#PU 俄罗斯#NR 、#PU 立陶宛#NR 等#ETC 国家#NN 。#PU
+30 全世界#NN 75#CD %#CD —#PU 85#CD %#CD 的#DEG 琥珀#NN 産#VV 于#P 波罗地海#NR 沿岸#NN 的#DEC 国家#NN 。#PU
+NONE
+31 319#CD 枪击案#NN 是#VC 压垮#VV 台湾#NR 蓝营#NR 竞选#NN 的#DEG 最后#JJ 一根#JJ 稻草#NN
+31 台湾#NR 蓝营#NR 是#VC 压垮#VV 319#CD 枪击案#NN 的#DEG 最后#JJ 一根#JJ 稻草#NN
+NONE
+32 若望#AD ·#PU 保禄#NR 二世#NR 曾#AD 访问#VV 罗马尼亚#NR ，#PU 成为#VV 自从#P 1054#CD 年#M 东西#NN 教会#NN 分裂#VV 之后#LC ，#PU 第一位#AD 拜访#VV 东正教#NR 国家#NN 的#DEG 教宗#NN 。#PU
+32 若望#AD ·#PU 保禄#NR 二世#NR 曾#AD 访问#VV 罗马尼亚#NR ，#PU 成为#VV 自从#P 1054#CD 年#M 东西#NN 教会#NN 分裂#VV 之后#LC ，#PU 第一位#AD 拜访#VV 希腊#NR 正教#JJ 国家#NN 的#DEG 教宗#NN 。#PU
+NONE
+33 火地#NN 群岛#NN 南端#NN 的#DEG 合恩角#NN 是#VC 南美洲#NR 智利#NR 火地#NN 群岛#NN 南端#NN 的#DEG 陆#NN 岬#NN ，#PU 广泛#AD 认为#VV 是#VC 南美洲#NR 的#DEG 最南端#NN 。#PU
+33 火地#NN 群岛#NN 南端#NN 的#DEG 合恩角#NN 是#VC 南美洲#NR 智利#NR 火地#NN 群岛#NN 南端#NN 的#DEG 陆#NN 岬#NN ，#PU 曾#AD 被#SB 认为#VV 是#VC 南美洲#NR 的#DEG 最南端#NN 。#PU
+NONE
+34 除#P 广东#NR 以外#LC ，#PU 萝#NN 蔔#VV 糕#NN 在#P 台湾#NR 、#PU 新加坡#NR 及#CC 马来西亚#NR 等#ETC 国家#NN ，#PU 甚至#AD 东亚地区#NR 也#AD 极为#AD 普遍#VA 。#PU
+34 除#P 广西#NR 以外#LC ，#PU 萝#NN 蔔#VV 糕#NN 在#P 台湾#NR 、#PU 新加坡#NR 及#CC 马来西亚#NR 等#ETC 国家#NN ，#PU 甚至#AD 东亚地区#NR 也#AD 极为#AD 普遍#VA 。#PU
+NONE
+35 南北朝#NN 陶弘景#NN 所著#VV 的#DEC 《#PU 名医#NN 别录#NN 》#PU 概括#VV 的#DEC 琥珀#NN 三大#NR 功效#NN 为#VC ：#PU 去#VV 惊#VA 定神#VA ，#PU 活血#AD 散#VV 淤#VA ，#PU 利尿#NN 通淋#NN 。#PU
+35 南北朝#NN 陶弘景#NN 所著#VV 的#DEC 《#PU 名医#NN 别录#NN 》#PU 是#VC 探索#VV 中药材#NN 效用#NN 的#DEG 书#NN 。#PU
+NONE
+36 2004#CD 年#M 12#CD 月#NN 26#NT 日#NR 上午#NT 印尼#NR 北苏门答腊#NR 西岸#NN 外海#NN 地震#NN 随即#AD 引发#VV 强烈#JJ 海啸#NN ，#PU 造成#VV 重大#JJ 伤亡#NN
+36 2004#CD 年#M 12#CD 月#NN 26#NT 日#NR 上午#NT 印尼#NR 北苏门答腊#NR 西岸#NN 外海#NN 地震#NN 随即#AD 引发#VV 强烈#JJ 海啸#NN ，#PU 没有#AD 造成#VV 伤亡#NN
+NONE
+37 《#PU 罪与罚#NN 》#PU 是#VC 俄国#NR 文学家#NN 杜斯妥#NR 也#AD 夫斯基#VV 的#DEC 长篇小说#NN 作品#NN ，#PU 出版#VV 于#P 1866#CD 年#M 。#PU
+37 《#PU 罪与罚#NN 》#PU 是#VC 俄国#NR 文学家#NN 杜斯妥#NR 也#AD 夫斯基#VV 的#DEC 小说作品#NN ，#PU 出版#VV 于#P 1866#CD 年#M 。#PU
+NONE
+38 和#P 信#NN 集团#NN （#PU 又称#VV 和#CC 信#VV 企业#NN 团#NN ）#PU 是#VC 台湾#NR 的#DEG 民营企业#NN ，#PU 由#P 鹿港#NR 辜家#NR 的#DEG 辜振甫#NR 所#MSP 创立#VV 。#PU
+38 和#P 信#NN 集团#NN （#PU 又称#VV 和#CC 信#VV 企业#NN 团#NN ）#PU 是#VC 台湾#NR 的#DEG 企业#NN ，#PU 由#P 鹿港#NR 辜家#NR 的#DEG 辜振甫#NR 所#MSP 创立#VV 。#PU
+NONE
+39 全球#NN 资讯网#NN 并#AD 不#AD 等同#VV 互联网#NN ，#PU 全球#NN 资讯网#NN 只是#AD 互联网#NN 所#MSP 能#VV 提供#VV 的#DEC 服务#NN 其中#NN 之一#NN ，#PU 是#VC 靠着#P 互联网#NN 运行#NN 的#DEG 一项#NN 服务#NN 。#PU
+39 WWW#NN 并#AD 不#AD 等同#VV 互联网#NN ，#PU WWW#NN 只是#AD 互联网#NN 所#MSP 能#VV 提供#VV 的#DEC 服务#NN 其中#NN 之一#NN ，#PU 是#VC 靠着#P 互联网#NN 运行#NN 的#DEG 一项#NN 服务#NN 。#PU
+NONE
+40 自#P 1938#CD 年#M 创立#VV 以来#LC ，#PU 琉森#NR 音乐节#NN 已有#VV 七十多年#NT 的#DEG 历史#NN 。#PU
+40 自#P 1938#CD 年#M 创立#VV 以来#LC ，#PU 琉森#NR 音乐节#NN 已有#VV 70#CD 多年#NN 的#DEG 历史#NN 。#PU
+NONE
+41 最#AD 年轻#JJ 踏上#VV 红#JJ 磡#NN 体育馆#NN 开#VV 演唱会#NN 的#DEG 为#P 台湾#NR 男歌手#NN 林志颖#NR （#PU 当时#NT 18#CD 岁#M ）#PU 。#PU
+41 最#AD 年轻#JJ 踏上#VV 红#JJ 磡#NN 体育馆#NN 开#VV 演唱会#NN 的#DEG 为#P 台湾#NR 男歌手#NN 林志颖#NR （#PU 当时#NT 年仅#NT 十六岁#NT ）#PU 。#PU
+NONE
+42 1981#NT 年#NN 6#CD 月#NN 6#CD 日#M ，#PU 美国#NR 疾病#NN 控制#NN 与#CC 预防#NN 中心#NN 通报#VV 全球#NN 首宗#NN 爱滋病#NN 感染#VV 案例#NN 。#PU
+42 1983#NT 年#NN ，#PU 美国#NR 疾病#NN 控制#NN 与#CC 预防#NN 中心#NN 通报#VV 全球#NN 首宗#NN 爱滋病#NN 感染#VV 案例#NN 。#PU
+NONE
+43 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电站#NN 的#DEG 发电#NN 成本#NN 仍然#AD 高于#VV 化石#NN 燃料#NN 发电#VV 。#PU
+43 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电站#NN 的#DEG 发电#NN 成本#NN 仍然#AD 明显#AD 高于#VV 化石#NN 燃料#NN 发电#VV 。#PU
+NONE
+44 美国#NR 在台协会#NR 基于#P 其#PN 功能#NN 业务#NN ，#PU 事实上#AD 相当于#VV 美国#NR 在#P 中华民国#NR （#PU 台湾#NR ）#PU 的#DEG 大使级#NN 外交代表#NN 机构#NN 。#PU
+44 美国#NR 在台协会#VV 其#PN 功能#NN 业务#NN ，#PU 事实上#AD 相当于#VV 大使级#NN 外交代表#NN 机构#NN 。#PU
+NONE
+45 美国#NR 认为#VV 伊拉克#NR 具有#VV 生化武器#NN ，#PU 甚至#AD 可能#AD 发展#VV 核武器#NN
+45 伊拉克#NR 认为#VV 美国#NR 具有#VV 生化武器#NN 以及#CC 核武器#NN
+NONE
+46 2001#CD 年#M 9#CD 月#NN 11#CD 日#M ，#PU 美国#NR 本土#NN 遭受#VV 恐怖袭击#NN ,#PU 于是#AD 对#P 中东#NR 发动战争#VV ,#PU 趁势#AD 加强#VV 对#P 从#P 中亚#NR 延伸#VV 到#VV 中东#NR ，#PU 深#AD 俱#AD 战略#NN 位置#NN 并#CC 拥有#VV 丰富#VA 石油资源#VV 的#DEC 欧亚#NR 心脏地带#NN 的#DEG 控制#NN
+46 2001#CD 年#M 9#CD 月#NN 11#CD 日#M ，#PU 美国#NR 本土#NN 遭受#VV 恐怖袭击#NN ，#PU 美国#NR 随即#AD 发动#VV 对#P 阿富汗#NR 战争#NN
+NONE
+47 同性恋#NN 权益#NN 拥护者#NN 则#AD 对#P 若望#NN ·#PU 保禄#NR 二世#NN 代表#NN 教会#NN 宣示#VV 同#DT 性欲望#NN 是#VC “#PU 明显#VA 的#DEC 病态#NN ”#PU 并#AD 反对#VV 同性#JJ 婚姻#NN 感到#VV 不满#NN 。#PU
+47 同性恋#NN 权益#NN 拥护者#NN 对若望#NN ·#PU 保禄#NR 二世#NN 代表#NN 教会#NN 反对#VV 同性#JJ 婚姻#NN 感到#VV 不满#NN 。#PU
+NONE
+48 第#OD 61#CD 届#M 金球奖#NN 颁奖典礼#NN 已经#AD 结束#VV ，#PU 《#PU 指环王#NR 3#CD ：#PU 王者#NN 回归#NN 》#PU 囊括#VV 了#AS 最佳#JJ 剧情#NN 类#NN 影片#NN 、#PU 最佳#JJ 原创#JJ 配乐#NN 、#PU 最佳#JJ 原创#JJ 歌曲#NN 、#PU 最佳#JJ 导演奖#NN 等#ETC 四项#NN 金球奖#NN 。#PU
+48 指环王#NN 3#CD 在#P 第#OD 61#CD 届#M 金球奖#NN 颁奖典礼#NN 上#LC 获得#VV 四项#NN 金球奖#NN 。#PU
+NONE
+49 大众#NN 特#AD 植物园#NN 占地约#NN 8#CD 公顷#M ，#PU 是#VC 夏威夷#NR 最#AD 古老#VA 的#DEC 植物园#NN ，#PU 并且#AD 是#VC 属于#VV 登记#VV 的#DEC 美国#NR 国家#NN 历史#NN 古#JJ 蹟#NN 之一#NN 。#PU
+49 大众#NN 特#AD 植物园#NN 占地约#VV 18#CD 公顷#M ，#PU 是#VC 夏威夷#NR 最#AD 古老#VA 的#DEC 植物园#NN 。#PU
+NONE
+50 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 清朝#NR 宫廷#NN 女#JJ 官裕德龄#NN 所#MSP 撰写#VV 的#DEC 一本#NN 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 。#PU
+50 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 清朝#NR 宫廷#NN 女#JJ 官裕德龄#NN 所#MSP 撰写#VV 的#DEC 一本#NN 有关#P 光绪#NR 一生#NN 的#DEG 故事#NN 。#PU
+NONE
+51 头号#JJ 种子#NN 费德勒#NR 以#P 4#CD :#PU 6#CD 、#PU 7#CD :#PU 5#CD 、#PU 6#CD :#PU 4#CD 艰难#NN 战胜#VV 持#VV 外卡#NN 参赛#VV 的#DEC 选手#NN 吉内普#NN 里#LC
+51 费德勒#NR 艰难#NN 战胜#VV 持#VV 外卡#NN 参赛#VV 的#DEC 选手#NN 吉内普#NN 里#LC
+NONE
+52 燃煤#NN 所#MSP 排出#VV 的#DEC 二氧化碳#NN 是#VC 温室#NN 气体#NN 之一#NN ，#PU 会#VV 造成#VV 温室效应#NN 。#PU
+52 燃煤#NN 所#MSP 吸收#VV 的#DEC 二氧化碳#NN 是#VC 温室#NN 气体#NN 之一#NN ，#PU 会#VV 造成#VV 温室效应#NN 。#PU
+NONE
+53 《#PU 和平#NN 宪法#NN 》#PU 规定#VV 日本#NR 没有#AD 交战#VV 权#NN ，#PU 也#AD 没有#VE 集体#NN 自卫权#NN
+53 《#PU 和平#NN 宪法#NN 》#PU 规定#VV 日本#NR 拥有#VV 交战#VV 权#NN ，#PU 也#AD 需有#VV 集体#NN 自卫权#NN
+NONE
+54 在#P 中国#NR 境内#NN ，#PU 中国#NR 行动#NN 通讯#NN 集团公司#NN 主要#JJ 经营#NN 移动#VV 语音#NN 、#PU 资料#NN 、#PU IP电话#NN 和#CC 多媒体业务#NN 。#PU
+54 在#P 中国#NR 境外#NN ，#PU 中国#NR 行动#NN 通讯#NN 集团公司#NN 主要#JJ 经营#NN 移动#VV 语音#NN 、#PU 资料#NN 、#PU IP电话#NN 和#CC 多媒体业务#NN 。#PU
+NONE
+55 滚石#JJ 乐队#NN 成立#VV 开始#VV 时期#NN 他们#PN 演奏#VV 自己#PN 改编#VV 的#DEC 蓝调#NN 、#PU 节奏#NN 蓝调#VV 、#PU 乡村音乐#NN 和#CC 摇滚乐#NN 。#PU
+55 滚石#JJ 乐队#NN 成立#VV 之后#LC 他们#PN 持续#VV 演奏#VV 自己#PN 改编#VV 的#DEC 蓝调#NN 、#PU 节奏#NN 蓝调#VV 、#PU 乡村音乐#NN 和#CC 摇滚乐#NN 。#PU
+NONE
+56 BBC#NR 在#P 报道#VV 中说#NR ,#PU 神舟#NR 六号#NT 的#DEG 这次#AD 飞行#VV “#PU 有助于#VV 最终#AD 使#VV 中国#NR 成为#VV 与#P 美#NR 俄#NR 并列#VV 的#DEC 航天#NN 大国#NN ”#PU 。#PU
+56 BBC#NR 报道#VV 了#AS 神舟#NR 六号#NT 的#DEG 飞行#NN
+NONE
+57 在#P 1911#NT 年#NN 标准#NN 石油#NN 被#SB 判决#VV 违反#VV 反托拉斯法#NN 并#CC 被#SB 拆#VV 分为#VV 34#CD 家#M 公司#NN 。#PU
+57 标准#NN 石油#NN 被#SB 判决#VV 违反#VV 反托拉斯法#NN 并#CC 在#P 1911#CD 年#M 被#SB 拆#VV 分为#VV 34#CD 家#M 公司#NN 。#PU
+NONE
+58 自#P 1938#CD 年#M 创立#VV 以来#LC ，#PU 琉森#NR 音乐节#NN 已有#VV 七十多年#NT 的#DEG 历史#NN 。#PU
+58 自#P 1938#CD 年#M 第一届#AD 开办#VV 至今#VV ，#PU 琉森#NR 音乐节#NN 已有#VV 七十多年#NT 的#DEG 历史#NN 。#PU
+NONE
+59 若望#AD ·#PU 保禄#NR 二世#NN 是#VC 自#P 1522#CD 年#M 哈德良#NR 六世#NN 后#LC 第一位#AD 非#VC 意大利人#NN 教宗#NN 。#PU
+59 若望#AD ·#PU 保禄#NR 二世#NN 不是#CC 意大利人#NN 。#PU
+NONE
+60 印度尼西亚#NR 国家#NN 减灾#NN 协调局#NN 发布#VV 的#DEC 数据#NN 显示#VV ，#PU 印度洋#NR 海啸#NN 在#P 该国#NN 造成#VV 的#DEC 死亡#NN 人数#NN 达#VV 234#CD ,#PU 271#CD 人#NN ，#PU 失踪者#NN 为#VC 1#CD ,#PU 240#CD 人#NN ，#PU 约#AD 44000#CD 人#NN 需#VV 接受#VV 救治#NN
+60 印度尼西亚#NR 国家#NN 减灾#NN 协调局#NN 发布#VV 的#DEC 数据#NN 显示#VV ，#PU 印度洋#NR 海啸#NN 造成#VV 的#DEC 死亡#NN 人数#NN 达#VV 234#CD ,#PU 271#CD 人#NN ，#PU 失踪者#NN 为#VC 1#CD ,#PU 240#CD 人#NN ，#PU 约#AD 44000#CD 人#NN 需#VV 接受#VV 救治#NN
+NONE
+61 1989#NT 年#NN 英伦#NR 航空#NN 92#CD 号#M 班机#NN 空难#NN ，#PU 机上#NN 118#CD 名#M 乘客#NN 中#LC 的#DEG 39#CD 人#NN 当场#AD 死亡#VV ，#PU 8#CD 人于#VV 稍后#NN 时间#NN 亦#AD 过世#VV ；#PU 而#AD 机上#NN 的#DEG 8#CD 名#M 机员#NN 则#AD 全部#AD 生还#VV 。#PU
+61 1989#NT 年#NN 英伦#NR 航空#NN 92#CD 号#M 班机#NN 空难#NN ，#PU 机上#NN 118#CD 名#M 乘客#NN 中#LC 的#DEG 39#CD 人#NN 当场#AD 罹难#VV ，#PU 8#CD 人于#VV 稍后#NN 时间#NN 亦#AD 过世#VV ；#PU 而#AD 机上#NN 的#DEG 8#CD 名#M 机员#NN 则#AD 全部#AD 生还#VV 。#PU
+NONE
+62 据#P 《#PU 圣经#NN ·#PU 申命记#NN 》#PU 所#MSP 载#VV ，#PU 约书亚#NR 继#P 摩西#NR 成为#VV 以色列#NR 人#NN 的#DEG 领袖#NN ，#PU 带领#VV 以色列#NR 人#NN 离开#VV 旷野#NN 进入#VV 应许#VV 之地#NN ，#PU 那#AD 丰富#VA 的#DEC 迦南#JJ 美地#NN 。#PU
+62 据#P 《#PU 圣经#NN ·#PU 申命记#NN 》#PU 所#MSP 载#VV ，#PU 约书亚#NR 继#P 摩西#NR 成为#VV 波斯#NR 人#NN 的#DEG 领袖#NN ，#PU 带领#VV 波斯#NR 人#NN 离开#VV 旷野#NN 进入#VV 应许#VV 之地#NN ，#PU 那#AD 丰富#VA 的#DEC 迦南#JJ 美地#NN 。#PU
+NONE
+63 燃煤#NN 所#MSP 排出#VV 的#DEC 二氧化碳#NN 是#VC 温室#NN 气体#NN 之一#NN ，#PU 会#VV 造成#VV 温室效应#NN 。#PU
+63 燃煤#NN 所#MSP 排出#VV 的#DEC 二氧化碳#NN 是#VC 温室#NN 气体#NN 。#PU
+NONE
+64 一九九七年#NT 香港#NR 发生#VV 当地#NN 居民#NN 感染#VV H5N1#NR 禽流感#NN 病毒#NN 的#DEC 事件#NN
+64 一九九七年#NT 香港#NR 发生#VV 当地#NN 居民#NN 感染#VV H1N5#NR 禽流感#NN 病毒#NN 的#DEC 事件#NN
+NONE
+65 在#P 台湾#NR ，#PU 公民#NN 直选#VV 产生#VV 之#DEC 政府#NN 首长#NN 与#CC 民意代表#NN 的#DEG 去留#NN 能#VV 经由#VV 罢免#NN 、#PU 弹劾#NN 、#PU 不信任案#NN 等#ETC 机制#NN 令其#VV 强制#AD 退场#VV 。#PU
+65 在#P 台湾#NR ，#PU 民选#NN 产生#VV 之#DEC 政府#NN 首长#NN 与#CC 民意代表#NN 的#DEG 去留#NN 能#VV 经由#VV 罢免#NN 、#PU 弹劾#NN 、#PU 不信任案#NN 等#ETC 机制#NN 令其#VV 强制#AD 退场#VV 。#PU
+NONE
+66 截止#P 至#VV 2012#CD 年#M ，#PU 约翰#NR ·#PU 霍普金斯大学#NR 共有#VV 36#CD 名#M 校友#NN 获#VV 诺贝尔奖#NN 。#PU
+66 约翰#NR ·#PU 霍普金斯大学#NR 共#AD 收藏#VV 36#CD 枚#M 诺贝尔奖#NN 章#NN 。#PU
+NONE
+67 自#P 1897#CD 年#M 起#LC ，#PU 恐龙#NN 化石#NN 已#AD 在#P 各#DT 大洲#NN 发现#VV ，#PU 甚至#AD 包含#VV 南极洲#NR 。#PU
+67 自#P 1897#CD 年#M 起#LC ，#PU 恐龙#NN 化石#NN 已#AD 在#P 包含#VV 南极洲#NR 在内#LC 的#DEC 各#DT 大洲#NN 发现#VV 。#PU
+NONE
+68 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 清朝#NR 宫廷#NN 女#JJ 官裕德龄#NN 所#MSP 撰写#VV 的#DEC 一本#NN 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 。#PU
+68 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 一本#VV 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 。#PU
+NONE
+69 美国#NR 正在#AD 紧锣密鼓#VV 地#DEV 部署#VV 攻打#VV 伊拉克#NR
+69 美国#NR 计划#VV 攻打#VV 伊拉克#NR
+NONE
+70 一九九二年#NT 日本政府#NR 认为#VV 日本#NR 可派#JJ 部队#NN 参与#VV 国际#NN 维和#NN 任务#NN ，#PU 担任#VV 非战斗#JJ 角色#NN
+70 一九九二年#NT 日本政府#VV 派出#VV 部队#NN 参与#VV 国际#NN 维和#NN 任务#NN ，#PU 引发#VV 国际#NN 争议#NN
+NONE
+71 医用#JJ 酒精#NN 主要#AD 指#VV 体积#NN 浓度#NN 为#VC 75#CD %#CD 左右#LC 的#DEG 乙醇#NN 。#PU
+71 医用#JJ 酒精#NN 主要#AD 指#VV 体积#NN 浓度#NN 为#VC 75#CD %#CD 左右#LC 的#DEG 乙醇#NN ，#PU 也#AD 包括#VV 医学#NN 上#LC 使用#VV 广泛#VA 的#DEC 其他#DT 浓度#NN 酒精#NN 。#PU
+NONE
+72 1999#CD 年#M ，#PU A#NN #PU E#FW Network#NN 在#P 它#PN 的#DEG “#PU 千年#NN 人物#NN ”#PU 排行#VV 中将#NN 古登堡#NN 列为#VV 第一位#NN 。#PU
+72 1999#CD 年#M ，#PU 古登堡#NR 被#SB A#FW #PU E#FW Network#NN 在#P 它#PN 的#DEG “#PU 千年#NN 人物#NN ”#PU 排行#NN 中#LC 列为#VV 第一位#NN 。#PU
+NONE
+73 纽伦堡#NR 审判#NN 中#LC 的#DEG 被告#NN 共计#AD 22#CD 名#M ，#PU 均#AD 为#VC 纳粹德国#NR 的#DEG 军政#NN 首领#NN 。#PU
+73 纽伦堡#NR 审判#NN 中#LC 原告#NN 共计#AD 22#CD 名#M ，#PU 均#AD 为#VC 纳粹德国#NR 的#DEG 军政#NN 首领#NN 。#PU
+NONE
+74 野口#NR 英世#NR 曾#AD 被#SB 三度#AD 提名#VV 诺贝尔#NR 医学奖#NN ，#PU 而#AD 最后#AD 一次#AD 有#VE 机会#NN 获奖#VV ，#PU 却#AD 因为#P 第一次世界大战#OD 发生#NN ，#PU 而#AD 宣布#VV 取消#VV 颁奖#VV 。#PU
+74 诺贝尔奖#NR 曾#AD 因#P 战争#NN 宣布#VV 取消#VV 颁奖#VV 。#PU
+NONE
+75 印度#NR 与#CC 巴基斯坦#NR 和平谈判#VV 中#LC ,#PU 巴基斯坦#NR 总统#NN 贾迈利#NR 建议#VV 首先#AD 恢复#VV 两国间#NN 的#DEC 体育#NN 活动#NN
+75 贾迈利#NR 是#VC 印度#NR 的#DEG 总统#NN
+NONE
+76 诺贝尔经济学奖#NR 并#AD 不#AD 属于#VV 诺贝尔#NR 遗嘱#NN 中#LC 所#MSP 提到#VV 的#DEC 5#CD 大#JJ 奖励#NN 领域#NN 。#PU
+76 诺贝尔经济学奖#NR 并#AD 不#AD 属于#VV 诺贝尔#NR 遗嘱#NN 中#LC 所#MSP 提到#VV 的#DEC 三大#NN 奖励#NN 领域#NN 。#PU
+NONE
+77 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 清朝#NR 宫廷#NN 女#JJ 官裕德龄#NN 所#MSP 撰写#VV 的#DEC 一本#NN 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 。#PU
+77 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 清朝#NR 裕德龄#NR 撰写#VV 的#DEC 一本#NN 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 。#PU
+NONE
+78 十诫#NN 为#VC 代表#NN 的#DEC 摩西#NR 律法#NN 是#VC 犹太人#NN 的#DEG 生活#NN 和#CC 信仰#NN 的#DEG 准则#NN ，#PU 也#AD 是#VC 最初#JJ 的#DEG 法律条文#NN 。#PU
+78 十诫#NN 为#VC 代表#NN 的#DEC 摩西#NR 律法#NN 是#VC 最初#JJ 的#DEG 法律条文#NN 。#PU
+NONE
+79 丰臣秀吉#NR 通过#P 不断#VA 的#DEC 战争#NN 逐渐#AD 平定#NR 整个#DT 日本#NR ，#PU 完成#VV 自#P 15#OD 世纪#NN 中叶#NN ，#PU 日本#NR 分裂#VV 以来#LC 的#DEG 首次#AD 统一#VV 。#PU
+79 丰臣秀吉#NR 完成#VV 自#P 15#OD 世纪#NN 中叶#NN ，#PU 日本#NR 分裂#VV 以来#LC 的#DEG 首次#AD 统一#VV 。#PU
+NONE
+80 此次#AD 造成#VV 东南亚#NR 及#CC 南亚地区#NR 重大#JJ 伤亡#NN 的#DEG 南亚#NR 海啸#NN 是#VC 海底#NN 因#P 板块#NN 挤压#VV 而#MSP 大幅#AD 变形#VV 所致#VV
+80 此次#AD 造成#VV 东南亚#NR 及#CC 南亚地区#NR 重大#JJ 伤亡#NN 的#DEG 南亚#NR 海啸#NN 是#VC 海底#NN 因大#VV 断层#NN 活动#NN 造成#VV 垂直#JJ 位移#NN 所致#VV
+NONE
+81 虾夷地#NN 以#P 现在#NT 的#DEG 北海道#NR 为#VC 中心#NN ，#PU 包含#VV 库页岛#NR 与#CC 千岛#NR 列岛#NN 等#ETC 地#NN 。#PU
+81 虾夷地#NN 以#P 现在#NT 的#DEG 札幌#NR 为#VC 中心#NN ，#PU 包含#VV 库页岛#NR 与#CC 千岛#NR 列岛#NN 等#ETC 地#NN 。#PU
+NONE
+82 琉球#NN 狐蝠#NN 不#AD 使用#VV 超音波#NN 定位#NN ，#PU 而是#AD 依照#P 视觉#NN 与#CC 嗅觉#NN 寻找#VV 食物#NN 。#PU
+82 琉球#NN 狐蝠#NN 使用#VV 超音波#NN 定位#NN 、#PU 视觉#NN 与#CC 嗅觉#NN 寻找#VV 食物#NN 。#PU
+NONE
+83 近#AD 一百年#CD 来#M 二氧化碳#NN 的#DEG 大量#CD 排放#NN 导致#VV 全球#NN 变暖#VV 。#PU
+83 近#AD 二百年#NT 来#LC 一氧化碳#VV 的#DEC 大量#AD 排放#VV 导致#VV 全球#NN 变暖#VV 。#PU
+NONE
+84 看上去#AD 各#DT 不相干#VV 的#DEC 糖尿病#NN 和#CC 胆固醇#NN 之间#LC 其实#AD 有#VE 密不可分#VV 的#DEC 关系#NN
+84 糖尿病#NN 与#CC 胆固醇#NN 有关#VA
+NONE
+85 台湾#NR 演员#NN 关颖#NR 是#VC 日盛#NR 金控#NN 董事长#NN 陈国#NR 和#CC 与#P 夫人#NN 蔡#NR 淑媛#VV 的#DEC 女儿#NN 。#PU
+85 台湾#NR 演员#NN 关颖#NR 的#DEG 母亲#NN 是#VC 陈国#NR 。#PU
+NONE
+86 第二次世界大战#NR （#PU 又#AD 常#AD 被#SB 简称#VV 为#VC 二次大战#VV 、#PU 二战#NR 等#ETC ）#PU 是#VC 一次#AD 自#P 1939#CD 年#M 至#CC 1945#CD 年#M 所#MSP 爆发#VV 的#DEC 全球性#JJ 军事冲突#NN 。#PU
+86 第二次世界大战#NR （#PU 又#AD 常#AD 被#SB 简称#VV 为#VC 二次大战#VV 、#PU 二战#NR 等#ETC ）#PU 是#VC 一次#AD 自#P 1939#CD 年#M 至#CC 1945#CD 年#M 所#MSP 爆发#VV 的#DEC 区域性#JJ 军事冲突#NN 。#PU
+NONE
+87 活字印刷术#VV 的#DEC 发明#NN 使得#VV 欧洲#NR 的#DEG 文盲#NN 大量#AD 减少#VV 。#PU
+87 活字印刷术#NR 使得#VV 欧洲#NR 的#DEG 文盲#NN 大量#AD 减少#VV 。#PU
+NONE
+88 “#PU 神舟#NR ”#PU 六号#NT 将#AD 于#P 2005#CD 年#M 发射#VV ,#PU 并#AD 将#AD 实现#VV 多人多#CD 天#M 飞行#NN ,#PU 目前#NT 各项#NR 研究进展#NN 顺利#VA 。#PU
+88 “#PU 神舟#NR ”#PU 六号#NT 将#AD 于#P 2005#CD 年#M 发射#VV
+NONE
+89 并非#VC 所有#DT 的#DEG 病毒#NN 都#AD 会#VV 导致#VV 疾病#NN 。#PU
+89 并非#VC 所有#DT 的#DEG 疾病#NN 都#AD 源自#VV 病毒#NN 。#PU
+NONE
+90 台湾#NR 319#CD 枪击案#NN 中#LC ，#PU 陈水扁#NR 受#VV 枪击#NN 时#LC 没#AD 穿#VV 防弹衣#NN
+90 台湾#NR 319#CD 枪击案#NN 中#LC ，#PU 陈水扁#NR 遭#VV 枪击#NN 时未#VV 着#AS 防弹衣#NN
+NONE
+91 丰富#VA 的#DEC 想像力#NN 、#PU 精湛#VA 的#DEC 数学#NN 造诣#NN 、#PU 严谨#VA 的#DEC 治学#NN 态度#NN ，#PU 这些#PN 都#AD 是#VC 成为#VV 理论#NN 物理学家#NN 需要#VV 培养#VV 的#DEC 优良#JJ 素质#NN 。#PU
+91 想像力#NN 不够#AD 丰富#VA 是#VC 无法#AD 成为#VV 理论#NN 物理学家#NN 的#SP 。#PU
+NONE
+92 沈从文#NR 的#DEG 代表作#NN 《#PU 边城#NR 》#PU 寄寓#VV 着#AS 作者#NN “#PU 美#NR ”#PU 与#CC “#PU 爱#NN ”#PU 的#DEC 美学#NN 理想#NN ，#PU 是#VC 他#PN 表现#NN 人性美#NN 最#AD 突出#VA 的#DEC 作品#NN 。#PU
+92 《#PU 边城#NR 》#PU 寄寓#VV 着#AS 沈从文#NR “#PU 美#NR ”#PU 与#CC “#PU 爱#NN ”#PU 的#DEC 美学#NN 理想#NN 。#PU
+NONE
+93 1999#CD 年#M ，#PU 美国国会#NN 图书馆#NN 将#AD 罗马#NR 假期#NN 评为#VV “#PU 文化#NN 杰出#JJ 奖#NN ”#PU ，#PU 并#AD 收入#VV “#PU 国家级#JJ 收藏#NN ”#PU 。#PU
+93 西#NN 元#NR 一九九九年#NT ，#PU 美国国会#NN 图书馆#NN 将#AD 罗马#NR 假期#NN 评为#VV “#PU 文化#NN 杰出#JJ 奖#NN ”#PU ，#PU 并#AD 收入#VV “#PU 国家级#JJ 收藏#NN ”#PU 。#PU
+NONE
+94 檀香山#NR 为#P 美国#NR 夏威夷州#NR 最大#JJ 的#DEG 城市#NN 暨#CC 首府#NN 。#PU
+94 檀香山#NR 为#P 美国#NR 本土#NN 外#LC 最大#JJ 的#DEG 城市#NN 。#PU
+NONE
+95 北京#NR 奥运会#NR 经济#NN 带动#VV 投资#NN 与#CC 消费#NN 总需求#NN 将#AD 超过#VV 人民币#NN 3#CD 万亿元#NN ；#PU 庞大#JJ 商机#NN 已#AD 吸引#VV 三星#NR 、#PU 通用电气#NR 、#PU 戴尔#NR 、#PU 波音#NR 、#PU 西门子#NR 等#ETC 跨国企业#VV 赶赴#VV 中国#NR 设点#VV 拓展#VV 市场#NN
+95 北京#NR 奥运会#NR 的#DEG 庞大#JJ 商机#NN 已#AD 吸引#VV 三星#NR 、#PU 通用电气#NR 、#PU 戴尔#NR 、#PU 波音#NR 、#PU 西门子#NR 等#ETC 跨国企业#VV 赶赴#VV 中国#NR 设点#VV 拓展#VV 市场#NN
+NONE
+96 近#AD 一百年#CD 来#M 二氧化碳#NN 的#DEG 大量#CD 排放#NN 导致#VV 全球#NN 变暖#VV 。#PU
+96 近#AD 一百年#CD 来#M 二氧化碳#NN 的#DEG 大量#CD 排放#NN 导致#VV 全球#NN 变冷#VV 。#PU
+NONE
+97 航海家#NN 1#OD 号#M （#PU Voyager#NN 1#CD ）#PU 是#VC 美国#NR 太空#NN 总署#NN 研制#VV 的#DEC 一艘#JJ 无人#JJ 外#NN 太阳系#NN 太空#NN 探测船#VV ，#PU 重#AD 815#CD 千克#M ，#PU 于#P 1977#NT 年#NN 9#CD 月#NN 5#CD 日#M 发射#NN 。#PU
+97 航海家#NN 1#OD 号#M （#PU Voyager#NN 1#CD ）#PU 发射#VV 至今#AD 已#AD 超过#VV 30#CD 年#M 。#PU
+NONE
+98 美联社#NR 和#CC 艾普索斯#NR 公司#NN 所#MSP 进行#VV 的#DEC 民调#NN 显示#VV ，#PU 美国#NR 总统#NN 布什#NR 的#DEG 施政#NN 满意度#NN 已#AD 首次#AD 滑落#VV 到#VV 39#CD %#CD
+98 艾普索斯#NR 公司#NN 和#CC 美联社#NR 所#MSP 进行#VV 的#DEC 民调#NN 显示#VV ，#PU 美国#NR 总统#NN 布什#NR 的#DEG 施政#NN 满意度#NN 已#AD 首次#AD 滑落#VV 到#VV 39#CD 个#M 百分点#NN
+NONE
+99 火地#NN 群岛#NN 总面积#NN 73#CD ,#PU 753#CD 平方公里#M 。#PU
+99 火地#NN 群岛#NN 总#JJ 周长#NN 73#CD ,#PU 753#CD 公里#M 。#PU
+NONE
+100 西元#JJ 1600#CD 年#M 12#CD 月#NN 31#CD 日#M ，#PU 英国女王#NR 伊莉莎白#NR 一世#AD 授予#VV 英国#NR 东印度#NR 公司#NN 皇家#NN 特许状#NN ，#PU 给予#VV 它#PN 在#P 印度#NR 贸易#NN 的#DEG 特权#NN 。#PU
+100 西元#JJ 1600#CD 年#M 12#CD 月#NN 31#CD 日#M ，#PU 英国女王#NR 伊莉莎白#NR 一世#AD 授予#VV 英国#NR 东印度#NR 公司#NN 皇家#NN 特许状#NN ，#PU 给予#VV 它#PN 在#P 英国#NR 贸易#NN 的#DEG 特权#NN 。#PU
+NONE
+101 阿巴#NR 多自#VV 2003#CD 年#M 接任#VV 琉森#NR 音乐节#NN 音乐#NN 总监#NN 后#LC ，#PU 成立#VV 了#AS 琉森#NR 节日#NN 管弦乐团#NN （#PU Lucerne#JJ Festival#JJ Orchestra#NN ,#PU LFO#NR ）#PU 。#PU
+101 阿巴#NR 多自#AD 本世纪初#VV 接任#VV 琉森#NR 音乐节#NN 音乐#NN 总监#NN 后#LC ，#PU 成立#VV 了#AS 琉森#NR 节日#NN 管弦乐团#NN （#PU Lucerne#JJ Festival#JJ Orchestra#NN ,#PU LFO#NR ）#PU 。#PU
+NONE
+102 约翰#NR 走路#VV （#PU Johnnie#NR Walker#NN ）#PU ，#PU 是#VC 世界#NN 著名#JJ 的#DEG 苏格兰#NR 威士忌#NN 品牌#NN ，#PU 有#VE 150#CD 多年#NN 的#DEG 历史#NN 。#PU
+102 要#VV 成为#VV 世界#NN 著名#JJ 的#DEG 苏格兰#NR 威士忌#NN 品牌#NN 需要#VV 有#VE 150#CD 多年#NN 的#DEG 历史#NN 。#PU
+NONE
+103 葡萄糖#NN 很#AD 容易#VA 被#SB 吸收#VV 进入#VV 血液#NN 中#LC ，#PU 因此#AD 医院#NN 、#PU 运动#NN 爱好者#NN 常常#AD 使用#VV 它#PN 当作#VV 强而有力#VV 的#DEC 快速#JJ 能量#NN 来源#NN 。#PU
+103 医院#NN 、#PU 运动#NN 爱好者#NN 常常#AD 使用#VV 血液#NN 当作#VV 强而有力#VV 的#DEC 快速#JJ 能量#NN 来源#NN 。#PU
+NONE
+104 恐龙#NN 消失#VV 于#P 6#CD 千#CD 5#CD 百万年#NT 前#LC ，#PU 通常#JJ 的#DEG 解释#NN 是#VC 一个#AD 撞击#VV 事件#NN 造成#VV 了#AS 灭绝#NN 。#PU
+104 恐龙#NN 消失#VV 于#P 65#CD ,#PU 00#CD ,#PU 000#CD 年前#NT ，#PU 通常#JJ 的#DEG 解释#NN 是#VC 一个#AD 撞击#VV 事件#NN 造成#VV 了#AS 灭绝#NN 。#PU
+NONE
+105 《#PU Top#JJ Gear#NN 》#PU 在#P 全世界#NN 拥有#VV 多达#AD 3#CD 亿#CD 5#CD ,#PU 000#CD 万#CD 观众#NN 。#PU
+105 《#PU Top#JJ Gear#NN 》#PU 在#P 全世界#NN 拥有#VV 多达#AD 五亿#CD 三千万#CD 观众#NN 。#PU
+NONE
+106 若望#AD ·#PU 保禄#NR 二世#NN 是#VC 自#P 1522#CD 年#M 哈德良#NR 六世#NN 后#LC 第一位#AD 非#VC 意大利人#NN 教宗#NN 。#PU
+106 大部分#CD 的#DEG 教宗#NN 皆#AD 非#VC 意大利人#NN 。#PU
+NONE
+107 1959#NT 年#NN ，#PU 第一届#OD 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 于#P 罗马尼亚#NR 举行#VV ，#PU 参赛国#NN 包括#VV 7#CD 个#M 东欧国家#NN 。#PU
+107 1959#NT 年#NN ，#PU 第一届#OD 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 于#P 东欧#NR 罗马尼亚#NR 举行#VV ，#PU 参赛国#NN 包括#VV 7#CD 个#M 国家#NN 。#PU
+NONE
+108 法国#NR 投票#VV 反对#VV 《#PU 欧盟#NR 宪法#NN 条约#NN 》#PU 是因为#NR 反对派#NN 认为#VV 就业机会#NR 将#AD 受#VV 欧盟#NR 新#JJ 成员国#NN 移民#NN 威胁#NN
+108 法国#NR 投票#VV 反对#VV 《#PU 欧盟#NR 宪法#NN 条约#NN 》#PU 是因为#AD 欧盟#NR 新#JJ 成员国#NN 移民#NN 认为#VV 就业机会#NR 将#AD 受#VV 反对派#NN 威胁#NN
+NONE
+109 正在#AD 香港#NR 出席#VV 2002#CD 年度#NN 国际#NN 数学#NN 卫星#NN 会议#NN 的#DEG 中国数学会#NN 副会长#NN 张继平#NR 透露#VV ,#PU 目前#NT ,#PU 中国#NR 有#VE 2#CD 万多#M 人#NN 活跃#VV 在#P 数学界#NN 。#PU
+109 张维平#NR 是#VC 2002#CD 年#M 中国数学会#NN 副会长#NN
+NONE
+110 燃煤#NN 所#MSP 排出#VV 的#DEC 二氧化碳#NN 是#VC 温室#NN 气体#NN 之一#NN ，#PU 会#VV 造成#VV 温室效应#NN 。#PU
+110 煤会#NN 排出#VV 二氧化碳#NN ，#PU 将#AD 造成#VV 温室效应#NN 。#PU
+NONE
+111 活字印刷术#VV 的#DEC 发明#NN 使得#VV 欧洲#NR 的#DEG 文盲#NN 大量#AD 减少#VV 。#PU
+111 活字印刷术#VV 的#DEC 发明#NN 使得#VV 澳洲#NR 的#DEG 文盲#NN 大量#AD 减少#VV 。#PU
+NONE
+112 第#OD 61#CD 届#M 金球奖#NN 颁奖典礼#NN 已经#AD 结束#VV ，#PU 《#PU 指环王#NR 3#CD ：#PU 王者#NN 回归#NN 》#PU 囊括#VV 了#AS 最佳#JJ 剧情#NN 类#NN 影片#NN 、#PU 最佳#JJ 原创#JJ 配乐#NN 、#PU 最佳#JJ 原创#JJ 歌曲#NN 、#PU 最佳#JJ 导演奖#NN 等#ETC 四项#NN 金球奖#NN 。#PU
+112 HBO#NR 的#DEG 《#PU 美国#NR 天使#NN 》#PU 在#P 第#OD 61#CD 届#M 金球奖#NN 中#LC 大获全胜#VV ，#PU 抱回#VV 最佳#JJ 电视#NN 电影#NN 等#ETC 五座#NN 金球#NN
+NONE
+113 医用#JJ 酒精#NN 主要#AD 指#VV 体积#NN 浓度#NN 为#VC 75#CD %#CD 左右#LC 的#DEG 乙醇#NN 。#PU
+113 医用#JJ 酒精#NN 主要#AD 指#VV 体积#NN 浓度#NN 为#VC 百分之七十五#CD 左右#LC 的#DEG 乙醇#NN 。#PU
+NONE
+114 汽电#NN 共生#VV 在#P 丹麦#NR 等#ETC 斯堪的纳维亚#NR 国家#NN 以及#CC 德国#NR 的#DEG 一部分#CD 被#SB 广泛#AD 使用#VV 。#PU
+114 汽电#NN 共生#VV 在#P 意大利#NR 等#ETC 斯堪的纳维亚#NR 国家#NN 以及#CC 德国#NR 的#DEG 一部分#CD 被#SB 广泛#AD 使用#VV 。#PU
+NONE
+115 H5N1#NR 型#NN 病毒#NN 能#VV 通过#P 禽类#NN 传染给#NN 人体#NN
+115 H5N1#NR 型#NN 病毒#NN 能#VV 通过#P 人体#NN 传染给#NN 禽类#NN
+NONE
+116 丁克#JJ 族#NN 除了#P 双#CD 薪水#NN 、#PU 无#VE 子女#NN 的#DEC 明显#JJ 定义#NN 之外#LC ,#PU 普遍#AD 都#AD 很#AD 年轻#VA
+116 丁克#JJ 族#NN 的#DEG 明显#JJ 定义#NN 是#VC 双#CD 薪水#NN 、#PU 无#VE 子女#NN
+NONE
+117 超级#JJ 油轮#NN 诺克#NR ·#PU 耐#VV 维斯#NR 号#NN （#PU Knock#NN Nevis#NN ）#PU 曾#AD 是#VC 世界#NN 上#LC 最长#VV 的#DEC 船只#NN 与#CC 人工#JJ 制造#NN 水面#NN 漂浮物#NN ，#PU 船长#NN 超过#VV 1#CD /#PU 4#CD 英里#M （#PU 458#CD 公尺#M ）#PU 。#PU
+117 超级#JJ 油轮#NN 诺克#NR ·#PU 耐#VV 维斯#NR 号#NN （#PU Knock#NN Nevis#NN ）#PU 曾#AD 是#VC 世界#NN 上#LC 最长#VV 的#DEC 船只#NN 与#CC 天然#JJ 制造#NN 水面#NN 漂浮物#NN 。#PU
+NONE
+118 《#PU 三国演义#NR 》#PU 、#PU 《#PU 水浒传#NN 》#PU 、#PU 《#PU 西游记#NR 》#PU 、#PU 和#CC 《#PU 红楼梦#NN 》#PU 被#SB 称为#VV 中国#NR 明清#JJ 时代#NN 的#DEG 四大名著#NN
+118 《#PU 三国演义#NR 》#PU 、#PU 《#PU 水浒传#NN 》#PU 、#PU 《#PU 西游记#NR 》#PU 、#PU 和#CC 《#PU 红楼梦#NN 》#PU 被#SB 称为#VV 中国#NR 宋代#NR 的#DEG 四大名著#NN
+NONE
+119 蝙蝠#NN 在#P 四肢#NN 和#CC 尾#NN 之间#LC 覆蓋#VV 著#AS 薄#VA 而#CC 坚韧#VA 的#DEC 翼#NN 膜#NN 可以#VV 像#P 鸟#NN 一样#VA 鼓翼#VV 飞行#NN 。#PU
+119 蝙蝠#NN 有#VE 像#P 鸟#NN 一样#VA 的#DEC 羽毛#NN 可以#VV 鼓翼#VV 飞行#NN 。#PU
+NONE
+120 约翰#NR 走路#VV （#PU Johnnie#NR Walker#NN ）#PU ，#PU 是#VC 世界#NN 著名#JJ 的#DEG 苏格兰#NR 威士忌#NN 品牌#NN ，#PU 有#VE 150#CD 多年#NN 的#DEG 历史#NN 。#PU
+120 约翰#NR 走路#VV （#PU Johnnie#NR Walker#NN ）#PU ，#PU 是#VC 世界#NN 著名#JJ 的#DEG 苏格兰#NR 威士忌#NN 品牌#NN ，#PU 创立#VV 至今已有#VV 150#CD 多年#NN 。#PU
+NONE
+121 不吃#JJ 早餐#NN 易#AD 导致#VV 高#JJ 胆固醇#NN 而#MSP 增加#VV 心脏病#NN 风险#NN
+121 心脏病#NN 与#CC 胆固醇#NN 有关#VA
+NONE
+122 造成#VV 东南亚#NR 及#CC 南亚地区#NR 的#DEG 重大#JJ 伤亡#NN 的#DEG 南亚#NR 海啸#NN 是#VC 以#P 800km#CD /#PU hr#CD 的#DEG 速度#NN 前进#VV 的#DEC 超大型#JJ 长波#NN
+122 造成#VV 东南亚#NR 及#CC 南亚地区#NR 的#DEG 重大#JJ 伤亡#NN 的#DEG 南亚#NR 海啸#NN 是#VC 以#P 每#DT 小时#NN 八百公里#NT 的#DEG 速度#NN 前进#VV 的#DEC 超大型#JJ 长波#NN
+NONE
+123 琉球#NN 狐蝠#NN 为#VC 一种#AD 分布#VV 于#P 日本#NR 、#PU 菲律宾#NR 和#CC 台湾岛#NR 的#DEG 大型#JJ 蝙蝠#NN 。#PU
+123 琉球#NN 狐蝠#NN 为#VC 三种#AD 分布#VV 于#P 日本#NR 、#PU 菲律宾#NR 和#CC 台湾岛#NR 的#DEG 大型#JJ 蝙蝠#NN 通称#VV 。#PU
+NONE
+124 1999#CD 年#M ，#PU 美国国会#NN 图书馆#NN 将#AD 罗马#NR 假期#NN 评为#VV “#PU 文化#NN 杰出#JJ 奖#NN ”#PU ，#PU 并#AD 收入#VV “#PU 国家级#JJ 收藏#NN ”#PU 。#PU
+124 1999#CD 年#M ，#PU 罗马#NR 假期#NN 被#SB 美国国会#VV 图书馆#NN 评为#VV “#PU 文化#NN 杰出#JJ 奖#NN ”#PU ，#PU 并#AD 收入#VV “#PU 国家级#JJ 收藏#NN ”#PU 。#PU
+NONE
+125 全世界#NN 共有#VV 两大#NR 地震带#NN ,#PU 一个#CD 是#VC 环#NN 太平洋#NR 地震带#NN ,#PU 另#AD 一个#CD 是#VC 欧亚#NR 地震带#NN 。#PU
+125 伊朗#NR 全境#NN 基本#AD 都#AD 处于#VV 欧亚#NR 地震带#NN 上#LC
+NONE
+126 琉球#NN 狐蝠#NN 为#VC 一种#AD 分布#VV 于#P 日本#NR 、#PU 菲律宾#NR 和#CC 台湾岛#NR 的#DEG 大型#JJ 蝙蝠#NN 。#PU
+126 琉球#NN 狐蝠#AD 分布#VV 区域#NN 包括#VV 菲律宾#NR 和#CC 台湾#NR 。#PU
+NONE
+127 酒精#NN 分子#NN 中#LC 含有#VV 两个#CD 碳原子#NN 与#CC 六个#CD 氢原子#NN 。#PU
+127 酒精#NN 分子#NN 由#P 两个#CD 碳原子#NN 与#CC 六个#CD 氢原子#NN 组成#VV 。#PU
+NONE
+128 因为#P 柏油#NN 对#P 健康#NN 的#DEG 危害#NN ，#PU 现在#NT 铺设#VV 柏油#NN 道路#NN 已经#AD 弃用#VV 柏油#NN 改用#VV 沥青#NN 。#PU
+128 因为#P 柏油#NN 对#P 健康#NN 的#DEG 危害#NN ，#PU 未来#NT 铺设#VV 柏油#NN 道路#NN 将弃#VV 用#P 柏油#NN 改用#VV 沥青#NN 。#PU
+NONE
+129 若望#AD ·#PU 保禄#NR 二世#NN 是#VC 自#P 1522#CD 年#M 哈德良#NR 六世#NN 后#LC 第一位#AD 非#VC 意大利人#NN 教宗#NN 。#PU
+129 若望#AD ·#PU 保禄#NR 二世#NN 是#VC 自#P 1522#CD 年#M 哈德良#NR 六世#NN 后#LC 第一位#OD 意大利人#NN 教宗#NN 。#PU
+NONE
+130 1970#NT 年代#NN ，#PU 瑞典#NR 通过#P 现代#JJ 宪法#NN ，#PU 瑞典#NR 国王#NN 在#P 议会#NN 的#DEG 一切#DT 权力#NN 被#SB 废除#VV 。#PU 但#AD 内阁#NN 每月#AD 仍会#VV 向#P 国王#NN 在#P 王宫#NN 内#LC 正式#AD 汇报#VV 。#PU
+130 1970#NT 年代#NN ，#PU 瑞典#NR 通过#P 现代#JJ 宪法#NN ，#PU 瑞典#NR 国王#NN 在#P 议会#NN 的#DEG 权力#NN 被#SB 废除#VV 。#PU 但#AD 内阁#NN 每月#AD 仍会#VV 向#P 国王#NN 在#P 王宫#NN 内#LC 正式#AD 汇报#VV 。#PU
+NONE
+131 香港中文#NR 及#CC 城市#NN 大学#NN 大量#AD 吸纳#VV 内地#NN 应届#JJ 高考#NN 优秀生#NN
+131 很多#CD 内地#NN 学生#NN 进入#VV 香港中文大学#NR
+NONE
+132 瑞典#NR 皇家学院#NN 每年#AD 都#AD 颁布#VV 诺贝尔文学奖#NR ，#PU 以#P 纪念#VV 阿尔弗雷#NR 德#NR ·#PU 诺贝尔#NR 。#PU
+132 诺贝尔文学奖#NR 由#P 瑞典#NR 皇家学院#NN 颁布#VV
+NONE
+133 在#P 1911#NT 年#NN 标准#NN 石油#NN 被#SB 判决#VV 违反#VV 反托拉斯法#NN 并#CC 被#SB 拆#VV 分为#VV 34#CD 家#M 公司#NN 。#PU
+133 在#P 1911#NT 年#NN 标准#NN 石油#NN 被#SB 判决#VV 违反#VV 反托拉斯法#NN 并#CC 拆#VV 分为#VV 34#CD 家#M 公司#NN 。#PU
+NONE
+134 红牛#NN 车队#NN 旗下#NN 车手#NN 赛#NR 巴斯蒂安#NR ·#PU 维#NR 泰尔#NR 则#AD 于#P 2010#NT 、#PU 2011#NT 、#PU 2012#CD 及#CC 2013#CD 年#M 连续#AD 四年#NT 获得#VV F1#NN 年度#NN 车手#NN 总冠军#NN 。#PU
+134 红牛#NN 车队#NN 旗下#NN 车手#NN 赛#NR 巴斯蒂安#NR ·#PU 维#NR 泰尔#NR 则#AD 于#P 2010#NT 、#PU 2011#NT 、#PU 2012#CD 及#CC 2013#CD 年#M 连续#AD 四年#NT 抢下#VV F1#NN 年度#NN 车手#NN 总冠军#NN 。#PU
+NONE
+135 活字印刷术#VV 的#DEC 发明#NN 使得#VV 欧洲#NR 的#DEG 文盲#NN 大量#AD 减少#VV 。#PU
+135 雕版#NN 印刷术#NN 的#DEG 发明#NN 使得#VV 欧洲#NR 的#DEG 文盲#NN 大量#AD 减少#VV 。#PU
+NONE
+136 唐卡系#NR 藏语#NN ，#PU 意为#VV 用彩缎#JJ 织物#NN 装裱#VV 成#VV 的#DEC 卷轴#NN 画#NN ，#PU 它#PN 具有#VV 鲜明#VA 的#DEC 民族#NN 特点#NN 、#PU 浓郁#VA 的#DEC 宗教#NN 色彩#NN 和#CC 独特#JJ 的#DEG 艺术风格#NN 。#PU
+136 唐卡#NN 具有#VV 通史#NN 性#NN 、#PU 趣味性#NN 、#PU 知识性#NN 、#PU 宗教性#NN 、#PU 工艺性#NN 等#ETC 特点#NN ，#PU 故#AD 被#LB 人们#NN 誉为#VV 藏族#NN 的#DEC “#PU 百科全书#NN ”#PU 。#PU
+NONE
+137 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 清朝#NR 宫廷#NN 女#JJ 官裕德龄#NN 所#MSP 撰写#VV 的#DEC 一本#NN 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 。#PU
+137 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 清朝#NR 宫廷#NN 女#JJ 官裕德龄#NN 所#MSP 撰写#VV 的#DEC 一本#NN 有关#P 明朝#NR 光绪皇帝#NR 一生#NN 的#DEG 故事#NN 。#PU
+NONE
+138 1999#CD 年#M ，#PU A#NN #PU E#FW Network#NN 在#P 它#PN 的#DEG “#PU 千年#NN 人物#NN ”#PU 排行#VV 中将#NN 古登堡#NN 列为#VV 第一位#NN 。#PU
+138 1999#CD 年#M ，#PU A#NN #PU E#FW Network#NN 在#P 它#PN 的#DEG “#PU 千年#NN 人物#NN ”#PU 排行#VV 中将#NN 古登堡#NN 列为#VV 第#NN 7#CD 位#M 。#PU
+NONE
+139 布朗#NR 尼#NR 的#DEG 发明#NN 就#AD 像#P 很多#CD 的#DEG 美食#NN ，#PU 很#AD 可能#VV 只是#AD 一个#CD 意外#JJ 的#DEG 结果#NN 。#PU
+139 巧克力#NN 的#DEG 发明#NN 就#AD 像#P 很多#CD 的#DEG 美食#NN ，#PU 很#AD 可能#VV 只是#AD 一个#CD 意外#JJ 的#DEG 结果#NN 。#PU
+NONE
+140 火地#NN 群岛#NN 南端#NN 的#DEG 陆#NN 岬#VV 合恩角#NN 被#SB 广泛#AD 认为#VV 是#VC 南美洲#NR 的#DEG 最南端#NN 。#PU
+140 火地#NN 群岛#NN 南端#NN 的#DEG 合恩角#NN 被#SB 广泛#AD 认为#VV 是#VC 南美洲#NR 的#DEG 最南端#NN 。#PU
+NONE
+141 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电站#NN 的#DEG 发电#NN 成本#NN 仍然#AD 高于#VV 化石#NN 燃料#NN 发电#VV 。#PU
+141 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电站#NN 的#DEG 发电#NN 成本#NN 仍然#AD 少于#VV 化石#NN 燃料#NN 发电#VV 。#PU
+NONE
+142 美国最高法院#NR 首席#JJ 大法官#NN 哈伦#NR ·#PU 菲斯#NR 克#NR ·#PU 斯#NR 通称#VV 纽伦堡#NR 审判#NN 是#VC 一场#NN 骗局#NN 。#PU
+142 哈伦#NR ·#PU 菲斯#NR 克#NR ·#PU 斯#NR 通称#VV 纽伦堡#NR 审判#NN 是#VC 一场#NN 骗局#NN 。#PU
+NONE
+143 若望#AD ·#PU 保禄#NR 二世#NR 曾#AD 访问#VV 罗马尼亚#NR ，#PU 成为#VV 自从#P 1054#CD 年#M 东西#NN 教会#NN 分裂#VV 之后#LC ，#PU 第一位#AD 拜访#VV 东正教#NR 国家#NN 的#DEG 教宗#NN 。#PU
+143 自从#P 1054#CD 年#M 东西#NN 教会#NN 分裂#VV 之后#LC ，#PU 第一位#AD 拜访#VV 东正教#NR 国家#NN 的#DEG 教宗#NN 是#VC 若望#VV ·#PU 保禄#VV 二世#NN 。#PU
+NONE
+144 酸雨#NN 又称#VV 酸性#NN 沉降#VV ，#PU 一般#AD 指随#VV 降水#NN 而#MSP 沉降#VV 到#VV 地面#NN 的#DEC 酸性#JJ 物质#NN 。#PU
+144 酸雨#NN 一般#AD 指随#VV 降水#NN 而#MSP 沉降#VV 到#VV 地面#NN 的#DEC 酸性#JJ 物质#NN 。#PU
+NONE
+145 最#AD 年轻#JJ 踏上#VV 红#JJ 磡#NN 体育馆#NN 开#VV 演唱会#NN 的#DEG 为#P 台湾#NR 男歌手#NN 林志颖#NR （#PU 当时#NT 18#CD 岁#M ）#PU 。#PU
+145 最#AD 年轻#JJ 踏上#VV 香港#NR 体育馆#NN 开#VV 演唱会#NN 的#DEG 为#P 台湾#NR 男歌手#NN 林志颖#NR （#PU 当时#NT 18#CD 岁#M ）#PU 。#PU
+NONE
+146 柯布#NR -#PU 道格拉斯#NR 生产#VV 函数#NN 最早#AD 由#P 努特#NR ·#PU 维#NR 克塞尔#NR （#PU Knut#NR Wicksell#NR ）#PU 提出#VV 。#PU
+146 柯布#NR -#PU 道格拉斯#NR 生产#VV 函数#NN 首先#AD 由#P 努特#NR ·#PU 维#NR 克塞尔#NR （#PU Knut#NR Wicksell#NR ）#PU 提出#VV 。#PU
+NONE
+147 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 分割#VV 为#P 两个#CD 独立#JJ 的#DEG 集团#NN 。#PU
+147 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 分割#VV 为#P 两个#CD 交叉#VV 持股#VV 的#DEC 集团#NN 。#PU
+NONE
+148 无#VE 实权#NN 的#DEC 爱尔兰#NR 总统#NN 要#VV 接触#VV 内阁#NN 官员#NN 需#VV 经过#VV 总理#NN 办公室#NN 安排#NN 。#PU
+148 手握#VV 实权#NN 的#DEC 爱尔兰#NR 总统#NN 要#VV 接触#VV 内阁#NN 官员#NN 需#VV 经过#VV 总理#NN 办公室#NN 安排#NN 。#PU
+NONE
+149 美国#NR 选手#NN 菲尔#NR 普斯#NR 在#P “#PU 水立方#NN ”#PU 连夺#VV 八枚#NN 金牌#NN ，#PU 成为#VV 夏季#NT 奥运会#NR 获得#VV 金牌#NN 总数#NN 最多#AD 的#DEV 运动员#NN 。#PU
+149 美国#NR 选手#NN 菲尔#NR 普斯#NR 在#P “#PU 水立方#NN ”#PU 连夺#VV 八枚#NN 金牌#NN ，#PU 成为#VV 夏季#NT 奥运会#NR 获得#VV 奖牌#NN 总数#NN 最多#AD 的#DEV 运动员#NN 。#PU
+NONE
+150 成长性#JJ 投资#NN 倾向#VV 于#P 注重#VV 目标#NN 企业#NN 的#DEG 利润#NN 成长性#NN 和#CC 可持续性#JJ ，#PU 往往#AD 是#VC 投资#VV 于#P 高#JJ 市盈率#NN 、#PU 高#JJ 市净率#NN 的#DEG 股票#NN 。#PU
+150 成长性#JJ 投资#NN 倾#VV 往往#AD 是#VC 投资#VV 于#P 高#JJ 市盈率#NN 、#PU 高#JJ 市净率#NN 的#DEG 股票#NN 。#PU
+NONE
+151 郭台铭#NR （#PU 生于#VV 1950#NT 年#NN ）#PU 是鸿海#NR 集团#NN 的#DEG 董事长#NN
+151 郭台铭#NR 是鸿海#NR 集团#NN 的#DEG 董事长#NN
+NONE
+152 在#P 1911#NT 年#NN 标准#NN 石油#NN 被#SB 判决#VV 违反#VV 反托拉斯法#NN 并#CC 被#SB 拆#VV 分为#VV 34#CD 家#M 公司#NN 。#PU
+152 在#P 1911#NT 年#NN 标准#NN 石油#NN 被#SB 判决#VV 违反#VV 反托拉斯法#NN 并#CC 被#SB 拆#VV 分为#VV 3#CD 、#PU 4#CD 家#M 公司#NN 。#PU
+NONE
+153 中国教育部#NR 28#CD 日向#NN 新加坡#NR 国家图书馆#NN 捐赠#VV 1000#CD 册#M 中文#NN 图书#NN ,#PU 表示#VV 对#P 新加坡#NR 华语#NN 学习#VV 的#DEC 支持#NN
+153 中国教育部#NR 28#CD 日向#NN 新加坡#NR 国家图书馆#NN 捐赠#VV 两千#CD 册#M 中文#NN 图书#NN ,#PU 表示#VV 对#P 新加坡#NR 华语#NN 学习#VV 的#DEC 支持#NN
+NONE
+154 和#P 信#NN 集团#NN （#PU 又称#VV 和#CC 信#VV 企业#NN 团#NN ）#PU 是#VC 台湾#NR 的#DEG 民营企业#NN 集团#NN ，#PU 由#P 鹿港#NR 辜家#NR 的#DEG 辜振甫#NR 所#MSP 创立#VV 。#PU
+154 和#P 信#NN 是#VC 台湾#NR 的#DEG 民营企业#NN 集团#NN ，#PU 由#P 鹿港#NR 辜家#NR 的#DEG 辜振甫#NR 所#MSP 创立#VV 。#PU
+NONE
+155 1970#NT 年代#NN ，#PU 瑞典#NR 通过#P 现代#JJ 宪法#NN ，#PU 瑞典#NR 国王#NN 在#P 议会#NN 的#DEG 一切#DT 权力#NN 被#SB 废除#VV 。#PU 但#AD 内阁#NN 每月#AD 仍会#VV 向#P 国王#NN 在#P 王宫#NN 内#LC 正式#AD 汇报#VV 。#PU
+155 瑞典#NR 国王#NN 为#P 虚位#JJ 元首#NN 。#PU
+NONE
+156 印度#NR 与#CC 巴基斯坦#NR 两#CD 国#NN 谈判#NN 条件#NN 是#VC 要#VV 巴国#NR 制止#VV 伊斯兰教#NN 好战#JJ 分子#NN 渗透#VV 印属#NN 喀什米尔#NR
+156 印度#NR 与#CC 巴基斯坦#NR 两#CD 国#NN 谈判#NN 条件#NN 是#VC 要#VV 印度#NR 制止#VV 伊斯兰教#NN 好战#JJ 分子#NN 渗透#VV 印属#NN 喀什米尔#NR
+NONE
+157 室女座#NN 最#AD 显著#VA 的#DEC 恒星#NN 是#VC 角宿#NN 一#CD ，#PU 这颗#AD 蓝白色#JJ 的#DEG 星#NN 是#VC 全天#AD 最亮#VV 的#DEC 21#CD 颗#M 恒星#NN 之一#NN 。#PU
+157 室女座#NN 是#VC 全天#AD 最亮#VV 的#DEC 21#CD 个#M 星座#NN 之一#NN 。#PU
+NONE
+158 水晶宫#NR （#PU The#DT Crystal#JJ Palace#NN ）#PU 是#VC 十九世纪#NT 的#DEG 英国#NR 建筑#NN 奇观#NN 之一#NN ，#PU 也#AD 是#VC 工业革命#NN 时代#NN 的#DEG 重要#JJ 象征物#NN 。#PU
+158 水晶宫#NR （#PU The#DT Crystal#JJ Palace#NN ）#PU 于#P 西元#JJ 1795#CD 年#M 遭#VV 大火#NN 焚毁#VV 。#PU
+NONE
+159 韩国#NR 成均馆#NR 大学#NN 由#P 韩国三星电子#NR 出资#VV ，#PU 优秀#JJ 学生会#NN 直接#AD 被#SB 分配#VV 到#VV 三星电子公司#NN 。#PU
+159 韩国#NR 成均馆#NR 大学#NN 由#P 韩国三星电子#NR 出资#VV ，#PU 优秀#JJ 学生会#NN 直接#AD 被#SB 分配#VV 到#VV 三星#NR 。#PU
+NONE
+160 约翰#NR 走路#VV （#PU Johnnie#NR Walker#NN ）#PU ，#PU 是#VC 世界#NN 著名#JJ 的#DEG 苏格兰#NR 威士忌#NN 品牌#NN ，#PU 有#VE 150#CD 多年#NN 的#DEG 历史#NN 。#PU
+160 约翰#NR 走路#VV （#PU Johnnie#NR Walker#NN ）#PU ，#PU 是#VC 世界#NN 著名#JJ 的#DEG 爱尔兰#NR 威士忌#NN 品牌#NN ，#PU 有#VE 150#CD 多年#NN 的#DEG 历史#NN 。#PU
+NONE
+161 医用#JJ 酒精#NN 主要#AD 指#VV 体积#NN 浓度#NN 为#VC 75#CD %#CD 左右#LC 的#DEG 乙醇#NN 。#PU
+161 医用#JJ 酒精#NN 主要#AD 指#VV 浓度#NN 为#VC 75#CD %#CD 左右#LC 的#DEG 乙醇#NN 。#PU
+NONE
+162 2005#CD 年#M 7#CD 月#M 7#CD 日#M 的#DEG 伦敦#NR 地铁#NN 爆炸#NN 发生#VV 于#P 早上#NT 8#CD 点#M 50#CD 分#M
+162 2005#CD 年#M 7#CD 月#M 7#CD 日#M 的#DEG 伦敦#NR 地铁#NN 爆炸#NN 发生#VV 于#P 上午#NT 8#CD 点#M 50#CD 分#M
+NONE
+163 九层#NN 塔#NN 对#P 寒冷#JJ 非常#AD 敏感#VA ，#PU 在#P 热#NN 和#CC 干燥#VA 的#DEC 环境#NN 下#LC 生长#VV 得#DER 最好#AD 。#PU
+163 九层#NN 塔不耐#NR 寒冷#VA ，#PU 在#P 热#NN 和#CC 干燥#VA 的#DEC 环境#NN 下#LC 生长#VV 得#DER 最好#AD 。#PU
+NONE
+164 天满宫#NR 是#VC 指#VV 日本#NR 祭祀#NN 学问#NN 之神#NR 菅#VV 原道#NN 真的#AD 神社#NN ，#PU 遍及#VV 于#P 日本#NR 各地#NN 。#PU
+164 天满宫#NR 是#VC 指#VV 日本#NR 祭祀#NN 学问#NN 之神#NR 菅#VV 原道#NN 真的#AD 宗教建筑#VV ，#PU 遍及#VV 于#P 日本#NR 各地#NN 。#PU
+NONE
+165 超级#JJ 油轮#NN 诺克#NR ·#PU 耐#VV 维斯#NR 号#NN （#PU Knock#NN Nevis#NN ）#PU 曾#AD 是#VC 世界#NN 上#LC 最长#VV 的#DEC 船只#NN 与#CC 人工#JJ 制造#NN 水面#NN 漂浮物#NN ，#PU 船长#NN 超过#VV 1#CD /#PU 4#CD 英里#M （#PU 458#CD 公尺#M ）#PU 。#PU
+165 油轮#NN 诺克#NR ·#PU 耐#VV 维斯#NR 号#NN （#PU Knock#NN Nevis#NN ）#PU 曾#AD 是#VC 世界#NN 上#LC 最长#VV 的#DEC 船只#NN 与#CC 人工#JJ 制造#NN 水面#NN 漂浮物#NN ，#PU 船长#NN 超过#VV 1#CD /#PU 4#CD 英里#M （#PU 458#CD 公尺#M ）#PU 。#PU
+NONE
+166 由于#P 研发#NN 和#CC 生产成本#NN 高昂#VA ，#PU LFA#NR 被#SB 指为#VV 并#CC 不会#VV 为#P 凌志#NN 带来#VV 任何#DT 盈利#NN 。#PU
+166 由于#P 研发#NN 和#CC 生产成本#NN 高昂#VA ，#PU LFA#NR 被#SB 指为#VV 并#CC 不会#VV 为#P 凌志#NN 带来#VV 任何#DT 获利#NN 。#PU
+NONE
+167 世界#NN 少棒#NN 大赛#NN 创办#VV 于#P 1947#CD 年#M ，#PU 每年#AD 8#CD 月#NN 在#P 宾州#NR 南#NN 威廉#NR 波特#NR 比赛#NN 。#PU
+167 世界#NN 少棒#NN 大赛#NN 创办#VV 于#P 1947#CD 年#M ，#PU 每年#AD 8#CD 月#NN 在#P 宾州#NR 北#NN 威廉#NR 波特#NR 比赛#NN 。#PU
+NONE
+168 中#NR 俄#NR 双方#PN 各#AD 取得#VV 黑瞎子#NR 岛#NN 等#ETC 争议#NN 领土#NN 的#DEG 一半#CD
+168 《#PU 中#NR 俄国#NR 界#NN 东段#NN 补充#NN 协定#NN 》#PU 签订#VV 之前#LC 双方#PN 的#DEG 争议#NN 点#NN 是#VC 黑瞎子#NR 岛#NN
+NONE
+169 火力发电厂#NR 是#VC 二氧化碳#NN 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+169 二氧化碳#NN 的#DEG 来源#NN 包括#VV 火力发电厂#NN 等等#ETC 。#PU
+NONE
+170 马来西亚#NR 陆军#NN 的#DEG 前身#NN 是#VC 成立#VV 于#P 1933#CD 年#M 3#CD 月#NN 1#CD 日#M 的#DEC 马来#NR 志愿#JJ 兵团#NN 。#PU
+170 马来西亚#NR 海军#NN 的#DEG 前身#NN 是#VC 成立#VV 于#P 1933#CD 年#M 3#CD 月#NN 1#CD 日#M 的#DEC 马来#NR 志愿#JJ 兵团#NN 。#PU
+NONE
+171 成均馆#NN 是#VC 朝鲜半岛#NR 历代#NN 王朝#NN 最高#JJ 学府#NN ，#PU 地位#NN 同#P 等于#VV 古代#NN 中国#NR 的#DEG 国子监#NN 、#PU 太学#NN 。#PU
+171 成均馆#NN 是#VC 古代#NN 中国#NR 的#DEG 国子监#NR 于#P 朝鲜半岛#NR 的#DEC 分院#NN 。#PU
+NONE
+172 《#PU 罗马#NR 假期#NN 》#PU （#PU Roman#NR Holiday#NR ）#PU 是#VC 1953#CD 年#M 拍摄#VV 的#DEC 浪漫爱情#NN 片#NN 。#PU
+172 《#PU 罗马#NR 假期#NN 》#PU （#PU Roman#NR Holiday#NR ）#PU 是#VC 1953#CD 年#M 上映#VV 的#DEC 浪漫爱情#NN 片#NN 。#PU
+NONE
+173 电影#NN 《#PU 无极#NR 》#PU 在#P 12#CD 月#NN 12#CD 日晚#NN 将#AD 举行#VV 首映典礼#NN
+173 电影#NN 《#PU 无极#NR 》#PU 首映典礼#NN 在#P 12#CD 月#NN 12#CD 日#M
+NONE
+174 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 的#DEG 参赛者#NN 在#P 比赛#NN 时#LC 必须#VV 未满#VV 20#CD 周岁#NN ，#PU 最高#JJ 学历#NN 为#VC 中学#NN 。#PU
+174 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 严格#AD 限制#VV 参赛者#NN 的#DEC 年龄#NN 与#CC 学历#NN 。#PU
+NONE
+175 凌志#VV LFA#NR 最早#AD 以#P 概念车#NN 的#DEG 形象#NN 发表#VV 于#P 2005#CD 年#M 北美#NR 国际#NN 汽车展#NN 。#PU
+175 凌志#VV LFA#NR 是#VC 一款#NR 汽车#NN 的#DEG 型号#NN 。#PU
+NONE
+176 男性#NN 腰围#NN 超过#VV 94#CD 厘米#M （#PU 37#CD 英寸#M ）#PU 可#VV 称为#VV 肥胖#NN
+176 男性#NN 腰围#NN 超过#VV 94#CD 厘米#M ，#PU 患#NN 糖尿病#NN 和#CC 心脏病#NN 的#DEG 风险#NN 会#VV 增高#VV
+NONE
+177 美国#NR 在台协会#NR 基于#P 其#PN 功能#NN 业务#NN ，#PU 事实上#AD 相当于#VV 美国#NR 在#P 中华民国#NR （#PU 台湾#NR ）#PU 的#DEG 大使级#NN 外交代表#NN 机构#NN 。#PU
+177 AIT#NR 基于#P 其#PN 功能#NN 业务#NN ，#PU 事实上#AD 相当于#VV 美国#NR 在#P 中华民国#NR （#PU 台湾#NR ）#PU 的#DEG 大使级#NN 外交代表#NN 机构#NN 。#PU
+NONE
+178 红牛#NN 车队#NN 旗下#NN 车手#NN 赛#NR 巴斯蒂安#NR ·#PU 维#NR 泰尔#NR 则#AD 于#P 2010#NT 、#PU 2011#NT 、#PU 2012#CD 及#CC 2013#CD 年#M 连续#AD 四年#NT 获得#VV F1#NN 年度#NN 车手#NN 总冠军#NN 。#PU
+178 赛#NR 巴斯蒂安#NR ·#PU 维#NR 泰尔#NR 曾#AD 连续#AD 四年#NT 获得#VV F1#NN 年度#NN 车手#NN 总冠军#NN 。#PU
+NONE
+179 大英国协#NR 元首#NN 为#P 伊丽莎白#NR 二世#JJ 女王#NN 。#PU
+179 大英国协#NR 总理#NN 为#P 伊丽莎白#NR 二世#JJ 女王#NN 。#PU
+NONE
+180 室女座#NN 是#VC 希腊#NR 正义#NN 女神#NN 阿斯特#NR 莉亚#NR 的#DEG 象征#NN ，#PU 亦#AD 为#VC 农业#NN 女神#NN 。#PU
+180 室女座#NN 是#VC 罗马#NR 正义#NN 女神#NN 阿斯特#NR 莉亚#NR 的#DEG 象征#NN ，#PU 亦#AD 为#VC 农业#NN 女神#NN 。#PU
+NONE
+181 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 的#DEG 参赛者#NN 在#P 比赛#NN 时#LC 必须#VV 未满#VV 20#CD 周岁#NN ，#PU 最高#JJ 学历#NN 为#VC 中学#NN 。#PU
+181 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 的#DEG 参赛者#NN 必须#VV 在#P 比赛#NN 时#LC 未满#VV 20#CD 周岁#NN ，#PU 最高#JJ 学历#NN 为#VC 中学#NN 。#PU
+NONE
+182 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 清朝#NR 宫廷#NN 女#JJ 官裕德龄#NN 所#MSP 撰写#VV 的#DEC 一本#NN 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 。#PU
+182 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 清朝#NR 宫廷#NN 女#JJ 官裕德龄#NN 所#MSP 撰写#VV 的#DEC 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 。#PU
+NONE
+183 除#P 广东#NR 以外#LC ，#PU 萝#NN 蔔#VV 糕#NN 在#P 台湾#NR 、#PU 新加坡#NR 及#CC 马来西亚#NR 等#ETC 国家#NN ，#PU 甚至#AD 东亚地区#NR 也#AD 极为#AD 普遍#VA 。#PU
+183 除#P 广东#NR 以外#LC ，#PU 萝#NN 蔔#VV 糕#NN 在#P 台湾#NR 、#PU 新加坡#NR 及#CC 马来西亚#NR 等#ETC 国家#NN ，#PU 甚至#AD 东亚#NR 也#AD 极为#AD 普遍#VA 。#PU
+NONE
+184 琉森#NR 音乐节#NN （#PU Lucerne#JJ Festival#NN ）#PU 是#VC 欧洲#NR 主要#JJ 的#DEG 音乐节#NN 之一#NN ，#PU 举办地#NN 位于#VV 瑞士#NR 中部#NN 的#DEG 城市#NN 琉森#NN 。#PU
+184 琉森#NR 音乐节#NN （#PU Lucerne#JJ Festival#NN ）#PU 是#VC 欧洲#NR 每年#AD 主要#VA 的#DEC 音乐节#NN 之一#NN ，#PU 举办地#NN 位于#VV 瑞士#NR 中部#NN 的#DEG 城市#NN 琉森#NN 。#PU
+NONE
+185 2003#CD 年#M 印度#NR 与#CC 巴基斯坦#NR 和平谈判#VV ,#PU 印度#NR 总理#NN 瓦杰帕伊#NR 说#VV ，#PU 印度#NR 将#AD 恢复#VV 印巴#NN 间#LC 的#DEG 民航#NN 交通#NN
+185 2003#CD 年#M 印度#NR 与#CC 巴基斯坦#NR 和平谈判#VV ,#PU 印度#NR 总理#NN 瓦杰帕伊#NR 说#VV ，#PU 印度#NR 将#AD 恢复#VV 两国间#NN 的#DEC 民航#NN 交通#NN
+NONE
+186 在#P 奥运会#NR 中#LC 跌倒#VV 而#MSP 失去#VV 夺牌#JJ 机会#NN 的#DEG 前#JJ 世界冠军#NN 艾伦#NR 约翰逊#NR ，#PU 再次#AD 向#P 世界冠军#NR 刘翔#NR 挑战#NN 。#PU 新旧#JJ 跨栏#NN 王#NN 的#DEG 对决#NN ，#PU 也#AD 是#VC 此#DT 奥运#NR 注目#VV 的#DEC 焦点#NN
+186 刘翔#NR 和#CC 约翰逊#NR 是#VC 新旧#JJ 跨栏#NN 王#NN
+NONE
+187 水晶宫#NR （#PU The#DT Crystal#JJ Palace#NN ）#PU 是#VC 十九世纪#NT 的#DEG 英国#NR 建筑#NN 奇观#NN 之一#NN ，#PU 也#AD 是#VC 工业革命#NN 时代#NN 的#DEG 重要#JJ 象征物#NN 。#PU
+187 水晶宫#NR （#PU The#DT Crystal#JJ Palace#NN ）#PU 是#VC 十九世纪#NT 的#DEG 英国#NR 奇观#NN 之一#NN ，#PU 也#AD 是#VC 工业革命#NN 时代#NN 的#DEG 象征物#NN 。#PU
+NONE
+188 阿巴#NR 多自#VV 2003#CD 年#M 接任#VV 琉森#NR 音乐节#NN 音乐#NN 总监#NN 后#LC ，#PU 成立#VV 了#AS 琉森#NR 节日#NN 管弦乐团#NN （#PU Lucerne#JJ Festival#JJ Orchestra#NN ,#PU LFO#NR ）#PU 。#PU
+188 阿巴#NR 多自#VV 2003#CD 年#M 接任#VV 琉森#NR 音乐节#NN 总监#NN 后#LC ，#PU 成立#VV 了#AS 琉森#NR 节日#NN 管弦乐团#NN （#PU Lucerne#JJ Festival#JJ Orchestra#NN ,#PU LFO#NR ）#PU 。#PU
+NONE
+189 蛤蟆功#NN 是#VC 西毒#NR 欧阳锋#NR 的#DEG 成名#JJ 绝技#NN ，#PU 后#AD 传给#VV 义子#VV 杨过#NR 。#PU
+189 蛤蟆功#NN 是#VC 西毒#NR 欧阳锋#NR 的#DEG 成名#JJ 绝技#NN ，#PU 后#AD 传给#VV 杨过#NR 。#PU
+NONE
+190 阿巴#NR 多自#VV 2003#CD 年#M 接任#VV 琉森#NR 音乐节#NN 音乐#NN 总监#NN 后#LC ，#PU 成立#VV 了#AS 琉森#NR 节日#NN 管弦乐团#NN （#PU Lucerne#JJ Festival#JJ Orchestra#NN ,#PU LFO#NR ）#PU 。#PU
+190 阿巴#NR 多自#VV 2003#CD 年#M 接任#VV 琉森#NR 音乐节#NN 音乐#NN 总监#NN 后#LC ，#PU 成立#VV 了#AS LFO#NR 。#PU
+NONE
+191 据#P 中国汽车工业协会#NR 统计#NN ，#PU 2009#CD 年#M 排名#NN 前#LC 十位#JJ 的#DEG 轿车#NN 品牌#NN 共#AD 销售#VV 203.26#CD 万辆#NN ，#PU 占#VV 轿车#NN 销售#NN 总量#NN 的#DEG 27#CD %#NN 。#PU
+191 2009#CD 年#M 排名#NN 前#LC 十位#JJ 的#DEG 轿车#NN 品牌#NN 共#AD 销售#VV 200#CD 多万辆#M ，#PU 占#VV 轿车#NN 销售#NN 总量#NN 的#DEG 百分之二十#CD 七#CD 。#PU
+NONE
+192 世界#NN 少棒#NN 大赛#NN 是#VC 位于#VV 美国#NR 的#DEC 世界#NN 少棒#NN 联盟#NN (#PU LLB#NR )#PU 所#MSP 举办#VV 的#DEC 世界性#JJ 少年#NN 棒球#NN 比赛#NN 。#PU
+192 世界#NN 少棒#NN 大赛#NN 是#VC LLB#NR 所#MSP 举办#VV 的#DEC 世界性#JJ 少年#NN 棒球#NN 比赛#NN 。#PU
+NONE
+193 恐龙#NN 可能#VV 是#VC 鸟类#NN 祖先#NN 的#DEC 理论#NN ，#PU 是#VC 在#P 1868#CD 年#M 由#P 汤玛斯#NR ·#PU 亨利#NR ·#PU 赫胥黎#NR 首次#AD 提出#VV 。#PU
+193 爬虫类#NN 可能#VV 是#VC 鸟类#NN 祖先#NN 的#DEC 理论#NN ，#PU 是#VC 在#P 1868#CD 年#M 由#P 汤玛斯#NR ·#PU 亨利#NR ·#PU 赫胥黎#NR 首次#AD 提出#VV 。#PU
+NONE
+194 中国#NR 行动#NN 通讯#NN 拥有#VV 全球#NN 第一#OD 的#DEC 行动#NN 通讯#NN 网络#NN 规模#NN 和#CC 客户#NN 规模#NN ，#PU 该#DT 公司#NN 已#AD 连续#AD 多年#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 。#PU
+194 中国#NR 行动#NN 通讯#NN 连续#AD 多年#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 。#PU
+NONE
+195 大众#NN 特#AD 植物园#NN 占地约#NN 8#CD 公顷#M ，#PU 是#VC 夏威夷#NR 最#AD 古老#VA 的#DEC 植物园#NN ，#PU 并且#AD 是#VC 属于#VV 登记#VV 的#DEC 美国#NR 国家#NN 历史#NN 古#JJ 蹟#NN 之一#NN 。#PU
+195 大众#NN 特#AD 植物园#NN 面积#NN 约#AD 8#CD 公顷#M ，#PU 是#VC 夏威夷#NR 最#AD 古老#VA 的#DEC 植物园#NN ，#PU 并且#AD 是#VC 属于#VV 登记#VV 的#DEC 美国#NR 国家#NN 历史#NN 古#JJ 蹟#NN 之一#NN 。#PU
+NONE
+196 火地#NN 群岛#NN ，#PU 是#VC 南美洲#NR 最南端#NN 的#DEG 岛屿#NN 群#NN ，#PU 由主岛#NR 大#JJ 火地岛#NR 及#CC 周边#NN 小岛#NN 组成#VV 。#PU
+196 火地#NN 群岛#NN ，#PU 是#VC 南美洲#NR 最#AD 北端#NN 的#DEG 岛屿#NN 群#NN 。#PU
+NONE
+197 理察森#NR 外推法#NN 是#VC 在#P 20#OD 世纪#NN 前期#NN 由#P 英国#NR 数学家#NN ，#PU 物理学家#NN ，#PU 气象学家#NN Lewis#NR Fry#NT Richardson#NR 提出#VV 的#DEC 。#PU
+197 理察森#NR 外推法#NN 是#VC 由#P 英国#NR 数学家#NN ，#PU 物理学家#NN ，#PU 气象学家#NN Lewis#NR Fry#NT Richardson#NR 提出#VV 的#DEC 。#PU
+NONE
+198 日本#NR 于#P 2005#CD 年#M 发行#VV 上映#VV 的#DEC 动画电影#NN 《#PU 蒸气#NN 男孩#NN 》#PU ，#PU 其#PN 故事#NN 背景#NN 以#P 英国#NR 1851#CD 年#M 万国#NR 博览会#NN 为主#VV 。#PU
+198 日本#NR 于#P 2005#CD 年#M 发行#VV 上映#VV 的#DEC 动画电影#NN 《#PU 蒸气#NN 男孩#NN 》#PU ，#PU 其#PN 故事#NN 背景#NN 以#P 1851#CD 年#M 英国#NR 万国#NR 博览会#NN 为主#VV 。#PU
+NONE
+199 除#P 广东#NR 以外#LC ，#PU 萝#NN 蔔#VV 糕#NN 在#P 台湾#NR 、#PU 新加坡#NR 及#CC 马来西亚#NR 等#ETC 国家#NN ，#PU 甚至#AD 东亚地区#NR 也#AD 极为#AD 普遍#VA 。#PU
+199 除#P 广东#NR 以外#LC ，#PU 萝#NN 蔔#VV 糕#NN 在#P 台湾#NR 、#PU 新加坡#NR 及#CC 马来西亚#NR 等#ETC 国家#NN ，#PU 甚至#AD 东亚地区#NR 也#AD 非常#AD 普遍#VA 。#PU
+NONE
+200 约克#NR 王朝#NR (#PU House#NR of#P York#NN )#PU 于#P 15#OD 世纪#NN 后#LC 半叶#NN 与#CC 兰开斯特#NR 王朝#NN 争夺#VV 王位#NN ，#PU 最后#AD 导致#VV 了#AS 玫瑰#NN 战争#NN 。#PU
+200 兰开斯特#NR 王朝#NR 于#P 15#OD 世纪#NN 后#LC 半叶#NN 与#CC 约克#NR 王朝#NR (#PU House#NR of#P York#NN )#PU 争夺#VV 王位#NN ，#PU 最后#AD 导致#VV 了#AS 玫瑰#NN 战争#NN 。#PU
+NONE
+201 布朗#NR 尼#NR 的#DEG 发明#NN 就#AD 像#P 很多#CD 的#DEG 美食#NN ，#PU 很#AD 可能#VV 只是#AD 一个#CD 意外#JJ 的#DEG 结果#NN 。#PU
+201 布朗#NR 尼#NR 的#DEG 发明#NN 过程#NN 不明#VA 。#PU
+NONE
+202 芥川#NR 龙之介#NN 的#DEG 《#PU 地狱#NN 变#NN 》#PU 通过#P 极端化#JJ 的#DEG 人间#NN 悲剧#NN 描写#VV 了#AS 权力#NN 与#CC 艺术#NN 的#DEG 冲突#NN 。#PU
+202 芥川#NR 龙之介#NN 的#DEG 《#PU 地狱#NN 变#NN 》#PU 通过#P 极端化#JJ 的#DEG 悲剧#NN 描写#VV 了#AS 权力#NN 与#CC 艺术#NN 的#DEG 冲突#NN 。#PU
+NONE
+203 赛后#NN ,#PU 为#P 日本队#NR 打入#VV 一球#NN 的#DEC 9#CD 号#M 赤岭#NR 真吾#NN 告诉#VV 记者#NN ,#PU 其实#AD 日本队#NR 对#P 中国队#NR 的#DEG 特点#NN 研究#VV 得#DER 还是#AD 比较#AD 透彻#VV 的#SP ,#PU 中国队#NR 最大#JJ 的#DEG 优势#NN 就是#AD 身体#NN ,#PU 确切#JJ 地说#NN 就是#AD 身高#NN 。#PU
+203 中国队#NR 对#P 日本队#NR 对#P 有#VE 身高#NN 优势#NN 。#PU
+NONE
+204 红斑#NN 性#NN 狼疮#NN 可能#VV 影响#VV 各种#NN 器官#NN ，#PU 包括#VV 心脏#NN 、#PU 关节#NN 、#PU 皮肤#NN 、#PU 肺#NN 、#PU 血管#NN 、#PU 肝#NN 、#PU 肾脏#NN ，#PU 以及#CC 神经系统#VV 。#PU
+204 红斑#NN 性#NN 狼疮#NN 会#VV 同时#AD 影响#VV 各种#NN 器官#NN ，#PU 包括#VV 心脏#NN 、#PU 关节#NN 、#PU 皮肤#NN 、#PU 肺#NN 、#PU 血管#NN 、#PU 肝#NN 、#PU 肾脏#NN ，#PU 以及#CC 神经系统#VV 。#PU
+NONE
+205 据#P 《#PU 圣经#NN ·#PU 申命记#NN 》#PU 所#MSP 载#VV ，#PU 约书亚#NR 继#P 摩西#NR 成为#VV 以色列#NR 人#NN 的#DEG 领袖#NN ，#PU 他#PN 带领#VV 以色列#NR 人#NN 离开#VV 旷野#NN 进入#VV 应许#VV 之地#NN ，#PU 那#AD 丰富#VA 的#DEC 迦南#JJ 美地#NN 。#PU
+205 据#P 《#PU 圣经#NN ·#PU 申命记#NN 》#PU 所#MSP 载#VV ，#PU 约书亚#NR 带领#VV 以色列#NR 人#NN 离开#VV 旷野#NN 进入#VV 应许#VV 之地#NN ，#PU 那#AD 丰富#VA 的#DEC 迦南#JJ 美地#NN 。#PU
+NONE
+206 英国#NR 经济#NN 增长率#NN 大于#VV 欧洲各国#NR
+206 英国#NR 经济#NN 增长率#NN 超过#VV 了#AS 欧洲各国#NR
+NONE
+207 华特#NR 迪士尼#NR 从#P 纽约#NR 乘火车#NN 去#VV 洛杉矶#NR ，#PU 在#P 漫长#VA 的#DEC 旅途#NN 中#LC ，#PU 他#PN 抓起#VV 笔#M 即兴#JJ 作画#VV ，#PU 深受#VV 全世界#NN 欢迎#VV 的#DEC 米老鼠#NN 终于#AD 诞生#VV
+207 华特#NR 迪士尼#NR 在#P 火车#NN 上画#VV 出#VV 米老鼠#NN 的#DEG 雏形#NN
+NONE
+208 虾夷地#NN 以#P 现在#NT 的#DEG 北海道#NR 为#VC 中心#NN ，#PU 包含#VV 库页岛#NR 与#CC 千岛#NR 列岛#NN 等#ETC 地#NN 。#PU
+208 库页岛#NR 与#CC 千岛#NR 列岛#NR 邻近#VV 北海道#NR 。#PU
+NONE
+209 大部份#CD 的#DEG 乳酪#NN 是#VC 通过#P 细菌#NN 将#BA 乳糖#NN 变为#VV 乳酸#NN 后#LC ，#PU 加入#VV 凝乳#JJ 酵素#NN 使#VV 之#PN 完全#AD 凝固#VV 。#PU
+209 大部份#CD 的#DEG 乳酪#NN 作法#NN 是#VC 通过#P 细菌#NN 将#BA 乳糖#NN 变为#VV 乳酸#NN 后#LC ，#PU 加入#VV 凝乳#JJ 酵素#NN 使#VV 之#PN 完全#AD 凝固#VV 。#PU
+NONE
+210 中国#NR 行动#NN 通讯#NN 拥有#VV 全球#NN 第一#OD 的#DEC 行动#NN 通讯#NN 网络#NN 规模#NN 和#CC 客户#NN 规模#NN ，#PU 连续#AD 多年#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 。#PU
+210 中国#NR 行动#NN 通讯#NN 拥有#VV 世界#NN 第一#OD 的#DEC 行动#NN 通讯#NN 网络#NN 规模#NN 和#CC 客户#NN 规模#NN ，#PU 连续#AD 多年#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 。#PU
+NONE
+211 干细胞#NN 治疗#VV 被#SB 视为#VV 新世纪#NR 医学#NN
+211 干细胞#NN 治疗#VV 被#SB 称为#VV 新世纪#NR 医学#NN
+NONE
+212 根据#P 富比#NR 士#NN 的#DEG 资料#NN 显示#VV ，#PU 中国移动#VV 有限公司#VV 是#VC 在#P 香港#NR 注册#VV 的#DEC 公司#NN 中#LC 市值#NN 最高#JJ 的#DEG 一间#NN 。#PU
+212 根据#P 富比#NR 士#NN 的#DEG 资料#NN 显示#VV ，#PU 中国移动#VV 有限公司#VV 是#VC 公司#NN 中#LC 市值#NN 最高#JJ 的#DEG 一间#NN 。#PU
+NONE
+213 根据#P 富比#NR 士#NN 的#DEG 资料#NN 显示#VV ，#PU 中国移动#VV 有限公司#VV 是#VC 在#P 香港#NR 注册#VV 的#DEC 公司#NN 中#LC 市值#NN 最高#JJ 的#DEG 一间#NN 。#PU
+213 根据#P 富比#NR 士#NN 的#DEG 资料#NN 显示#VV ，#PU 中国移动#VV 有限公司#VV 是#VC 在#P 中国#NR 注册#VV 的#DEC 公司#NN 中#LC 市值#NN 最高#JJ 的#DEG 一间#NN 。#PU
+NONE
+214 世界#NN 少棒#NN 大赛#NN 创办#VV 于#P 1947#CD 年#M ，#PU 每年#AD 8#CD 月#NN 在#P 宾州#NR 南#NN 威廉#NR 波特#NR 比赛#NN 。#PU
+214 世界#NN 少棒#NN 大赛#NN 创办#VV 于#P 1947#CD 年#M 8#CD 月#NN ，#PU 在#P 宾州#NR 南#NN 威廉#NR 波特#NR 比赛#NN 。#PU
+NONE
+215 洛克菲勒#NR 1870#CD 年#M 创立#VV 标准#NN 石油#NN ，#PU 在#P 全盛期#NN 垄断#VV 了#AS 全美#NR 90#CD %#CD 的#DEG 石油市场#NN 。#PU
+215 标准#NN 石油#NN 至今#AD 仍#AD 垄断#VV 了#AS 全美#NR 90#CD %#CD 的#DEG 石油市场#NN 。#PU
+NONE
+216 故#AD 梵蒂冈城#VV 国#NN 国家元首#NN 若望#VV ·#PU 保禄#VV 二世#NN 为#VC 第#OD 264#CD 任教#VV 宗#M 。#PU
+216 故#AD 教廷#NR 国家元首#NN 若望#VV ·#PU 保禄#VV 二世#NN 为#VC 第#OD 264#CD 任教#VV 宗#M 。#PU
+NONE
+217 2004#CD 年#M 奥运#NR 罗马尼亚#NR 籍#NN 世界冠军#NN 拳手#NN 西蒙#NR 在#P 16#CD 强赛#NN 以#P 24#CD ：#PU 36#CD 点数#NN 落后#VV 、#PU 败给#VV 埃及#NR 的#DEG 亚瑟#NN 。#PU
+217 2004#CD 年#M 奥运#NR 埃及#NR 的#DEG 亚瑟#NR 在#P 16#CD 强赛#NN 中以#VV 36#CD ：#PU 24#CD 赢#VV 了#AS 罗马尼亚#NR 籍#NN 世界冠军#NN 拳手#NN 西蒙#NR 。#PU
+NONE
+218 大量#AD 使用#VV 类固醇#NN 者#NN ，#PU 可能#VV 免疫#NN 功能#NN 会#VV 变差#VV
+218 一旦#CS 身体#NN 遭受#VV 意外#NN 伤害#NN 、#PU 压力#NN 、#PU 疾病#NN 影响#NN 导致#VV 身体#NN 免疫力#NN 发生变化#VV ，#PU 皆#AD 可#VV 由#P 类固醇#NN 来#MSP 治疗#VV 改善#VV 。#PU
+NONE
+219 如果#CS 张梓琳#NR 没有#AD 跨入#VV 模特#NN 行业#NN ，#PU 也许#AD 在#P 08#CD 年#M 奥运会#NR 跨栏#VV 的#DEC 赛场#NN 上#LC ，#PU 我们#PN 还#AD 能#VV 看到#VV 刘翔#NR 加张#VV 梓琳#VV “#PU 金童玉女#NN ”#PU 组合#NN 的#DEG 精彩表演#NN 。#PU
+219 在#P 08#CD 年#M 奥运会#NR 跨栏#VV 的#DEC 赛场#NN 上#LC ，#PU 我们#PN 看到#VV 了#AS 刘翔#NR 加张#VV 梓琳#VV “#PU 金童玉女#NN ”#PU 组合#NN 的#DEG 精彩表演#NN 。#PU
+NONE
+220 1927#NT 年末#NT ，#PU 苏联#NR 谷物#NN 短缺#VV ，#PU 史达林#NR 力求#VV 迅速#AD 消灭#VV 富农#NN 阶级#NN ，#PU 并始#AD 推#VV 农业#NN 集体化#NN 政策#NN 。#PU
+220 1927#NT 年末#NT ，#PU 当时#NT 苏联#NR 的#DEG 主政者#NN 是#VC 史达林#NR 。#PU
+NONE
+221 恐怖分子#NN 扎卡维#NR 领导#VV 的#DEC 美索不达米亚#NR 基地#NN 组织#NN 在#P 网络#NN 上#LC 警告#VV 约旦#NR
+221 扎卡维#NR 是#VC 美索不达米亚#NR 基地#NN 组织#NN 的#DEG 头目#NN
+NONE
+222 《#PU Top#JJ Gear#NN 》#PU 在#P 全世界#NN 拥有#VV 多达#AD 3#CD 亿#CD 5#CD ,#PU 000#CD 万#CD 观众#NN 。#PU
+222 《#PU Top#JJ Gear#NN 》#PU 是#VC 全世界#NN 拥有#VV 观众#NN 数量#NN 最多#AD 的#DEV 节目#NN 。#PU
+NONE
+223 中国#NR 行动#NN 通讯#NN 拥有#VV 全球#NN 第一#OD 的#DEC 行动#NN 通讯#NN 网络#NN 规模#NN 和#CC 客户#NN 规模#NN ，#PU 首度#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 。#PU
+223 中国#NR 行动#NN 通讯#NN 拥有#VV 全球#NN 第一#OD 的#DEC 行动#NN 通讯#NN 网络#NN 规模#NN 和#CC 客户#NN 规模#NN ，#PU 再次#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 。#PU
+NONE
+224 1927#NT 年末#NT ，#PU 苏联#NR 谷物#NN 短缺#VV ，#PU 史达林#NR 力求#VV 迅速#AD 消灭#VV 富农#NN 阶级#NN ，#PU 并始#AD 推#VV 农业#NN 集体化#NN 政策#NN 。#PU
+224 1927#NT 年末#NT ，#PU 苏联#NR 谷物#NN 过剩#VV ，#PU 史达林#NR 力求#VV 迅速#AD 消灭#VV 富农#NN 阶级#NN ，#PU 并始#AD 推#VV 农业#NN 集体化#NN 政策#NN 。#PU
+NONE
+225 同性恋#NN 权益#NN 拥护者#NN 对若望#NN ·#PU 保禄#NR 二世#NN 代表#NN 教会#NN 宣示#VV 同#DT 性欲望#NN 是#VC “#PU 明显#VA 的#DEC 病态#NN ”#PU 并#AD 反对#VV 同性#JJ 婚姻#NN 感到#VV 不满#NN 。#PU
+225 同性恋#NN 权益#NN 拥护者#NN 对若望#NN ·#PU 保禄#NR 二世#NN 代表#NN 教会#NN 宣示#VV 同#DT 性欲望#NN 是#VC “#PU 明显#VA 的#DEC 病态#NN ”#PU 感到#VV 不满#VV 。#PU
+NONE
+226 航海家#NN 1#OD 号#M （#PU Voyager#NN 1#CD ）#PU 是#VC 美国#NR 太空#NN 总署#NN 研制#VV 的#DEC 一艘#JJ 无人#JJ 外#NN 太阳系#NN 太空#NN 探测船#VV ，#PU 重#AD 815#CD 千克#M ，#PU 于#P 1977#NT 年#NN 9#CD 月#NN 5#CD 日#M 发射#NN 。#PU
+226 航海家#NN 1#OD 号#M （#PU Voyager#NN 1#CD ）#PU 是#VC 美国#NR 太空#NN 总署#NN 研制#VV 的#DEC 唯一#JJ 一艘#JJ 无人#JJ 外#NN 太阳系#NN 太空#NN 探测船#VV ，#PU 重#AD 815#CD 千克#M ，#PU 于#P 1977#NT 年#NN 9#CD 月#NN 5#CD 日#M 发射#NN 。#PU
+NONE
+227 水晶宫#NR （#PU The#DT Crystal#JJ Palace#NN ）#PU 是#VC 十九世纪#NT 的#DEG 英国#NR 建筑#NN 奇观#NN 之一#NN ，#PU 也#AD 是#VC 工业革命#NN 时代#NN 的#DEG 重要#JJ 象征物#NN 。#PU
+227 象征#VV 工业革命#NN 时代#NN 的#DEG 水晶宫#NN （#PU The#DT Crystal#JJ Palace#NN ）#PU 是#VC 十九世纪#NT 的#DEG 英国#NR 建筑#NN 奇观#NN 之一#NN 。#PU
+NONE
+228 德#NR 川家康#NR 在位#JJ 后以#NN 武力#NN 占领#VV 各#DT 军阀#NN 领地#NN ，#PU 统一#NR 全#DT 日本#NR 。#PU
+228 德#NR 川家康#NR 统一#NN 全#DT 日本#NR 的#DEG 主要#JJ 阻力#NN 来自#VV 各#DT 军阀#NN 。#PU
+NONE
+229 何大一#NR 在#P 一九九六年#NT 被#LB 美国#NR 《#PU 时代#NN 》#PU 杂志#NN 评为#VV 年度#NN 风云人物#NN
+229 何大一#NR 曾#AD 被#LB 美国#NR 《#PU 时代#NN 》#PU 杂志#NN 评为#VV 年度#NN 风云人物#NN
+NONE
+230 “#PU 春晓#NR ”#PU 油田#NN 距离#NN 日本政府#VV 片面#AD 主张#VV 的#DEC “#PU 日中#NN 中间线#NN ”#PU 有#VE 5#CD 公里#M
+230 “#PU 春晓#NR ”#PU 油田#NN 距离#NN 日本政府#VV 片面#AD 主张#VV 的#DEC “#PU 日中#NN 中间线#NN ”#PU 五公里#NR
+NONE
+231 古腾堡#NR 的#DEG 印刷术#NN 使得#VV 印刷品#NN 变得#VV 非常#AD 便宜#VA ，#PU 印刷#VV 的#DEC 速度#NN 也#AD 提高#VV 了#AS 许多#CD ，#PU 印刷#NN 量#NN 增加#VV 。#PU
+231 古腾堡#NR 的#DEG 印刷术#NN 使得#VV 印刷品#NN 价格#NN 变#VV 的#DEC 非常低#NN ，#PU 印刷#VV 的#DEC 速度#NN 也#AD 提高#VV 了#AS 许多#CD ，#PU 印刷#NN 量#NN 增加#VV 。#PU
+NONE
+232 中国移动#NR 手握#VV 互联网#NN 国际#NN 联网#NN 单位#NN 经营权#NN 和#CC 国际#NN 出入口#NN 局#NN 业务#NN 经营权#NN 。#PU
+232 中国移动#NR 具有#VV 互联网#NN 国际#NN 联网#NN 单位#NN 经营权#NN 和#CC 国际#NN 出入口#NN 局#NN 业务#NN 经营权#NN 。#PU
+NONE
+233 自#P 1938#CD 年#M 创立#VV 以来#LC ，#PU 琉森#NR 音乐节#NN 已有#VV 七十多年#NT 的#DEG 历史#NN 。#PU
+233 自#P 1938#CD 年#M 创立#VV 以来#LC ，#PU 琉森#NR 音乐节#NN 的#DEG 历史#NN 已有#VV 七十多年#NT 。#PU
+NONE
+234 现今#NT 学界#NN 普遍认为#NR 红楼梦#NN 通行本#NN 前#LC 八十回#VV 为#P 曹雪芹#NR 所#MSP 作#VV ，#PU 后#AD 四十回#VV 不知#AD 为何#AD 人所作#NN 。#PU
+234 现今#NT 学界#NN 普遍#AD 对于#P 红楼梦#NN 通行本#NN 前#LC 八十回#VV 的#DEC 作者#NN 莫衷一是#VV 。#PU
+NONE
+235 无#VE 实权#NN 的#DEC 爱尔兰#NR 总统#NN 要#VV 接触#VV 内阁#NN 官员#NN 需#VV 经过#VV 总理#NN 办公室#NN 安排#NN 。#PU
+235 爱尔兰#NR 总理#NN 才#AD 是#VC 爱尔兰#NR 的#DEG 元首#NN 。#PU
+NONE
+236 爱因斯坦#NR 因在#VV 光电效应#NN 方面#NN 的#DEG 研究#NN ，#PU 获#VV 授予#VV 1921#CD 年#M 诺贝尔物理学奖#NR 。#PU
+236 爱因斯坦#NR 因#P 1921#NT 年#AD 在#P 光电效应#NR 方面#NN 的#DEG 研究#NN ，#PU 获#VV 授予#VV 诺贝尔物理学奖#NR 。#PU
+NONE
+237 成均馆#NN 是#VC 朝鲜半岛#NR 历代#NN 王朝#NN 最高#JJ 学府#NN ，#PU 地位#NN 同#P 等于#VV 古代#NN 中国#NR 的#DEG 国子监#NN 、#PU 太学#NN 。#PU
+237 成均馆#NN 地位#NN 同#P 等于#VV 古代#NN 中国#NR 的#DEG 国子监#NN 、#PU 太学#NN 。#PU
+NONE
+238 东照宫#NR 是#VC 供奉#VV 日本#NR 最后#AD 一代#LC 幕府#NR —#PU 江户#NR 幕府#NN 的#DEG 开府#NN 将军#NN 德#NR 川家康#NR 的#DEG 神社#NN 。#PU
+238 江户#NN 幕府#NN 的#DEG 结束#NN 代表#NN 日本#NR 幕府时代#VV 的#DEC 落幕#VV 。#PU
+NONE
+239 二十世纪#NT 开始#VV ，#PU 火葬#NN 在#P 世界各地#NN 得到#VV 提倡#VV ，#PU 以#P 节约#VV 日益#AD 紧张#VA 的#DEC 耕地#NN 。#PU
+239 进入#VV 二十世纪#NT 后#LC ，#PU 火葬#NN 被#SB 认为#VV 能#VV 有效#AD 节约#VV 耕地#NN 。#PU
+NONE
+240 主#JJ 校区#NN 位于#VV 巴尔的摩市#NR 的#DEC 约翰#NR ·#PU 霍普金斯大学#NR ，#PU 以#P 医学#NN 、#PU 公共卫生#NN 、#PU 空间科学#NN 、#PU 国际#NN 关系#NN 、#PU 文学#NN 及#CC 音乐#NN 等#ETC 学科#NN 而#MSP 闻名世界#VV 。#PU
+240 主#JJ 校区#NN 位于#VV 巴尔的摩市#NR 的#DEC 约翰#NR ·#PU 霍普金斯大学#NR ，#PU 以#P 医学#NN 、#PU 公共卫生#NN 、#PU 空间科学#NN 、#PU 国际#NN 关系#NN 、#PU 文学#NN 及#CC 音乐#NN 等#ETC 学科#NN 的#DEG 高度#JJ 成就#NN 而#MSP 闻名世界#VV 。#PU
+NONE
+241 金沙江#NR 古称#VV 丽水#NR ，#PU 以#P 盛产#VV 金沙#NN 而#MSP 得名#VV 。#PU
+241 长江上游#VV 的#DEC 金沙江#NR 古称#VV 丽水#NR ，#PU 以#P 盛产#VV 金沙#NN 而#MSP 得名#VV 。#PU
+NONE
+242 九层#NN 塔#NN 对#P 寒冷#JJ 非常#AD 敏感#VA ，#PU 在#P 热#NN 和#CC 干燥#VA 的#DEC 环境#NN 下#LC 生长#VV 得#DER 最好#AD 。#PU
+242 低温#NN 的#DEG 高纬度#JJ 地区#NN 不#AD 适合#VV 种植#VV 九层#NN 塔#NN 。#PU
+NONE
+243 中国科学院#NR 资深#JJ 院士#NN 、#PU 第三世界科学院#NN 院士#NN 、#PU 著名#JJ 海洋#NN 生物学家#NN 曾呈奎#NR ,#PU 一生#NN 与#CC 海洋#NN 结下#VV 不解之缘#NN 。#PU
+243 曾呈奎#NR 是#VC 研究#VV 海洋生物#NN 的#DEC 科学家#NN 。#PU
+NONE
+244 头文字#NN D#NN 改编自#VV 日本#NR 知名#JJ 的#DEG 赛车#NN 漫画#NN
+244 头文字#NN D#NN 源自#VV 日本#NR 著名#JJ 漫画#NN
+NONE
+245 自#P 1897#CD 年#M 起#LC ，#PU 恐龙#NN 化石#NN 已#AD 在#P 各#DT 大洲#NN 发现#VV ，#PU 甚至#AD 包含#VV 南极洲#NR 。#PU
+245 自#P 1897#CD 年#M 起#LC ，#PU 恐龙#NN 化石#NN 大多#AD 于#P 南极洲#NR 被#SB 发现#VV 。#PU
+NONE
+246 安东尼#NR ·#PU 高#JJ 第#NN 一直#AD 在#P 巴塞罗那#NR 生活#NN 和#CC 工作#NN ，#PU 在#P 这里#PN 有#VE 他#PN 很多#CD 的#DEG 设计#NN ，#PU 其中#NN 最#AD 著名#VA 的#DEC 包括#VV 桂尔宫#NR 、#PU 桂尔#NR 公园#NN 和#CC 圣家堂#NN 。#PU
+246 安东尼#NR ·#PU 高#JJ 第#NN 一直#AD 在#P 巴塞罗那#NR 成家#VV 和#CC 工作#VV ，#PU 在#P 这里#PN 有#VE 他#PN 很多#CD 的#DEG 设计#NN ，#PU 其中#NN 最#AD 著名#VA 的#DEC 包括#VV 桂尔宫#NR 、#PU 桂尔#NR 公园#NN 和#CC 圣家堂#NN 。#PU
+NONE
+247 超级#JJ 油轮#NN 诺克#NR ·#PU 耐#VV 维斯#NR 号#NN （#PU Knock#NN Nevis#NN ）#PU 曾#AD 是#VC 世界#NN 上#LC 最长#VV 的#DEC 船只#NN 与#CC 人工#JJ 制造#NN 水面#NN 漂浮物#NN ，#PU 船长#NN 超过#VV 1#CD /#PU 4#CD 英里#M （#PU 458#CD 公尺#M ）#PU 。#PU
+247 船长#NN 超过#VV 458#CD 公尺#M 的#DEC 超级#JJ 油轮#NN 诺克#NR ·#PU 耐#VV 维斯#NR 号#NN （#PU Knock#NN Nevis#NN ）#PU 曾#AD 是#VC 世界#NN 上#LC 最长#VV 的#DEC 船只#NN 与#CC 人工#JJ 制造#NN 水面#NN 漂浮物#NN 。#PU
+NONE
+248 虾夷地#NN 以#P 现在#NT 的#DEG 北海道#NR 为#VC 中心#NN ，#PU 包含#VV 库页岛#NR 与#CC 千岛#NR 列岛#NN 等#ETC 地#NN 。#PU
+248 虾夷地#NN 包括#VV 现在#NT 的#DEG 北海道#NR 、#PU 库页岛#NR 与#CC 千岛#NR 列岛#NN 等#ETC 地#NN 。#PU
+NONE
+249 截止#P 至#VV 2012#CD 年#M ，#PU 约翰#NR ·#PU 霍普金斯大学#NR 共有#VV 36#CD 名#M 校友#NN 获#VV 诺贝尔奖#NN 。#PU
+249 在此之前#AD ，#PU 约翰#NR ·#PU 霍普金斯大学#NR 共有#VV 36#CD 名#M 校友#NN 获#VV 诺贝尔奖#NN 。#PU
+NONE
+250 天龙八部#NN 中#LC 三位#NR 男主角#NN 的#DEG 身世#NN 均#AD 十分#AD 离奇#VV ，#PU 其中#NN 虚竹#NN 即#AD 为#P 少林#NN 方丈#NN 玄慈及#NR 四大#JJ 恶人#NN 中#LC 的#DEG “#PU 无恶不作#VV ”#PU 叶二娘#NR 的#DEG 儿子#NN 。#PU
+250 天龙八部#NN 中#LC 两位#VV 男主角#NN 的#DEC 身世#NN 均#AD 十分#AD 离奇#VV ，#PU 其中#NN 虚竹#NN 即#AD 为#P 少林#NN 方丈#NN 玄慈及#NR 四大#JJ 恶人#NN 中#LC 的#DEG “#PU 无恶不作#VV ”#PU 叶二娘#NR 的#DEG 儿子#NN 。#PU
+NONE
+251 在#P 现代#JJ 法治#NN 社会#NN ，#PU 严重#VA 的#DEC 虐待#NN 行为#NN 是#VC 一种#CD 犯罪行为#VV ，#PU 可#VV 被#SB 起诉#VV ，#PU 并#AD 要#VV 受到#VV 法律#NN 惩罚#VV 。#PU
+251 在#P 现代#JJ 法治#NN 社会#NN ，#PU 严重#VA 的#DEC 虐待#NN 行为#NN 是#VC 一种#CD 犯罪行为#VV ，#PU 皆#AD 会#VV 被#SB 起诉#VV ，#PU 并#AD 要#VV 受到#VV 法律#NN 惩罚#VV 。#PU
+NONE
+252 虎井屿#NR 是#VC 澎湖群岛#NR 的#DEG 第七#OD 大岛#NN ，#PU 旧#JJ 称为#VV 船篷#NN 屿#NN 、#PU 台屿#NN 。#PU
+252 澎湖群岛#NR 旧#JJ 称为#VV 船篷#NN 屿#NN 、#PU 台屿#NN 。#PU
+NONE
+253 日本#NR 于#P 2005#CD 年#M 发行#VV 上映#VV 的#DEC 动画电影#NN 《#PU 蒸气#NN 男孩#NN 》#PU ，#PU 其#PN 故事#NN 背景#NN 以#P 英国#NR 1851#CD 年#M 万国#NR 博览会#NN 为主#VV 。#PU
+253 日本#NR 于#P 2005#CD 年#M 发行#VV 上映#VV 的#DEC 万国#NR 博览会#NN 《#PU 蒸气#NN 男孩#NN 》#PU ，#PU 其#PN 故事#NN 背景#NN 以#P 英国#NR 1851#CD 年#M 动画电影#NN 为主#VV 。#PU
+NONE
+254 在#P 中国#NR 境内#NN ，#PU 中国#NR 行动#NN 通讯#NN 集团公司#NN 主要#JJ 经营#NN 移动#VV 语音#NN 、#PU 资料#NN 、#PU IP电话#NN 和#CC 多媒体业务#NN 。#PU
+254 在#P 中国#NR 境内#NN ，#PU 中国#NR 行动#NN 通讯#NN 集团公司#VV 的#DEC 副业#NN 为#P 移动#VV 语音#NN 、#PU 资料#NN 、#PU IP电话#NN 和#CC 多媒体业务#NN 。#PU
+NONE
+255 中国移动#NR 是#VC 2000#CD 年#M 4#CD 月#NN 20#CD 日#M 成立#VV 的#DEC 中国#NR 国有#JJ 重要#JJ 骨干企业#NN 。#PU
+255 中国移动#NR 是#VC 2000#CD 年#M 4#CD 月#NN 20#CD 日#M 被#SB 整#VV 并#CC 的#DEC 中国#NR 国有#JJ 重要#JJ 骨干企业#NN 。#PU
+NONE
+256 造成#VV 东南亚#NR 及#CC 南亚地区#NR 的#DEG 重大#JJ 伤亡#NN 的#DEG 南亚#NR 海啸#NN 是#VC 以#P 800km#CD /#PU hr#CD 的#DEG 速度#NN 前进#VV 的#DEC 超大型#JJ 长波#NN
+256 造成#VV 东南亚#NR 及#CC 南亚地区#NR 的#DEG 重大#JJ 伤亡#NN 的#DEG 南亚#NR 海啸#NN 是#VC 以#P 800m#CD /#PU hr#CD 的#DEG 速度#NN 前进#VV 的#DEC 超大型#JJ 长波#NN
+NONE
+257 1970#NT 年代#NN ，#PU 瑞典#NR 通过#P 现代#JJ 宪法#NN ，#PU 瑞典#NR 国王#NN 在#P 议会#NN 的#DEG 一切#DT 权力#NN 被#SB 废除#VV 。#PU 但#AD 内阁#NN 每月#AD 仍会#VV 向#P 国王#NN 在#P 王宫#NN 内#LC 正式#AD 汇报#VV 。#PU
+257 千禧年#NT 前夕#NN ，#PU 瑞典#NR 通过#P 现代#JJ 宪法#NN ，#PU 瑞典#NR 国王#NN 在#P 议会#NN 的#DEG 一切#DT 权力#NN 被#SB 废除#VV 。#PU 但#AD 内阁#NN 每月#AD 仍会#VV 向#P 国王#NN 在#P 王宫#NN 内#LC 正式#AD 汇报#VV 。#PU
+NONE
+258 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 分割#VV 为#P 两个#CD 独立#JJ 的#DEG 集团#NN 。#PU
+258 中信集团#NR 与#CC 和#CC 信#NN 集团#NN 旗下#NN 业务#NN 相同#VA 。#PU
+NONE
+259 1989#NT 年#NN 英伦#NR 航空#NN 92#CD 号#M 班机#NN 空难#NN ，#PU 机上#NN 118#CD 名#M 乘客#NN 中#LC 的#DEG 39#CD 人#NN 当场#AD 死亡#VV ，#PU 8#CD 人于#VV 稍后#NN 时间#NN 亦#AD 过世#VV ；#PU 而#AD 机上#NN 的#DEG 8#CD 名#M 机员#NN 则#AD 全部#AD 生还#VV 。#PU
+259 1989#NT 年#NN 英伦#NR 航空#NN 92#CD 号#M 班机#NN 空难#NN ，#PU 机上#NN 126#CD 人仅#NN 79#CD 人生#NN 还#AD 。#PU
+NONE
+260 印度#NR 与#CC 巴基斯坦#NR 两#CD 国#NN 谈判#NN 条件#NN 是#VC 要#VV 巴国#NR 制止#VV 伊斯兰教#NN 好战#JJ 分子#NN 渗透#VV 印属#NN 喀什米尔#NR
+260 印度#NR 与#CC 巴基斯坦#NR 两#CD 国#NN 谈判#NN 条件#NN 是#VC 要#VV 巴基斯坦#NR 制止#VV 伊斯兰教#NN 好战#JJ 分子#NN 渗透#VV 印属#NN 喀什米尔#NR
+NONE
+261 柯布#NR -#PU 道格拉斯#NR 生产#VV 函数#NN （#PU Cobb#NR –#PU Douglas#NR function#NN ）#PU 是#VC 个体#NN 经济学#NN 上#LC 用来#VV 描述#VV 生产#VV 函数#NN 的#DEC 常用#JJ 函数#NN 之一#NN 。#PU
+261 柯布#NR -#PU 道格拉斯#NR 生产#VV 函数#NN （#PU Cobb#NR –#PU Douglas#NR function#NN ）#PU 是#VC 个体#NN 经济学#NN 上#LC 被#SB 用来#VV 描述#VV 生产#VV 函数#NN 的#DEC 常用#JJ 函数#NN 之一#NN 。#PU
+NONE
+262 红牛#NR 车队#NN 车手#NN 赛#NR 巴斯蒂安#NR ·#PU 维#NR 泰尔#NR 则#AD 于#P 2010#NT 、#PU 2011#NT 、#PU 2012#CD 及#CC 2013#CD 年#M 连续#AD 四年#NT 获得#VV F1#NN 年度#NN 车手#NN 总冠军#NN 。#PU
+262 F1#NR 车手#NN 赛#NR 巴斯蒂安#NR ·#PU 维#NR 泰尔#NR 则#AD 于#P 2010#NT 、#PU 2011#NT 、#PU 2012#CD 及#CC 2013#CD 年#M 连续#AD 四年#NT 获得#VV F1#NN 年度#NN 车手#NN 总冠军#NN 。#PU
+NONE
+263 中#NR 俄#NR 四千#CD 三百多公里#NN 的#DEG 边界线#NN 走向#VV 至#VV 《#PU 中#NR 俄国#NR 界#NN 东段#NN 补充#NN 协定#NN 》#PU 以#P 法律#NN 形式#NN 全部#AD 确定#VV
+263 中#NR 俄#NR 边界#NN 大约#AD 有#VE 三百多公里#NR
+NONE
+264 二氧化碳#NN 是#VC 温室#NN 气体#NN 之一#NN ，#PU 会#VV 造成#VV 温室效应#NN 。#PU
+264 二氧化碳#NN 会#VV 造成#VV 温室效应#NN 。#PU
+NONE
+265 因为#P 柏油#NN 对#P 健康#NN 的#DEG 危害#NN ，#PU 现在#NT 铺设#VV 柏油#NN 道路#NN 已经#AD 弃用#VV 柏油#NN 改用#VV 沥青#NN 。#PU
+265 因为#P 柏油#NN 对#P 健康#NN 的#DEG 危害#NN ，#PU 现在#NT 铺设#VV 柏油#NN 道路#NN 已#AD 用#P 沥青#NN 取代#VV 柏油#NN 。#PU
+NONE
+266 近#AD 一百年#CD 来#M 二氧化碳#NN 的#DEG 大量#CD 排放#NN 导致#VV 全球#NN 变暖#VV 。#PU
+266 二氧化碳#NN 需要#VV 大量#AD 排放#VV 才#AD 会#VV 导致#VV 全球#NN 变暖#VV 。#PU
+NONE
+267 世界#NN 少棒#NN 大赛#NN 是#VC 位于#VV 美国#NR 的#DEC 世界#NN 少棒#NN 联盟#NN (#PU LLB#NR )#PU 所#MSP 举办#VV 的#DEC 世界性#JJ 少年#NN 棒球#NN 比赛#NN 。#PU
+267 世界#NN 少棒#NN 大赛#NN 是#VC 位于#VV 美国#NR 的#DEC 世界#NN 少棒#NN 联盟#NN (#PU LLB#NR )#PU 所#MSP 举办#VV 的#DEC 世界性#JJ 青年#NN 棒球#NN 比赛#NN 。#PU
+NONE
+268 琉森#NR 音乐节#NN （#PU Lucerne#JJ Festival#NN ）#PU 是#VC 欧洲#NR 主要#JJ 的#DEG 音乐节#NN 之一#NN ，#PU 举办地#NN 位于#VV 瑞士#NR 中部#NN 的#DEG 城市#NN 琉森#NN 。#PU
+268 欧洲#NR 主要#JJ 的#DEG 音乐节#NN 琉森#NR 音乐节#NN （#PU Lucerne#JJ Festival#NN ）#PU 举办地#NN 位于#VV 瑞士#NR 中部#NN 的#DEG 城市#NN 琉森#NN 。#PU
+NONE
+269 始新世#NR （#PU Eocene#NR ）#PU 大约#AD 开始#VV 于#P 5580#NT 万年前#NT ，#PU 终于#AD 3400#CD 万年前#NT 。#PU
+269 始新世#NR （#PU Eocene#NR ）#PU 大约#AD 开始#VV 于#P 3400#CD 万年前#NT ，#PU 终于#AD 5580#CD 万年前#NT 。#PU
+NONE
+270 中国科学院#NR 资深#JJ 院士#NN 、#PU 第三世界科学院#NN 院士#NN 、#PU 著名#JJ 海洋#NN 生物学家#NN 曾呈奎#NR ,#PU 一生#NN 与#CC 海洋#NN 结下#VV 不解之缘#NN 。#PU
+270 曾呈奎#NR 是#VC 中国科学院#NR 资深#JJ 院士#NN 。#PU
+NONE
+271 巴尔的摩市#NR 的#DEG 约翰#NR ·#PU 霍普金斯大学#NR ，#PU 以#P 医学#NN 、#PU 公共卫生#NN 、#PU 空间科学#NN 、#PU 国际#NN 关系#NN 、#PU 文学#NN 及#CC 音乐#NN 等#ETC 学科#NN 而#MSP 闻名世界#VV 。#PU
+271 主#JJ 校区#NN 位于#VV 巴尔的摩市#NR 的#DEC 约翰#NR ·#PU 霍普金斯大学#NR ，#PU 以#P 医学#NN 、#PU 公共卫生#NN 、#PU 空间科学#NN 、#PU 国际#NN 关系#NN 、#PU 文学#NN 及#CC 音乐#NN 等#ETC 学科#NN 而#MSP 闻名世界#VV 。#PU
+NONE
+272 琉球#NN 狐蝠#NN 以#P 植物#NN 的#DEG 果实#NN 、#PU 花朵#NN 、#PU 嫩叶#NN 为主#VV 食#VV 。#PU
+272 琉球#NN 狐蝠#NN 是#VC 食虫#JJ 动物#NN 。#PU
+NONE
+273 二十世纪#NT 开始#VV ，#PU 火葬#NN 在#P 世界各地#NN 得到#VV 提倡#VV ，#PU 以#P 节约#VV 日益#AD 紧张#VA 的#DEC 耕地#NN 。#PU
+273 从#P 20#OD 世纪#NN 开始#LC ，#PU 火葬#NN 在#P 世界各地#NN 得到#VV 提倡#VV ，#PU 以#P 节约#VV 日益#AD 紧张#VA 的#DEC 耕地#NN 。#PU
+NONE
+274 纽伦堡#NR 审判#NN 中#LC 的#DEG 被告#NN 共计#AD 22#CD 名#M ，#PU 均#AD 为#VC 纳粹德国#NR 的#DEG 军政#NN 首领#NN 。#PU
+274 纽伦堡#NR 审判#NN 中#LC 原告#NN 共计#AD 22#CD 名#M ，#PU 均#AD 为#VC 二次大战#VV 时#LC 纳粹德国#NR 的#DEG 军政#NN 首领#NN 。#PU
+NONE
+275 二十世纪#NT 初期#NN 科学家#NN 以为#VV 只有#AD H1#NN 、#PU H2#NR 和#CC H3#NR 抗原#NN 型#NN 的#DEG 流感病毒#NN 才#AD 会#VV 感染#VV 人类#NN
+275 二十世纪#NT 中期#NN 科学家#NN 发现#VV 只有#AD H1#NN 、#PU H2#NR 和#CC H3#NR 抗原#NN 型#NN 的#DEG 流感病毒#NN 才#AD 会#VV 感染#VV 人类#NN
+NONE
+276 洛杉矶#NR 奥运会#NR 并未#AD 投入#VV 巨资#NN 进行#VV 基础#NN 建设#NN ，#PU 但#AD 仍#AD 大幅#JJ 整建#NN 了#SP 国际#NN 机场#NN ,#PU 因此#AD 获利#VV 丰厚#VA
+276 洛杉矶#NR 奥运会#NR ，#PU 洛杉矶#NR 并未#AD 耗资#VV 兴建#VV 太#AD 多#CD 场地#NN ，#PU 因此#AD 获利#VV 丰厚#VA
+NONE
+277 爱因斯坦#NR 因在#VV 光电效应#NN 方面#NN 的#DEG 研究#NN ，#PU 获#VV 授予#VV 1921#CD 年#M 诺贝尔物理学奖#NR 。#PU
+277 爱因斯坦#NR 因在#VV 光电效应#NN 方面#NN 的#DEG 研究#NN ，#PU 获#VV 授予#VV 诺贝尔物理学奖#NR 。#PU
+NONE
+278 西藏#NR 独立#NN 运动#NN 是#VC 寻求#VV 西藏地区#NN 建立#VV 成#VV 一个#CD 主权国家#VV 的#DEC 一系列#CD 运动#NN 。#PU
+278 西藏#NR 独立#NN 运动#NN 是#VC 寻求#VV 西藏地区#NN 脱离#VV 中国#NR 建立#VV 成#VV 一个#CD 主权国家#VV 的#DEC 一系列#CD 运动#NN 。#PU
+NONE
+279 理察森#NR 外推法#NN 是#VC 在#P 20#OD 世纪#NN 前期#NN 由#P 英国#NR 数学家#NN ，#PU 物理学家#NN ，#PU 气象学家#NN Lewis#NR Fry#NT Richardson#NR 提出#VV 的#DEC 。#PU
+279 Lewis#NR Fry#NN Richardson#NR 除了#P 是#VC 数学家#NN ，#PU 也#AD 身兼#VV 气象学家#NN 。#PU
+NONE
+280 室女座#NN 最#AD 显著#VA 的#DEC 恒星#NN 是#VC 角宿#NN 一#CD ，#PU 这颗#AD 蓝白色#JJ 的#DEG 星#NN 是#VC 全天#AD 最亮#VV 的#DEC 21#CD 颗#M 恒星#NN 之一#NN 。#PU
+280 室女座#NN 最#AD 显著#VA 的#DEC 恒星#NN 是#VC 角宿#NN 一#CD ，#PU 这颗#VV 粉红色#JJ 的#DEG 星#NN 是#VC 全天#AD 最亮#VV 的#DEC 21#CD 颗#M 恒星#NN 之一#NN 。#PU
+NONE
+281 在#P 中国#NR 境内#NN ，#PU 中国#NR 行动#NN 通讯#NN 集团公司#NN 主要#JJ 经营#NN 移动#VV 语音#NN 、#PU 资料#NN 、#PU IP电话#NN 和#CC 多媒体业务#NN 。#PU
+281 中国#NR 行动#NN 通讯#NN 集团公司#NN 仅#AD 在#P 中国#NR 境内#NN 多媒体业务#VV 。#PU
+NONE
+282 1215#CD 年#M 订立#VV 的#DEC 英国#NR 大#JJ 宪章#NN 在#P 1225#CD 年#M 首次#AD 成为#VV 法律#NN 。#PU
+282 1215#CD 年#M 订立#VV 的#DEC 大#JJ 宪章#NN 在#P 1225#CD 年#M 首次#AD 成为#VV 法律#NN 。#PU
+NONE
+283 若望#AD ·#PU 保禄#NR 二世#NR 曾#AD 访问#VV 罗马尼亚#NR ，#PU 成为#VV 自从#P 1054#CD 年#M 东西#NN 教会#NN 分裂#VV 之后#LC ，#PU 第一位#AD 拜访#VV 东正教#NR 国家#NN 的#DEG 教宗#NN 。#PU
+283 若望#AD ·#PU 保禄#NR 二世#NT 1054#CD 年#M 曾#AD 访问#VV 罗马尼亚#NR ，#PU 成为#VV 自从#P 东西#NN 教会#NN 分裂#VV 之后#LC ，#PU 第一位#AD 拜访#VV 东正教#NR 国家#NN 的#DEG 教宗#NN 。#PU
+NONE
+284 火地#NN 群岛#NN 总面积#NN 73#CD ,#PU 753#CD 平方公里#M 。#PU
+284 火地#NN 群岛#NN 最大#JJ 岛#NN 总面积#NN 73#CD ,#PU 753#CD 平方公里#M 。#PU
+NONE
+285 最#AD 年轻#JJ 踏上#VV 红#JJ 磡#NN 体育馆#NN 开#VV 演唱会#NN 的#DEG 为#P 台湾#NR 男歌手#NN 林志颖#NR （#PU 当时#NT 18#CD 岁#M ）#PU 。#PU
+285 其他#DT 踏上#VV 红#JJ 磡#NN 体育馆#NN 开#VV 演唱会#NN 的#DEC 人#NN 都#AD 比#P 林志颖#NR 大#VA 。#PU
+NONE
+286 伊拉克#NR 和#CC 美国#NR 军队#NN 在#P 当地#NN 时间#NN 20#CD 日#M 21#CD 时#LC (#PU 北京#NR 时间#NN 21#CD 日#M 2#CD 时#LC )#PU 左右#LC 交火#VV
+286 伊拉克#NR 和#CC 美国#NR 军队#NN 在#P 北京#NR 时间#NN 21#CD 日#M 2#CD 时#LC (#PU 当地#NN 时间#NN 20#CD 日#M 21#CD 时#LC )#PU 左右#LC 交火#VV
+NONE
+287 丰富#VA 的#DEC 想像力#NN 、#PU 精湛#VA 的#DEC 数学#NN 造诣#NN 、#PU 严谨#VA 的#DEC 治学#NN 态度#NN ，#PU 这些#PN 都#AD 是#VC 成为#VV 理论#NN 物理学家#NN 需要#VV 培养#VV 的#DEC 优良#JJ 素质#NN 。#PU
+287 想像力#NN 丰富#VA 、#PU 数学#NN 造诣#NN 精湛#VA 、#PU 治学#NN 态度#NN 严谨#VA ，#PU 这些#PN 都#AD 是#VC 成为#VV 理论#NN 物理学家#NN 需要#VV 培养#VV 的#DEC 优良#JJ 素质#NN 。#PU
+NONE
+288 约克#NR 王朝#NR (#PU House#NR of#P York#NN )#PU 于#P 15#OD 世纪#NN 后#LC 半叶#NN 与#CC 兰开斯特#NR 王朝#NN 争夺#VV 王位#NN ，#PU 最后#AD 导致#VV 了#AS 玫瑰#NN 战争#NN 。#PU
+288 玫瑰#NN 战争#NN 的#DEG 起因#NN 是#VC 由于#P 约克#NR 王朝#NR (#PU House#NR of#P York#NN )#PU 于#P 15#OD 世纪#NN 后#LC 半叶#NN 与#CC 兰开斯特#NR 王朝#NN 争夺#VV 王位#NN 。#PU
+NONE
+289 十诫#NN 为#VC 代表#NN 的#DEC 摩西#NR 律法#NN 是#VC 犹太人#NN 的#DEG 生活#NN 和#CC 信仰#NN 的#DEG 准则#NN ，#PU 也#AD 是#VC 最初#JJ 的#DEG 法律条文#NN 。#PU
+289 十诫#NN 为#VC 代表#NN 的#DEC 律法#NN 是#VC 最初#JJ 的#DEG 法律条文#NN ，#PU 也#AD 是#VC 犹太人#NN 摩西#NR 的#DEG 生活#NN 和#CC 信仰#NN 的#DEG 准则#NN 。#PU
+NONE
+290 西元#JJ 1600#CD 年#M 12#CD 月#NN 31#CD 日#M ，#PU 英国女王#NR 伊莉莎白#NR 一世#AD 授予#VV 英国#NR 东印度#NR 公司#NN 皇家#NN 特许状#NN ，#PU 给予#VV 它#PN 在#P 印度#NR 贸易#NN 的#DEG 特权#NN 。#PU
+290 西元#JJ 1600#CD 年#M 12#CD 月#NN 31#CD 日#M ，#PU 伊莉莎白#NR 一世#AD 授予#VV 英国#NR 东印度#NR 公司#NN 皇家#NN 特许状#NN ，#PU 给予#VV 它#PN 在#P 印度#NR 贸易#NN 的#DEG 特权#NN 。#PU
+NONE
+291 燃煤#NN 所#MSP 排出#VV 的#DEC 二氧化碳#NN 是#VC 温室#NN 气体#NN 。#PU
+291 燃煤#NN 所#MSP 排出#VV 的#DEC 二氧化碳#NN 是#VC 气体#NN 。#PU
+NONE
+292 20021002#CD 韩国#NR 击败#VV 藤球#NN 强国#NN 泰国队#NR ，#PU 夺下#VV 亚运#NR 藤球#NN 圆场#NN 赛#NN 金牌#NN ，#PU 引发#VV 泰国队#NR 主教练#NN 斯里#NR 亚蓬#NR 差#VV 抨击#VV 裁判#NN 不公#VA
+292 20021002#CD 韩国#NR 与#CC 藤球#NN 强国#NN 泰国队#NR 交手#VV ，#PU 夺下#VV 亚运#NR 藤球#NN 圆场#NN 赛#NN 金牌#NN ，#PU 使得#VV 泰国队#NR 主教练#NN 斯里#NR 亚蓬#NR 差#VV 指责#VV 裁判#NN 不公#VA
+NONE
+293 截止#P 至#VV 2012#CD 年#M ，#PU 约翰#NR ·#PU 霍普金斯大学#NR 共有#VV 36#CD 名#M 校友#NN 获#VV 诺贝尔奖#NN 。#PU
+293 截止#P 至#VV 2012#CD 年#M ，#PU 约翰#NR ·#PU 霍普金斯大学#NR 共有#VV 36#CD 名#M 人士#NN 获#VV 诺贝尔奖#NN 。#PU
+NONE
+294 据#P 《#PU 瞭望#NN 》#PU 杂志#NN 的#DEG 估算#NN ，#PU 东海#NR 油田#NN 蕴含#VV 石油#NN 250#CD 亿吨#CD
+294 据#P 《#PU 瞭望#NN 》#PU 杂志#NN 的#DEG 估算#NN ，#PU 东海#NR 油田#NN 蕴含#VV 石油#NN 250#CD 亿公斤#NN
+NONE
+295 世界#NN 少棒#NN 大赛#NN 创办#VV 于#P 1947#CD 年#M ，#PU 每年#AD 8#CD 月#NN 在#P 宾州#NR 南#NN 威廉#NR 波特#NR 比赛#NN 。#PU
+295 世界#NN 少棒#NN 大赛#NN 创办#VV 于#P 一九四七年#NT ，#PU 每年#AD 夏天#NT 在#P 宾州#NR 南#NN 威廉#NR 波特#NR 比赛#NN 。#PU
+NONE
+296 马来西亚#NR 陆军#NN 的#DEG 前身#NN 是#VC 成立#VV 于#P 1933#CD 年#M 3#CD 月#NN 1#CD 日#M 的#DEC 马来#NR 志愿#JJ 兵团#NN 。#PU
+296 马来西亚#NR 陆军#NN 源自#VV 成立#VV 于#P 1933#CD 年#M 3#CD 月#NN 1#CD 日#M 的#DEC 马来#NR 志愿#JJ 兵团#NN 。#PU
+NONE
+297 火地#NN 群岛#NN 南端#NN 的#DEG 合恩角#NN 是#VC 南美洲#NR 智利#NR 火地#NN 群岛#NN 南端#NN 的#DEG 陆#NN 岬#NN ，#PU 广泛#AD 认为#VV 是#VC 南美洲#NR 的#DEG 最南端#NN 。#PU
+297 火地#NN 群岛#NN 南端#NN 的#DEG 合恩角#NN 是#VC 南美洲#NR 智利#NR 火地#NN 群岛#NN 南端#NN 的#DEG 海湾#NN 。#PU
+NONE
+298 室女座#NN 是#VC 希腊#NR 正义#NN 女神#NN 阿斯特#NR 莉亚#NR 的#DEG 象征#NN ，#PU 亦#AD 为#VC 农业#NN 女神#NN 。#PU
+298 室女座#NN 是#VC 希腊#NR 正义#NN 女神#NN 阿斯特#NR 莉亚#NR 的#DEG 化身#NN ，#PU 亦#AD 为#VC 农业#NN 女神#NN 。#PU
+NONE
+299 火地#NN 群岛#NN 南端#NN 的#DEG 合恩角#NN 是#VC 南美洲#NR 智利#NR 火地#NN 群岛#NN 南端#NN 的#DEG 陆#NN 岬#NN ，#PU 广泛#AD 认为#VV 是#VC 南美洲#NR 的#DEG 最南端#NN 。#PU
+299 火地#NN 群岛#NN 南端#NN 的#DEG 合恩角#NN 是#VC 美洲#NR 的#DEG 最南端#NN 。#PU
+NONE
+300 火地#NN 群岛#NN ，#PU 是#VC 南美洲#NR 最南端#NN 的#DEG 岛屿#NN 群#NN ，#PU 由主岛#NR 大#JJ 火地岛#NR 及#CC 周边#NN 小岛#NN 组成#VV 。#PU
+300 火地#NN 群岛#NN ，#PU 是#VC 南美洲#NR 纬度#NN 最高#JJ 的#DEG 地方#NN 。#PU
+NONE
+301 法国#NR 数学家#NN 嘉当#VV 62#CD 岁#M 才#AD 当选#VV 法国#NR 科学院#NN 院士#NN
+301 法国#NR 数学家#NN 嘉是#VV 法国#NR 科学院#NN 院士#NN
+NONE
+302 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 分割#VV 为#P 两个#CD 独立#JJ 的#DEG 集团#NN 。#PU
+302 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 合并#NN 。#PU
+NONE
+303 世界#NN 少棒#NN 大赛#NN 是#VC 世界#NN 少棒#NN 联盟#NN (#PU LLB#NR )#PU 所#MSP 举办#VV 的#DEC 世界性#JJ 少年#NN 棒球#NN 比赛#NN 。#PU
+303 世界#NN 少棒#NN 大赛#NN 是#VC 位于#VV 美国#NR 的#DEC 世界#NN 少棒#NN 联盟#NN (#PU LLB#NR )#PU 所#MSP 举办#VV 的#DEC 世界性#JJ 少年#NN 棒球#NN 比赛#NN 。#PU
+NONE
+304 阿拉法特#NR 于#P 十一月#NT 十一日#NT 凌晨#NT 二#CD 时#LC 三十分#NT 病逝#VV 法国#NR 首都#NN 巴黎市#NR 西南郊#NN 克拉#NR 玛#NR 的#DEG 裴西军#NR 医院#NN ，#PU 享年#VV 七十五岁#NN
+304 阿拉法特#NR 在#P 巴黎#NR 的#DEG 医院#NN 辞世#VV
+NONE
+305 为#P 纪念#VV 野口#NR 英世对#NR 世人#NN 的#DEG 贡献#NN ，#PU 2004#CD 年#M 11#CD 月#NN 后#LC 改版#VV 的#DEC 1000#CD 日圆#NN 纸币#NN 印有#VV 他#PN 的#DEG 肖像#NN 。#PU
+305 为#P 纪念#VV 野口#NR 英世对#NR 世人#NN 的#DEG 贡献#NN ，#PU 2004#CD 年#M 11#CD 月#NN 后#LC 改版#VV 的#DEC 1000#CD 日圆#NN 纸币#NN 印有#VV 野口#NN 英世#VV 的#DEC 肖像#NN 。#PU
+NONE
+306 中国移动#NR 有限公司#VV （#PU 简称#VV “#PU 中国#NR 行动#NN 通讯#NN ”#PU 或#CC “#PU 中国移动#VV ”#PU ）#PU 。#PU
+306 中国移动#NR 是#VC 行动#NN 通讯#NN 的#DEG 相关#JJ 产业#NN 。#PU
+NONE
+307 理察森#NR 外推法#NN 是#VC 在#P 20#OD 世纪#NN 前期#NN 由#P 英国#NR 数学家#NN ，#PU 物理学家#NN ，#PU 气象学家#NN Lewis#NR Fry#NT Richardson#NR 提出#VV 的#DEC 。#PU
+307 理察森#NR 外推法#NN 是#VC 在#P 20#OD 世纪#NN 前期#NN 由#P 德国#NR 数学家#NN ，#PU 物理学家#NN ，#PU 气象学家#NN Lewis#NR Fry#NT Richardson#NR 提出#VV 的#DEC 。#PU
+NONE
+308 《#PU Top#JJ Gear#NN 》#PU 在#P 全世界#NN 拥有#VV 多达#AD 3#CD 亿#CD 5#CD ,#PU 000#CD 万#CD 观众#NN 。#PU
+308 《#PU Top#JJ Gear#NN 》#PU 是#VC 个#M 著名#JJ 的#DEG 广播节目#NN 。#PU
+NONE
+309 据#P 《#PU 圣经#NN ·#PU 申命记#NN 》#PU 所#MSP 载#VV ，#PU 约书亚#NR 继#P 摩西#NR 成为#VV 以色列#NR 人#NN 的#DEG 领袖#NN ，#PU 带领#VV 以色列#NR 人#NN 离开#VV 旷野#NN 进入#VV 应许#VV 之地#NN ，#PU 那#AD 丰富#VA 的#DEC 迦南#JJ 美地#NN 。#PU
+309 据#P 《#PU 圣经#NN ·#PU 申命记#NN 》#PU 所#MSP 载#VV ，#PU 约书亚#NR 与#CC 摩西#NR 都#AD 曾#AD 是#VC 以色列#NR 人#NN 的#DEG 领袖#NN 。#PU
+NONE
+310 何大一#NR 被#SB 称为#VV “#PU 爱滋病#NN 之#DEG 父#NN ”#PU
+310 何大一#NR 作为#P 第四个#CD 发现#VV 爱滋病#NN 的#DEG 科学家#NN ，#PU 仅#AD 比#P 首位#NN 发现者#NN 晚#VA 了#AS 3#CD 个#M 月#NN ，#PU 却令#VV 他#PN 错失#VV “#PU 爱滋病#NN 之#DEG 父#NN ”#PU 的#DEG 称号#NN
+NONE
+311 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 分割#VV 为#P 两个#CD 独立#JJ 的#DEG 集团#NN 。#PU
+311 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 分割#VV 为#VC 两个#CD 集团#NN 。#PU
+NONE
+312 20020220#CD 有#VE 自由式#NN 滑雪#NN 界库#NN 妮可#NN 娃之称#VV 的#DEC 卡普林#NR 在#P 盐湖城#NR 冬奥会#NR 中#LC 摘下#VV 金牌#NN 。#PU
+312 20020220#CD 有#VE 自由式#NN 滑雪#NN 界卡#NN 普林#NN 之称#VV 的#DEC 库#NN 妮可#AD 娃#VV 在#P 盐湖城#NR 冬奥会#NR 中#LC 摘下#VV 金牌#NN 。#PU
+NONE
+313 传#VV 巴基斯坦#NR 伊斯兰#NR 学校#NN 训练#VV 出#VV 了#AS 阿富汗#NR 的#DEG 塔利班#NR 政权#NN
+313 传#VV 基地#NN 组织#NN 在#P 伊拉克#NR 北部#NN 设#VV 恐怖分子#NN 训练营#NN
+NONE
+314 德#NR 川家康#NR 在位#JJ 后以#NN 武力#NN 攻破#VV 各#DT 军阀#NN 领地#NN ，#PU 统一#NR 全#DT 日本#NR 。#PU
+314 德#NR 川家康#NR 以#P 武力#NN 攻破#VV 各#DT 军阀#NN 领地#NN ，#PU 统一#NR 全#DT 日本#NR 。#PU
+NONE
+315 爱因斯坦#NR 出生#VV 后#LC 不久#AD ，#PU 便于#VV 1880#CD 年#M 举家#AD 迁往#VV 慕尼黑#NR 。#PU
+315 爱因斯坦#NR 出#VV 生于#VV 1880#CD 年#M 。#PU
+NONE
+316 世界#NN 少棒#NN 大赛#NN 创办#VV 于#P 1947#CD 年#M ，#PU 每年#AD 8#CD 月#NN 在#P 宾州#NR 南#NN 威廉#NR 波特#NR 比赛#NN 。#PU
+316 世界#NN 少棒#NN 大赛#NN 创办#VV 于#P 1947#CD 年#M ，#PU 每年#AD 8#CD 月#NN 在#P 宾夕法尼亚州#NR 南#NN 威廉#NR 波特#NR 比赛#NN 。#PU
+NONE
+317 1927#NT 年末#NT ，#PU 苏联#NR 谷物#NN 短缺#VV ，#PU 史达林#NR 力求#VV 迅速#AD 消灭#VV 富农#NN 阶级#NN ，#PU 并始#AD 推#VV 农业#NN 集体化#NN 政策#NN 。#PU
+317 1927#NT 年末#NT ，#PU 苏联#NR 谷物#NN 短缺#VA ，#PU 史达林#NR 始#AD 推#VV 农业#NN 集体化#NN 政策#NN ，#PU 其#PN 目的#NN 为#VC 力求#VV 迅速#AD 消灭#VV 富农#NN 阶级#NN 。#PU
+NONE
+318 印度#NR 与#CC 巴基斯坦#NR 和平谈判#VV 的#DEC 重要#JJ 议题#NN 有#VE 共同#JJ 货币#NN 的#DEG 可行性#NN 、#PU 讨论#VV 区域合作#NN 发展#VV 经济#NN 、#PU 将共组#NN 自由贸易区#NN 并#AD 解决#VV 长久以来#AD 的#DEC 喀什米尔#NR 问题#NN 。#PU
+318 印巴#NR 两#CD 国#NN 除了#P 喀什米尔#NR 问题#NN 外#LC ,#PU 也#AD 希望#VV 能#VV 在#P 经济#NN 发展#NN 上#LC 有#VE 共同#JJ 合作#NN 关系#NN
+NONE
+319 国际货币基金组织#NR （#PU IMF#NR ）#PU 去年#NT 12#CD 月#NN 停止#VV 对#P 阿根廷#NR 放款#VV
+319 国际货币基金组织#NR （#PU IMF#NR ）#PU 去年#NT 12#CD 月#NN 开放#VV 对#P 阿根廷#NR 放款#VV 的#DEC 限制#NN
+NONE
+320 为了#P 研究#VV 黄热病#NR 、#PU 奥罗亚#NR 热#NN 、#PU 小儿#NN 麻痺症#NN 以及#CC 沙眼#NN ，#PU 野口#NR 英世#NR 频繁#AD 地到#VV 中美洲#NR 与#CC 南美洲#NR 旅行#NN 。#PU
+320 野口#NR 英世#NR 致力于#VV 研究#VV 黄热病#NR 、#PU 奥罗亚#NR 热#NN 、#PU 小儿#NN 麻痺症#NN 以及#CC 沙眼#NN 。#PU
+NONE
+321 2010#CD 年#M Google#NR 公司#NN 因#P 内容#NN 审查#NN 问题#NN 与#P 中国政府#NR 交涉#VV ，#PU 并#AD 最终#AD 关闭#VV 中国#NR 版#NN 网页#NN 搜寻#NN 服务#NN 。#PU
+321 2010#CD 年#M 起#LC Google#NR 公司#NN 关闭#VV 中国#NR 版#NN 网页#NN 搜寻#NN 服务#NN 。#PU
+NONE
+322 火地#NN 群岛#NN 南端#NN 的#DEG 合恩角#NN 是#VC 南美洲#NR 智利#NR 火地#NN 群岛#NN 南端#NN 的#DEG 陆#NN 岬#NN ，#PU 该陆#NN 岬#NN 被#SB 广泛#AD 认为#VV 是#VC 南美洲#NR 的#DEG 最南端#NN 。#PU
+322 合恩角#NN 被#SB 广泛#AD 认为#VV 是#VC 南美洲#NR 的#DEG 最南端#NN 。#PU
+NONE
+323 火力发电厂#NR 是#VC 二氧化碳#NN 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+323 南极#NR 的#DEG 火力发电厂#NN 是#VC 二氧化碳#NN 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+NONE
+324 2008#CD 年#M 北京#NR 奥运会#NR 即#AD 第二十九届#OD 夏季#NN 奥林匹克运动会#NR 于#P 2008#NT 年#NN 8#CD 月#NN 8#CD 日#M 20#CD 时#LC 开幕#VV
+324 2008#CD 年#M 北京#NR 奥运会#NR 即#AD 第二十九届#OD 夏季#NN 奥林匹克运动会#NR 于#P 2008#NT 年#NN 8#CD 月#NN 8#CD 日#M 22#CD 时#LC 开幕#VV
+NONE
+325 美国最高法院#NR 首席#JJ 大法官#NN 哈伦#NR ·#PU 菲斯#NR 克#NR ·#PU 斯#NR 通称#VV 纽伦堡#NR 审判#NN 是#VC 一场#NN 骗局#NN 。#PU
+325 美国#NR 地方法院#NN 首席#JJ 大法官#NN 哈伦#NR ·#PU 菲斯#NR 克#NR ·#PU 斯#NR 通称#VV 纽伦堡#NR 审判#NN 是#VC 一场#NN 骗局#NN 。#PU
+NONE
+326 第五轮#OD 六方会谈#NN 定于#VV 本月#NT 九日#NT 在#P 北京钓鱼台国宾馆#NR 举行#VV
+326 第四轮#OD 六方会谈#NN 在#P 北京钓鱼台国宾馆#NR 开幕#VV
+NONE
+327 全身性#JJ 红斑狼疮#NN 的#DEG 症状#NN 千奇百怪#VV ，#PU 若#CS 千面#NN 女郎#NN 一般#VA ，#PU 每个#DT 人均#JJ 不尽相同#NN 。#PU
+327 若#CS 千面#NN 女郎#NN 一般#VA ，#PU 每个#DT 全身性#JJ 红斑狼疮#NN 的#DEG 患者#NN 症状#NN 均#AD 不尽相同#VV 。#PU
+NONE
+328 大部份#CD 的#DEG 乳酪#NN 是#VC 通过#P 细菌#NN 将#BA 乳糖#NN 变为#VV 乳酸#NN 后#LC ，#PU 加入#VV 凝乳#JJ 酵素#NN 使#VV 之#PN 完全#AD 凝固#VV 。#PU
+328 大部份#CD 的#DEG 乳酪#NN 是#VC 通过#P 细菌#NN 将#BA 乳糖#NN 变为#VV 乳酸#NN 后#LC ，#PU 加入#VV 凝乳#JJ 酵素#NN 使#VV 乳酪#NN 完全#AD 凝固#VV 。#PU
+NONE
+329 ESS#NR 控诉#NN 联发科#NN 侵权#NN 一案#NN 已获#AD 解决#VV ，#PU 由联#NN 发科#NN 在#P 两年#NT 内#LC 支付#VV 9#CD ,#PU 000#CD 万元#M 给#P ESS#NR 取得#VV 授权#NN
+329 ESS#NR 通过#P 法律#NN 途径#NN 使得#VV 联发科#NN 必须#VV 支付#VV 九#CD 千万元#NN 给#P ESS#NN 取得#VV 授权#NN
+NONE
+330 1976#NT 年#NN 蒙特利尔#NR 奥运会#NR ，#PU 拥有#VV 628#CD 家#M 赞助#NN 厂商#NN ，#PU 赞助#VV 资源#NN 价值#NN 高达#VV 700#CD 万美元#NR ，#PU 却#AD 仍#AD 严重#AD 亏损#VV 10#CD 亿美元#NN
+330 1976#NT 年#NN 蒙特利尔#NR 奥运会#NR ，#PU 拥有#VV 628#CD 家#M 赞助#NN 厂商#NN ，#PU 赞助#NN 价值#NN 高达#VV 700#CD 万美元#NR
+NONE
+331 诺贝尔经济学奖#NR 并#AD 不#AD 属于#VV 诺贝尔#NR 遗嘱#NN 中#LC 所#MSP 提到#VV 的#DEC 5#CD 大#JJ 奖励#NN 领域#NN 。#PU
+331 经济学奖#NN 并#AD 不#AD 属于#VV 诺贝尔#NR 遗嘱#NN 中#LC 所#MSP 提到#VV 的#DEC 5#CD 大#JJ 奖励#NN 领域#NN 。#PU
+NONE
+332 日本#NR 继#P 2003#CD 年#M 中国#NR 在#P 东海#NR 开采#VV 石油#NN 两年#NN 后#LC 批准#VV 民间#NN 石油勘探#NR 公司#NN "#PU 帝国#NN 石油#NN "#PU 勘探#VV 东海#NR 油气田#NN ，#PU 并#AD 给予#VV 试凿权#NN
+332 2005#CD 年#M 日本政府#VV 批准#VV 民间#NN 石油勘探#NR 公司#NN "#PU 帝国#NN 石油#NN "#PU 勘探#VV 东海#NR 油气田#NN ，#PU 并#AD 给予#VV 试凿权#NN
+NONE
+333 世界遗产#VV 的#DEC 选出#VV 是#VC 由#P 联合国教科文组织世界遗产委员会#NR 来#MSP 投票#VV 开会#VV 决定#VV 。#PU
+333 每年#AD 联合国教科文组织#VV 世界遗产#NR 委员#NN 都#AD 会#VV 投票#VV 开会#VV 决定#VV 世界遗产#VV 的#DEC 遴选#VV 。#PU
+NONE
+334 1970#NT 年代#NN ，#PU 瑞典#NR 通过#P 现代#JJ 宪法#NN ，#PU 瑞典#NR 国王#NN 在#P 议会#NN 的#DEG 一切#DT 权力#NN 被#SB 废除#VV 。#PU 但#AD 内阁#NN 每月#AD 仍会#VV 向#P 国王#NN 在#P 王宫#NN 内#LC 正式#AD 汇报#VV 。#PU
+334 1970#NT 年代#NN ，#PU 瑞典#NR 通过#P 现代#JJ 宪法#NN ，#PU 瑞典#NR 国王#NN 在#P 议会#NN 的#DEG 一切#DT 权力#NN 被#SB 废除#VV 。#PU 但#AD 总理#NN 每月#NR 仍会#VV 向#P 国王#NN 在#P 王宫#NN 内#LC 正式#AD 汇报#VV 。#PU
+NONE
+335 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 分割#VV 为#P 两个#CD 独立#JJ 的#DEG 集团#NN 。#PU
+335 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 被迫#AD 分割#VV 为#VC 两个#CD 独立#JJ 的#DEG 集团#NN 。#PU
+NONE
+336 纽伦堡#NR 审判#NN 中#LC 的#DEG 被告#NN 共计#AD 22#CD 名#M ，#PU 均#AD 为#VC 纳粹德国#NR 的#DEG 军政#NN 首领#NN 。#PU
+336 纽伦堡#NR 审判#NN 中#LC 的#DEG 被告#NN 共计#AD 22#CD 名#M ，#PU 均#AD 为#VC 纳粹#NR 的#DEG 军政#NN 首领#NN 。#PU
+NONE
+337 龙应台#NR 客居#VV 香港#NR ，#PU 先后#AD 任#VV 香港城市大学#NR 及#CC 香港大学#NR 的#DEG 客座教授#NN ，#PU 现时#NT 在#P 香港大学#NR 担任#VV 杰出#JJ 人文#NN 学者#NN
+337 龙应台#NR 在#P 香港城市大学#NR 担任#VV 客座教授#NN
+NONE
+338 琉球#NN 狐蝠#NN 以#P 植物#NN 的#DEG 果实#NN 、#PU 花朵#NN 、#PU 嫩叶#NN 为主#VV 食#VV 。#PU
+338 琉球#NN 狐蝠#NN 以#P 植物#NN 为主#VV 食#NN 。#PU
+NONE
+339 马来西亚#NR 陆军#NN 的#DEG 前身#NN 是#VC 成立#VV 于#P 1933#CD 年#M 3#CD 月#NN 1#CD 日#M 的#DEC 马来#NR 志愿#JJ 兵团#NN 。#PU
+339 马来西亚#NR 陆军#NN 的#DEG 前身#NN 是#VC 成立#VV 于#P 1931#CD 年#M 的#DEG 马来#NR 志愿#JJ 兵团#NN 。#PU
+NONE
+340 全身性#JJ 红斑狼疮#NN 的#DEG 症状#NN 千奇百怪#VV ，#PU 若#CS 千面#NN 女郎#NN 一般#VA ，#PU 每个#DT 人均#JJ 不尽相同#NN 。#PU
+340 全身性#JJ 红斑狼疮#NN 的#DEG 症状#NN 千奇百怪#VV ，#PU 若#CS 千面#NN 女郎#NN 一般#VA ，#PU 每个#DT 人#NN 的#DEG 症状#NN 均#AD 不尽相同#VV 。#PU
+NONE
+341 约翰#NR ·#PU 霍普金斯大学#NR 是#VC 哈伯#NR 太空#NN 望远镜#NN 和#CC 詹姆斯#NR ·#PU 韦伯#NR 太空#NN 望远镜#NN 的#DEG 地面#NN 控制中心#NN 所在地#NN 。#PU
+341 约翰#NR ·#PU 霍普金斯大学#NR 是#VC 哈伯#NR 太空#NN 望远镜#NN 和#CC 詹姆斯#NR ·#PU 韦伯#NR 太空#NN 望远镜#NN 的#DEG 所在地#NN 。#PU
+NONE
+342 酒精#NN 分子#NN 中#LC 含有#VV 两个#CD 碳原子#NN 与#CC 六个#CD 氢原子#NN 。#PU
+342 酒精#NN 分子#NN 中#LC 的#DEG 碳#NN 氢原子#NN 比为#VV 3#CD :#PU 1#CD 。#PU
+NONE
+343 居礼#NN 夫人#NN 是#VC 历史#NN 上#LC 第一个#AD 获得#VV 两项#NN 诺贝尔奖#NN 的#DEC 人#NN ，#PU 而且#AD 是#VC 在#P 两个#CD 不同#JJ 的#DEG 领域#NN 获得#VV 诺贝尔奖#NN 。#PU
+343 居礼#NN 夫人#NN 是#VC 历史#NN 上#LC 第一个#AD 获得#VV 两项#NN 诺贝尔奖#NN 的#DEC 人#NN ，#PU 而且#AD 是#VC 在#P 两个#CD 不同#JJ 的#DEG 奖项#NN 获得#VV 诺贝尔奖#NN 。#PU
+NONE
+344 诺贝尔经济学奖#NR 并#AD 不#AD 属于#VV 诺贝尔#NR 遗嘱#NN 中#LC 所#MSP 提到#VV 的#DEC 5#CD 大#JJ 奖励#NN 领域#NN 。#PU
+344 诺贝尔经济学奖#NR 并#AD 不算#AD 是#VC 真正#JJ 的#DEG 诺贝尔奖#NN 。#PU
+NONE
+345 在#P 台湾#NR ，#PU 公民#NN 直选#VV 产生#VV 之#DEC 政府#NN 首长#NN 与#CC 民意代表#NN 的#DEG 去留#NN 能#VV 经由#VV 罢免#NN 、#PU 弹劾#NN 、#PU 不信任案#NN 等#ETC 机制#NN 令其#VV 强制#AD 退场#VV 。#PU
+345 在#P 台湾#NR ，#PU 政府#NN 首长#NN 与#CC 民意代表#NN 的#DEG 去留#NN 能#VV 经由#VV 罢免#NN 、#PU 弹劾#NN 、#PU 不信任案#NN 等#ETC 机制#NN 令其#VV 强制#AD 退场#VV 。#PU
+NONE
+346 周杰伦#NR 的#DEG 第一部#NN 电影#NN 是#VC 《#PU 头文字#NN D#NN 》#PU
+346 “#PU 头文字#NN 暴走族#NN ”#PU 全接触#NN 第一#OD 高手#NN 周杰伦#NR
+NONE
+347 20041226#CD 印尼#NR 苏门答腊#NR 海岸#NN 地震#NN ，#PU 里氏#NR 规模#NN 9.0#CD
+347 印度尼西亚#NR 苏门答腊#NR 于#P 2004#CD 年#M 年底#NT 发生#VV 了#AS 规模#NN 9#CD 级#M 的#DEG 大#JJ 地震#NN
+NONE
+348 火力发电厂#NR 是#VC 二氧化碳#NN 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+348 火力发电厂#NR 是#VC CO2#NR 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+NONE
+349 大众#NN 特#AD 植物园#NN 占地约#NN 8#CD 公顷#M ，#PU 是#VC 夏威夷#NR 最#AD 古老#VA 的#DEC 植物园#NN ，#PU 并且#AD 是#VC 属于#VV 登记#VV 的#DEC 美国#NR 国家#NN 历史#NN 古#JJ 蹟#NN 之一#NN 。#PU
+349 大众#NN 特#AD 植物园#NN 占地约#NN 8#CD 公顷#M ，#PU 是#VC 夏威夷#NR 最#AD 古老#VA 的#DEC 植物园#NN ，#PU 并且#AD 被#SB 登记#VV 为#VC 美国#NR 国家#NN 历史#NN 古#JJ 蹟#NN 之一#NN 。#PU
+NONE
+350 1959#NT 年#NN ，#PU 第一届#OD 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 于#P 罗马尼亚#NR 举行#VV ，#PU 参赛国#NN 包括#VV 7#CD 个#M 东欧国家#NN 。#PU
+350 第一届#NR 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 西#NN 元#NR 一九五九年#NT 于#P 罗马尼亚#NR 举行#VV ，#PU 参赛国#NN 包括#VV 7#CD 个#M 东欧国家#NN 。#PU
+NONE
+351 从虎井屿#VV 东山#NR 的#DEG 海岸#NN 往#P 海底#NN 望#VV 可以#VV 看见#VV 类似#JJ 城墙#NN 建物#NN 的#DEG 影像#NN 在#P 海中#NN 若隐若现#VV 。#PU
+351 在#P 天气晴朗#NR 且#AD 大#JJ 退潮#NN 的#DEC 时候#NN ，#PU 从虎井屿#VV 东山#NR 的#DEG 海岸#NN 往#P 海底#NN 望#VV 可以#VV 看见#VV 类似#JJ 城墙#NN 建物#NN 的#DEG 影像#NN 在#P 海中#NN 若隐若现#VV 。#PU
+NONE
+352 火地#NN 群岛#NN ，#PU 是#VC 南美洲#NR 最南端#NN 的#DEG 岛屿#NN 群#NN ，#PU 由主岛#NR 大#JJ 火地岛#NR 及#CC 周边#NN 小岛#NN 组成#VV 。#PU
+352 火地#NN 群岛#NN 的#DEG 主岛#NN 大#JJ 火地岛#NR 位于#VV 南美洲#NR 最南端#NN 。#PU
+NONE
+353 德#NR 川家康#NR 在位#JJ 后以#NN 武力#NN 攻破#VV 各#DT 军阀#NN 领地#NN ，#PU 统一#NR 全#DT 日本#NR 。#PU
+353 德#NR 川家康#NR 在位#VV 后#LC 统一#VV 全#DT 日本#NR 。#PU
+NONE
+354 SARS#NN 病毒#NN 属于#VV 冠状病毒#VV
+354 冠状病毒#NR 属于#VV SARS#NN 病毒#NN
+NONE
+355 影响#NN 寿命#NN 长短#VV 的#DEC 生活#NN 因素#NN 之#DEG 睡眠不足#NN ，#PU 睡眠#NN 中断#VV 会#VV 提高#VV 心血管病#NN 风险#NN ，#PU 血液#NN 脂肪#NN 、#PU 胆固醇#NN 、#PU 皮质醇#NN 和#CC 血压#NN 水准#NN 都#AD 会#VV 增高#VV ,#PU 学者#NN 研究#NN 建议#VV 每天#AD 睡眠#NN 7#CD 小时#NN ，#PU 最#AD 长寿#VA
+355 学者#NN 研究#NN 建议#VV 每天#AD 睡眠#NN 7#CD 小时#NN ，#PU 最#AD 长寿#VA
+NONE
+356 印度教#NR 、#PU 佛教#NN 盛行#VV 火葬#NN ，#PU 儒家#NN 、#PU 伊斯兰教#NN 和#CC 基督教#NN 则#AD 盛行#VV 土葬#NN 。#PU
+356 印度教#NR 、#PU 大乘#NR 教#VV 盛行#VV 火葬#NN ，#PU 儒家#NN 、#PU 伊斯兰教#NN 和#CC 基督教#NN 则#AD 盛行#VV 土葬#NN 。#PU
+NONE
+357 芥川#NR 龙之介#NN 的#DEG 《#PU 地狱#NN 变#NN 》#PU 通过#P 极端化#JJ 的#DEG 人间#NN 悲剧#NN 描写#VV 了#AS 权力#NN 与#CC 艺术#NN 的#DEG 冲突#NN 。#PU
+357 日本#NR 文豪#NN 芥川#VV 龙之介#NN 的#DEC 《#PU 地狱#NN 变#NN 》#PU 通过#P 极端化#JJ 的#DEG 人间#NN 悲剧#NN 描写#VV 了#AS 权力#NN 与#CC 艺术#NN 的#DEG 冲突#NN 。#PU
+NONE
+358 大众#NN 特#AD 植物园#NN 占地约#NN 8#CD 公顷#M ，#PU 是#VC 夏威夷#NR 最#AD 古老#VA 的#DEC 植物园#NN ，#PU 并且#AD 是#VC 属于#VV 登记#VV 的#DEC 美国#NR 国家#NN 历史#NN 古#JJ 蹟#NN 之一#NN 。#PU
+358 大众#NN 特#AD 植物园#NN 占地约#NN 8#CD 公顷#M ，#PU 是#VC 檀香山#NR 最#AD 古老#VA 的#DEC 植物园#NN ，#PU 并且#AD 是#VC 属于#VV 登记#VV 的#DEC 美国#NR 国家#NN 历史#NN 古#JJ 蹟#NN 之一#NN 。#PU
+NONE
+359 日本首相#VV 小泉#NR 认为#VV 应该#VV 修改#VV 日本#NR 宪法#NN 以便#AD 承认#VV 目前#NT 的#DEG “#PU 自卫队#NN ”#PU 为#VV 正式#JJ 的#DEG 军队#NN
+359 日#NR 首相#NN 小泉#NR 纯一#NR 郎#NR 认为#VV 应该#VV 修改#VV 日本#NR 宪法#NN 以便#AD 承认#VV 目前#NT 的#DEG “#PU 自卫队#NN ”#PU 为#VV 正式#JJ 的#DEG 军队#NN
+NONE
+360 马来西亚#NR 陆军#NN 的#DEG 前身#NN 是#VC 成立#VV 于#P 1933#CD 年#M 3#CD 月#NN 1#CD 日#M 的#DEC 马来#NR 志愿#JJ 兵团#NN 。#PU
+360 马来西亚#NR 武装部队#NR 的#DEG 前身#NN 是#VC 成立#VV 于#P 1933#CD 年#M 3#CD 月#NN 1#CD 日#M 的#DEC 马来#NR 志愿#JJ 兵团#NN 。#PU
+NONE
+361 中国移动#NR 具有#VV 互联网#NN 国际#NN 联网#NN 单位#NN 经营权#NN 和#CC 国际#NN 出入口#NN 局#NN 业务#NN 经营权#NN 。#PU
+361 中国移动#NR 可#AD 经营#VV 国际#NN 出入口#NN 局#NN 业务#NN 。#PU
+NONE
+362 NYMEX#NR 原油期货#NN 价格#NN 在#P 2004#CD 年#M 6#CD 月#NN 1#CD 日#M 攀升#VV 至#VV 历史#NN 新高#NN 的#DEG 42.33#CD 美元#M /#PU 桶#NN
+362 NYMEX#NR 原油期货#NN 价格#NN 在#P 2004#CD 年#M 6#CD 月#NN 1#CD 日#M 攀升#VV 至#VV 历史#NN 新高#NN 的#DEG 42.33#CD 欧元#M /#PU 桶#NN
+NONE
+363 约克#NR 王朝#NR (#PU House#NR of#P York#NN )#PU 于#P 15#OD 世纪#NN 后#LC 半叶#NN 与#CC 兰开斯特#NR 王朝#NN 争夺#VV 王位#NN ，#PU 最后#AD 导致#VV 了#AS 玫瑰#NN 战争#NN 。#PU
+363 约克#NR 王朝#NR (#PU House#NR of#P York#NN )#PU 于#P 15#OD 世纪#NN 后#LC 半叶#NN 与#CC 兰开斯特#NR 王朝#NN 谦让#NN 王位#NN ，#PU 最后#AD 导致#VV 了#AS 玫瑰#NN 战争#NN 。#PU
+NONE
+364 法国#NR 数学家#NN 嘉当#VV 62#CD 岁#M 才#AD 当选#VV 法国#NR 科学院#NN 院士#NN
+364 上个世纪#VV 的#DEC 数学家#NN 里#LC ,#PU 嘉当#AD 是#VC 对#P 21#OD 世纪#NN 的#DEG 数学#NN 影响#VV 最大#JJ 的#DEG 一位#NN
+NONE
+365 火力发电厂#NR 是#VC 二氧化碳#NN 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+365 火力发电厂#NR 是#VC 二氧化碳#NN 的#DEG 主要#JJ 吸收#NN 对象#NN 。#PU
+NONE
+366 心肺#NN 复苏#VV 术#NN 是#VC 一种#AD 救助#VV 心跳#NN 停止#VV 病患#NN 的#DEC 急救#NN 措施#NN ，#PU 通过#P 人工#JJ 保持#NN 脑#NN 功能#NN 直到#P 自然#NN 呼吸#NN 和#CC 血液循环#NN 回复#VV 。#PU
+366 人工呼吸#NN 是#VC 一种#AD 救助#VV 心跳#NN 停止#VV 病患#NN 的#DEC 急救#NN 措施#NN ，#PU 通过#P 人工#JJ 保持#NN 脑#NN 功能#NN 直到#P 自然#NN 呼吸#NN 和#CC 血液循环#NN 回复#VV 。#PU
+NONE
+367 中国移动#NR 是#VC 2000#CD 年#M 4#CD 月#NN 20#CD 日#M 成立#VV 的#DEC 中国#NR 国有#JJ 重要#JJ 骨干企业#NN 。#PU
+367 中国移动#NR 成立#VV 于#P 2000#CD 年#M 4#CD 月#NN 。#PU
+NONE
+368 中国#NR 2010#CD 年#M 上海#NR 世界#NN 博览会#NN （#PU Expo#NR 2010#NT Shanghai#NR China#NR ）#PU ，#PU 简称#VV 上海#NR 世博会#NR ，#PU 是#VC 第#OD 41#CD 届#M 世界#NN 博览会#NN ，#PU 于#P 2010#CD 年#M 5#CD 月#NN 1#CD 日至#NN 10#CD 月#NN 31#CD 日#M 在#P 中国#NR 上海#NR 举行#VV
+368 中国#NR 2010#CD 年#M 上海#NR 世界#NN 博览会#NN 简称#VV 上海#NR 世博会#NR
+NONE
+369 从#P 拥有#VV 核武器#NN 的#DEC 第一天#OD 起#M ,#PU 中国#NR 就#AD 承诺#VV 无条件#AD 不#AD 对#P 无核武器#NN 国家#NN 和#CC 无核武器#NN 区#NN 使用#VV 或#CC 威胁#VV 使用#VV 核武器#NN 。#PU
+369 中国#NR 拥有#VV 核武器#NN
+NONE
+370 诺贝尔经济学奖#NR 并#AD 不#AD 属于#VV 诺贝尔#NR 遗嘱#NN 中#LC 所#MSP 提到#VV 的#DEC 5#CD 大#JJ 奖励#NN 领域#NN 。#PU
+370 诺贝尔经济学奖#NR 属于#VV 诺贝尔#NR 遗嘱#NN 中#LC 所#MSP 提到#VV 的#DEC 5#CD 大#JJ 奖励#NN 领域#NN 。#PU
+NONE
+371 弥赛亚#NR （#PU Messiah#NR ）#PU 是#VC 巴洛克#NR 时期#NN 著名#JJ 音乐家#NN 韩德尔#NR 创作#VV 的#DEC 大型#JJ 神剧#NN 。#PU
+371 弥赛亚#NR （#PU Messiah#NR ）#PU 是#VC 巴洛克#NR 时期#NN 著名#JJ 音乐家#NN 韩德尔#NR 创作#VV 的#DEC 大型#JJ 宗教音乐#NN 作品#NN 。#PU
+NONE
+372 火地#NN 群岛#NN ，#PU 是#VC 南美洲#NR 最南端#NN 的#DEG 岛屿#NN 群#NN ，#PU 由主岛#NR 大#JJ 火地岛#NR 及#CC 周边#NN 小岛#NN 组成#VV 。#PU
+372 南美洲#NR 由主岛#NR 大#JJ 火地岛#NR 及#CC 周边#NN 小岛#NN 组成#VV 。#PU
+NONE
+373 中国#NR 行动#NN 通讯#NN 拥有#VV 全球#NN 第一#OD 的#DEC 行动#NN 通讯#NN 网络#NN 规模#NN 和#CC 客户#NN 规模#NN ，#PU 连续#AD 多年#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 。#PU
+373 中国#NR 行动#NN 通讯#NN 拥有#VV 《#PU 财富#NN 》#PU 杂志#NN 。#PU
+NONE
+374 2003#CD 年#M 北京#NR 电影#NN 市场#NN 由#P 《#PU 英雄#NN 》#PU 、#PU 《#PU 天地英雄#NR 》#PU 、#PU 《#PU 手机#NN 》#PU 等#ETC 三部#NN 国产#JJ 大片#NN 起#VV 扛#VV 鼎#NN 作用#NN ，#PU 国产片#NN 占#VV 到#VV 全部#DT 票房#NN 收入#NN 的#DEG 47#CD ％#NN 。#PU
+374 《#PU 英雄#NN 》#PU 、#PU 《#PU 天地英雄#NR 》#PU 、#PU 《#PU 手机#NN 》#PU 都#AD 是#VC 2003#CD 年#M 在#P 北京#NR 上映#VV 的#DEC 国产#JJ 大片#NN 。#PU
+NONE
+375 2002#CD 年#M 5#CD 月#NN 3#CD 日以#NN 漫画#NN 改编#VV 的#DEC 电影#NN 蜘蛛人#NN 被#SB 搬#VV 上#VV 了#AS 银幕#NN 。#PU 由陶#NN 比#P ·#PU 麦#M 奎尔#NR 扮演#VV 彼得#NR ·#PU 帕克#NR 。#PU
+375 陶比#AD ·#PU 麦#M 奎尔#NR 不是#CC 唯一#JJ 扮演#VV 过#AS 彼得#NR ·#PU 帕克#NR (#PU 蜘蛛人#NN )#PU 的#DEG 演员#NN 。#PU
+NONE
+376 洛克菲勒#NR 1870#CD 年#M 创立#VV 标准#NN 石油#NN ，#PU 在#P 全盛期#NN 垄断#VV 了#AS 全美#NR 90#CD %#CD 的#DEG 石油市场#NN 。#PU
+376 洛克菲勒#NR 1870#CD 年#M 创立#VV 标准#NN 石油#NN ，#PU 在#P 全盛期#NN 垄断#VV 了#AS 90#CD %#CD 的#DEG 石油市场#NN 。#PU
+NONE
+377 南北朝#NN 陶弘景#NN 所著#VV 的#DEC 《#PU 名医#NN 别录#NN 》#PU 概括#VV 的#DEC 琥珀#NN 三大#NR 功效#NN 为#VC ：#PU 去#VV 惊#VA 定神#VA ，#PU 活血#AD 散#VV 淤#VA ，#PU 利尿#NN 通淋#NN 。#PU
+377 南北朝#NN 陶弘景#NN 所著#VV 的#DEC 《#PU 名医#NN 别录#NN 》#PU 概括#VV 琥珀#NN 的#DEC 功效#NN 包括#VV 去#VV 惊#VA 定神#VV 及#CC 利尿#VV 通淋#NN 。#PU
+NONE
+378 王毅#NR ，#PU 外交部#NN 副#JJ 部长#NN ，#PU 一个#CD 低调#VA 而#CC 又#AD 引人注目#VV 的#DEC 外交#NN 新星#NN 。#PU
+378 外交部#NN 副#JJ 部长#NN 王毅#NR 曾#AD 作为#P 中国#NR 代表团#NN 团长#NN 参加#VV 六方会谈#NN
+NONE
+379 九层#NN 塔#NN 对#P 寒冷#JJ 非常#AD 敏感#VA ，#PU 在#P 热#NN 和#CC 干燥#VA 的#DEC 环境#NN 下#LC 生长#VV 得#DER 最好#AD 。#PU
+379 九层#NN 塔#NN 对#P 寒冷#JJ 非常#AD 敏感#VA ，#PU 在#P 热#JJ 的#DEG 环境#NN 下#LC 生长#VV 得#DER 最好#AD 。#PU
+NONE
+380 根据#P 富比#NR 士#NN 的#DEG 资料#NN 显示#VV ，#PU 中国移动#VV 有限公司#VV 是#VC 在#P 香港#NR 注册#VV 的#DEC 公司#NN 中#LC 市值#NN 最高#JJ 的#DEG 一间#NN 。#PU
+380 根据#P 富比#NR 士#NN 的#DEG 资料#NN 显示#VV ，#PU 中国移动#VV 有限公司#VV 并非#AD 在#P 香港#NR 注册#VV 的#DEC 公司#NN 中#LC 市值#NN 最高#JJ 的#DEG 一间#NN 。#PU
+NONE
+381 20020619#CD 世界杯#NR 意大利#NR 败给#VV 韩国#NR 惨遭#VV 淘汰#VV ，#PU 欧洲各国#NR 媒体#NN 均#AD 以#P 严厉#JJ 语气#NN 和#CC 大篇幅#JJ 报导#NN 指责#VV 此役#VV 厄瓜多尔#NR 裁判#NN 莫雷诺#NR 不公#VA 。#PU
+381 2002#CD 年#M 6#CD 月#NN 19#CD 日#M 世界杯#NR 意大利#NR 败给#VV 韩国#NR 惨遭#VV 淘汰#VV ，#PU 欧洲各国#NR 媒体#NN 均#AD 以#P 大篇幅#JJ 报导#NN 和#CC 严厉#JJ 语气#NN 指责#VV 此役#JJ 裁判#NN 厄瓜多尔人#NN 莫雷诺#NR 不公#VA 。#PU
+NONE
+382 20020301#NT 吉尼斯世界纪录#NR 大全#NR 今年#NT 二月#NT 将#AD 日本#NR 名古屋#NR 车站#NN 列为#VV 世界#NN 最大#JJ 火车站#NN 。#PU
+382 20020301#NT 吉尼斯世界纪录#NR 大全#NR 今年#NT 二月#NT 将#AD 日本#NR 名古屋#NR 车站#NN 列为#VV 世界#NN 第一#OD 大#JJ 火车站#NN 。#PU
+NONE
+383 1989#NT 年#NN 英伦#NR 航空#NN 92#CD 号#M 班机#NN 空难#NN ，#PU 机上#NN 118#CD 名#M 乘客#NN 中#LC 的#DEG 39#CD 人#NN 当场#AD 死亡#VV ，#PU 8#CD 人于#VV 稍后#NN 时间#NN 亦#AD 过世#VV ；#PU 而#AD 机上#NN 的#DEG 8#CD 名#M 机员#NN 则#AD 全部#AD 生还#VV 。#PU
+383 1989#NT 年#NN 英伦#NR 航空#NN 92#CD 号#M 班机#NN 坠毁#VV ，#PU 机上#NN 118#CD 名#M 乘客#NN 中#LC 的#DEG 39#CD 人#NN 当场#AD 死亡#VV ，#PU 8#CD 人于#VV 稍后#NN 时间#NN 亦#AD 过世#VV ；#PU 而#AD 机上#NN 的#DEG 8#CD 名#M 机员#NN 则#AD 全部#AD 生还#VV 。#PU
+NONE
+384 2005#CD 年#M 超级女#NN 声#NN 全国#NN 总冠军#NN 李宇春#NR 毕业#VV 于#P 四川#NR 音乐学院#NN 通俗#AD 音乐学院#VV 。#PU
+384 李宇春#NR 是#VC 四川#NR 音乐学院#NN 女#NN 学生#NN
+NONE
+385 在#P 发展中国家#VV ,#PU 麻风病#NN 是#VC 一个#CD 严重#JJ 的#DEG 公共卫生#NN 问题#NN
+385 麻疯#NN 也#AD 称为#VV “#PU 汉#NR 生病#VV ”#PU
+NONE
+386 为了#P 纪念#VV 这次#AD 玫瑰#NN 战争#NN ，#PU 英格兰#NR 以#P 玫瑰#NN 为#VV 国花#NN ，#PU 并#AD 把#BA 皇室#NN 徽章#NN 改为#VV 红#JJ 白玫瑰#NN 。#PU
+386 为了#P 纪念#VV 这次#AD 玫瑰#NN 战争#NN ，#PU 英格兰#NR 以#P 玫瑰#NN 为#VV 国花#NN ，#PU 并#AD 把#BA 皇室#NN 徽章#NN 改为#VV 黄#NN 白玫瑰#NN 。#PU
+NONE
+387 目前#NT 中国#NR 经济#NN 正#AD 进入#VV 一个#CD 新#JJ 增长#NN 时期#NN 的#DEG 上升#NN 阶段#NN ，#PU 2001#CD 年#M GDP#NN 增长#VV 7.5#CD %#NN ,#PU 2002#CD 年#M 增长#VV 8#CD %#NN 。#PU 今年#NT 一季度#NT 增长#VV 9.9#CD %#NN 。#PU
+387 目前#NT 中国#NR 经济#NN 正#AD 进入#VV 一个#CD 新#JJ 增长#NN 时期#NN 的#DEG 上升#NN 阶段#NN ，#PU 并#CC 使得#VV 老百姓#NN 的#DEG 生活#NN 有#VE 了#AS 显著#JJ 的#DEG 提高#NN
+NONE
+388 老年人#NN 不宜#AD 摄取#VV 太多#NR 的#DEG 咖啡因#NN
+388 老年人#NN 不#AD 适合#VV 摄取#VV 太多#JJ 的#DEG 咖啡因#NN
+NONE
+389 在#P 民主#NN 社会#NN 中#LC ，#PU 允许#VV 女性#NN 拥有#VV 平等#NN 参与#VV 选举#NN 投票#NN 以及#CC 担任#VV 候选人#NN 的#DEG 政治权利#NN ，#PU 被#SB 认为#VV 是#VC 妇女#NN 权利#NN 的#DEG 一部#NN 份#NN 。#PU
+389 在#P 民主#NN 社会#NN 中#LC ，#PU 允许#VV 男性#NN 拥有#VV 平等#NN 参与#VV 选举#NN 投票#NN 以及#CC 担任#VV 候选人#NN 的#DEG 政治权利#NN ，#PU 被#SB 认为#VV 是#VC 男性#NN 权利#NN 的#DEG 一部#NN 份#NN 。#PU
+NONE
+390 金沙江#NR 古称#VV 丽水#NR ，#PU 以#P 盛产#VV 金沙#NN 而#MSP 得名#VV 。#PU
+390 长江#NR 古称#VV 丽水#NR ，#PU 以#P 盛产#VV 金沙#NN 而#MSP 得名#VV 。#PU
+NONE
+391 印度教#NR 、#PU 佛教#NN 盛行#VV 火葬#NN ，#PU 儒家#NN 、#PU 伊斯兰教#NN 和#CC 基督教#NN 则#AD 盛行#VV 土葬#NN 。#PU
+391 印度教#NN 是#VC 盛行#VV 火葬#NN 的#DEC 宗教#NN 之一#NN 。#PU
+NONE
+392 第#OD 76#CD 届#M 奥斯卡#NR 最佳#JJ 男主角#NN 是#VC 肖恩#NR ·#PU 潘#NR
+392 第#OD 76#CD 届#M 奥斯卡#NR 最佳#JJ 男主角#NN 奖得主#NN 是#VC 肖恩#NR ·#PU 潘#NR
+NONE
+393 爱因斯坦#NR 因在#VV 光电效应#NN 方面#NN 的#DEG 研究#NN ，#PU 获#VV 授予#VV 1921#CD 年#M 诺贝尔物理学奖#NR 。#PU
+393 爱因斯坦#NR 因在#VV 光电效应#NN 方面#NN 的#DEG 研究#NN ，#PU 获颁#VV 1921#CD 年#M 诺贝尔物理学奖#NR 。#PU
+NONE
+394 东照宫#NR 是#VC 供奉#VV 日本#NR 最后#AD 一代#LC 幕府#NR —#PU 江户#NR 幕府#NN 的#DEG 开府#NN 将军#NN 德#NR 川家康#NR 的#DEG 神社#NN 。#PU
+394 东照宫#NR 是#VC 供奉#VV 德#NR 川家康#NR —#PU 日本#NR 最后#AD 一代#LC 幕府#NR 江户#NN 幕府#NN 的#DEG 开府#NN 将军#NN 的#DEG 神社#NN 。#PU
+NONE
+395 恐龙#NN 可能#VV 是#VC 鸟类#NN 祖先#NN 的#DEC 理论#NN ，#PU 是#VC 在#P 1868#CD 年#M 由#P 汤玛斯#NR ·#PU 亨利#NR ·#PU 赫胥黎#NR 首次#AD 提出#VV 。#PU
+395 汤玛斯#NR ·#PU 亨利#NR ·#PU 赫胥黎#NR 在#P 1868#CD 年#M 首次#AD 提出#VV 恐龙#NN 可能#VV 是#VC 鸟类#NN 祖先#NN 的#DEC 理论#NN 。#PU
+NONE
+396 中国#NR 以#P 市场#NN 供求#NN 为#VC 基础#NN 在#P 2005#CD 年#M 七月#NT 实施#VV 人民币#NN 汇率#NN 改革#NN
+396 中国#NR 在#P 2005#CD 年#M 七月#NT 以#P 市场#NN 供求#NN 为#VC 基础#NN 实施#VV 人民币#NN 汇率#NN 改革#NN
+NONE
+397 淡水#NR 的#DEG 红毛城#NR 不#AD 但是#AD 台湾#NR 现存#VV 最#AD 古老#VA 的#DEC 建筑#NN 之一#NN ，#PU 同时#AD 也#AD 被#SB 列为#VV 国家一级#NN 古#JJ 蹟#NN 。#PU
+397 台湾#NR 的#DEG 红毛城#NR 不#AD 但是#AD 淡水#NR 现存#VV 最#AD 古老#VA 的#DEC 建筑#NN 之一#NN ，#PU 同时#AD 也#AD 被#SB 列为#VV 国家一级#NN 古#JJ 蹟#NN 。#PU
+NONE
+398 理察森#NR 外推法#NN 是#VC 在#P 20#OD 世纪#NN 前期#NN 由#P 英国#NR 数学家#NN ，#PU 物理学家#NN ，#PU 气象学家#NN Lewis#NR Fry#NT Richardson#NR 提出#VV 的#DEC 。#PU
+398 理察森#NR 外推法#NN 是#VC 在#P 20#OD 世纪#NN 前期#NN 由#P 大英国协#NR 的#DEG 数学家#NN ，#PU 物理学家#NN ，#PU 气象学家#NN Lewis#NR Fry#NT Richardson#NR 提出#VV 的#DEC 。#PU
+NONE
+399 汽电#NN 共生#VV 在#P 丹麦#NR 等#ETC 斯堪的纳维亚#NR 国家#NN 以及#CC 德国#NR 的#DEG 一部分#CD 被#SB 广泛#AD 使用#VV 。#PU
+399 汽电#NN 共生#VV 在#P 瑞典#NR 等#ETC 斯堪的纳维亚#NR 国家#NN 以及#CC 德国#NR 的#DEG 一部分#CD 被#SB 广泛#AD 使用#VV 。#PU
+NONE
+400 根据#P 富比#NR 士#NN 的#DEG 资料#NN 显示#VV ，#PU 中国移动#VV 有限公司#VV 是#VC 在#P 香港#NR 注册#VV 的#DEC 公司#NN 中#LC 市值#NN 最高#JJ 的#DEG 一间#NN 。#PU
+400 根据#P 富比#NR 士#NN 的#DEG 资料#NN 显示#VV ，#PU 中国移动#VV 有限公司#VV 是#VC 在#P 香港#NR 注册#VV 的#DEC 公司#NN 中#LC 市值#NN 最高#JJ 的#DEG 其中#NN 之一#NN 。#PU
+NONE
+401 成长性#JJ 投资#NN 倾向#VV 于#P 注重#VV 目标#NN 企业#NN 的#DEG 利润#NN 成长性#NN 和#CC 可持续性#JJ ，#PU 往往#AD 是#VC 投资#VV 于#P 高#JJ 市盈率#NN 、#PU 高#JJ 市净率#NN 的#DEG 股票#NN 。#PU
+401 成长性#JJ 投资#NN 倾向#VV 于#P 注重#VV 目标#NN 企业#NN 的#DEG 利润#NN 成长性#NN 和#CC 可持续性#JJ ，#PU 往往#AD 不是#CC 投资#VV 于#P 高#JJ 市盈率#NN 、#PU 高#JJ 市净率#NN 的#DEG 股票#NN 。#PU
+NONE
+402 大众#NN 特#AD 植物园#NN 占地约#NN 8#CD 公顷#M ，#PU 是#VC 夏威夷#NR 最#AD 古老#VA 的#DEC 植物园#NN ，#PU 并且#AD 是#VC 属于#VV 登记#VV 的#DEC 美国#NR 国家#NN 历史#NN 古#JJ 蹟#NN 之一#NN 。#PU
+402 大众#NN 特#AD 植物园#NN 占地约#NN 8#CD 公顷#M ，#PU 是#VC 美国#NR 最#AD 古老#VA 的#DEC 植物园#NN ，#PU 并且#AD 是#VC 属于#VV 登记#VV 的#DEC 美国#NR 国家#NN 历史#NN 古#JJ 蹟#NN 之一#NN 。#PU
+NONE
+403 德#NR 川家康#NR 病逝#VV 后#LC 被#LB 尊为#VV 江户#NN 幕府#NN 的#DEG 守护神#NN 东照#NR 大权#NN 现#NT 。#PU
+403 德#NR 川家康#NR 去世#VV 后#LC 被#LB 尊为#VV 江户#NN 幕府#NN 的#DEG 守护神#NN 东照#NR 大权#NN 现#NT 。#PU
+NONE
+404 约翰#NR ·#PU 霍普金斯大学#NR 是#VC 哈伯#NR 太空#NN 望远镜#NN 和#CC 詹姆斯#NR ·#PU 韦伯#NR 太空#NN 望远镜#NN 的#DEG 地面#NN 控制中心#NN 所在地#NN 。#PU
+404 哈伯#NR 太空#NN 望远镜#NN 和#CC 詹姆斯#NR ·#PU 韦伯#NR 太空#NN 望远镜#NN 的#DEG 地面#NN 控制中心#NN 所在地#NN 是#VC 约翰#NR ·#PU 霍普金斯大学#NR 。#PU
+NONE
+405 德#NR 川家康#NR 死后#AD 被#LB 尊为#VV 江户#NN 幕府#NN 的#DEG 守护神#NN 东照#NR 大权#NN 现#NT 。#PU
+405 德#NR 川家康#NR 死后#AD 被#LB 尊为#VV 江户#NN 幕府#NN 的#DEG 守护神#NN 。#PU
+NONE
+406 汽电#NN 共生#VV 在#P 丹麦#NR 等#ETC 斯堪的纳维亚#NR 国家#NN 以及#CC 德国#NR 的#DEG 一部分#CD 被#SB 广泛#AD 使用#VV 。#PU
+406 丹麦#NR 属于#VV 斯堪的纳维亚#NR 国家#NN 。#PU
+NONE
+407 319#CD 枪击案#NN 是#VC 压垮#VV 台湾#NR 蓝营#NR 竞选#NN 的#DEG 最后#JJ 一根#JJ 稻草#NN
+407 台湾#NR 蓝营#NR 在#P 319#CD 枪击案#NN 后#LC 竞选#VV 失利#VV
+NONE
+408 据#P 《#PU 圣经#NN ·#PU 申命记#NN 》#PU 所#MSP 载#VV ，#PU 约书亚#NR 继#P 摩西#NR 成为#VV 以色列#NR 人#NN 的#DEG 领袖#NN ，#PU 带领#VV 以色列#NR 人#NN 离开#VV 旷野#NN 进入#VV 应许#VV 之地#NN ，#PU 那#AD 丰富#VA 的#DEC 迦南#JJ 美地#NN 。#PU
+408 据#P 《#PU 圣经#NN ·#PU 申命记#NN 》#PU 所#MSP 载#VV ，#PU 约书亚#NR 继#P 摩西#NR 成为#VV 以色列#NR 人#NN 的#DEG 首领#NN ，#PU 带领#VV 以色列#NR 人#NN 离开#VV 旷野#NN 进入#VV 应许#VV 之地#NN ，#PU 那#AD 丰富#VA 的#DEC 迦南#JJ 美地#NN 。#PU
+NONE
+409 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 分割#VV 为#P 两个#CD 独立#JJ 的#DEG 集团#NN 。#PU
+409 中信#NR 金控#NN 与#CC 中信集团#NN 皆#AD 源自#VV 和#CC 信#NN 集团#NN 。#PU
+NONE
+410 巴基斯坦#NR 伊斯兰#NR 学校#NN 训练#NN 基地#NN 组织#NN 的#DEG 成员#NN
+410 基地#NN 组织#NN 在#P 阿富汗#NR 拥有#VV 十多个#CD 基地#NN ，#PU 专门#AD 训练#VV 成员#NN
+NONE
+411 1998#NT 年#NN 9#CD 月#NN ，#PU 朱镕基#NR 巡视#VV 发生#VV 水灾#NN 的#DEC 江西省#NR 九江市#NR 时#LC ，#PU 因#P 九江#NR 新筑#NR 的#DEG 防洪#NN 大堤#NN 不堪一击#VV ，#PU 朱镕基#NR 怒斥#VV 这是#AD “#PU 豆腐渣工程#VV ”#PU 。#PU
+411 1998#NT 年#NN 9#CD 月#NN ，#PU 朱镕基#NR 巡视#VV 发生#VV 水灾#NN 的#DEC 江西省#NR 九江市#NR 时#LC ，#PU 因#P 九江#NR 新筑#NR 的#DEG 防洪#NN 大堤#NN 坚若#VV 磐石#NN ，#PU 朱镕基#NR 怒斥#VV 这是#AD “#PU 豆腐渣工程#VV ”#PU 。#PU
+NONE
+412 滚石#JJ 乐队#NN 成立#VV 开始#VV 时期#NN 他们#PN 演奏#VV 自己#PN 改编#VV 的#DEC 蓝调#NN 、#PU 节奏#NN 蓝调#VV 、#PU 乡村音乐#NN 和#CC 摇滚乐#NN 。#PU
+412 滚石#JJ 乐队#NN 成立#VV 开始#VV 时期#NN 他们#PN 演奏#VV 自己#PN 创作#VV 的#DEC 蓝调#NN 、#PU 节奏#NN 蓝调#VV 、#PU 乡村音乐#NN 和#CC 摇滚乐#NN 。#PU
+NONE
+413 丰富#VA 的#DEC 想像力#NN 、#PU 精湛#VA 的#DEC 数学#NN 造诣#NN 、#PU 严谨#VA 的#DEC 治学#NN 态度#NN ，#PU 这些#PN 都#AD 是#VC 成为#VV 理论#NN 物理学家#NN 需要#VV 培养#VV 的#DEC 优良#JJ 素质#NN 。#PU
+413 丰富#VA 的#DEC 想像力#NN 、#PU 严谨#VA 的#DEC 治学#NN 态度#NN 、#PU 精湛#VA 的#DEC 数学#NN 造诣#NN ，#PU 这些#PN 都#AD 是#VC 成为#VV 理论#NN 物理学家#NN 需要#VV 培养#VV 的#DEC 优良#JJ 素质#NN 。#PU
+NONE
+414 心肺#NN 复苏#VV 术#NN 是#VC 一种#AD 救助#VV 心跳#NN 停止#VV 病患#NN 的#DEC 急救#NN 措施#NN ，#PU 通过#P 人工#JJ 保持#NN 脑#NN 功能#NN 直到#P 自然#NN 呼吸#NN 和#CC 血液循环#NN 回复#VV 。#PU
+414 心肺#NN 复苏#VV 术#NN 通过#P 人工#NN 保持#VV 脑#NN 功能#NN 直到#P 自然#NN 呼吸#NN 和#CC 血液循环#NN 回复#VV 。#PU
+NONE
+415 并非#VC 所有#DT 的#DEG 病毒#NN 都#AD 会#VV 导致#VV 疾病#NN 。#PU
+415 病毒#NN 会#VV 导致#VV 传染病#NN 。#PU
+NONE
+416 除#P 广东#NR 以外#LC ，#PU 萝#NN 蔔#VV 糕#NN 在#P 台湾#NR 、#PU 新加坡#NR 及#CC 马来西亚#NR 等#ETC 国家#NN ，#PU 甚至#AD 东亚地区#NR 也#AD 极为#AD 普遍#VA 。#PU
+416 除#P 广东#NR 以外#LC ，#PU 萝#NN 蔔#VV 糕#NN 在#P 台湾#NR 、#PU 新加坡#NR 及#CC 马来西亚#NR 等#ETC 国家#NN ，#PU 甚至#AD 东北亚地区#NR 也#AD 极为#AD 普遍#VA 。#PU
+NONE
+417 大众#NN 特#AD 植物园#NN 占地约#NN 8#CD 公顷#M ，#PU 是#VC 夏威夷#NR 最#AD 古老#VA 的#DEC 植物园#NN ，#PU 并且#AD 是#VC 属于#VV 登记#VV 的#DEC 美国#NR 国家#NN 历史#NN 古#JJ 蹟#NN 之一#NN 。#PU
+417 大众#NN 特#AD 植物园#NN 占地约#NN 8#CD 万平方米#M ，#PU 是#VC 夏威夷#NR 最#AD 古老#VA 的#DEC 植物园#NN ，#PU 并且#AD 是#VC 属于#VV 登记#VV 的#DEC 美国#NR 国家#NN 历史#NN 古#JJ 蹟#NN 之一#NN 。#PU
+NONE
+418 印度教#NR 、#PU 佛教#NN 盛行#VV 火葬#NN ，#PU 儒家#NN 、#PU 伊斯兰教#NN 和#CC 基督教#NN 则#AD 盛行#VV 土葬#NN 。#PU
+418 各大#NR 宗教#NN 对#P 葬礼#NN 的#DEG 喜好#NN 不尽相同#VV 。#PU
+NONE
+419 天龙八部#NN 中#LC 三位#NR 男主角#NN 的#DEG 身世#NN 均#AD 十分#AD 离奇#VV ，#PU 其中#NN 虚竹#NN 即#AD 为#P 少林#NN 方丈#NN 玄慈及#NR 四大#JJ 恶人#NN 中#LC 的#DEG “#PU 无恶不作#VV ”#PU 叶二娘#NR 的#DEG 儿子#NN 。#PU
+419 天龙八部#NN 中#LC ，#PU 其中#NN 虚竹#VV 为#VC 叶二娘#NR 所#MSP 生#VV 。#PU
+NONE
+420 英国#NR 一项#AD 最新#JJ 调查报告#NN 显示#VV ,#PU 英国#NR 学生#NN 的#DEG 整体#NN 数学#NN 水平#NN 正在#AD 下降#VV 。#PU
+420 英国#NR 一项#AD 最新#JJ 调查报告#NN 显示#VV ,#PU 英国#NR 学生#NN 的#DEG 整体#NN 数学#NN 水平#NN 正在#AD 提高#VV 。#PU
+NONE
+421 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 的#DEG 参赛者#NN 在#P 比赛#NN 时#LC 必须#VV 未满#VV 20#CD 周岁#NN ，#PU 最高#JJ 学历#NN 为#VC 中学#NN 。#PU
+421 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 的#DEG 参赛者#NN 被#SB 限制#VV 在#P 比赛#NN 时#LC 必须#VV 未满#VV 20#CD 周岁#NN ，#PU 最高#JJ 学历#NN 为#VC 中学#NN 。#PU
+NONE
+422 “#PU 麻疯#NN ”#PU 又名#AD 癞病#VV
+422 麻疯#NN 又#AD 称为#VV 韩森氏病#NR
+NONE
+423 水晶宫#NR （#PU The#DT Crystal#JJ Palace#NN ）#PU 是#VC 十九世纪#NT 的#DEG 英国#NR 建筑#NN 奇观#NN 之一#NN ，#PU 也#AD 是#VC 工业革命#NN 时代#NN 的#DEG 重要#JJ 象征物#NN 。#PU
+423 英国#NR 于#P 十九世纪#NT 历经#VV 工业革命#NN 。#PU
+NONE
+424 在#P 中国#NR 境内#NN ，#PU 中国#NR 行动#NN 通讯#NN 集团公司#NN 主要#JJ 经营#NN 移动#VV 语音#NN 、#PU 资料#NN 、#PU IP电话#NN 和#CC 多媒体业务#NN 。#PU
+424 中国#NR 行动#NN 通讯#NN 集团公司#VV 的#DEC 收益#NN 主要#AD 来自#VV 移动#VV 语音#NN 、#PU 资料#NN 、#PU IP电话#NN 和#CC 多媒体业务#NN 。#PU
+NONE
+425 中国#NR 行动#NN 通讯#NN 拥有#VV 全球#NN 第一#OD 的#DEC 行动#NN 通讯#NN 网络#NN 规模#NN 和#CC 客户#NN 规模#NN ，#PU 连续#AD 多年#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 。#PU
+425 连续#AD 多年#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 的#DEG 中国#NR 行动#NN 通讯#NN 拥有#VV 全球#NN 第一#OD 的#DEC 行动#NN 通讯#NN 网络#NN 规模#NN 和#CC 客户#NN 规模#NN ，#PU
+NONE
+426 1970#NT 年代#NN ，#PU 瑞典#NR 通过#P 现代#JJ 宪法#NN ，#PU 瑞典#NR 国王#NN 在#P 议会#NN 的#DEG 一切#DT 权力#NN 被#SB 废除#VV 。#PU 但#AD 内阁#NN 每月#AD 仍会#VV 向#P 国王#NN 在#P 王宫#NN 内#LC 正式#AD 汇报#VV 。#PU
+426 内阁#NN 每月#AD 向#P 国王#NN 在#P 王宫#NN 内#LC 正式#AD 汇报#VV 代表#VV 国王#NN 仍#AD 手握#VV 实权#NN 。#PU
+NONE
+427 在#P 1911#NT 年#NN 标准#NN 石油#NN 被#SB 判决#VV 违反#VV 反托拉斯法#NN 并#CC 被#SB 拆#VV 分为#VV 34#CD 家#M 公司#NN 。#PU
+427 在#P 一#CD 九一三#CD 年#M 标准#NN 石油#NN 被#SB 判决#VV 违反#VV 反托拉斯法#NN 并#CC 被#SB 拆#VV 分为#VV 34#CD 家#M 公司#NN 。#PU
+NONE
+428 瀛台#NN 泣血#VV 记#VV 原著#NN 为#VV 英文#NN ，#PU 后#AD 由#P 民初#NT 作家#NN 秦瘦鸥#NR 翻译#VV 为#VC 中文#NN 。#PU
+428 瀛台#NN 泣血#VV 记#VV 原著#NN 为#VV 英文#NN ，#PU 并未#AD 被#SB 翻译#VV 为#VC 中文#NN 。#PU
+NONE
+429 由于#P 研发#NN 和#CC 生产成本#NN 高昂#VA ，#PU LFA#NR 被#SB 指为#VV 并#CC 不会#VV 为#P 凌志#NN 带来#VV 任何#DT 盈利#NN 。#PU
+429 LFA#NR 的#DEG 制造#NN 可能#AD 不#AD 敷#VV 成本#NN 。#PU
+NONE
+430 《#PU 罪与罚#NN 》#PU 是#VC 俄国#NR 文学家#NN 杜斯妥#NR 也#AD 夫斯基#VV 的#DEC 长篇小说#NN 作品#NN ，#PU 出版#VV 于#P 1866#CD 年#M 。#PU
+430 《#PU 罪与罚#NN 》#PU 是#VC 西方#NN 文学家#NN 杜斯妥#NR 也#AD 夫斯基#VV 的#DEC 长篇小说#NN 作品#NN ，#PU 出版#VV 于#P 1866#CD 年#M 。#PU
+NONE
+431 二十世纪#NT 开始#VV ，#PU 火葬#NN 在#P 世界各地#NN 得到#VV 提倡#VV ，#PU 以#P 节约#VV 日益#AD 紧张#VA 的#DEC 耕地#NN 。#PU
+431 二十世纪#NT 开始#VV ，#PU 火葬#NN 在#P 世界各地#NN 得到#VV 提倡#VV ，#PU 以#P 节约#VV 日益#AD 不安#VA 的#DEC 耕地#NN 。#PU
+NONE
+432 1998#NT 年#NN 9#CD 月#NN ，#PU 朱镕基#NR 巡视#VV 发生#VV 水灾#NN 的#DEC 江西省#NR 九江市#NR 时#LC ，#PU 因#P 九江#NR 新筑#NR 的#DEG 防洪#NN 大堤#NN 不堪一击#VV ，#PU 朱镕基#NR 怒斥#VV 这是#AD “#PU 豆腐渣工程#VV ”#PU 。#PU
+432 1998#NT 年#NN 9#CD 月#NN ，#PU 朱镕基#NR 以#P 豆腐渣#NN 修筑#VV 防洪#NN 大堤#NN 以#P 救援#NN 发生#VV 水灾#NN 的#DEC 九江市#NR 。#PU
+NONE
+433 金沙江#NR 奔流#VV 在川藏#NR 边境#NN 沙鲁里山#NR 和#CC 芒康#NR 山#NN 之间#LC 。#PU
+433 长江#NR 奔流#VV 在川藏#NR 边境#NN 沙鲁里山#NR 和#CC 芒康#NR 山#NN 之间#LC 。#PU
+NONE
+434 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电站#NN 的#DEG 发电#NN 成本#NN 仍然#AD 高于#VV 化石#NN 燃料#NN 发电#VV 。#PU
+434 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电#NN 不需#AD 发电#VV 成本#NN 。#PU
+NONE
+435 理察森#NR 外推法#NN 是#VC 在#P 20#OD 世纪#NN 前期#NN 由#P 英国#NR 数学家#NN ，#PU 物理学家#NN ，#PU 气象学家#NN Lewis#NR Fry#NT Richardson#NR 提出#VV 的#DEC 。#PU
+435 理察森#NR 外推法#NN 是#VC 在#P 20#OD 世纪#NN 前期#NN 由#P 英国#NR 学者#NN Lewis#NR Fry#NT Richardson#NR 提出#VV 的#DEC 。#PU
+NONE
+436 电影#NN 《#PU 头文字#NN D#NN 》#PU 男女#NN 主角#NN 分别#AD 是#VC 周杰伦#NR 与#CC 铃木杏#NR
+436 周杰伦#NR 和#CC 铃木杏#NR 在#P 电影#NN 《#PU 头文字#NN D#NN 》#PU 里#LC 扮演#VV 一对#AD 小#JJ 情侣#NN
+NONE
+437 超级#JJ 油轮#NN 诺克#NR ·#PU 耐#VV 维斯#NR 号#NN （#PU Knock#NN Nevis#NN ）#PU 曾#AD 是#VC 世界#NN 上#LC 最长#VV 的#DEC 船只#NN 与#CC 人工#JJ 制造#NN 水面#NN 漂浮物#NN ，#PU 船长#NN 超过#VV 1#CD /#PU 4#CD 英里#M （#PU 458#CD 公尺#M ）#PU 。#PU
+437 现在#NT 没有#AD 船只#NN 的#DEG 长度#NN 超过#VV 当初#NT 的#DEG 诺克#NR ·#PU 耐#VV 维斯#NR 号#NN 。#PU
+NONE
+438 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电站#NN 的#DEG 发电#NN 成本#NN 仍然#AD 高于#VV 化石#NN 燃料#NN 发电#VV 。#PU
+438 发电#NN 方式#NN 有#VE 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力#NN 以及#CC 化石#NN 燃料#NN 发电#VV 。#PU
+NONE
+439 1970#NT 年代#NN ，#PU 瑞典#NR 通过#P 现代#JJ 宪法#NN ，#PU 瑞典#NR 国王#NN 在#P 议会#NN 的#DEG 一切#DT 权力#NN 被#SB 废除#VV 。#PU 但#AD 内阁#NN 每月#AD 仍会#VV 向#P 国王#NN 在#P 王宫#NN 内#LC 正式#AD 汇报#VV 。#PU
+439 1970#NT 年代#NN ，#PU 瑞典#NR 通过#P 现代#JJ 宪法#NN ，#PU 瑞典#NR 王室#NN 在#P 议会#NN 的#DEG 一切#DT 权力#NN 被#SB 废除#VV 。#PU 但#AD 内阁#NN 每月#AD 仍会#VV 向#P 国王#NN 在#P 王宫#NN 内#LC 正式#AD 汇报#VV 。#PU
+NONE
+440 火地#NN 群岛#NN 总面积#NN 73#CD ,#PU 753#CD 平方公里#M 。#PU
+440 火地#NN 群岛#NN 总面积#NN 37#CD ,#PU 753#CD 平方英里#M 。#PU
+NONE
+441 德#NR 川家康#NR 在位#JJ 后以#NN 武力#NN 攻破#VV 各#DT 军阀#NN 领地#NN ，#PU 统一#NR 全#DT 日本#NR 。#PU
+441 德#NR 川家康#NR 在位#JJ 后以#NN 武力#NN 攻破#VV 各#DT 军阀#NN ，#PU 统一#NR 全#DT 日本#NR 。#PU
+NONE
+442 南北朝#NN 陶弘景#NN 所著#VV 的#DEC 《#PU 名医#NN 别录#NN 》#PU 概括#VV 的#DEC 琥珀#NN 三大#NR 功效#NN 为#VC ：#PU 去#VV 惊#VA 定神#VA ，#PU 活血#AD 散#VV 淤#VA ，#PU 利尿#NN 通淋#NN 。#PU
+442 韩国#NR 陶弘景#NR 所著#VV 的#DEC 《#PU 名医#NN 别录#NN 》#PU 概括#VV 的#DEC 琥珀#NN 三大#NR 功效#NN 为#VC ：#PU 去#VV 惊#VA 定神#VA ，#PU 活血#AD 散#VV 淤#VA ，#PU 利尿#NN 通淋#NN 。#PU
+NONE
+443 红牛#NN 车队#NN 旗下#NN 车手#NN 赛#NR 巴斯蒂安#NR ·#PU 维#NR 泰尔#NR 则#AD 于#P 2010#NT 、#PU 2011#NT 、#PU 2012#CD 及#CC 2013#CD 年#M 连续#AD 四年#NT 获得#VV F1#NN 年度#NN 车手#NN 总冠军#NN 。#PU
+443 红牛#NN 车队#NN 旗下#NN 车手#NN 赛#NR 巴斯蒂安#NR ·#PU 维#NR 泰尔#NR 则#AD 于#P 2010#NT 、#PU 2011#NT 、#PU 2012#CD 及#CC 2013#CD 年#M 连续#AD 4#CD 年#M 获得#VV F1#NN 年度#NN 车手#NN 总冠军#NN 。#PU
+NONE
+444 菲尔茨奖#VV 被#SB 认为#VV 是#VC 国际#NN 数学界#NN 的#DEG 诺贝尔奖#NN 。#PU
+444 菲尔茨奖#VV ―#PU ―#PU 数学界#NN 的#DEG 最高奖#NN
+NONE
+445 全球#NN 资讯网#NN 并#AD 不#AD 等同#VV 互联网#NN ，#PU 全球#NN 资讯网#NN 只是#AD 互联网#NN 所#MSP 能#VV 提供#VV 的#DEC 服务#NN 其中#NN 之一#NN ，#PU 是#VC 靠着#P 互联网#NN 运行#NN 的#DEG 一项#NN 服务#NN 。#PU
+445 互联网#NN 并#AD 不#AD 等同#VV 全球#NN 资讯网#NN ，#PU 互联网#NN 只是#AD 全球#NN 资讯网#NN 所#MSP 能#VV 提供#VV 的#DEC 服务#NN 其中#NN 之一#NN ，#PU 是#VC 靠着#P 全球#NN 资讯网#NN 运行#VV 的#DEC 一项#NN 服务#NN 。#PU
+NONE
+446 中国移动#NR 是#VC 2000#CD 年#M 4#CD 月#NN 20#CD 日#M 成立#VV 的#DEC 中国#NR 国有#JJ 重要#JJ 骨干企业#NN 。#PU
+446 中国移动#VV 于#P 1998#NT 年#NN 4#CD 月#NN 20#CD 日#M 成立#VV 。#PU
+NONE
+447 汽电#NN 共生#VV 在#P 丹麦#NR 等#ETC 斯堪的纳维亚#NR 国家#NN 以及#CC 德国#NR 的#DEG 一部分#CD 被#SB 广泛#AD 使用#VV 。#PU
+447 汽电#NN 共生#VV 在#P 欧洲#NR 部分#CD 国家#NN 被#SB 广泛#AD 使用#VV 。#PU
+NONE
+448 大英国协#NR 元首#NN 为#P 伊丽莎白#NR 二世#JJ 女王#NN 。#PU
+448 大英国协#NR 元首#NN 统领#VV 整个#DT 大英国协#NR 包括#VV 内政#NN 、#PU 外交#NN 、#PU 军事#NN 等#ETC 国家#NN 政策#NN 。#PU
+NONE
+449 无#VE 实权#NN 的#DEC 爱尔兰#NR 总统#NN 要#VV 接触#VV 内阁#NN 官员#NN 需#VV 经过#VV 总理#NN 办公室#NN 安排#NN 。#PU
+449 爱尔兰#NR 总统#NN 为#P 虚位#JJ 元首#NN 。#PU
+NONE
+450 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电站#NN 的#DEG 发电#NN 成本#NN 仍然#AD 高于#VV 化石#NN 燃料#NN 发电#VV 。#PU
+450 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电#NN 皆#AD 为#VC 高#JJ 成本#NN 的#DEG 发电#NN 方式#NN 。#PU
+NONE
+451 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 分割#VV 为#P 两个#CD 独立#JJ 的#DEG 集团#NN 。#PU
+451 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2005#CD 年#M 分割#VV 为#P 两个#CD 独立#JJ 的#DEG 集团#NN 。#PU
+NONE
+452 中#NR 俄#NR 双方#PN 各#AD 取得#VV 黑瞎子#NR 岛#NN 等#ETC 争议#NN 领土#NN 的#DEG 一半#CD
+452 中#NR 俄#NR 双方#PN 分别#AD 取得#VV 黑瞎子#NR 岛#NN 等#ETC 争议#NN 领土#NN 的#DEG 一半#CD
+NONE
+453 中国移动#NR 是#VC 2000#CD 年#M 4#CD 月#NN 20#CD 日#M 成立#VV 的#DEC 中国#NR 国有#JJ 重要#JJ 骨干企业#NN 。#PU
+453 中国移动#NR 是#VC 2000#CD 年#M 4#CD 月#NN 20#CD 日#M 成立#VV 的#DEC 亚洲#NR 国有#JJ 重要#JJ 骨干企业#NN 。#PU
+NONE
+454 纽伦堡#NR 审判#NN 中#LC 的#DEG 被告#NN 共计#AD 22#CD 名#M ，#PU 均#AD 为#VC 纳粹德国#NR 的#DEG 军政#NN 首领#NN 。#PU
+454 纽伦堡#NR 审判#NN 中#LC 的#DEG 被告#NN 共计#AD 二十二名#VV ，#PU 均#AD 为#VC 纳粹德国#NR 的#DEG 军政#NN 首领#NN 。#PU
+NONE
+455 在#P 中国#NR 境内#NN ，#PU 中国#NR 行动#NN 通讯#NN 集团公司#NN 主要#JJ 经营#NN 移动#VV 语音#NN 、#PU 资料#NN 、#PU IP电话#NN 和#CC 多媒体业务#NN 。#PU
+455 在#P 中国#NR 境内#NN ，#PU 中国#NR 行动#NN 通讯#NN 集团公司#NN 主要#AD 经营#VV 行动#NN 通讯#NN 、#PU 资料#NN 、#PU IP电话#NN 和#CC 多媒体业务#NN 。#PU
+NONE
+456 火力发电厂#NR 是#VC 二氧化碳#NN 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+456 发电厂#NN 是#VC 二氧化碳#NN 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+NONE
+457 布什#NR 在#P 卡特里娜#NR 飓风#NN 席卷#VV 墨西哥湾#NR 时#LC 还#AD 待#VV 在#P 德州#NR 农场#NN 度假#VV
+457 布什#NR 在#P 卡特里娜#NR 飓风#NN 席卷#VV 墨西哥湾#NR 时正待#NN 在#VV 白宫#NR
+NONE
+458 中国#NR 行动#NN 通讯#NN 拥有#VV 全球#NN 第一#OD 的#DEC 行动#NN 通讯#NN 网络#NN 规模#NN 和#CC 客户#NN 规模#NN ，#PU 连续#AD 多年#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 。#PU
+458 中国移动#NR 拥有#VV 全球#NN 第一#OD 的#DEC 行动#NN 通讯#NN 网络#NN 规模#NN 和#CC 客户#NN 规模#NN ，#PU 连续#AD 多年#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 。#PU
+NONE
+459 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 的#DEG 参赛者#NN 在#P 比赛#NN 时#LC 必须#VV 未满#VV 20#CD 周岁#NN ，#PU 最高#JJ 学历#NN 为#VC 中学#NN 。#PU
+459 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 在#P 比赛#NN 时#LC 必须#VV 未满#VV 20#CD 周岁#NN ，#PU 最高#JJ 学历#NN 为#VC 中学#NN 。#PU
+NONE
+460 超级#JJ 油轮#NN 诺克#NR ·#PU 耐#VV 维斯#NR 号#NN 曾#AD 名为#VV 海上#NN 巨人#NN 号#NN 、#PU 快乐#NN 巨人#NN 号#NN 、#PU 与#P 亚勒#NR 维京#NR 号#NN 。#PU
+460 海上#NN 巨人#NN 号#NN 与#CC 快乐#NN 巨人#NN 号#NN 指#VV 的#DEC 都#AD 是#VC 超级#JJ 油轮#NN 诺克#NR ·#PU 耐#VV 维斯#NR 号#NN 。#PU
+NONE
+461 在#P 现代#JJ 法治#NN 社会#NN ，#PU 严重#VA 的#DEC 虐待#NN 行为#NN 是#VC 一种#CD 犯罪行为#VV ，#PU 可#VV 被#SB 起诉#VV ，#PU 并#AD 要#VV 受到#VV 法律#NN 惩罚#VV 。#PU
+461 在#P 现代#JJ 法治#NN 社会#NN ，#PU 严重#VA 的#DEC 虐待#NN 是#VC 一种#CD 犯罪行为#VV ，#PU 可#VV 被#SB 起诉#VV ，#PU 并#AD 要#VV 受到#VV 法律#NN 惩罚#VV 。#PU
+NONE
+462 第二次世界大战#NR （#PU 又#AD 常#AD 被#SB 简称#VV 为#VC 二次大战#VV 、#PU 二战#NR 等#ETC ）#PU 是#VC 一次#AD 自#P 1939#CD 年#M 至#CC 1945#CD 年#M 所#MSP 爆发#VV 的#DEC 全球性#JJ 军事冲突#NN 。#PU
+462 第二次世界大战#NR （#PU 又#AD 常#AD 被#SB 简称#VV 为#VC 二次大战#VV 、#PU 二战#NR 等#ETC ）#PU 是#VC 一次#AD 自#P 1939#CD 年#M 至#CC 1945#CD 年#M 所#MSP 爆发#VV 的#DEC 全球性#JJ 经济#NN 冲突#NN 。#PU
+NONE
+463 琉球#NN 狐蝠#NN 不#AD 使用#VV 超音波#NN 定位#NN ，#PU 而是#AD 依照#P 视觉#NN 与#CC 嗅觉#NN 寻找#VV 食物#NN 。#PU
+463 琉球#NN 狐蝠#NN 偶而#AD 依照#P 视觉#NN 与#CC 嗅觉#NN 寻找#VV 食物#NN 。#PU
+NONE
+464 火地#NN 群岛#NN 南端#NN 的#DEG 合恩角#NN 是#VC 南美洲#NR 智利#NR 火地#NN 群岛#NN 南端#NN 的#DEG 陆#NN 岬#NN ，#PU 广泛#AD 认为#VV 是#VC 南美洲#NR 的#DEG 最南端#NN 。#PU
+464 火地#NN 群岛#NN 南端#NN 的#DEG 合恩角#NN 是#VC 南美洲#NR 智利#NR 火地#NN 群岛#NN 南端#NN 的#DEG 海#NN 岬#NN ，#PU 广泛#AD 认为#VV 是#VC 南美洲#NR 的#DEG 最南端#NN 。#PU
+NONE
+465 国际货币基金组织#NR （#PU IMF#NR ）#PU 去年#NT 12#CD 月#NN 停止#VV 对#P 阿根廷#NR 放款#VV
+465 IMF#NR 停止#VV 对#P 阿根廷#NR 放款#VV
+NONE
+466 弥赛亚#NR （#PU Messiah#NR ）#PU 是#VC 巴洛克#NR 时期#NN 著名#JJ 音乐家#NN 韩德尔#NR 创作#VV 的#DEC 大型#JJ 神剧#NN 。#PU
+466 弥赛亚#NR （#PU Messiah#NR ）#PU 是#VC 巴洛克#NR 时期#NN 英国#NR 著名#JJ 音乐家#NN 韩德尔#NR 创作#VV 的#DEC 大型#JJ 神剧#NN 。#PU
+NONE
+467 冯小刚#NR 的#DEG 贺岁片#NN 《#PU 大腕#NN 》#PU
+467 冯小刚#NR 《#PU 大腕#NR 》#PU 刷新#VV 我国#NN 大陆#NN 票房#NN 纪录#NN
+NONE
+468 中国移动#NR 是#VC 2000#CD 年#M 4#CD 月#NN 20#CD 日#M 成立#VV 的#DEC 中国#NR 国有#JJ 重要#JJ 骨干企业#NN 。#PU
+468 中国移动#NR 是#VC 千禧年#NT 成立#VV 的#DEC 中国#NR 国有#JJ 重要#JJ 骨干企业#NN 。#PU
+NONE
+469 1989#NT 年#NN 英伦#NR 航空#NN 92#CD 号#M 班机#NN 空难#NN ，#PU 机上#NN 118#CD 名#M 乘客#NN 中#LC 的#DEG 39#CD 人#NN 当场#AD 死亡#VV ，#PU 8#CD 人于#VV 稍后#NN 时间#NN 亦#AD 过世#VV ；#PU 而#AD 机上#NN 的#DEG 8#CD 名#M 机员#NN 则#AD 全部#AD 生还#VV 。#PU
+469 1989#NT 年#NN 英伦#NR 航空#NN 92#CD 号#M 班机#NN 空难#NN ，#PU 没有#VE 寻获#VV 生还者#NN 。#PU
+NONE
+470 德#NR 川家康#NR 死后#AD 被#LB 尊为#VV 江户#NN 幕府#NN 的#DEG 守护神#NN 东照#NR 大权#NN 现#NT 。#PU
+470 德#NR 川家康#NR 死后#AD 成为#VV 江户#NN 幕府#NN 的#DEG 守护神#NN 东照#NR 大权#NN 现#NT 。#PU
+NONE
+471 98#CD 年#M 朱镕基#NR 巡视#VV 发生#VV 水灾#NN 的#DEC 江西省#NR 九江市#NR 时#LC ，#PU 因#P 九江#NR 新筑#NR 的#DEG 防洪#NN 大堤#NN 不堪一击#VV ，#PU 朱镕基#NR 怒斥#VV 这是#AD “#PU 豆腐渣工程#VV ”#PU 。#PU
+471 1998#NT 年#NN 9#CD 月#NN ，#PU 朱镕基#NR 巡视#VV 发生#VV 水灾#NN 的#DEC 江西省#NR 九江市#NR 时#LC ，#PU 因#P 九江#NR 新筑#NR 的#DEG 防洪#NN 大堤#NN 不堪一击#VV ，#PU 朱镕基#NR 怒斥#VV 这是#AD “#PU 豆腐渣工程#VV ”#PU 。#PU
+NONE
+472 柯布#NR -#PU 道格拉斯#NR 生产#VV 函数#NN 于#P 1900#CD 年#M 至#CC 1928#NT 年间#NN 经过#P Charles#NR Cobb#NR 和#CC Paul#NR Douglas#NR 的#DEG 统计#NN 验证#NN 后#LC 确立#VV ，#PU 并#CC 因而#AD 得名#VV 。#PU
+472 柯布#NR -#PU 道格拉斯#NR 生产#VV 函数#NN 于#P 1928#CD 年#M 至#CC 1900#NT 年间#NN 经过#P Charles#NR Cobb#NR 和#CC Paul#NR Douglas#NR 的#DEG 统计#NN 验证#NN 后#LC 确立#VV ，#PU 并#CC 因而#AD 得名#VV 。#PU
+NONE
+473 若望#AD ·#PU 保禄#NR 二世#NR 曾#AD 访问#VV 罗马尼亚#NR ，#PU 成为#VV 自从#P 1054#CD 年#M 东西#NN 教会#NN 分裂#VV 之后#LC ，#PU 第一位#AD 拜访#VV 东正教#NR 国家#NN 的#DEG 教宗#NN 。#PU
+473 若望#AD ·#PU 保禄#NR 二世#NR 曾#AD 访问#VV 罗马尼亚#NR ，#PU 成为#VV 自从#P 1054#CD 年#M 之后#LC 第一位#AD 拜访#VV 东正教#NR 国家#NN 的#DEG 教宗#NN 。#PU
+NONE
+474 柯布#NR -#PU 道格拉斯#NR 生产#VV 函数#NN 于#P 1900#CD 年#M 至#CC 1928#NT 年间#NN 经过#P Charles#NR Cobb#NR 和#CC Paul#NR Douglas#NR 的#DEG 统计#NN 验证#NN 后#LC 确立#VV ，#PU 并#CC 因而#AD 得名#VV 。#PU
+474 Charles#NR Cobb#NR 曾#AD 参与#VV 验证#NN 柯布#NR -#PU 道格拉斯#NR 生产#VV 函数#NN 。#PU
+NONE
+475 因#P 参加#VV 湖南卫视#VV 《#PU 超级女#NN 声#NN 》#PU 并#AD 获得#VV 当年#NT 超女#NN 总冠军#NN 的#DEG 李宇春#NR ，#PU 几乎#AD 是#VC 一夜#AD 红遍#VV 大江南北#NR
+475 李宇春#NR 是#VC 超级女#NN 声#NN 的#DEG 冠军#NN
+NONE
+476 水晶宫#NR 展示馆#NN 是#VC 十九世纪#NT 的#DEG 英国#NR 建筑#NN 奇观#NN 之一#NN ，#PU 也#AD 是#VC 工业革命#NN 时代#NN 的#DEG 重要#JJ 象征物#NN 。#PU
+476 水晶宫#NR 是#VC 十九世纪#NT 的#DEG 英国#NR 建筑#NN 奇观#NN 。#PU
+NONE
+477 伦敦#NR 七七#CD 连环#JJ 爆炸案#NN ，#PU 在#P 三个#CD 地铁#NN 列车#NN 和#CC 一辆#NR 公交车#NN 引爆#VV 炸弹#NN
+477 2005#CD 年#M 7#CD 月#M 7#CD 日#M 发生#VV 了#AS 伦敦#NR 地铁#NN 爆炸事件#NN
+NONE
+478 因为#P 柏油#NN 对#P 健康#NN 的#DEG 危害#NN ，#PU 现在#NT 铺设#VV 柏油#NN 道路#NN 已经#AD 弃用#VV 柏油#NN 改用#VV 沥青#NN 。#PU
+478 因为#P 柏油#NN 对#P 健康#NN 的#DEG 危害#NN ，#PU 现在#NT 铺设#VV 道路#NN 已经#AD 弃用#VV 柏油#NN 改用#VV 沥青#NN 。#PU
+NONE
+479 全球#NN 资讯网#NN 并#AD 不#AD 等同#VV 互联网#NN ，#PU 全球#NN 资讯网#NN 只是#AD 互联网#NN 所#MSP 能#VV 提供#VV 的#DEC 服务#NN 其中#NN 之一#NN ，#PU 是#VC 靠着#P 互联网#NN 运行#NN 的#DEG 一项#NN 服务#NN 。#PU
+479 互联网#NN 是#VC 一项#AD 服务#VV 。#PU
+NONE
+480 西藏#NR 独立#NN 运动#NN 是#VC 寻求#VV 西藏地区#NN 建立#VV 成#VV 一个#CD 主权国家#VV 的#DEC 一系列#CD 运动#NN 。#PU
+480 西藏#NR 独立#NN 运动#NN 是#VC 寻求#VV 西藏#NR 南部#NN 地区#NN 建立#VV 成#VV 一个#CD 主权国家#VV 的#DEC 一系列#CD 运动#NN 。#PU
+NONE
+481 新加坡#NR 樟宜#NR 机场#NN 是#VC 新加坡#NR 主要#JJ 的#DEG 民用机场#NN ，#PU 由#P 新加坡#NR 民航局#NN 营运#NN 。#PU
+481 新加坡#NR 樟宜#NR 机场#NN 是#VC 新加坡#NR 主要#JJ 的#DEG 民用机场#NN ，#PU 由星国#NR 民航局#NN 营运#NN 。#PU
+NONE
+482 ESS#NR 控诉#NN 联发科#NN 侵权#NN 一案#NN 已获#AD 解决#VV ，#PU 由联#NN 发科#NN 在#P 两年#NT 内#LC 支付#VV 9#CD ,#PU 000#CD 万元#M 给#P ESS#NR 取得#VV 授权#NN
+482 联发科#NN 必须#VV 在#P 两年#NT 内#LC 支付#VV 九#CD 千万元#NN 给#P ESS#NN 取得#VV 授权#NN
+NONE
+483 2002#CD 年#M 全美#NR 职业#NN 篮球#NN 联盟#NN (#PU NBA#NR )#PU 选秀#NN 大会#NN 将#AD 于#P 6#CD 月#NN 26#CD 日#M 举行#VV
+483 2002#CD 年#M 全美#NR 职业#NN 篮球#NN 联盟#NN (#PU NBA#NR )#PU 选秀#NN 大会#NN 将#AD 在#P 纽约#NR 举行#VV
+NONE
+484 虾夷地#NN 以#P 现在#NT 的#DEG 北海道#NR 为#VC 中心#NN ，#PU 包含#VV 库页岛#NR 与#CC 千岛#NR 列岛#NN 等#ETC 地#NN 。#PU
+484 虾夷地#NN 包括#VV 千岛#NR 列岛#NN 等#ETC 地#NN 。#PU
+NONE
+485 美国#NR 在台协会#NR 基于#P 其#PN 功能#NN 业务#NN ，#PU 事实上#AD 相当于#VV 美国#NR 在#P 中华民国#NR （#PU 台湾#NR ）#PU 的#DEG 大使级#NN 外交代表#NN 机构#NN 。#PU
+485 美国#NR 在台协会#AD 就是#AD 美国#NR 在#P 中华民国#NR （#PU 台湾#NR ）#PU 的#DEG 大使馆#NN 。#PU
+NONE
+486 在#P 美国#NR 看来#LC ,#PU 反#VV 美的#NN 恐怖分子#NN 主要#AD 来自#VV 中东地区#NR 的#DEC 阿拉伯#NR 国家#NN ,#PU 美国#NR 受到#VV 的#DEC 威胁#NN 主要#AD 来自#VV 伊斯兰#NR 世界#NN 。#PU
+486 美国#NR 认为#VV 伊斯兰#NR 世界#NN 恐怖分子#NN 对#P 其#PN 构成威胁#VV
+NONE
+487 琉球#NN 狐蝠#NN 为#VC 一种#AD 分布#VV 于#P 日本#NR 、#PU 菲律宾#NR 和#CC 台湾岛#NR 的#DEG 大型#JJ 蝙蝠#NN 。#PU
+487 琉球#NN 狐蝠#NN 为#P 一种#AD 大型#JJ 爬虫类#NN 。#PU
+NONE
+488 在#P 中国#NR 境内#NN ，#PU 中国#NR 行动#NN 通讯#NN 集团公司#NN 主要#JJ 经营#NN 移动#VV 语音#NN 、#PU 资料#NN 、#PU IP电话#NN 和#CC 多媒体业务#NN 。#PU
+488 中国#NR 行动#NN 通讯#NN 集团公司#NN 主要#AD 经营#VV 在#P 中国#NR 境内#NN 的#DEG 移动#NN 语音#NN 、#PU 资料#NN 、#PU IP电话#NN 和#CC 多媒体业务#NN 。#PU
+NONE
+489 和#P 信#NN 集团#NN （#PU 又称#VV 和#CC 信#VV 企业#NN 团#NN ）#PU 是#VC 台湾#NR 的#DEG 民营企业#NN 集团#NN ，#PU 由#P 鹿港#NR 辜家#NR 的#DEG 辜振甫#NR 所#MSP 创立#VV 。#PU
+489 鹿港#NR 辜家#NR 的#DEG 辜振甫#NR 所#MSP 创立#VV 的#DEC 和#CC 信#NN 集团#NN 是#VC 台湾#NR 的#DEG 民营企业#NN ，#PU 又#AD 称为#VV 和#CC 信#VV 企业#NN 团#NN 。#PU
+NONE
+490 国家#NN 发展#NN 和#CC 改革#NN 委员会#NN 官员#NN 29#CD 日#M 表示#VV ,#PU 中国#NR 能源需求#NN 增长#NN 没有#AD 对#P 世界#NN 能源#NN 市场#NN 构成威胁#VV 。#PU
+490 有人#PN 认为#VV 中国#NR 能源需求#NN 增长#VV 对#P 世界#NN 能源#NN 市场#NN 有#VE 威胁#NN
+NONE
+491 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电站#NN 的#DEG 发电#NN 成本#NN 仍然#AD 高于#VV 化石#NN 燃料#NN 发电#VV 。#PU
+491 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电站#NN 的#DEG 发电#NN 花费#NN 仍然#AD 高于#VV 化石#NN 燃料#NN 发电#VV 。#PU
+NONE
+492 阿巴#NR 多自#VV 2003#CD 年#M 接任#VV 琉森#NR 音乐节#NN 音乐#NN 总监#NN 后#LC ，#PU 成立#VV 了#AS 琉森#NR 节日#NN 管弦乐团#NN （#PU Lucerne#JJ Festival#JJ Orchestra#NN ,#PU LFO#NR ）#PU 。#PU
+492 阿巴#NR 多先#AD 接任#VV 琉森#NR 音乐节#NN 音乐#NN 总监#NN ，#PU 才#AD 成立#VV 琉森#NR 节日#NN 管弦乐团#NN 。#PU
+NONE
+493 澳门#NR 于#P 一九九九年#NT 十二月#NT 回归#VV 中国#NR
+493 香港#NR 于#P 1997#NT 年#NN 回归#VV 中国#NR
+NONE
+494 1959#NT 年#NN ，#PU 第一届#OD 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 于#P 罗马尼亚#NR 举行#VV ，#PU 参赛国#NN 包括#VV 7#CD 个#M 东欧国家#NN 。#PU
+494 1959#NT 年#NN ，#PU 最后#AD 一届#VV 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 于#P 罗马尼亚#NR 举行#VV ，#PU 参赛国#NN 包括#VV 7#CD 个#M 东欧国家#NN 。#PU
+NONE
+495 长江三峡#NR 水坝#NN 工程#NN 完成#VV 后#LC ,#PU 防洪#NN 和#CC 蓄水#NN 能力#NN 提升#VV 、#PU 万吨级#JJ 船队#NN 由#P 重庆#NR 直达#VV 汉口#NR 和#CC 上海#NR 、#PU 年发电量#VV 世界#NN 第一#OD 。#PU
+495 长江三峡#NR 水坝#NN 工程#NN 是#VC 兼具#VV 防洪#NN 、#PU 蓄水#NN 、#PU 发电#NN 、#PU 航运#NN 等#ETC 功能#NN 的#DEG 综合型#JJ 水利#NN 建筑#NN
+NONE
+496 红斑#NN 性#NN 狼疮#NN 可能#VV 侵犯#VV 各种#NN 器官#NN ，#PU 包括#VV 心脏#NN 、#PU 关节#NN 、#PU 皮肤#NN 、#PU 肺#NN 、#PU 血管#NN 、#PU 肝#NN 、#PU 肾脏#NN ，#PU 以及#CC 神经系统#VV 。#PU
+496 红斑#NN 性#NN 狼疮#NN 可能#VV 影响#VV 各种#NN 器官#NN ，#PU 包括#VV 心脏#NN 、#PU 关节#NN 、#PU 皮肤#NN 、#PU 肺#NN 、#PU 血管#NN 、#PU 肝#NN 、#PU 肾脏#NN ，#PU 以及#CC 神经系统#VV 。#PU
+NONE
+497 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 的#DEG 参赛者#NN 在#P 比赛#NN 时#LC 必须#VV 未满#VV 20#CD 周岁#NN ，#PU 最高#JJ 学历#NN 为#VC 中学#NN 。#PU
+497 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 的#DEG 参赛者#NN 在#P 比赛#NN 时#LC 必须#VV 未满#VV 二十岁#CD ，#PU 最高#JJ 学历#NN 为#VC 中学#NN 。#PU
+NONE
+498 2004#CD 年#M 国际#NN 油价#NN 急剧#AD 攀升#VV ,#PU 除#P 多种#AD 短期#JJ 因素#NN 影响#NN 外#LC ,#PU 主要#JJ 原因#NN 是#VC 世界#NN 能源#NN 体系#NN 本身#PN 存在#VV 问题#NN 。#PU
+498 世界#NN 能源#NN 体系#NN 本身#PN 存在#VV 问题#NN 很大#JJ 程度#NN 上#LC 导致#VV 了#AS 2004#CD 年#M 国际#NN 油价#NN 急剧#AD 攀升#VV
+NONE
+499 主#JJ 校区#NN 位于#VV 巴尔的摩市#NR 的#DEC 约翰#NR ·#PU 霍普金斯大学#NR ，#PU 以#P 医学#NN 、#PU 公共卫生#NN 、#PU 空间科学#NN 、#PU 国际#NN 关系#NN 、#PU 文学#NN 及#CC 音乐#NN 等#ETC 学科#NN 而#MSP 闻名世界#VV 。#PU
+499 主#JJ 校区#NN 位于#VV 巴尔的摩市#NR 的#DEC 约翰霍普金斯#NR 大学#NN ，#PU 以#P 医学#NN 、#PU 公共卫生#NN 、#PU 空间科学#NN 、#PU 国际#NN 关系#NN 、#PU 文学#NN 及#CC 音乐#NN 等#ETC 学科#NN 而#MSP 闻名世界#VV 。#PU
+NONE
+500 火地#NN 群岛#NN 总面积#NN 73#CD ,#PU 753#CD 平方公里#M 。#PU
+500 火地#NN 群岛#NN 总#JJ 体积#NN 73#CD ,#PU 753#CD 平方公里#M 。#PU
+NONE
+501 瀛台#NN 泣血#VV 记#VV 原著#NN 为#VV 英文#NN ，#PU 后#AD 由#P 民初#NT 作家#NN 秦瘦鸥#NR 翻译#VV 为#VC 中文#NN 。#PU
+501 瀛台#NN 泣血#VV 记#VV 原著#NN 为#VV 英文#NN ，#PU 后#AD 由#P 清末#NT 作家#NN 秦瘦鸥#NR 翻译#VV 为#VC 中文#NN 。#PU
+NONE
+502 美国#NR 选手#NN 菲尔#NR 普斯#NR 在#P “#PU 水立方#NN ”#PU 连夺#VV 八枚#NN 金牌#NN ，#PU 成为#VV 夏季#NT 奥运会#NR 获得#VV 金牌#NN 总数#NN 最多#AD 的#DEV 运动员#NN 。#PU
+502 美国#NR 选手#NN 菲尔#NR 普斯#NR 在#P “#PU 水立方#NN ”#PU 连夺#VV 八枚#NN 奖牌#NN ，#PU 成为#VV 夏季#NT 奥运会#NR 获得#VV 金牌#NN 总数#NN 最多#AD 的#DEV 运动员#NN 。#PU
+NONE
+503 1981#NT 年#NN 6#CD 月#NN 6#CD 日#M ，#PU 美国#NR 疾病#NN 控制#NN 与#CC 预防#NN 中心#NN 通报#VV 美国#NR 首宗#NN 爱滋病#NN 感染#VV 案例#NN 。#PU
+503 1981#NT 年#NN 6#CD 月#NN 6#CD 日#M ，#PU 美国#NR 疾病#NN 控制#NN 与#CC 预防#NN 中心#NN 通报#VV 全球#NN 首宗#NN 爱滋病#NN 感染#VV 案例#NN 。#PU
+NONE
+504 如果#CS 张梓琳#NR 没有#AD 跨入#VV 模特#NN 行业#NN ，#PU 也许#AD 在#P 08#CD 年#M 奥运会#NR 跨栏#VV 的#DEC 赛场#NN 上#LC ，#PU 我们#PN 还#AD 能#VV 看到#VV 刘翔#NR 加张#VV 梓琳#VV “#PU 金童玉女#NN ”#PU 组合#NN 的#DEG 精彩表演#NN 。#PU
+504 张梓琳#NR 是#VC 国内#NN 知名#JJ 模特#NN ，#PU 北京科技大学#NR 毕业#VV 。#PU
+NONE
+505 第二次世界大战#NR （#PU 又#AD 常#AD 被#SB 简称#VV 为#VC 二次大战#VV 、#PU 二战#NR 等#ETC ）#PU 是#VC 一次#AD 自#P 1939#CD 年#M 至#CC 1945#CD 年#M 所#MSP 爆发#VV 的#DEC 全球性#JJ 军事冲突#NN 。#PU
+505 第二次世界大战#NR （#PU 又#AD 常#AD 被#SB 简称#VV 为#VC 二次大战#VV 、#PU 二战#NR 等#ETC ）#PU 是#VC 一次#AD 自#P 1939#CD 年#M 至#CC 1945#CD 年#M 所#MSP 开始#VV 的#DEC 全球性#JJ 军事冲突#NN 。#PU
+NONE
+506 在#P 法国#NR 大革命#NN 之后#LC ，#PU 欧洲#NR 开始#VV 有人#PN 推动#VV 让#VV 女性#NN 拥有#VV 投票权#NN 。#PU
+506 在#P 法国#NR 大革命#NN 之前#LC ，#PU 欧洲#NR 女性#NN 都#AD 没有#VE 投票权#NN 。#PU
+NONE
+507 水晶宫#NR （#PU The#DT Crystal#JJ Palace#NN ）#PU 是#VC 十九世纪#NT 的#DEG 英国#NR 建筑#NN 奇观#NN 之一#NN ，#PU 也#AD 是#VC 工业革命#NN 时代#NN 的#DEG 重要#JJ 象征物#NN 。#PU
+507 石英#NR 宫#NN （#PU The#DT Crystal#JJ Palace#NN ）#PU 是#VC 十九世纪#NT 的#DEG 英国#NR 建筑#NN 奇观#NN 之一#NN ，#PU 也#AD 是#VC 工业革命#NN 时代#NN 的#DEG 重要#JJ 象征物#NN 。#PU
+NONE
+508 因为#P 柏油#NN 对#P 健康#NN 的#DEG 危害#NN ，#PU 现在#NT 铺设#VV 柏油#NN 道路#NN 已经#AD 弃用#VV 柏油#NN 改用#VV 沥青#NN 。#PU
+508 因为#P 柏油#NN 的#DEG 危害#NN ，#PU 现在#NT 铺设#VV 柏油#NN 道路#NN 已经#AD 弃用#VV 柏油#NN 改用#VV 沥青#NN 。#PU
+NONE
+509 琉球#NN 狐蝠#NN 不#AD 使用#VV 超音波#NN 定位#NN ，#PU 而是#AD 依照#P 视觉#NN 与#CC 嗅觉#NN 寻找#VV 食物#NN 。#PU
+509 蝙蝠#NN 不#AD 使用#VV 超音波#NN 定位#NN ，#PU 而是#AD 依照#P 视觉#NN 与#CC 嗅觉#NN 寻找#VV 食物#NN 。#PU
+NONE
+510 中国移动#NR 是#VC 2000#CD 年#M 4#CD 月#NN 20#CD 日#M 成立#VV 的#DEC 中国#NR 国有#JJ 重要#JJ 骨干企业#NN 。#PU
+510 中国移动#NR 不是#CC 民营企业#NN 。#PU
+NONE
+511 截至#P 2012#CD 年#M 2#CD 月#NN 10#CD 日#M 为止#LC ，#PU 航海家#NN 1#OD 号#M 离#P 太阳#NN 约#AD 179.1#CD 亿#CD 公里#M 。#PU
+511 2012#CD 年#M 2#CD 月#NN 10#CD 日#M ，#PU 航海家#NN 1#OD 号#M 离#P 太阳#NN 约#AD 179.1#CD 亿#CD 公里#M 。#PU
+NONE
+512 故#AD 梵蒂冈城#VV 国#NN 国家元首#NN 若望#VV ·#PU 保禄#VV 二世#NN 为#VC 第#OD 264#CD 任教#VV 宗#M 。#PU
+512 故#AD 梵蒂冈#NR 元首#NN 若望#VV ·#PU 保禄#VV 二世#NN 为#VC 第#OD 264#CD 任教#VV 宗#M 。#PU
+NONE
+513 日本#NR 于#P 2005#CD 年#M 发行#VV 上映#VV 的#DEC 动画电影#NN 《#PU 蒸气#NN 男孩#NN 》#PU ，#PU 其#PN 故事#NN 背景#NN 以#P 英国#NR 1851#CD 年#M 万国#NR 博览会#NN 为主#VV 。#PU
+513 日本#NR 于#P 2005#CD 年#M 发行#VV 上映#VV 的#DEC 动画电影#NN 《#PU 蒸气#NN 男孩#NN 》#PU ，#PU 以#P 英国#NR 1851#CD 年#M 万国#NR 博览会#NN 作为#VV 其#PN 故事#NN 背景#NN 。#PU
+NONE
+514 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 分割#VV 为#P 两个#CD 独立#JJ 的#DEG 集团#NN 。#PU
+514 中信集团#VV 的#DEC 旗下#NN 业务#NN 包括#VV 金融业#NN 跨业#NN 整合#VV 。#PU
+NONE
+515 航海家#NN 1#OD 号#M （#PU Voyager#NN 1#CD ）#PU 是#VC 美国#NR 太空#NN 总署#NN 研制#VV 的#DEC 一艘#JJ 无人#JJ 外#NN 太阳系#NN 太空#NN 探测船#VV ，#PU 重#AD 815#CD 千克#M ，#PU 于#P 1977#NT 年#NN 9#CD 月#NN 5#CD 日#M 发射#NN 。#PU
+515 航海家#NN 1#OD 号#M （#PU Voyager#NN 1#CD ）#PU 是#VC NASA#NR 研制#VV 的#DEC 一艘#JJ 无人#JJ 外#NN 太阳系#NN 太空#NN 探测船#VV ，#PU 重#AD 815#CD 千克#M ，#PU 于#P 1977#NT 年#NN 9#CD 月#NN 5#CD 日#M 发射#NN 。#PU
+NONE
+516 据#P 《#PU 圣经#NN ·#PU 申命记#NN 》#PU 所#MSP 载#VV ，#PU 约书亚#NR 继#P 摩西#NR 成为#VV 以色列#NR 人#NN 的#DEG 领袖#NN ，#PU 带领#VV 以色列#NR 人#NN 离开#VV 旷野#NN 进入#VV 应许#VV 之地#NN ，#PU 那#AD 丰富#VA 的#DEC 迦南#JJ 美地#NN 。#PU
+516 据#P 《#PU 圣经#NN ·#PU 申命记#NN 》#PU 所#MSP 载#VV ，#PU 约书亚#NR 继#P 摩西#NR 成为#VV 以色列#NR 人#NN 的#DEG 领袖#NN ，#PU 带领#VV 以色列#NR 人#NN 离开#VV 旷野#NN 进入#VV 应许#VV 之地#NN ，#PU 那#AD 贫瘠#VA 的#DEC 迦南#JJ 美地#NN 。#PU
+NONE
+517 科比#NR 本赛季#NN 平均#AD 每场#VV 得#DER 27.5#CD 分#M ,#PU 得分#NN 排#VV 第二位#NN
+517 科比#NR 本赛季#NN 场均#JJ 得分#NN 27.5#CD ，#PU 排名#VV 第二位#NN
+NONE
+518 南北朝#NN 陶弘景#NN 所著#VV 的#DEC 《#PU 名医#NN 别录#NN 》#PU 概括#VV 的#DEC 琥珀#NN 三大#NR 功效#NN 为#VC ：#PU 去#VV 惊#VA 定神#VA ，#PU 活血#AD 散#VV 淤#VA ，#PU 利尿#NN 通淋#NN 。#PU
+518 琥珀#JJ 可用#JJ 来#MSP 入药#VV 。#PU
+NONE
+519 蒙特利尔#NR 奥运会#NR 之后#LC ，#PU 蒙特利尔市#NR 几乎#AD 破产#VV 。#PU
+519 蒙特利尔#NR 奥运#NR ，#PU 拥有#VV 628#CD 家#M 赞助#NN 厂商#NN ，#PU 赞助#VV 资源#NN 价值#NN 高达#VV 700#CD 万美元#NR
+NONE
+520 自#P 1992#CD 年#M 进入#VV 中国#NR 内地#NN 以来#LC ,#PU 微软#NR 陆续#AD 建立#VV 了#AS 一批#AD 研发#VV 、#PU 服务#NN 机构#NN ,#PU 包括#VV 设在#VV 北京#NR 的#DEC 微软#NR 亚洲#NR 研究院#NN 和#CC 设在#VV 上海#NR 的#DEC 微软#NR 全球#NN 技术支持#NN 中心#NN
+520 自#P 1992#CD 年#M 进入#VV 中国#NR 内地#NN 以来#LC ,#PU 微软#NR 陆续#AD 建立#VV 了#AS 一批#AD 研发#VV 、#PU 服务#NN 机构#NN ,#PU 包括#VV 设在#VV 上海#NR 的#DEC 微软#NR 亚洲#NR 研究院#NN 和#CC 设在#VV 北京#NR 的#DEC 微软#NR 全球#NN 技术支持#NN 中心#NN
+NONE
+521 近#AD 一百年#CD 来#M 二氧化碳#NN 的#DEG 大量#CD 排放#NN 导致#VV 全球#NN 变暖#VV 。#PU
+521 二氧化碳#NN 的#DEG 大量#CD 排放#NN 导致#VV 近#AD 一百年#CD 来#M 全球#NN 变暖#VV 。#PU
+NONE
+522 类固醇#NN 在#P 药理学#NN 上#LC 分为#VV 皮质#NN 类固醇#NN 及#CC 矿物质#NN 类固醇#NN ,#PU 后者#NN 在#P 医生#NN 处理#VV 休克#NN 等#ETC 一些#CD 紧急状况#NN 才#AD 会#VV 使用#VV ,#PU 一般#JJ 民众#NN 极少#AD 有#VE 机会#NN 接触#VV
+522 矿物质#NN 类固醇#NN 多#AD 在#P 医师#NN 处理#VV 休克#NN 等#ETC 一些#CD 紧急状况#NN 使用#VV
+NONE
+523 为#P 确保#VV 航天员#NN 的#DEG 安全#NN ,#PU 发射#VV 神舟#NR 六号#NT 的#DEG 火箭#NN 在#P 安全性#NN 和#CC 舒适性#NN 方面#NN 都#AD 有#VE 改善#VV 。#PU
+523 为#P 确保#VV 航天员#NN 的#DEG 安全#NN ,#PU 发射#VV 神舟#NR 六号#NT 的#DEG 火箭#NN 在#P 安全性#NN 方面#NN 有#VE 改善#NN 。#PU
+NONE
+524 澳门#NR 于#P 一九九九年#NT 十二月#NT 回归#VV 中国#NR
+524 澳门#NR 于#P 1999#CD 年#M 回归#VV 中国#NR
+NONE
+525 某些#DT 核子反应#VV 炉#NN 使用#VV 重水#NN 来#VV 减慢#NN 中子#NN 的#DEG 速度#NN 。#PU
+525 某些#DT 核子反应#VV 炉#NN 使用#VV 重水#NN 来#VV 减慢#NN 中子#NN 的#DEG 衰变#NN 速度#NN 。#PU
+NONE
+526 《#PU 绿茶#NN 》#PU 是#VC 由#P 姜文#NR 和#CC 赵薇#NR 主演#VV 的#SP
+526 赵薇#NR 是#VC 《#PU 绿茶#NN 》#PU 的#DEG 主演#NN 之一#NN
+NONE
+527 1998#NT 年#NN 9#CD 月#NN ，#PU 朱镕基#NR 巡视#VV 发生#VV 水灾#NN 的#DEC 江西省#NR 九江市#NR 时#LC ，#PU 因#P 九江#NR 新筑#NR 的#DEG 防洪#NN 大堤#NN 不堪一击#VV ，#PU 朱镕基#NR 怒斥#VV 这是#AD “#PU 豆腐渣工程#VV ”#PU 。#PU
+527 1994#NT 年#NN ，#PU 朱镕基#NR 巡视#VV 发生#VV 水灾#NN 的#DEC 江西省#NR 九江市#NR 时#LC ，#PU 因#P 九江#NR 新筑#NR 的#DEG 防洪#NN 大堤#NN 不堪一击#VV ，#PU 朱镕基#NR 怒斥#VV 这是#AD “#PU 豆腐渣工程#VV ”#PU 。#PU
+NONE
+528 克隆人#NN 和#CC 同卵#NN 双胞胎#NN 一样#VA 并非#VC 复制出#NR 两个#CD 长相#NN 、#PU 个性#NN 、#PU 记忆#NN 完全#AD 一样#VA 的#DEC 人#NN ，#PU 但#AD 基因#NN 是#VC 相同#VA 的#SP
+528 克隆人#NN 和#CC 同卵#NN 双胞胎#NN 一样#AD 拥有#VV 相同#JJ 的#DEG 基因#NN ，#PU 但#AD 并非#VC 复制出#NN 两个#CD 长相#NN 、#PU 个性#NN 、#PU 记忆#NN 完全#AD 一样#VA 的#DEC 人#NN 。#PU
+NONE
+529 海底#NN 地震#NN 造成#VV 地层#NN 的#DEC 大幅度#AD 陷落#VV 或#CC 抬升#VV ，#PU 是#VC 引发#VV 大#JJ 海啸#NN 的#DEC 主要#JJ 原因#NN
+529 海底#NN 地震#NN 造成#VV 地层#NN 的#DEC 大幅度#AD 陷落#VV 或#CC 抬升#VV ，#PU 是#VC 引发#VV 大#JJ 海啸#NN 的#DEC 次要#JJ 原因#NN
+NONE
+530 天满宫#NR 是#VC 指#VV 日本#NR 祭祀#NN 学问#NN 之神#NR 菅#VV 原道#NN 真的#AD 神社#NN ，#PU 遍及#VV 于#P 日本#NR 各地#NN 。#PU
+530 天满宫#NR （#PU て#NR ん#NN ま#NN ぐ#NN う#NN ）#PU 是#VC 指#VV 日本#NR 祭祀#NN 学问#NN 之神#NR 菅#VV 原道#NN 真的#AD 神社#NN ，#PU 遍及#VV 于#P 日本#NR 各地#NN 。#PU
+NONE
+531 跟#P 年轻人#NN 比较#VV ，#PU 有#VE 更#AD 高#JJ 比例#NN 的#DEG 老年人#NN 有#VE 睡眠#NN 障碍#NN
+531 老年人#NN 较#AD 年轻人#NN 来说#LC 有#VE 更#AD 高#JJ 比例#NN 的#DEG 睡眠#NN 障碍#NN
+NONE
+532 弥赛亚#NR （#PU Messiah#NR ）#PU 是#VC 巴洛克#NR 时期#NN 著名#JJ 音乐家#NN 韩德尔#NR 创作#VV 的#DEC 大型#JJ 神剧#NN 。#PU
+532 弥赛亚#NR （#PU Messiah#NR ）#PU 是#VC 文艺复兴#NR 时期#NN 著名#JJ 音乐家#NN 韩德尔#NR 创作#VV 的#DEC 大型#JJ 歌剧#NN 。#PU
+NONE
+533 据#P 《#PU 圣经#NN ·#PU 申命记#NN 》#PU 所#MSP 载#VV ，#PU 约书亚#NR 继#P 摩西#NR 成为#VV 以色列#NR 人#NN 的#DEG 领袖#NN ，#PU 带领#VV 以色列#NR 人#NN 离开#VV 旷野#NN 进入#VV 应许#VV 之地#NN ，#PU 那#AD 丰富#VA 的#DEC 迦南#JJ 美地#NN 。#PU
+533 据#P 《#PU 圣经#NN ·#PU 申命记#NN 》#PU 所#MSP 载#VV ，#PU 约书亚#NR 继#P 摩西#NR 成为#VV 以色列#NR 人#NN 的#DEG 领袖#NN ，#PU 带领#VV 以色列#NR 人#NN 离开#VV 旷野#NN 前往#VV 应许#VV 之地#NN ，#PU 那#AD 丰富#VA 的#DEC 迦南#JJ 美地#NN 。#PU
+NONE
+534 火力发电厂#NR 是#VC 二氧化碳#NN 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+534 火力发电厂#NR 是#VC 氧#NN 与#CC 碳#NN 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+NONE
+535 人类#NN 活动#NN 破坏#VV ，#PU 瓦解#VV 从#P 红树林#NN 沼泽#NN 到#P 珊瑚礁#NN 这些#DT 可#VV 抵挡#VV 海水#NN 倒灌#VV 的#DEC 天然屏障#NN 是#VC 南亚#NR 海啸#NN 造成#VV 东南亚#NR 及#CC 南亚地区#NR 的#DEG 重大#JJ 伤亡#NN 的#DEC 原因#NN
+535 南亚#NR 海啸#NN 造成#VV 东南亚#NR 及#CC 南亚地区#NR 的#DEG 重大#JJ 伤亡#NN 是因为#NR 人类#NN 活动#NN 破坏#VV ，#PU 瓦解#VV 从#P 红树林#NN 沼泽#NN 到#P 珊瑚礁#NN 这些#DT 可#VV 抵挡#VV 海水#NN 倒灌#VV 的#DEC 天然屏障#NN
+NONE
+536 东照宫#NR 是#VC 供奉#VV 日本#NR 最后#AD 一代#LC 幕府#NR —#PU 江户#NR 幕府#NN 的#DEG 开府#NN 将军#NN 德#NR 川家康#NR 的#DEG 神社#NN 。#PU
+536 东照宫#NR 是#VC 供奉#VV 日本#NR 最后#AD 一代#LC 幕府#NR —#PU 江户#NR 幕府#NN 的#DEG 第一任#OD 将军#NN 德#NR 川家康#NR 的#DEG 神社#NN 。#PU
+NONE
+537 巴基斯坦#NR 总统#NN 贾迈利#NR 在#P 印度#NR 与#CC 巴基斯坦#NR 和平谈判#NN 中#LC 建议#VV 首先#AD 恢复#VV 两国间#NN 的#DEC 体育#NN 活动#NN
+537 印度#NR 与#CC 巴基斯坦#NR 和平谈判#VV 中#LC ，#PU 巴基斯坦#NR 总统#NN 贾迈利#NR 希望#VV 首先#AD 恢复#VV 两国间#NN 的#DEC 体育#NN 活动#NN
+NONE
+538 2005#CD 年#M 日本政府#VV 批准#VV 民间#NN 石油勘探#NR 公司#NN "#PU 帝国#NN 石油#NN "#PU 勘探#VV 东海#NR 油气田#NN ，#PU 并#AD 给予#VV 试凿权#NN
+538 “#PU 帝国#NN 石油#NN ”#PU 是#VC 一家#NN 民营#JJ 石油勘探#NN 公司#NN
+NONE
+539 夏雨#NN 与#CC 袁泉#NR 一直#AD 被#SB 称为#VV 圈内#NN “#PU 金童玉女#NN ”#PU ，#PU 两人#NN 从#P 中央戏剧学院#NR 开始#VV 相识#VV 谈恋爱#VV ，#PU 一谈#NN 就是#AD 7#CD 、#PU 8#CD 年#M
+539 袁泉#NR 和#CC 夏雨#NR 相识#VV 并#CC 相恋#VV 于#P 中央戏剧学院#NR
+NONE
+540 火地#NN 群岛#NN ，#PU 是#VC 南美洲#NR 最南端#NN 的#DEG 岛屿#NN 群#NN ，#PU 由主岛#NR 大#JJ 火地岛#NR 及#CC 周边#NN 小岛#NN 组成#VV 。#PU
+540 火地#NN 群岛#NN ，#PU 是#VC 南美洲#NR 最南端#NN 的#DEG 岛屿#NN 群#NN ，#PU 由大#JJ 火地岛#NR 及#CC 周边#NN 小岛#NN 组成#VV 。#PU
+NONE
+541 理察森#NR 外推法#NN 是#VC 在#P 20#OD 世纪#NN 前期#NN 由#P 英国#NR 数学家#NN ，#PU 物理学家#NN ，#PU 气象学家#NN Lewis#NR Fry#NT Richardson#NR 提出#VV 的#DEC 。#PU
+541 理察森#NR 外推法#NN 是#VC 在#P 19#CD 世纪#NN 中叶#NN 由#P 英国#NR 数学家#NN ，#PU 物理学家#NN ，#PU 气象学家#NN Lewis#NR Fry#NT Richardson#NR 提出#VV 的#DEC 。#PU
+NONE
+542 沈从文#NR (#PU 1902#NT -#PU 1988#NT ）#PU 原名#NN 沈岳焕#NR ，#PU 湖南#NR 凤凰县#NR 人#NN ，#PU 汉族#NN ，#PU 但#AD 有#VE 部分#CD 苗族#NN 血统#NN 。#PU
+542 沈从文#NR ，#PU 湖南#NR 凤凰县#NR 人#NN ，#PU 生于#VV 1902#CD 年#M ，#PU 1988#CD 年#M 去世#VV 。#PU
+NONE
+543 电影#NN 《#PU 头文字#NN D#NN 》#PU 与#CC 《#PU 世界大战#NN 》#PU 将#BA 正面#JJ 竞争#NN 我国#NN 票房#NN 市场#NN
+543 据#P 透露#NN ，#PU 汤姆#NR ·#PU 克鲁斯#NR 主演#VV 《#PU 世界大战#NR 》#PU 在#P 我国#NN 的#DEG 上映#NN 时间#NN 推后#VV 到#VV 7#CD 月#M 8#CD 日#M 之后#LC ，#PU 给#P 《#PU 头文字#NN D#NN 》#PU 带来#VV 两个#CD 星期#NN 独占#VV 票房#NN 的#DEC 好时机#NN
+NONE
+544 某些#DT 核子反应#VV 炉#NN 使用#VV 重水#NN 来#VV 减慢#NN 中子#NN 的#DEG 速度#NN 。#PU
+544 某些#DT 核能#NN 电厂#NN 使用#VV 重水#NN 来#VV 减慢#NN 中子#NN 的#DEG 速度#NN 。#PU
+NONE
+545 由于#P 研发#NN 和#CC 生产成本#NN 高昂#VA ，#PU LFA#NR 被#SB 指为#VV 并#CC 不会#VV 为#P 凌志#NN 带来#VV 任何#DT 盈利#NN 。#PU
+545 LFA#NR 是#VC 凌志#VV 旗下#NN 的#DEC 产品#NN 。#PU
+NONE
+546 大量#AD 使用#VV 类固醇#NN 对#P 某些#DT 人#NN 容易#AD 引起#VV 高血压#NN ，#PU 特别#AD 是#VC 在#P 原本#AD 就#AD 有#VE 肾脏#NN 疾病#NN 者#NN ，#PU 长期#AD 服用#VV 会#VV 降低#VV 免疫力#NN
+546 大量#AD 使用#VV 类固醇#NN 者#NN ，#PU 可能#VV 免疫#NN 功能#NN 会#VV 变差#VV
+NONE
+547 中国#NR 行动#NN 通讯#NN 拥有#VV 全球#NN 第一#OD 的#DEC 行动#NN 通讯#NN 网络#NN 规模#NN 和#CC 客户#NN 规模#NN ，#PU 连续#AD 多年#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 。#PU
+547 中国#NR 行动#NN 通讯#NN 拥有#VV 全球#NN 第一#OD 的#DEC 网络#NN 规模#NN 和#CC 客户#NN 规模#NN ，#PU 连续#AD 多年#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 。#PU
+NONE
+548 美国#NR 国家#NN 科学#NN 基金会#NN 连续#AD 31#CD 年#M 将#AD 约翰#NR ·#PU 霍普金斯大学#NR 列为#VV 全美#NR 科研经费#NN 开支#NN 最高#JJ 的#DEG 大学#NN 。#PU
+548 约翰#NR ·#PU 霍普金斯大学#NR 被#LB 美国#NR 国家#NN 科学#NN 基金会#NN 连续#AD 31#CD 年#M 列为#VV 全美#NR 科研经费#NN 开支#NN 最高#JJ 的#DEG 大学#NN 。#PU
+NONE
+549 在#P 1911#NT 年#NN 标准#NN 石油#NN 被#SB 判决#VV 违反#VV 反托拉斯法#NN 并#CC 被#SB 拆#VV 分为#VV 34#CD 家#M 公司#NN 。#PU
+549 1911#CD 年#M 标准#NN 石油#NN 遭#VV 拆#VV 分为#VV 34#CD 家#M 公司#NN 。#PU
+NONE
+550 高丽#NR 政府#NN 委任#VV 饱读#VV 中国#NR 的#DEG 儒家思想#NN 学者#NN 来#MSP 经营#VV 成均馆#NN ，#PU 对#P 学生#NN 传授#VV 儒家思想#NN 、#PU 高丽#NR 法律#NN 、#PU 数学#NN 及#CC 书法#NN 等#ETC 科目#NN 。#PU
+550 成均馆#NN 传授#NN 科目#NN 包括#VV 四书五经#NN 。#PU
+NONE
+551 主#JJ 校区#NN 位于#VV 巴尔的摩市#NR 的#DEC 约翰#NR ·#PU 霍普金斯大学#NR ，#PU 以#P 医学#NN 、#PU 公共卫生#NN 、#PU 空间科学#NN 、#PU 国际#NN 关系#NN 、#PU 文学#NN 及#CC 音乐#NN 等#ETC 学科#NN 而#MSP 闻名世界#VV 。#PU
+551 主#JJ 校区#NN 位于#VV 马里兰州#NR 巴尔的摩市#NR 的#DEG 约翰#NR ·#PU 霍普金斯大学#NR ，#PU 以#P 医学#NN 、#PU 公共卫生#NN 、#PU 空间科学#NN 、#PU 国际#NN 关系#NN 、#PU 文学#NN 及#CC 音乐#NN 等#ETC 学科#NN 而#MSP 闻名世界#VV 。#PU
+NONE
+552 夏雨#NN 袁泉#NR 夫妻#NN 两人#NN 都#AD 是#VC 中戏#NN 毕业#VV ，#PU 两人#NN 更#AD 被#SB 视为#VV 中国#NR 话剧#NN 演员#NN 新生代#NN 的#DEG 代表#NN 人物#NN ，#PU 舞台剧#NN 代表作#NN 有#VE 《#PU 梁祝#NR 》#PU 、#PU 《#PU 狂飙#NN 》#PU 、#PU 《#PU 琥珀#NN 》#PU 。#PU
+552 夏雨#NN 和#CC 袁泉#NR 两人#NN 都#AD 是#VC 中国#NR 话剧#NN 演员#NN 新生代#NN 的#DEG 代表#NN 人物#NN
+NONE
+553 大#JJ 宪章#NN 确立#VV 了#AS 一些#CD 英国#NR 贵族#NN 享有#VV 的#DEC 政治权利#NN 与#CC 自由#NN ，#PU 亦#AD 保障#VV 了#AS 教会#NN 不#AD 受#VV 国王#NN 的#DEC 控制#NN 。#PU
+553 大#JJ 宪章#NN 确立#VV 了#AS 一些#CD 英国#NR 贵族#NN 的#DEG 政治权利#NN 与#CC 自由#NN 。#PU
+NONE
+554 美国#NR 国家#NN 科学#NN 基金会#NN 连续#AD 31#CD 年#M 将#AD 约翰#NR ·#PU 霍普金斯大学#NR 列为#VV 全美#NR 科研经费#NN 开支#NN 最高#JJ 的#DEG 大学#NN 。#PU
+554 美国#NR 国家#NN 科学#NN 基金会#NN 连续#AD 31#CD 年#M 将#AD 约翰#NR ·#PU 霍普金斯大学#NR 列为#VV 全美#NR 科技#NN 研究#NN 经费#NN 开支#NN 最高#JJ 的#DEG 大学#NN 。#PU
+NONE
+555 印度教#NR 、#PU 佛教#NN 盛行#VV 火葬#NN ，#PU 儒家#NN 、#PU 伊斯兰教#NN 和#CC 基督教#NN 则#AD 盛行#VV 土葬#NN 。#PU
+555 盛行#VV 火葬#NN 的#DEC 宗教#NN 包括#VV 印度教#NN 与#CC 佛教#NN 。#PU
+NONE
+556 1981#NT 年#NN 6#CD 月#NN 6#CD 日#M ，#PU 美国#NR 疾病#NN 控制#NN 与#CC 预防#NN 中心#NN 通报#VV 全球#NN 首宗#NN 爱滋病#NN 感染#VV 案例#NN 。#PU
+556 1981#NT 年#NN 6#CD 月#NN 6#CD 日#M ，#PU 美国#NR 疾病#NN 控制#NN 与#CC 预防#NN 中心#NN 通报#VV 全球#NN 首宗#NN 爱滋病#NN 感染#VV 死亡#VV 案例#NN 。#PU
+NONE
+557 全身性#JJ 红斑狼疮#NN 的#DEG 症状#NN 千奇百怪#VV ，#PU 若#CS 千面#NN 女郎#NN 一般#VA ，#PU 每个#DT 人均#JJ 不尽相同#NN 。#PU
+557 红斑狼疮#NN 的#DEG 症状#NN 千奇百怪#VV ，#PU 若#CS 千面#NN 女郎#NN 一般#VA ，#PU 每个#DT 人均#JJ 不尽相同#NN 。#PU
+NONE
+558 胚胎#NN 干细胞#NN 是#VC 最#AD 原始#VA 的#DEC 细胞#NN ，#PU 深具#VV 发展#VV 成#VV 各种#NN 器官#NN 和#CC 组织#NN 的#DEG 潜力#NN
+558 胚胎#NN 干细胞#NN 可以#VV 经由#P 适当#JJ 的#DEG 培养#NN 而#MSP 产生#VV 各种#NN 器官#NN 组织#NN 。#PU
+NONE
+559 紫外线#NN 根据#P 波长#NN 长短#NN 可以#VV 区分#VV 为#VV UVA#NR 、#PU UVB#NR 和#CC UVC#NR 。#PU 波长#NN 最长#NN 的#DEC UVA#NR 穿透#VV 能力#NN 最强#VA ，#PU 它#PN 可#AD 使#VV 皮肤#NN 产生#VV 变化#NN ,#PU 这些#DT 变化#NN 包括#VV 轻微#VA 的#DEC 色素#NN 变化#NN 、#PU 血管#NN 扩张#NN 、#PU 角质层#NN 变厚#VV 、#PU 皱纹#NN 生成#VV 。#PU
+559 紫外线#NN UVA#NR 会#VV 使#VV 角质层#NN 变厚#VV
+NONE
+560 医用#JJ 酒精#NN 主要#AD 指#VV 体积#NN 浓度#NN 为#VC 75#CD %#CD 左右#LC 的#DEG 乙醇#NN 。#PU
+560 酒精#NN 就是#AD 乙醇#NN 。#PU
+NONE
+561 爱因斯坦#NR 因在#VV 光电效应#NN 方面#NN 的#DEG 研究#NN ，#PU 获#VV 授予#VV 1921#CD 年#M 诺贝尔物理学奖#NR 。#PU
+561 爱因斯坦#NR 仅于#VV 1921#CD 年#M 获授#VV 一座#NN 诺贝尔物理学奖#VV 。#PU
+NONE
+562 天龙八部#NN 中#LC 三位#NR 男主角#NN 的#DEG 身世#NN 均#AD 十分#AD 离奇#VV ，#PU 其中#NN 虚竹#NN 即#AD 为#P 少林#NN 方丈#NN 玄慈及#NR 四大#JJ 恶人#NN 中#LC 的#DEG “#PU 无恶不作#VV ”#PU 叶二娘#NR 的#DEG 儿子#NN 。#PU
+562 天龙八部#NN 中#LC 三位#NR 男主角#NN 的#DEG 身世#NN 均#AD 十分#AD 离奇#VV ，#PU 其中#NN 虚竹#NN 即#AD 为#P 少林#NR 住持#NN 玄慈及#NR 四大#JJ 恶人#NN 中#LC 的#DEG “#PU 无恶不作#VV ”#PU 叶二娘#NR 的#DEG 儿子#NN 。#PU
+NONE
+563 室女座#NN 最#AD 显著#VA 的#DEC 恒星#NN 是#VC 角宿#NN 一#CD ，#PU 这颗#AD 蓝白色#JJ 的#DEG 星#NN 是#VC 全天#AD 最亮#VV 的#DEC 21#CD 颗#M 恒星#NN 之一#NN 。#PU
+563 室女座#NN 最#AD 显著#VA 的#DEC 恒星#NN 是#VC 角宿#NN 一#CD ，#PU 这颗#AD 蓝白色#JJ 的#DEG 星#NN 是#VC 全天#AD 最亮#VV 的#DEC 两百#CD 一十#M 一颗#JJ 恒星#NN 之一#NN 。#PU
+NONE
+564 若望#AD ·#PU 保禄#NR 二世#NN 是#VC 自#P 1522#CD 年#M 哈德良#NR 六世#NN 后#LC 第一位#AD 非#VC 意大利人#NN 教宗#NN 。#PU
+564 若望#AD ·#PU 保禄#NR 二世#NN 是#VC 自#P 1522#CD 年#M 哈德良#NR 六世#NN 后#LC 第一位#AD 非#VC 西班牙人#NN 教宗#NN 。#PU
+NONE
+565 和#P 信#NN 集团#NN （#PU 又称#VV 和#CC 信#VV 企业#NN 团#NN ）#PU 是#VC 台湾#NR 的#DEG 民营企业#NN 集团#NN ，#PU 由#P 鹿港#NR 辜家#NR 的#DEG 辜振甫#NR 所#MSP 创立#VV 。#PU
+565 和#P 信#NN 集团#NN （#PU 又称#VV 和#CC 信#VV 企业#NN 团#NN ）#PU 是#VC 台湾#NR 的#DEG 民营企业#NN 集团#NN ，#PU 由#P 鹿港#NR 辜家#NR 的#DEG 辜#NR 显荣#NR 所#MSP 创立#VV 。#PU
+NONE
+566 根据#P 富比#NR 士#NN 的#DEG 资料#NN 显示#VV ，#PU 中国移动#VV 有限公司#VV 是#VC 在#P 香港#NR 注册#VV 的#DEC 公司#NN 中#LC 市值#NN 最高#JJ 的#DEG 一间#NN 。#PU
+566 根据#P 富比#NR 士#NN 的#DEG 资料#NN 显示#VV ，#PU 中国移动#VV 有限公司#VV 是#VC 在#P 北京#NR 注册#VV 的#DEC 公司#NN 中#LC 市值#NN 最高#JJ 的#DEG 一间#NN 。#PU
+NONE
+567 古腾堡#NR 的#DEG 印刷术#NN 使得#VV 印刷品#NN 变得#VV 非常#AD 便宜#VA ，#PU 印刷#VV 的#DEC 速度#NN 也#AD 提高#VV 了#AS 许多#CD ，#PU 印刷#NN 量#NN 增加#VV 。#PU
+567 古腾堡#NR 的#DEG 印刷术#NN 使得#VV 印刷品#NN 变得#VV 非常#AD 便宜#VA ，#PU 印刷#VV 的#DEC 速度#NN 也#AD 降低#VV 了#AS 许多#CD ，#PU 印刷#NN 量减少#NN 。#PU
+NONE
+568 室女座#NN 是#VC 希腊#NR 正义#NN 女神#NN 阿斯特#NR 莉亚#NR 的#DEG 象征#NN ，#PU 亦#AD 为#VC 农业#NN 女神#NN 。#PU
+568 室女座#NN 是#VC 希腊#NR 农业#NN 女神#NN 阿斯特#NR 莉亚#NR 的#DEG 象征#NN ，#PU 亦#AD 为#VC 正义#NN 女神#NN 。#PU
+NONE
+569 淡水#NR 的#DEG 红毛城#NR 不#AD 但是#AD 台湾#NR 现存#VV 最#AD 古老#VA 的#DEC 建筑#NN 之一#NN ，#PU 同时#AD 也#AD 被#SB 列为#VV 国家一级#NN 古#JJ 蹟#NN 。#PU
+569 淡水#NR 的#DEG 红毛城#NR 不#AD 但是#AD 东亚#NR 现存#VV 最#AD 古老#VA 的#DEC 建筑#NN 之一#NN ，#PU 同时#AD 也#AD 被#SB 列为#VV 国家一级#NN 古#JJ 蹟#NN 。#PU
+NONE
+570 1927#NT 年末#NT ，#PU 苏联#NR 谷物#NN 短缺#VV ，#PU 史达林#NR 力求#VV 迅速#AD 消灭#VV 富农#NN 阶级#NN ，#PU 并始#AD 推#VV 农业#NN 集体化#NN 政策#NN 。#PU
+570 1930#CD 年代#NN ，#PU 苏联#NR 谷物#NN 短缺#VV ，#PU 史达林#NR 力求#VV 迅速#AD 消灭#VV 富农#NN 阶级#NN ，#PU 并始#AD 推#VV 农业#NN 集体化#NN 政策#NN 。#PU
+NONE
+571 中国科学院#NR 院士#NN 吴文俊#NR 是#VC 新#JJ 中国#NR 成立#VV 以来#LC 我国#NN 在#P 国际#NN 数学家#NN 大会#NN 作#VV 过#AS 报告#NN 的#DEC 6#CD 人#NN 之一#NN ，#PU 也#AD 是#VC 我国#NN 首届#NN 最高#JJ 科技#NN 奖得主#NN ，#PU 他#PN 在#P 拓扑学#NN 和#CC 数学#NN 机械化#NN 等#ETC 方面#NN 均#AD 作出#VV 了#AS 开创性#JJ 的#DEG 贡献#NN 。#PU
+571 中国科学院#NR 院士#NN 吴文俊#NR 是#VC 我国#NN 首届#NN 最高#JJ 科技#NN 奖得主#NN 的#DEC 6#CD 人#NN 之一#NN
+NONE
+572 火地#NN 群岛#NN 总面积#NN 73#CD ,#PU 753#CD 平方公里#M 。#PU
+572 火地#NN 群岛#NN 总面积#NN 七万#CD 三千七百#CD 五十三#CD 平方公里#M 。#PU
+NONE
+573 20020619#CD 世界杯#NR 意大利#NR 败给#VV 韩国#NR ，#PU 欧洲各国#NR 媒体#NN 均#AD 严厉#AD 大幅#AD 报导#VV 指责#VV 厄瓜多尔#NR 裁判#NN 莫雷诺#NR 不公#VA 。#PU
+573 2002#CD 年#M 6#CD 月#NN 19#CD 日#M 世界杯#NR 意大利#NR 败给#VV 韩国#NR 惨遭#VV 淘汰#VV ，#PU 欧洲各国#NR 媒体#NN 报导#VV 指责#VV 此役#JJ 裁判#NN 判罚#VV 不公#VA 。#PU
+NONE
+574 淡水#NR 的#DEG 红毛城#NR 不#AD 但是#AD 台湾#NR 现存#VV 最#AD 古老#VA 的#DEC 建筑#NN 之一#NN ，#PU 同时#AD 也#AD 被#SB 列为#VV 国家一级#NN 古#JJ 蹟#NN 。#PU
+574 台湾#NR 现存#VV 最#AD 古老#VA 的#DEC 建筑#NN 都#AD 被#SB 列为#VV 国家一级#NN 古#JJ 蹟#NN 。#PU
+NONE
+575 中#NR 俄#NR 双方#PN 各#AD 取得#VV 黑瞎子#NR 岛#NN 等#ETC 争议#NN 领土#NN 的#DEG 一半#CD
+575 中#NR 俄#NR 双方#PN 各#AD 取得#VV 黑瞎子#NR 岛#NN 等#ETC 争议#NN 领土#NN 的#DEC 1#CD /#PU 2#CD
+NONE
+576 故#AD 梵蒂冈城#VV 国#NN 国家元首#NN 若望#VV ·#PU 保禄#VV 二世#NN 为#VC 第#OD 264#CD 任教#VV 宗#M 。#PU
+576 前#JJ 梵蒂冈城#NR 国#NN 国家元首#NN 若望#VV ·#PU 保禄#VV 二世#NN 为#VC 第#OD 264#CD 任教#VV 宗#M 。#PU
+NONE
+577 印度#NR 与#CC 巴基斯坦#NR 和平谈判#VV 的#DEC 重要#JJ 议题#NN 有#VE 共同#JJ 货币#NN 的#DEG 可行性#NN 、#PU 讨论#VV 区域合作#NN 发展#VV 经济#NN 、#PU 将共组#NN 自由贸易区#NN 并#AD 解决#VV 长久以来#AD 的#DEC 喀什米尔#NR 问题#NN 。#PU
+577 共同#AD 货币#NN 不是#CC 印度#NR 与#CC 巴基斯坦#NR 和平谈判#VV 的#DEC 重要#JJ 议题#NN 之一#NN
+NONE
+578 印度教#NR 、#PU 佛教#NN 盛行#VV 火葬#NN ，#PU 儒家#NN 、#PU 伊斯兰教#NN 和#CC 基督教#NN 则#AD 盛行#VV 土葬#NN 。#PU
+578 印度教#NR 、#PU 佛教#NN 不#AD 盛行#VV 火葬#NN ，#PU 儒家#NN 、#PU 伊斯兰教#NN 和#CC 基督教#NN 则#AD 不#AD 盛行#VV 土葬#NN 。#PU
+NONE
+579 2005#CD 年#M 7#CD 月#M 7#CD 日#M 的#DEG 清晨#NT 8#CD 点#M 50#CD 分#M 伦敦#NR 多处#NN 地铁站#NN 爆炸#VV
+579 2005#CD 年#M 7#CD 月#M 7#CD 日#M 的#DEG 伦敦#NR 地铁#NN 爆炸#NN 发生#VV 于#P 早上#NT 8#CD 点#M 50#CD 分#M
+NONE
+580 1999#CD 年#M ，#PU A#NN #PU E#FW Network#NN 在#P 它#PN 的#DEG “#PU 千年#NN 人物#NN ”#PU 排行#VV 中将#NN 古登堡#NN 列为#VV 第一位#NN 。#PU
+580 2000#CD 年#M ，#PU A#NN #PU E#FW Network#NN 在#P 它#PN 的#DEG “#PU 千年#NN 人物#NN ”#PU 排行#VV 中将#NN 古登堡#NN 列为#VV 第一位#NN 。#PU
+NONE
+581 今年#NT 5#CD 月#NN ITC#NR 公布#VV 初判#VV 结果#NN ，#PU 联发#VV 科仅#NN 侵犯#VV Zoran#NR 一#CD 编号#NN 527#CD 的#DEG 专利#NN ，#PU 未#AD 侵犯#VV 另#AD 两项#VV
+581 Zoran#NR 控诉#NN 联发科#NN 侵犯#VV Zoran#NR 一#CD 编号#NN 527#CD 的#DEG 专利#NN
+NONE
+582 2010#CD 年#M Google#NR 公司#NN 与#CC 中国政府#NR 交涉#VV ，#PU 并#AD 最终#AD 关闭#VV 中国#NR 版#NN 网页#NN 搜寻#NN 服务#NN 。#PU
+582 2010#CD 年#M Google#NR 公司#NN 因#P 内容#NN 审查#NN 问题#NN 与#P 中国政府#NR 交涉#VV ，#PU 并#AD 最终#AD 关闭#VV 中国#NR 版#NN 网页#NN 搜寻#NN 服务#NN 。#PU
+NONE
+583 柯布#NR -#PU 道格拉斯#NR 生产#VV 函数#NN 于#P 1900#CD 年#M 至#CC 1928#NT 年间#NN 经过#P Charles#NR Cobb#NR 和#CC Paul#NR Douglas#NR 的#DEG 统计#NN 验证#NN 后#LC 确立#VV ，#PU 并#CC 因而#AD 得名#VV 。#PU
+583 柯布#NR -#PU 道格拉斯#NR 生产#NN 函数#NN 花#VV 了#AS 28#CD 年#M 验证#NN 才#AD 得以#VV 确立#VV 。#PU
+NONE
+584 二十世纪#NT 开始#VV ，#PU 火葬#NN 在#P 世界各地#NN 得到#VV 提倡#VV ，#PU 以#P 节约#VV 日益#AD 紧张#VA 的#DEC 耕地#NN 。#PU
+584 二十世纪#NT 开始#VV ，#PU 火葬#NN 被#SB 世界各地#AD 提倡#VV ，#PU 以#P 节约#VV 日益#AD 紧张#VA 的#DEC 耕地#NN 。#PU
+NONE
+585 1988#CD 年#M 的#DEG 汉城奥运会#NR 对#P 韩国#NR 经济#NN 发展#NN 有#VE 相当#AD 大#VA 的#DEC 推动力#NN
+585 汉城奥运会#NR 对#P 韩国#NR 经济#NN 起飞#VV 产生#VV 了#AS 巨大#JJ 的#DEG 推动#NN 作用#NN
+NONE
+586 葡萄糖#NN 很#AD 容易#VA 被#SB 吸收#VV 进入#VV 血液#NN 中#LC ，#PU 因此#AD 医院#NN 、#PU 运动#NN 爱好者#NN 常常#AD 使用#VV 它#PN 当作#VV 强而有力#VV 的#DEC 快速#JJ 能量#NN 来源#NN 。#PU
+586 葡萄糖#NN 常常#AD 被#SB 当作#VV 强而有力#VV 的#DEC 快速#JJ 能量#NN 来源#NN 。#PU
+NONE
+587 截至#P 2012#CD 年#M 2#CD 月#NN 10#CD 日#M 为止#LC ，#PU 航海家#NN 1#OD 号#M 离#P 太阳#NN 约#AD 179.1#CD 亿#CD 公里#M 。#PU
+587 目前#NT ，#PU 航海家#NN 1#OD 号#M 离#P 太阳#NN 约#AD 179.1#CD 亿#CD 公里#M 。#PU
+NONE
+588 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 分割#VV 为#P 两个#CD 独立#JJ 的#DEG 集团#NN 。#PU
+588 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 现已#NN 分割#VV 为#VC 两个#CD 独立#JJ 的#DEG 集团#NN 。#PU
+NONE
+589 2003#CD 年#M 北京#NR 电影#NN 市场#NN 由#P 《#PU 英雄#NN 》#PU 、#PU 《#PU 天地英雄#NR 》#PU 、#PU 《#PU 手机#NN 》#PU 等#ETC 三部#NN 国产#JJ 大片#NN 起#VV 扛#VV 鼎#NN 作用#NN ，#PU 国产片#NN 占#VV 到#VV 全部#DT 票房#NN 收入#NN 的#DEG 47#CD ％#NN 。#PU
+589 2003#CD 年#M 北京#NR 电影#NN 市场#NN 由#P 《#PU 英雄#NN 》#PU 、#PU 《#PU 天地英雄#NR 》#PU 、#PU 《#PU 手机#NN 》#PU 等#ETC 三部#NN 进口#VV 大片#CD 起#M 扛#VV 鼎#NN 作用#NN ，#PU 进口#NN 片#NN 占#VV 到#VV 全部#DT 票房#NN 收入#NN 的#DEG 47#CD ％#NN 。#PU
+NONE
+590 目前#NT 中国#NR 经济#NN 正#AD 进入#VV 一个#CD 新#JJ 增长#NN 时期#NN 的#DEG 上升#NN 阶段#NN ，#PU 2001#CD 年#M GDP#NN 增长#VV 7.5#CD %#NN ,#PU 2002#CD 年#M 增长#VV 8#CD %#NN 。#PU 今年#NT 一季度#NT 增长#VV 9.9#CD %#NN 。#PU
+590 目前#NT 中国#NR 经济#NN 正#AD 进入#VV 一个#CD 新#JJ 增长#NN 时期#NN 的#DEG 上升#NN 阶段#NN
+NONE
+591 1981#NT 年#NN 6#CD 月#NN 6#CD 日#M ，#PU 美国#NR 疾病#NN 控制#NN 与#CC 预防#NN 中心#NN 通报#VV 全球#NN 首宗#NN 爱滋病#NN 感染#VV 案例#NN 。#PU
+591 1981#NT 年#NN 6#CD 月#NN 6#CD 日#M ，#PU 美国#NR CDC#NR 通报#VV 全球#NN 首宗#NN 爱滋病#NN 感染#VV 案例#NN 。#PU
+NONE
+592 1215#CD 年#M 订立#VV 的#DEC 大#JJ 宪章#NN 在#P 1225#CD 年#M 首次#AD 成为#VV 法律#NN 。#PU
+592 1215#CD 年#M 订立#VV 的#DEC 大#JJ 宪章#NN 在#P 1225#CD 年#M 首次#AD 在#P 大英帝国#NR 成为#VV 法律#NN 。#PU
+NONE
+593 活字印刷术#VV 的#DEC 发明#NN 使得#VV 欧洲#NR 的#DEG 文盲#NN 大量#AD 减少#VV 。#PU
+593 欧洲#NR 原本#AD 有#VE 大量#CD 文盲#NN 。#PU
+NONE
+594 韩国#NR 成均馆#NR 大学#NN 由#P 韩国三星电子#NR 出资#VV ，#PU 优秀#JJ 学生会#NN 直接#AD 被#SB 分配#VV 到#VV 三星电子公司#NN 。#PU
+594 韩国#NR 成均馆#NR 大学#NN 由#P 韩国三星电子#NR 出资#VV ，#PU 表现#VV 较#AD 一般#JJ 的#DEG 学生#NN 也#AD 有#VE 机会#NN 被#SB 分配#VV 到#VV 三星电子公司#NN 。#PU
+NONE
+595 同性恋#NN 权益#NN 拥护者#NN 则#AD 对#P 若望#NN ·#PU 保禄#NR 二世#NN 代表#NN 教会#NN 宣示#VV 同#DT 性欲望#NN 是#VC “#PU 明显#VA 的#DEC 病态#NN ”#PU 并#AD 反对#VV 同性#JJ 婚姻#NN 感到#VV 不满#NN 。#PU
+595 同性恋#NN 权益#NN 拥护者#NN 则#AD 对#P 若望#NN ·#PU 保禄#NR 二世#NN 代表#NN 教会#NN 宣示#VV 同#DT 性欲望#NN 是#VC “#PU 可#VV 接受#VV 的#DEC 病态#NN ”#PU 并#AD 反对#VV 同性#JJ 婚姻#NN 感到#VV 不满#NN 。#PU
+NONE
+596 柯布#NR -#PU 道格拉斯#NR 生产#VV 函数#NN 最早#AD 由#P 努特#NR ·#PU 维#NR 克塞尔#NR （#PU Knut#NR Wicksell#NR ）#PU 提出#VV 。#PU
+596 柯布#NR -#PU 道格拉斯#NR 生产#VV 函数#NN 最早#AD 于#P 19#CD 世纪#NN 由#P 努特#NR ·#PU 维#NR 克塞尔#NR （#PU Knut#NR Wicksell#NR ）#PU 提出#VV 。#PU
+NONE
+597 超级#JJ 油轮#NN 诺克#NR ·#PU 耐#VV 维斯#NR 号#NN （#PU Knock#NN Nevis#NN ）#PU 曾#AD 是#VC 世界#NN 上#LC 最长#VV 的#DEC 船只#NN 与#CC 人工#JJ 制造#NN 水面#NN 漂浮物#NN ，#PU 船长#NN 超过#VV 1#CD /#PU 4#CD 英里#M （#PU 458#CD 公尺#M ）#PU 。#PU
+597 超级#JJ 油轮#NN 诺克#NR ·#PU 耐#VV 维斯#NR 号#NN （#PU Knock#NN Nevis#NN ）#PU 现在#NT 已#AD 不是#CC 世界#NN 上#LC 最长#VV 的#DEC 船只#NN 与#CC 人工#JJ 制造#NN 水面#NN 漂浮物#NN 。#PU
+NONE
+598 中国#NR 2010#CD 年#M 上海#NR 世界#NN 博览会#NN （#PU Expo#NR 2010#NT Shanghai#NR China#NR ）#PU ，#PU 简称#VV 上海#NR 世博会#NR ，#PU 是#VC 第#OD 41#CD 届#M 世界#NN 博览会#NN ，#PU 于#P 2010#CD 年#M 5#CD 月#NN 1#CD 日至#NN 10#CD 月#NN 31#CD 日#M 在#P 中国#NR 上海#NR 举行#VV
+598 2010#CD 年#M 世博会#NR 在#P 上海#NR 举行#VV
+NONE
+599 大众#NN 特#AD 植物园#NN 占地约#NN 8#CD 公顷#M ，#PU 是#VC 夏威夷#NR 最#AD 古老#VA 的#DEC 植物园#NN ，#PU 并且#AD 是#VC 属于#VV 登记#VV 的#DEC 美国#NR 国家#NN 历史#NN 古#JJ 蹟#NN 之一#NN 。#PU
+599 大众#NN 特#AD 植物园#NN 占地约#NN 8#CD 公顷#M ，#PU 是#VC 夏威夷#NR 历史#NN 最#AD 悠久#VA 的#DEC 植物园#NN 。#PU
+NONE
+600 布什总统#NR 突然#AD 造访#VV 巴格达#NR 是#VC 为了#P 表明#VV 美国#NR 对#P 伊拉克#NR 的#DEG 政策#NN 不变#VV
+600 布什总统#NR 突然#AD 造访#VV 巴格达#NR 是#VC 为了#P 表明#VV 美国#NR 对#P 伊拉克#NR 的#DEG 政策#NN 要#VV 发生变化#VV
+NONE
+601 印尼#NR 观光胜地#NN 巴厘岛#NR 遭到#VV 恐怖分子#NN 以#P 炸弹#NN 袭击#NN ，#PU 造成#VV 一百九十#CD 人#NN 死亡#VV 、#PU 三百多#CD 人#NN 受伤#VV 的#DEC 惨剧#NN 。#PU
+601 巴厘岛#NR 位于#VV 印度尼西亚#NR
+NONE
+602 某些#DT 核子反应#VV 炉#NN 使用#VV 重水#NN 来#VV 减慢#NN 中子#NN 的#DEG 速度#NN 。#PU
+602 重水#VV 于#P 核子反应#VV 炉#NN 的#DEG 运作#NN 中#LC 扮演#VV 不可或缺#VV 的#DEC 角色#NN 。#PU
+NONE
+603 大部份#CD 的#DEG 乳酪#NN 是#VC 通过#P 细菌#NN 将#BA 乳糖#NN 变为#VV 乳酸#NN 后#LC ，#PU 加入#VV 凝乳#JJ 酵素#NN 使#VV 之#PN 完全#AD 凝固#VV 。#PU
+603 所有#DT 的#DEG 乳酪#NN 是#VC 通过#P 细菌#NN 将#BA 乳糖#NN 变为#VV 乳酸#NN 后#LC ，#PU 加入#VV 凝乳#JJ 酵素#NN 使#VV 之#PN 完全#AD 凝固#VV 。#PU
+NONE
+604 燃煤#NN 所#MSP 排出#VV 的#DEC 二氧化碳#NN 是#VC 温室#NN 气体#NN 之一#NN ，#PU 会#VV 造成#VV 温室效应#NN 。#PU
+604 燃煤#NN 所#MSP 排出#VV 的#DEC 二氧化碳#NN 是#VC 温室#NN 气体#NN 之一#NN ，#PU 被#SB 视为#VV 温室效应#VV 的#DEC 元凶#NN 。#PU
+NONE
+605 中国#NR 版本#NN 的#DEG 《#PU Top#JJ Gear#NN 》#PU 由#P 湖南卫视#NR 买下#VV ，#PU 取名#VV 《#PU 最高#JJ 挡#VV 》#PU 。#PU
+605 中国#NR 版本#NN 的#DEG 《#PU Top#JJ Gear#NN 》#PU 并非#AD 由#P 湖南卫视#NR 买下#VV ，#PU 取名#VV 《#PU 最高#JJ 挡#VV 》#PU 。#PU
+NONE
+606 潮起潮落#VV ,#PU 日复一日#VV 年复一年#VV ,#PU 海洋#NN 蕴藏#VV 的#DEC 巨大#JJ 能量#NN 吸引#VV 着#AS 人们#NN 去#VV 探索#VV 、#PU 去#VV 开发#VV 。#PU
+606 潮汐发电#NR 作为#P 海洋能#NN 利用#NN 中#LC 技术#NN 最#AD 成熟#VA 、#PU 规模#NN 最大#JJ 的#DEG 一种#NN ,#PU 已#AD 为#P 许多#CD 人#NN 所#MSP 熟知#VV 。#PU
+NONE
+607 二十世纪#NT 开始#VV ，#PU 火葬#NN 在#P 世界各地#NN 得到#VV 提倡#VV ，#PU 以#P 节约#VV 日益#AD 紧张#VA 的#DEC 耕地#NN 。#PU
+607 在#P 二十世纪#NT 初#LC ，#PU 火葬#NN 在#P 世界各地#NN 得到#VV 提倡#VV ，#PU 以#P 节约#VV 日益#AD 紧张#VA 的#DEC 耕地#NN 。#PU
+NONE
+608 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 晚清#NR 宫廷#NN 女#JJ 官裕德龄#NN 所#MSP 撰写#VV 的#DEC 一本#NN 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 。#PU
+608 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 清朝#NR 宫廷#NN 女#JJ 官裕德龄#NN 所#MSP 撰写#VV 的#DEC 一本#NN 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 。#PU
+NONE
+609 理察森#NR 外推法#NN 是#VC 在#P 20#OD 世纪#NN 前期#NN 由#P 英国#NR 数学家#NN ，#PU 物理学家#NN ，#PU 气象学家#NN Lewis#NR Fry#NT Richardson#NR 提出#VV 的#DEC 。#PU
+609 理察森#NR 外推法#NN 是#VC 在#P 上个世纪#NT 初#LC 由#P Lewis#NR Fry#NN Richardson#NR 提出#VV 的#DEC 。#PU
+NONE
+610 若望#AD ·#PU 保禄#NR 二世#NR 曾#AD 访问#VV 罗马尼亚#NR ，#PU 成为#VV 自从#P 1054#CD 年#M 东西#NN 教会#NN 分裂#VV 之后#LC ，#PU 第一位#AD 拜访#VV 东正教#NR 国家#NN 的#DEG 教宗#NN 。#PU
+610 曾#AD 访问#VV 罗马尼亚#NR 的#DEC 若望#NN ·#PU 保禄#VV 二世#NN 成为#VV 自从#P 1054#CD 年#M 东西#NN 教会#NN 分裂#VV 之后#LC ，#PU 第一位#AD 拜访#VV 东正教#NR 国家#NN 的#DEG 教宗#NN 。#PU
+NONE
+611 2004#CD 年#M 奥运会#NR 在#P 雅典#NR 举行#VV
+611 2004#CD 年#M 奥运#NR 在#P 典雅#JJ 举行#VV
+NONE
+612 1999#CD 年#M ，#PU 美国国会#NN 图书馆#NN 将#AD 罗马#NR 假期#NN 评为#VV “#PU 文化#NN 杰出#JJ 奖#NN ”#PU ，#PU 并#AD 将#BA 其#PN 收入#NN “#PU 国家级#JJ 收藏#NN ”#PU 。#PU
+612 1999#CD 年#M ，#PU 美国国会#NN 图书馆#NN 将#AD 罗马#NR 假期#NN 收入#NN “#PU 国家级#JJ 收藏#NN ”#PU 。#PU
+NONE
+613 1215#CD 年#M 订立#VV 的#DEC 大#JJ 宪章#NN 在#P 1225#CD 年#M 首次#AD 成为#VV 法律#NN 。#PU
+613 1215#CD 年#M 订立#VV 的#DEC 大#JJ 宪章#NN 从未#AD 成为#VV 法律#NN 。#PU
+NONE
+614 为#P 纪念#VV 野口#NR 英世对#NR 世人#NN 的#DEG 贡献#NN ，#PU 2004#CD 年#M 11#CD 月#NN 后#LC 改版#VV 的#DEC 1000#CD 日圆#NN 纸币#NN 印有#VV 他#PN 的#DEG 肖像#NN 。#PU
+614 2004#CD 年#M 11#CD 月#NN 所有#DT 面额#NN 的#DEG 日圆#NN 纸币#NN 都#AD 曾#AD 改版#VV 。#PU
+NONE
+615 根据#P 富比#NR 士#NN 的#DEG 资料#NN 显示#VV ，#PU 中国移动#VV 有限公司#VV 是#VC 在#P 香港#NR 注册#VV 的#DEC 公司#NN 中#LC 市值#NN 最高#JJ 的#DEG 一间#NN 。#PU
+615 中国移动#NR 有限公司#VV 根据#P 富比#NR 士#NN 的#DEG 资料#NN 显示#VV 是#VC 在#P 香港#NR 注册#VV 的#DEC 公司#NN 中#LC 市值#NN 最高#JJ 的#DEG 一间#NN 。#PU
+NONE
+616 若望#AD ·#PU 保禄#NR 二世#NR 曾#AD 访问#VV 罗马尼亚#NR ，#PU 成为#VV 自从#P 1054#CD 年#M 东西#NN 教会#NN 分裂#VV 之后#LC ，#PU 第一位#AD 拜访#VV 东正教#NR 国家#NN 的#DEG 教宗#NN 。#PU
+616 若望#AD ·#PU 保禄#NR 二世#NR 曾#AD 访问#VV 罗马尼亚#NR ，#PU 成为#VV 自从#P 1054#CD 年#M 东西#NN 教会#NN 分裂#VV 前#LC ，#PU 第一位#AD 拜访#VV 东正教#NR 国家#NN 的#DEG 教宗#NN 。#PU
+NONE
+617 2004#CD 年#M 12#CD 月#NN 26#NT 日#NR 上午#NT 印尼#NR 北苏门答腊#NR 西岸#NN 外海#NN 发生#VV 规模#NN 达#VV 9.0#CD 级#M 的#DEG 地震#NN
+617 2004#CD 年#M 12#CD 月#NN 26#NT 日#NR 上午#NT 印尼#NR 北苏门答腊#NR 西岸#NN 外海#NN 发生#VV 九级#JJ 地震#NN
+NONE
+618 根据#P 富比#NR 士#NN 的#DEG 资料#NN 显示#VV ，#PU 中国移动#VV 有限公司#VV 是#VC 在#P 香港#NR 注册#VV 的#DEC 公司#NN 中#LC 市值#NN 最高#JJ 的#DEG 一间#NN 。#PU
+618 根据#P 富比#NR 士#NN 的#DEG 资料#NN 显示#VV ，#PU 在#P 香港#NR 注册#VV 的#DEC 公司#NN 中#LC 市值#NN 最高#JJ 的#DEG 一间#AD 是#VC 中国移动#VV 有限公司#VV 。#PU
+NONE
+619 陶晶莹#NR 以#P “#PU 嘉宾#NN ”#PU 身分#NN ，#PU 在#P 浙江#NR 文艺#NN 台#NR 主持#VV 节目#NN
+619 陶晶莹#NR 在#P 浙江#NR 文艺#NN 台#NR 主持#VV 节目#NN
+NONE
+620 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 即#AD 源自#VV 和#CC 信#NN 集团#NN ，#PU 但#AD 已于#VV 2003#CD 年#M 分割#VV 为#P 两个#CD 独立#JJ 的#DEG 集团#NN 。#PU
+620 中信#NR 金控#NR 为首#VV 的#DEC 中信集团#NN 与#CC 和#CC 信#NN 集团#NN 已于#VV 2003#CD 年#M 分割#VV 为#P 两个#CD 独立#JJ 的#DEG 集团#NN 。#PU
+NONE
+621 1959#NT 年#NN ，#PU 第一届#OD 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 于#P 罗马尼亚#NR 举行#VV 。#PU
+621 1959#NT 年#NN ，#PU 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 于#P 罗马尼亚#NR 举行#VV 。#PU
+NONE
+622 干酪#NN 的#DEG 制作方法#NN 是#VC 由#P 欧洲人#NN 最先#AD 发明#VV 的#DEC ，#PU 目的#NN 是#VC 为了#P 保存#VV 多余#JJ 的#DEG 牛奶#NN ，#PU 也#AD 方便#VV 作#VV 旅行#NN 食物#NN 。#PU
+622 干酪#NN 的#DEG 制作方法#NN 是#VC 由#P 东欧#NR 人#NN 最先#AD 发明#VV 的#DEC ，#PU 目的#NN 是#VC 为了#P 保存#VV 多余#JJ 的#DEG 牛奶#NN ，#PU 也#AD 方便#VV 作#VV 旅行#NN 食物#NN 。#PU
+NONE
+623 火地#NN 群岛#NN 南端#NN 的#DEG 合恩角#NN 是#VC 南美洲#NR 智利#NR 火地#NN 群岛#NN 南端#NN 的#DEG 陆#NN 岬#NN ，#PU 广泛#AD 认为#VV 是#VC 南美洲#NR 的#DEG 最南端#NN 。#PU
+623 南美洲#NR 火地#NN 群岛#NN 南端#NN 的#DEG 合恩角#NN 是#VC 智利#NR 火地#NN 群岛#NN 南端#NN 的#DEG 陆#NN 岬#NN ，#PU 广泛#AD 认为#VV 是#VC 南美洲#NR 的#DEG 最南端#NN 。#PU
+NONE
+624 瀛台#NN 泣血#VV 记#VV 原著#NN 为#VV 英文#NN ，#PU 后#AD 由#P 民初#NT 作家#NN 秦瘦鸥#NR 翻译#VV 为#VC 中文#NN 。#PU
+624 瀛台#NN 泣血#VV 记#VV 原著#NN 为#VV 英文#NN ，#PU 后#AD 此书#NN 由#P 民初#NT 作家#NN 秦瘦鸥#NR 将#BA 其#PN 翻译#NN 为#VC 中文#NN 。#PU
+NONE
+625 九层#NN 塔#NN 对#P 寒冷#JJ 非常#AD 敏感#VA ，#PU 在#P 热#NN 和#CC 干燥#VA 的#DEC 环境#NN 下#LC 生长#VV 得#DER 最好#AD 。#PU
+625 九层#NN 塔#NR 的#DEG 生长#NN 对#P 寒冷#JJ 非常#AD 敏感#VA ，#PU 在#P 热#NN 和#CC 干燥#VA 的#DEC 环境#NN 下#LC 生长#VV 得#DER 最好#AD 。#PU
+NONE
+626 位于#VV 北高加索#NR 的#DEC 俄罗斯#NR 车臣共和国#NN 面积#NN 不过#AD 15#CD 万平方公里#M ,#PU 人口#NN 仅#AD 100#CD 万#CD ,#PU 而今#AD 却成#VV 了#AS 俄#NR 社会#NN 不#AD 安定#VA 的#DEC 主要#JJ 因素#NN 。#PU
+626 位于#VV 北高加索#NR 的#DEC 俄罗斯#NR 车臣共和国#NR 是#VC 俄#NR 社会#NN 不#AD 安定#VA 的#DEC 主要#JJ 因素#NN 。#PU
+NONE
+627 为了#P 建立#VV 一个#CD 静态#JJ 宇宙#NN 模型#NN ,#PU 爱因斯坦#NR 曾#AD 在#P 广义#JJ 相对论#NN 中#LC 引入#VV 能#VV 产生#VV 排斥力#NN 的#DEC “#PU 宇宙#NN 常数#NN ”#PU
+627 爱因斯坦#NR 在#P 广义#JJ 相对论#NN 中#LC 引入#VV 能#VV 产生#VV 排斥力#NN 的#DEC “#PU 宇宙#NN 常数#NN ”#PU 是#VC 为了#P 建立#VV 一个#CD 静态#JJ 宇宙#NN 模型#NN
+NONE
+628 火力发电厂#NR 是#VC 二氧化碳#NN 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+628 二氧化碳#NN 是#VC 火力发电厂#NR 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+NONE
+629 恐龙#NN 可能#VV 是#VC 鸟类#NN 祖先#NN 的#DEC 理论#NN ，#PU 是#VC 在#P 1868#CD 年#M 由#P 汤玛斯#NR ·#PU 亨利#NR ·#PU 赫胥黎#NR 首次#AD 提出#VV 。#PU
+629 根据#P 19#CD 世纪#NN 科学家#NN 的#DEG 学说#NN ，#PU 恐龙#NN 可能#VV 是#VC 鸟类#NN 祖先#NN 。#PU
+NONE
+630 一九九四年#NT 十二月#NT 十日#NT ，#PU 俄军#NN 兵#NN 分#VV 三路#NN 镇压#VV 车臣#NR 独立#JJ 运动#NN 迄今#AD ，#PU 当代#NT 车臣#NR 的#DEG “#PU 圣战#NN ”#PU 未止#AD
+630 1994#NT 年#NN 12#CD 月#NN 10#CD 日#M ，#PU 俄军#NN 兵#NN 分#VV 多路#NN 镇压#VV 车臣#NR 独立#JJ 运动#NN
+NONE
+631 截至#P 2012#CD 年#M 2#CD 月#NN 10#CD 日#M 为止#LC ，#PU 航海家#NN 1#OD 号#M 离#P 太阳#NN 约#AD 179.1#CD 亿#CD 公里#M 。#PU
+631 截至#P 2012#CD 年#M 2#CD 月#NN 10#CD 日#M 为止#LC ，#PU 航海家#NN 1#OD 号#M 离#P 太阳系#NN 约#AD 179.1#CD 亿#CD 公里#M 。#PU
+NONE
+632 若望#AD ·#PU 保禄#NR 二世#NR 曾#AD 访问#VV 罗马尼亚#NR ，#PU 成为#VV 自从#P 1054#CD 年#M 东西#NN 教会#NN 分裂#VV 之后#LC ，#PU 第一位#AD 拜访#VV 东正教#NR 国家#NN 的#DEG 教宗#NN 。#PU
+632 罗马尼亚#NR 属于#VV 东正教#NR 国家#NN 。#PU
+NONE
+633 现今#NT 学界#NN 普遍认为#NR 红楼梦#NN 通行本#NN 前#LC 八十回#VV 为#P 曹雪芹#NR 所#MSP 作#VV ，#PU 后#AD 四十回#VV 不知#AD 为何#AD 人所作#NN 。#PU
+633 现今#NT 学界#NN 普遍认为#NR 红楼梦#NN 通行本#NN 前#LC 八十回#VV 为#P 曹雪芹#NR 所#MSP 作#VV ，#PU 后#AD 四十回#VV 作者#NN 不详#VA 。#PU
+NONE
+634 印度教#NR 、#PU 佛教#NN 盛行#VV 火葬#NN ，#PU 儒家#NN 、#PU 伊斯兰教#NN 和#CC 基督教#NN 则#AD 盛行#VV 土葬#NN 。#PU
+634 穆斯林#NR 盛行#VV 土葬#NN 。#PU
+NONE
+635 印度教#NR 、#PU 佛教#NN 盛行#VV 火葬#NN ，#PU 儒家#NN 、#PU 伊斯兰教#NN 和#CC 基督教#NN 则#AD 盛行#VV 土葬#NN 。#PU
+635 印度教#NR 、#PU 大乘#NR 教#VV 盛行#VV 火葬#NN ，#PU 儒家#NN 、#PU 伊斯兰教#NN 和#CC 新教#NN 则#AD 盛行#VV 土葬#NN 。#PU
+NONE
+636 火力发电厂#NR 是#VC 二氧化碳#NN 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+636 火力发电厂#NR 是#VC 二氧化碳#NN 的#DEG 排放#NN 来源#NN 。#PU
+NONE
+637 丰富#VA 的#DEC 想像力#NN 、#PU 精湛#VA 的#DEC 数学#NN 造诣#NN 、#PU 严谨#VA 的#DEC 治学#NN 态度#NN ，#PU 这些#PN 都#AD 是#VC 成为#VV 理论#NN 物理学家#NN 需要#VV 培养#VV 的#DEC 优良#JJ 素质#NN 。#PU
+637 理论#NN 物理学家#NN 需要#VV 培养#VV 的#DEC 优良#JJ 素质#NN 包括#VV 丰富#VA 的#DEC 想像力#NN 、#PU 精湛#VA 的#DEC 数学#NN 造诣#NN 以及#CC 严谨#VA 的#DEC 治学#NN 态度#NN 。#PU
+NONE
+638 琥珀#NN 是#VC 远古#NN 松科#NN 松属#VV 植物#NN 的#DEC 树脂#NN 埋藏#VV 于#P 地层#NN ，#PU 经过#P 漫长岁月#NN 的#DEG 演变#NN 而#MSP 形成#VV 的#DEC 化石#NN 。#PU
+638 琥珀#NN 是#VC 远古#NN 松科#NN 松属#VV 植物#NN 的#DEC 树脂#NN 埋藏#VV 于#P 地底#NN ，#PU 经过#P 漫长岁月#NN 的#DEG 演变#NN 而#MSP 形成#VV 的#DEC 化石#NN 。#PU
+NONE
+639 1996#NT 年#NN 8#CD 月#NN 1#CD 日#M ，#PU 刘国梁#NR 夺得#VV 亚特兰大奥运会#NR 乒乓球#NN 男子单打#NN 金牌#NN 。#PU 2002#CD 年#M 退役#VV ，#PU 担任#VV 中国#NR 国家乒乓球队#NN 男队#NN 教练#NN 并#AD 在#P 上海交大#NR 管理#VV 学院#NN 注册#VV
+639 刘国梁#NR 是#VC 中国男子乒乓球队#NR 教练#NN
+NONE
+640 一九六九年#NT 造成#VV 中#NR 俄#NR 兵戎相见#VV 的#DEC 珍宝岛#NN ，#PU 也#AD 包括#VV 在#P 《#PU 中#NR 俄国#NR 界#NN 东段#NN 补充#NN 协定#NN 》#PU 里#LC
+640 珍宝岛#NR 包括#VV 在#P 《#PU 中#NR 俄国#NR 界#NN 东段#NN 补充#NN 协定#NN 》#PU 里#LC
+NONE
+641 安东尼#NR ·#PU 高#JJ 第#NN 一直#AD 在#P 巴塞罗那#NR 生活#NN 和#CC 工作#NN ，#PU 在#P 这里#PN 有#VE 他#PN 很多#CD 的#DEG 设计#NN ，#PU 其中#NN 最#AD 著名#VA 的#DEC 包括#VV 桂尔宫#NR 、#PU 桂尔#NR 公园#NN 和#CC 圣家堂#NN 。#PU
+641 安东尼#NR ·#PU 高#JJ 第#NN 一直#AD 在#P 巴塞罗那#NR 生活#NN 和#CC 工作#NN ，#PU 在#P 这里#PN 有#VE 他#PN 很多#CD 的#DEG 作品#NN ，#PU 其中#NN 最#AD 著名#VA 的#DEC 包括#VV 桂尔宫#NR 、#PU 桂尔#NR 公园#NN 和#CC 圣家堂#NN 。#PU
+NONE
+642 因为#P 柏油#NN 对#P 人体#NN 健康#VA 的#DEC 危害#NN ，#PU 现在#NT 铺设#VV 柏油#NN 道路#NN 已经#AD 弃用#VV 柏油#NN 改用#VV 沥青#NN 。#PU
+642 因为#P 柏油#NN 对#P 健康#NN 的#DEG 危害#NN ，#PU 现在#NT 铺设#VV 柏油#NN 道路#NN 已经#AD 弃用#VV 柏油#NN 改用#VV 沥青#NN 。#PU
+NONE
+643 红牛#NN 车队#NN 旗下#NN 车手#NN 赛#NR 巴斯蒂安#NR ·#PU 维#NR 泰尔#NR 则#AD 于#P 2010#NT 、#PU 2011#NT 、#PU 2012#CD 及#CC 2013#CD 年#M 连续#AD 四年#NT 获得#VV F1#NN 年度#NN 车手#NN 总冠军#NN 。#PU
+643 2010#NT 、#PU 2011#NT 、#PU 2012#CD 及#CC 2013#CD 年#M 连续#AD 四年#NT F1#NT 年度#NN 车手#NN 总冠军#NN 被#SB 红牛#VV 车队#NN 旗下#NN 车手#NN 赛#NR 巴斯蒂安#NR ·#PU 维#NR 泰尔#NR 夺下#VV 。#PU
+NONE
+644 中国#NR 的#DEG 经济#NN 增长#NN 有#VE 可能#NN 对#P 其他#DT 亚洲#NR 国家#NN 构成#VV 任何#DT 威胁#NN
+644 中国#NR 的#DEG 经济#NN 增长#NN 不会#NN 对#P 其他#DT 亚洲#NR 国家#NN 构成#VV 任何#DT 威胁#NN ,#PU 相反#AD ,#PU 还会#AD 给#P 它们#PN 带来#VV 巨大#JJ 的#DEG 好处#NN 。#PU
+NONE
+645 琉球#NN 狐蝠#NN 为#VC 一种#AD 分布#VV 于#P 日本#NR 、#PU 菲律宾#NR 和#CC 台湾岛#NR 的#DEG 大型#JJ 蝙蝠#NN 。#PU
+645 琉球#NN 狐蝠#NN 为#VC 一种#AD 分布#VV 于#P 日本#NR 、#PU 菲律宾#NR 和#CC 台湾岛#NR 的#DEG 蝙蝠#NN 。#PU
+NONE
+646 水晶宫#NR （#PU The#DT Crystal#JJ Palace#NN ）#PU 是#VC 十九世纪#NT 的#DEG 英国#NR 建筑#NN 奇观#NN 之一#NN ，#PU 也#AD 是#VC 工业革命#NN 时代#NN 的#DEG 重要#JJ 象征物#NN 。#PU
+646 水晶宫#NR （#PU The#DT Crystal#JJ Palace#NN ）#PU 是#VC 十八世纪#NT 的#DEG 英国#NR 建筑#NN 奇观#NN 之一#NN ，#PU 也#AD 是#VC 工业革命#NN 时代#NN 的#DEG 重要#JJ 象征物#NN 。#PU
+NONE
+647 西元#JJ 1600#CD 年#M 12#CD 月#NN 31#CD 日#M ，#PU 英国女王#NR 伊莉莎白#NR 一世#AD 授予#VV 英国#NR 东印度#NR 公司#NN 皇家#NN 特许状#NN ，#PU 给予#VV 它#PN 在#P 印度#NR 贸易#NN 的#DEG 特权#NN 。#PU
+647 西元#JJ 1600#CD 年#M 12#CD 月#NN 31#CD 日#M ，#PU 英国女王#NR 伊莉莎白#NR 三世#NR 授予#VV 英国#NR 东印度#NR 公司#NN 皇家#NN 特许状#NN ，#PU 给予#VV 它#PN 在#P 印度#NR 贸易#NN 的#DEG 特权#NN 。#PU
+NONE
+648 海底#NN 地震#NN 造成#VV 地层#NN 的#DEC 大幅度#AD 陷落#VV 或#CC 抬升#VV ，#PU 是#VC 引发#VV 大#JJ 海啸#NN 的#DEC 主要#JJ 原因#NN
+648 海底#NN 地震#NN 造成#VV 地层#NN 的#DEC 大幅度#AD 下降#VV 或#CC 上升#VV ，#PU 是#VC 引发#VV 大#JJ 海啸#NN 的#DEC 主要#JJ 原因#NN
+NONE
+649 《#PU 罪与罚#NN 》#PU 是#VC 俄国#NR 文学家#NN 杜斯妥#NR 也#AD 夫斯基#VV 的#DEC 长篇小说#NN 作品#NN ，#PU 出版#VV 于#P 1866#CD 年#M 。#PU
+649 《#PU 罪与罚#NN 》#PU 是#VC 俄国#NR 文学家#NN 杜斯妥#NR 也#AD 夫斯基#AD 出版#VV 于#P 1866#CD 年#M 的#DEG 长篇小说#NN 作品#NN 。#PU
+NONE
+650 火力发电厂#NR 是#VC 二氧化碳#NN 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+650 火力发电厂#NR 是#VC 二氧化碳#NN 的#DEG 唯一#JJ 排放#NN 来源#NN 。#PU
+NONE
+651 恐龙#NN 可能#VV 是#VC 鸟类#NN 祖先#NN 的#DEC 理论#NN ，#PU 是#VC 在#P 1868#CD 年#M 由#P 汤玛斯#NR ·#PU 亨利#NR ·#PU 赫胥黎#NR 首次#AD 提出#VV 。#PU
+651 鸟类#NN 是#VC 由#P 恐龙#NN 演化#VV 而#MSP 来#VV 。#PU
+NONE
+652 琥珀#NN 是#VC 远古#NN 松科#NN 松属#VV 植物#NN 的#DEC 树脂#NN 埋藏#VV 于#P 地层#NN ，#PU 经过#P 漫长岁月#NN 的#DEG 演变#NN 而#MSP 形成#VV 的#DEC 化石#NN 。#PU
+652 琥珀#NN 是#VC 远古#NN 松科#NN 松属#VV 植物#NN 的#DEC 化石#NN 埋藏#VV 于#P 地层#NN ，#PU 经过#P 漫长岁月#NN 的#DEG 演变#NN 而#MSP 形成#VV 的#DEC 树脂#NN 。#PU
+NONE
+653 世界#NN 少棒#NN 大赛#NN 创办#VV 于#P 1947#CD 年#M ，#PU 每年#AD 8#CD 月#NN 在#P 宾州#NR 南#NN 威廉#NR 波特#NR 比赛#NN 。#PU
+653 世界#NN 少棒#NN 大赛#NN 创办#VV 于#P 1947#CD 年#M ，#PU 每隔#VV 年#NN 8#CD 月#NN 在#P 宾州#NR 南#NN 威廉#NR 波特#NR 比赛#NN 。#PU
+NONE
+654 天满宫#NR 是#VC 指#VV 日本#NR 祭祀#NN 学问#NN 之神#NR 菅#VV 原道#NN 真的#AD 神社#NN ，#PU 遍及#VV 于#P 日本#NR 各地#NN 。#PU
+654 天满宫#NR 是#VC 指#VV 日本#NR 战争#NN 之神#NR 菅#VV 原道#NN 真的#AD 神社#NN ，#PU 遍及#VV 于#P 日本#NR 各地#NN 。#PU
+NONE
+655 石油危机#NN 都#AD 有#VE 战争#NN 的#DEC 背景#NN 因素#NN ，#PU 第三次#AD 为#VC 海湾战争#NN
+655 第三次#AD 石油危机#VV 的#DEC 产生#VV 是因为#NR 海湾战争#NN 。#PU
+NONE
+656 红牛#NN 车队#NN 旗下#NN 车手#NN 赛#NR 巴斯蒂安#NR ·#PU 维#NR 泰尔#NR 则#AD 于#P 2010#NT 、#PU 2011#NT 、#PU 2012#CD 及#CC 2013#CD 年#M 连续#AD 四年#NT 获得#VV F1#NN 年度#NN 车手#NN 总冠军#NN 。#PU
+656 红牛#NN 车队#NN 旗下#NN 车手#NN 赛#NR 巴斯蒂安#NR ·#PU 维#NR 泰尔#NR 曾#AD 获得#VV 4#CD 次#M F1#NN 年度#NN 车手#NN 总冠军#NN 。#PU
+NONE
+657 松花江#NR 九站#NR 断面#NN 检测#VV 得#DER 的#DEG 苯#NN 浓度#NN 超标#VV 10#CD 至#CC 100#CD 倍#M
+657 松花江#NR 九站#NR 断面#NN 检测#VV 得#DER 的#DEG 苯#NN 浓度#NN 超标#VV 3#CD 至#CC 5#CD 倍#M
+NONE
+658 大#JJ 宪章#NN 确立#VV 了#AS 一些#CD 英国#NR 贵族#NN 享有#VV 的#DEC 政治权利#NN 与#CC 自由#NN ，#PU 亦#AD 保障#VV 了#AS 教会#NN 不#AD 受#VV 国王#NN 的#DEC 控制#NN 。#PU
+658 大#JJ 宪章#NN 确立#VV 了#AS 一些#CD 贵族#NN 享有#VV 的#DEC 政治权利#NN 与#CC 自由#NN ，#PU 亦#AD 保障#VV 了#AS 教会#NN 不#AD 受#VV 国王#NN 的#DEC 控制#NN 。#PU
+NONE
+659 古腾堡#NR 的#DEG 印刷术#NN 使得#VV 印刷品#NN 变得#VV 非常#AD 便宜#VA ，#PU 印刷#VV 的#DEC 速度#NN 也#AD 提高#VV 了#AS 许多#CD ，#PU 印刷#NN 量#NN 增加#VV 。#PU
+659 古腾堡#NR 的#DEG 印刷术#NN 使得#VV 印刷品#NN 更为#AD 普及#VV 。#PU
+NONE
+660 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 清朝#NR 宫廷#NN 女#JJ 官裕德龄#NN 所#MSP 撰写#VV 的#DEC 一本#NN 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 。#PU
+660 清朝#NR 宫廷#NN 女#NN 官裕德龄#NN 撰写#VV 的#DEC 《#PU 瀛台#NN 泣血#VV 记#NN 》#PU 为#P 一本#VV 有关#JJ 光绪皇帝#NN 一生#NN 的#DEG 故事#NN 。#PU
+NONE
+661 蝙蝠#NN 在#P 四肢#NN 和#CC 尾#NN 之间#LC 覆蓋#VV 著#AS 薄#VA 而#CC 坚韧#VA 的#DEC 翼#NN 膜#NN 可以#VV 像#P 鸟#NN 一样#VA 鼓翼#VV 飞行#NN 。#PU
+661 蝙蝠#NN 在#P 四肢#NN 和#CC 尾#NN 之间#LC 覆蓋#VV 著厚#VA 而#CC 坚韧#VA 的#DEC 翼#NN 膜#NN 可以#VV 像#P 鸟#NN 一样#VA 鼓翼#VV 飞行#NN 。#PU
+NONE
+662 台湾#NR 要#VV 禁止#VV 美国#NR 牛肉#NN 进口#NN 是因为#NR 疯牛病#NN 会#VV 传染给#VV 人类#NN ，#PU 即使#CS 病#NN 牛肉#NN 煮熟#VV 还有#CC 传染#VV 疾病#NN 的#DEC 可能#NN
+662 由于#P 染病#VV 的#DEC 牛#NN ，#PU 即使#CS 煮熟#VV 后#LC 食用#VV ，#PU 仍#AD 有#VE 机会#NN 感染#VV 疯牛病#NN ，#PU 所以#AD 台湾#NR 要#VV 禁止#VV 美国#NR 牛肉#NN 进口#NN
+NONE
+663 室女座#NN 是#VC 希腊#NR 正义#NN 女神#NN 阿斯特#NR 莉亚#NR 的#DEG 象征#NN ，#PU 亦#AD 为#VC 农业#NN 女神#NN 。#PU
+663 室女座#NN 是#VC 希腊#NR 军事#NN 女神#NN 阿斯特#NR 莉亚#NR 的#DEG 象征#NN ，#PU 亦#AD 为#VC 农业#NN 女神#NN 。#PU
+NONE
+664 韩日#NR 世界杯#NR 成功#AD 举办#VV 。#PU
+664 韩日#NR 世界杯#NR 成功#AD 落幕#VV 。#PU
+NONE
+665 火地#NN 群岛#NN 南端#NN 的#DEG 合恩角#NN 是#VC 南美洲#NR 智利#NR 火地#NN 群岛#NN 南端#NN 的#DEG 陆#NN 岬#NN ，#PU 广泛#AD 认为#VV 是#VC 南美洲#NR 的#DEG 最南端#NN 。#PU
+665 火地#NN 群岛#NN 南端#NN 的#DEG 合恩角#NN 是#VC 非洲#NR 智利#NR 火地#NN 群岛#NN 南端#NN 的#DEG 陆#NN 岬#NN ，#PU 广泛#AD 认为#VV 是#VC 非洲#NR 的#DEG 最南端#NN 。#PU
+NONE
+666 阿巴#NR 多自#VV 2003#CD 年#M 接任#VV 琉森#NR 音乐节#NN 音乐#NN 总监#NN 后#LC ，#PU 成立#VV 了#AS 琉森#NR 节日#NN 管弦乐团#NN （#PU Lucerne#JJ Festival#JJ Orchestra#NN ,#PU LFO#NR ）#PU 。#PU
+666 阿巴#NR 多自#VV 两千#CD 零#CD 五年#NT 接任#VV 琉森#NR 音乐节#NN 音乐#NN 总监#NN 后#LC ，#PU 成立#VV 了#AS 琉森#NR 节日#NN 管弦乐团#NN （#PU Lucerne#JJ Festival#JJ Orchestra#NN ,#PU LFO#NR ）#PU 。#PU
+NONE
+667 1999#CD 年#M ，#PU A#NN #PU E#FW Network#NN 在#P 它#PN 的#DEG “#PU 千年#NN 人物#NN ”#PU 排行#VV 中将#NN 古登堡#NN 列为#VV 第一位#NN 。#PU
+667 1999#CD 年#M ，#PU A#NN #PU E#FW Network#NN 在#P 它#PN 的#DEG “#PU 千年#NN 人物#NN ”#PU 中将#NN 古登堡#NN 列为#VV 排行#NN 第一位#NN 。#PU
+NONE
+668 南北朝#NN 陶弘景#NN 所著#VV 的#DEC 《#PU 名医#NN 别录#NN 》#PU 概括#VV 的#DEC 琥珀#NN 三大#NR 功效#NN 为#VC ：#PU 去#VV 惊#VA 定神#VA ，#PU 活血#AD 散#VV 淤#VA ，#PU 利尿#NN 通淋#NN 。#PU
+668 南北朝#NN 陶弘景#NN 所著#VV 的#DEC 《#PU 名医#NN 别录#NN 》#PU 概括#VV 的#DEC 琥珀#NN 三大#NR 功效#NN 为#VC ：#PU 去#VV 惊#VA 定神#VA ，#PU 利尿#NN 通淋#VV ，#PU 活血#VV 散#VV 淤#VA 。#PU
+NONE
+669 世界#NN 少棒#NN 大赛#NN 创办#VV 于#P 1947#CD 年#M ，#PU 每年#AD 8#CD 月#NN 在#P 宾州#NR 南#NN 威廉#NR 波特#NR 比赛#NN 。#PU
+669 1947#CD 年#M 以来#LC ，#PU 世界#NN 少棒#NN 大赛#NN 每年#AD 8#CD 月#NN 都#AD 会#VV 举办#VV 。#PU
+NONE
+670 美国#NR 是#VC 世界#NN 上#LC 少数几个#VV 对#P 少年犯#NN 和#CC 精神病人#NN 执行#VV 死刑#NN 的#DEC 国家#NN 。#PU
+670 世界#NN 很少#AD 有#VE 国家#NN 对#P 少年#NN 和#CC 精神病人#NN 执行#NN 死刑#NN 。#PU
+NONE
+671 ESS#NR 向#P 加州#NR 北区#NN 地方法院#NN 控告#VV 联发#NR 科技#NN 蓄意#AD 非法#AD 复制#VV ESS#NN 的#DEC DVD#NN 和#CC 用户界面#NN 。#PU
+671 ESS#NR 向#P 加州#NR 北区#NN 地方法院#NN 控告#VV 联发#NR 科技#NN 故意#AD 非法#AD 复制#VV ESS#NN 的#DEC DVD#NN 和#CC 用户界面#NN 。#PU
+NONE
+672 1999#CD 年#M ，#PU A#NN #PU E#FW Network#NN 在#P 它#PN 的#DEG “#PU 千年#NN 人物#NN ”#PU 排行#VV 中将#NN 古登堡#NN 列为#VV 第一位#NN 。#PU
+672 1999#CD 年#M ，#PU A#NN #PU E#FW Network#NN 在#P 它#PN 的#DEG “#PU 千年#NN 人物#NN ”#PU 排行#VV 中将#NN 古登堡#NN 列为#VV 首席#NN 。#PU
+NONE
+673 约翰#NR ·#PU 霍普金斯大学#NR 是#VC 哈伯#NR 太空#NN 望远镜#NN 和#CC 詹姆斯#NR ·#PU 韦伯#NR 太空#NN 望远镜#NN 的#DEG 地面#NN 控制中心#NN 所在地#NN 。#PU
+673 约翰#NR ·#PU 霍普金斯大学#NR 是#VC 哈伯#NR 太空#NN 望远镜#NN 和#CC 詹姆斯#NR ·#PU 韦伯#NR 太空#NN 望远镜#NN 的#DEG 地面#NN 控制中心#VV 。#PU
+NONE
+674 萨拉#NR ·#PU 杰西卡#NR ·#PU 帕克#NR 在#P 《#PU 欲望都市#NR 》#PU 中#LC 饰演#VV 女主角#NN 凯瑞#NR ，#PU 赢得#VV 许多#CD 最佳#JJ 女主角#NN ,#PU 她#PN 因#P 《#PU 婆家#NN 就是#AD 你家#NN 》#PU 获得#VV 金球奖#NN 喜剧#NN 音乐剧#NN 类#NN 电影#NN 的#DEG 最佳#JJ 女#JJ 主角奖#NN 。#PU
+674 《#PU 欲望都市#NR 》#PU 女主角#NN 萨拉#NR ·#PU 杰西卡#NR ·#PU 帕克#NR 获得#VV 金球奖#NN 音乐喜剧#NN 类#NN 最佳#JJ 女主角#NN
+NONE
+675 西元#JJ 1600#CD 年#M 12#CD 月#NN 31#CD 日#M ，#PU 英国女王#NR 伊莉莎白#NR 一世#AD 授予#VV 英国#NR 东印度#NR 公司#NN 皇家#NN 特许状#NN ，#PU 给予#VV 它#PN 在#P 印度#NR 贸易#NN 的#DEG 特权#NN 。#PU
+675 西元#JJ 1631#CD 年#M 12#CD 月#NN ，#PU 英国女王#NR 伊莉莎白#NR 一世#AD 授予#VV 英国#NR 东印度#NR 公司#NN 皇家#NN 特许状#NN ，#PU 给予#VV 它#PN 在#P 印度#NR 贸易#NN 的#DEG 特权#NN 。#PU
+NONE
+676 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 的#DEG 参赛者#NN 在#P 比赛#NN 时#LC 必须#VV 未满#VV 20#CD 周岁#NN ，#PU 最高#JJ 学历#NN 为#VC 中学#NN 。#PU
+676 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 的#DEG 参赛者#NN 在#P 比赛#NN 时#LC 必须#VV 超过#VV 20#CD 周岁#NN ，#PU 最高#JJ 学历#NN 为#VC 中学#NN 。#PU
+NONE
+677 金沙江#NR 奔流#VV 在川藏#NR 边境#NN 沙鲁里山#NR 和#CC 芒康#NR 山#NN 之间#LC 。#PU
+677 沙鲁里山#NR 和#CC 芒康#NR 山#NN 之间#LC 盛产#VV 金沙#NN 。#PU
+NONE
+678 哈里发#NR 塔为#NR 当前#NT 世界#NN 第一#OD 高楼#NN 与#CC 人工#JJ 构造物#NN ，#PU 高度#AD 为#P 828#CD m#NN （#PU 2#CD ,#PU 717#CD ft#M ）#PU 。#PU
+678 哈里发#NR 塔是#AD 当前#NT 世界#NN 第一#OD 高#JJ 人工#JJ 建物#NN 。#PU
+NONE
+679 恐龙#NN 可能#VV 是#VC 鸟类#NN 祖先#NN 的#DEC 理论#NN ，#PU 是#VC 在#P 1868#CD 年#M 由#P 汤玛斯#NR ·#PU 亨利#NR ·#PU 赫胥黎#NR 首次#AD 提出#VV 。#PU
+679 鸟类#NN 可能#VV 是#VC 恐龙#NN 祖先#NN 的#DEC 理论#NN ，#PU 是#VC 在#P 1868#CD 年#M 由#P 汤玛斯#NR ·#PU 亨利#NR ·#PU 赫胥黎#NR 首次#AD 提出#VV 。#PU
+NONE
+680 干酪#NN 的#DEG 制作方法#NN 是#VC 由#P 欧洲人#NN 最先#AD 发明#VV 的#DEC ，#PU 目的#NN 是#VC 为了#P 保存#VV 多余#JJ 的#DEG 牛奶#NN ，#PU 也#AD 方便#VV 作#VV 旅行#NN 食物#NN 。#PU
+680 干酪#NN 是#VC 由#P 欧洲人#NN 最先#AD 发明#VV 的#DEC ，#PU 目的#NN 是#VC 为了#P 保存#VV 多余#JJ 的#DEG 牛奶#NN ，#PU 也#AD 方便#VV 作#VV 旅行#NN 食物#NN 。#PU
+NONE
+681 德#NR 川家康#NR 死后#AD 被#LB 尊为#VV 江户#NN 幕府#NN 的#DEG 守护神#NN 东照#NR 大权#NN 现#NT 。#PU
+681 德#NR 川家康#NR 被#SB 尊为#VV 江户#NN 幕府#NN 的#DEG 守护神#NN 东照#NR 大权#NN 现#NT 。#PU
+NONE
+682 酒精#NN 分子#NN 中#LC 含有#VV 两个#CD 碳原子#NN 与#CC 六个#CD 氢原子#NN 。#PU
+682 乙醇#NN 分子#NN 中#LC 含有#VV 两个#CD 碳原子#NN 与#CC 六个#CD 氢原子#NN 。#PU
+NONE
+683 在#P 采用#VV 内阁制#NN 的#DEC 国家#NN 中#LC ，#PU 议会#NN 是#VC 国家#NN 权力#NN 的#DEG 中心#NN 。#PU
+683 在#P 采用#VV 极权#JJ 制#NN 的#DEC 国家#NN 中#LC ，#PU 议会#NN 是#VC 国家#NN 权力#NN 的#DEG 中心#NN 。#PU
+NONE
+684 成均馆#NN 是#VC 朝鲜半岛#NR 历代#NN 王朝#NN 最高#JJ 学府#NN ，#PU 地位#NN 同#P 等于#VV 古代#NN 中国#NR 的#DEG 国子监#NN 、#PU 太学#NN 。#PU
+684 古代#NN 中国#NR 的#DEG 最高#JJ 学府#NN 是#VC 国子监#NN 或#CC 太学#NN 。#PU
+NONE
+685 最#AD 年轻#JJ 踏上#VV 红#JJ 磡#NN 体育馆#NN 开#VV 演唱会#NN 的#DEG 为#P 台湾#NR 男歌手#NN 林志颖#NR （#PU 当时#NT 18#CD 岁#M ）#PU 。#PU
+685 台湾#NR 男歌手#NN 林志颖#NR 18#CD 岁#M 就#AD 踏上#VV 红#JJ 磡#NN 体育馆#NN 开#VV 演唱会#NN 。#PU
+NONE
+686 汽电#NN 共生#VV 是#VC 指#VV 将#BA 发电#NN 后#LC 的#DEG 废热#NN 用于#VV 工业#NN 制造#NN 或是#CC 利用#VV 工业#NN 制造#VV 的#DEC 废热#NN 发电#VV 。#PU
+686 汽电#NN 共生#VV 是#VC 一种#CD 再生能源#NN 技术#NN 。#PU
+NONE
+687 干酪#NN 的#DEG 制作方法#NN 是#VC 由#P 欧洲人#NN 最先#AD 发明#VV 的#DEC ，#PU 目的#NN 是#VC 为了#P 保存#VV 多余#JJ 的#DEG 牛奶#NN ，#PU 也#AD 方便#VV 作#VV 旅行#NN 食物#NN 。#PU
+687 干酪#NN 的#DEG 制作#NN 原由#NN 是#VC 当时#NT 牛奶#NN 的#DEG 匮乏#NN 所#MSP 导致#VV 。#PU
+NONE
+688 阿巴#NR 多自#VV 2003#CD 年#M 接任#VV 琉森#NR 音乐节#NN 音乐#NN 总监#NN 后#LC ，#PU 成立#VV 了#AS 琉森#NR 节日#NN 管弦乐团#NN （#PU Lucerne#JJ Festival#JJ Orchestra#NN ,#PU LFO#NR ）#PU 。#PU
+688 阿巴#NR 多自#VV 2003#CD 年#M 卸任#VV 琉森#NR 音乐节#NN 音乐#NN 总监#NN 后#LC ，#PU 成立#VV 了#AS 琉森#NR 节日#NN 管弦乐团#NN （#PU Lucerne#JJ Festival#JJ Orchestra#NN ,#PU LFO#NR ）#PU 。#PU
+NONE
+689 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 的#DEG 参赛者#NN 在#P 比赛#NN 时#LC 必须#VV 未满#VV 20#CD 周岁#NN ，#PU 最高#JJ 学历#NN 为#VC 中学#NN 。#PU
+689 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 的#DEG 参赛者#NN 在#P 比赛#NN 时#LC 必须#VV 未满#VV 20#CD 足岁#NN ，#PU 最高#JJ 学历#NN 为#VC 中学#NN 。#PU
+NONE
+690 在#P 现代#JJ 法治#NN 社会#NN ，#PU 严重#VA 的#DEC 虐待#NN 行为#NN 是#VC 一种#CD 犯罪行为#VV ，#PU 可#VV 被#SB 起诉#VV ，#PU 并#AD 要#VV 受到#VV 法律#NN 惩罚#VV 。#PU
+690 在#P 现代#JJ 法治#NN 社会#NN ，#PU 任何#DT 的#DEG 虐待#NN 行为#NN 都#AD 是#VC 一种#CD 犯罪行为#VV ，#PU 可#VV 被#SB 起诉#VV ，#PU 并#AD 要#VV 受到#VV 法律#NN 惩罚#VV 。#PU
+NONE
+691 新加坡#NR 樟宜#NR 机场#NN 是#VC 新加坡#NR 主要#JJ 的#DEG 民用机场#NN ，#PU 由#P 新加坡#NR 民航局#NN 营运#NN 。#PU
+691 新加坡#NR 樟宜#NR 机场#NN 是#VC 新加坡#NR 主要#JJ 的#DEG 民用机场#NN ，#PU 曾#AD 由#P 新加坡#NR 民航局#NN 营运#NN 。#PU
+NONE
+692 全世界#NN 75#CD %#CD —#PU 85#CD %#CD 的#DEG 琥珀#NN 産#VV 于#P 波罗地海#NR 沿岸#NN 的#DEG 波兰#NR 、#PU 俄罗斯#NR 、#PU 立陶宛#NR 等#ETC 国家#NN 。#PU
+692 全世界#NN 五成#CD 至#CC 六成#CD 的#DEG 琥珀#NN 産#VV 于#P 波罗地海#NR 沿岸#NN 的#DEG 波兰#NR 、#PU 俄罗斯#NR 、#PU 立陶宛#NR 等#ETC 国家#NN 。#PU
+NONE
+693 禁药#NN 检查#NN 的#DEG 实施#NN 避免#VV 运动员#NN 服用#VV 所谓#JJ 的#DEG “#PU 禁药#NN ”#PU 来#MSP 增进#VV 自己#PN 运动#NN 项目#NN 的#DEG 成绩#NN 。#PU
+693 禁药#NN 检查#NN 的#DEG 实施#NN 避免#VV 运动员#NN 服用#VV 所谓#JJ 的#DEG “#PU 禁药#NN ”#PU 来#MSP 降低#VV 自己#PN 运动#NN 项目#NN 的#DEG 成绩#NN 。#PU
+NONE
+694 故#AD 梵蒂冈城#VV 国#NN 国家元首#NN 若望#VV ·#PU 保禄#VV 二世#NN 为#VC 第#OD 264#CD 任教#VV 宗#M 。#PU
+694 现任#JJ 梵蒂冈城#NN 国#NN 国家元首#NN 若望#VV ·#PU 保禄#VV 二世#NN 为#VC 第#OD 264#CD 任教#VV 宗#M 。#PU
+NONE
+695 自#P 1938#CD 年#M 创立#VV 以来#LC ，#PU 琉森#NR 音乐节#NN 已有#VV 七十多年#NT 的#DEG 历史#NN 。#PU
+695 自#P 一九三八年#NT 创立#VV 以来#LC ，#PU 琉森#NR 音乐节#NN 已有#VV 七十多年#NT 的#DEG 历史#NN 。#PU
+NONE
+696 琥珀#NN 是#VC 远古#NN 松科#NN 松属#VV 植物#NN 的#DEC 树脂#NN 埋藏#VV 于#P 地层#NN ，#PU 经过#P 漫长岁月#NN 的#DEG 演变#NN 而#MSP 形成#VV 的#DEC 化石#NN 。#PU
+696 琥珀#NN 是#VC 松科#NN 松属#VV 植物#NN 的#DEC 树脂#NN 埋藏#VV 于#P 地层#NN ，#PU 经过#P 漫长岁月#NN 的#DEG 演变#NN 而#MSP 形成#VV 的#DEC 化石#NN 。#PU
+NONE
+697 主#JJ 校区#NN 位于#VV 巴尔的摩市#NR 的#DEC 约翰#NR ·#PU 霍普金斯大学#NR ，#PU 以#P 医学#NN 、#PU 公共卫生#NN 、#PU 空间科学#NN 、#PU 国际#NN 关系#NN 、#PU 文学#NN 及#CC 音乐#NN 等#ETC 学科#NN 而#MSP 闻名世界#VV 。#PU
+697 主#JJ 校区#NN 位于#VV 巴尔的摩市#NR 的#DEC 约翰#NR ·#PU 霍普金斯大学#NR ，#PU 以#P 医学#NN 、#PU 公共卫生#NN 、#PU 空间科学#NN 、#PU 国际#NN 关系#NN 、#PU 文学#NN 及#CC 音乐#NN 等#ETC 而#MSP 闻名世界#VV 。#PU
+NONE
+698 除#P 广东#NR 以外#LC ，#PU 萝#NN 蔔#VV 糕#NN 在#P 台湾#NR 、#PU 新加坡#NR 及#CC 马来西亚#NR 等#ETC 国家#NN ，#PU 甚至#AD 东亚地区#NR 也#AD 极为#AD 普遍#VA 。#PU
+698 除#P 广东#NR 以外#LC ，#PU 萝#NN 蔔#VV 在#P 台湾#NR 、#PU 新加坡#NR 及#CC 马来西亚#NR 等#ETC 国家#NN ，#PU 甚至#AD 东亚地区#NR 也#AD 极为#AD 普遍#VA 。#PU
+NONE
+699 香港中文#NR 及#CC 城市#NN 大学#NN 大量#AD 吸纳#VV 内地#NN 应届#JJ 高考#NN 优秀生#NN
+699 香港城市大学#NR 及#CC 香港中文大学#NR 大量#CD 招收#VV 内地#NN 应届#JJ 高考#NN 优秀生#NN
+NONE
+700 1989#NT 年#NN 英伦#NR 航空#NN 92#CD 号#M 班机#NN 空难#NN ，#PU 机上#NN 118#CD 名#M 乘客#NN 中#LC 的#DEG 39#CD 人#NN 当场#AD 死亡#VV ，#PU 8#CD 人于#VV 稍后#NN 时间#NN 亦#AD 过世#VV ；#PU 而#AD 机上#NN 的#DEG 8#CD 名#M 机员#NN 则#AD 全部#AD 生还#VV 。#PU
+700 1989#NT 年#NN 英伦#NR 航空#NN 92#CD 号#M 班机#NN 空难#NN ，#PU 机上#NN 118#CD 名#M 乘客#NN 中共#NR 47#CD 人#NN 死亡#VV ；#PU 而#AD 机上#NN 的#DEG 8#CD 名#M 机员#NN 则#AD 全部#AD 生还#VV 。#PU
+NONE
+701 由于#P 染病#VV 的#DEC 牛#NN ，#PU 即使#CS 煮熟#VV 后#LC 食用#VV ，#PU 仍#AD 有#VE 机会#NN 感染#VV 疯牛病#NN ，#PU 所以#AD 台湾#NR 要#VV 禁止#VV 美国#NR 牛肉#NN 进口#NN
+701 染病#VV 的#DEC 牛#NN ，#PU 即使#CS 煮熟#VV 后#LC 食用#VV ，#PU 仍#AD 有#VE 机会#NN 感染#VV 疯牛病#NN ，#PU 但#AD 台湾#NR 仍然#AD 没有#AD 禁止#VV 美国#NR 牛肉#NN 进口#NN
+NONE
+702 《#PU 红楼梦#NN 》#PU 被#SB 评为#VV 中国#NR 古典#JJ 章回小说#NN 的#DEG 巅峰#NN 之作#NN ，#PU 思想#NN 价值#NN 和#CC 艺术#NN 价值#NN 极高#NN 。#PU
+702 思想#NN 价值#NN 和#CC 艺术#NN 价值#NN 极高#JJ 的#DEG 《#PU 红楼梦#NN 》#PU 被#SB 评为#VV 中国#NR 古典#JJ 章回小说#NN 的#DEG 巅峰#NN 之作#NN ，#PU 思#NN 。#PU
+NONE
+703 中国工程院#NR 数据#NN 指出#VV ，#PU 三峡工程#NN 创下#VV 混凝土#NN 浇筑#VV 量#NN 世界#NN 第一#OD
+703 中国#NR 在#P 三峡工程#NN 创下#VV 混凝土#NN 浇筑#VV 量#NN 世界#NN 第一#OD
+NONE
+704 中国#NR 行动#NN 通讯#NN 拥有#VV 全球#NN 第一#OD 的#DEC 行动#NN 通讯#NN 网络#NN 规模#NN 和#CC 客户#NN 规模#NN ，#PU 连续#AD 多年#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 。#PU
+704 客户#NN 人数#NN 是#VC 评估#NN 行动#NN 通讯#NN 公司#NN 规模#NN 的#DEG 主要#JJ 参考#NN 依据#NN 之一#NN 。#PU
+NONE
+705 世界#NN 少棒#NN 大赛#NN 创办#VV 于#P 1947#CD 年#M ，#PU 每年#AD 8#CD 月#NN 在#P 宾州#NR 南#NN 威廉#NR 波特#NR 比赛#NN 。#PU
+705 创办#VV 于#P 1947#CD 年#M 的#DEC 世界#NN 少棒#NN 大赛#NN 每年#AD 8#CD 月#NN 在#P 宾州#NR 南#NN 威廉#NR 波特#NR 比赛#NN 。#PU
+NONE
+706 国际原子能机构#NR 提倡#VV 核能#NN 的#DEC 和平利用#NN ，#PU 提供#VV 核能#NN 及#CC 放射性#JJ 废弃物#NN 管理#NN 等#ETC
+706 国际原子能机构#NR 提倡#VV 核能#NN 的#DEG 和平#NN 使用#NN
+NONE
+707 ESS#NR 控诉#NN 联发科#NN 侵权#NN 一案#NN 已获#AD 解决#VV ，#PU 由联#NN 发科#NN 在#P 两年#NT 内#LC 支付#VV 9#CD ,#PU 000#CD 万元#M 给#P ESS#NR 取得#VV 授权#NN
+707 ESS#NR 控诉#NN 联发科#NN 侵权#NN 一案#NN 已获#AD 解决#VV ，#PU 由#P ESS#NN 在#P 两年#NT 内#LC 支付#VV 9#CD ,#PU 000#CD 万元#M 给#P 联发科#NN 取得#VV 授权#NN
+NONE
+708 柯布#NR -#PU 道格拉斯#NR 生产#VV 函数#NN 于#P 1900#CD 年#M 至#CC 1928#NT 年间#NN 经过#P Charles#NR Cobb#NR 和#CC Paul#NR Douglas#NR 的#DEG 统计#NN 验证#NN 后#LC 确立#VV 。#PU
+708 柯布#NR -#PU 道格拉斯#NR 生产#VV 函数#NN 于#P 1900#CD 年#M 至#CC 1928#NT 年间#NN 被#SB Charles#NR Cobb#NR 和#CC Paul#NR Douglas#NN 验证#VV 后#LC 确立#VV 。#PU
+NONE
+709 近#AD 一百年#CD 来#M 二氧化碳#NN 的#DEG 大量#CD 排放#NN 导致#VV 全球#NN 变暖#VV 。#PU
+709 近#AD 一百天#CD 来#M 二氧化碳#NN 的#DEG 大量#CD 排放#NN 导致#VV 全球#NN 变暖#VV 。#PU
+NONE
+710 燃煤#NN 所#MSP 排出#VV 的#DEC 二氧化碳#NN 是#VC 温室#NN 气体#NN 之一#NN ，#PU 会#VV 造成#VV 温室效应#NN 。#PU
+710 燃煤#NN 所#MSP 排出#VV 的#DEC 二氧化碳#NN 是#VC 温室#NN 气体#NN 之一#NN ，#PU 会#VV 引发#VV 温室效应#VV 。#PU
+NONE
+711 恐龙#NN 消失#VV 于#P 6#CD 千#CD 5#CD 百万年#NT 前#LC ，#PU 通常#JJ 的#DEG 解释#NN 是#VC 一个#AD 撞击#VV 事件#NN 造成#VV 了#AS 灭绝#NN 。#PU
+711 恐龙#NN 消失#VV 于#P 6#CD 千#CD 5#CD 百万年#NT 前#LC ，#PU 通常#JJ 的#DEG 解释#NN 是#VC 一个#AD 撞击#VV 造成#VV 了#AS 灭绝#NN 。#PU
+NONE
+712 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电站#NN 的#DEG 发电#NN 成本#NN 仍然#AD 高于#VV 化石#NN 燃料#NN 发电#VV 。#PU
+712 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电站#NN 的#DEG 成本#NN 仍然#AD 高于#VV 化石#NN 燃料#NN 发电#VV 。#PU
+NONE
+713 《#PU 罪与罚#NN 》#PU 是#VC 俄国#NR 文学家#NN 杜斯妥#NR 也#AD 夫斯基#VV 的#DEC 长篇小说#NN 作品#NN ，#PU 出版#VV 于#P 1866#CD 年#M 。#PU
+713 《#PU 罪与罚#NN 》#PU 是#VC 俄国#NR 科学家#NN 杜斯妥#NR 也#AD 夫斯基#VV 的#DEC 长篇小说#NN 作品#NN ，#PU 出版#VV 于#P 1866#CD 年#M 。#PU
+NONE
+714 黑格尔#NR 的#DEG 思想#NN 对#P 后世#NN 哲学流派#VV ，#PU 如#AD 存在主义#NN 和#CC 马克思#NR 的#DEG 历史唯物主义#NN 都#AD 产生#VV 了#AS 深远#JJ 的#DEG 影响#NN 。#PU
+714 黑格尔#NR 的#DEG 思想#NN 对#P 后世#NN 哲学流派#NN 产生#VV 了#AS 深远#JJ 的#DEG 影响#NN 。#PU
+NONE
+715 德#NR 川家康#NR 在位#JJ 后以#NN 武力#NN 攻破#VV 各#DT 军阀#NN 领地#NN ，#PU 统一#NR 全#DT 日本#NR 。#PU
+715 德#NR 川家康#NR 在位#JJ 后以#NN 武力#NN 攻破#VV 各#DT 军阀#NN 领地#NN ，#PU 统一#NR 全#DT 日本#NR 群岛#NN 。#PU
+NONE
+716 酒精#NN 分子#NN 中#LC 含有#VV 两个#CD 碳原子#NN 与#CC 六个#CD 氢原子#NN 。#PU
+716 酒精#NN 是#VC 一种#AD 有机#JJ 化合物#NN 。#PU
+NONE
+717 吉林#NR 石化#NN 工厂#NN 爆炸#VV 导致#VV 松花江#NR 江面#NN 上#LC 产生#VV 一条#NN 长达#VV 80#CD 公里#M 的#DEC 污染带#NN
+717 吉林#NR 石化#NN 工厂#NN 爆炸#VV 使得#VV 松花江#NR 江面#NN 上#LC 产生#VV 一条#NN 长#AD 达#VV 八十#CD 公里#M 的#DEC 污染带#NN
+NONE
+718 全国#NN 主要#JJ 海洋#NN 产业#NN 总产值#NN 达到#VV 12841#CD 亿元#M 。#PU
+718 全国#NN 主要#JJ 海洋#NN 产业#NN 总产值#NN 达到#VV 13841#CD 亿元#M 。#PU
+NONE
+719 由于#P 研发#NN 和#CC 生产成本#NN 高昂#VA ，#PU LFA#NR 被#SB 指为#VV 并#CC 不会#VV 为#P 凌志#NN 带来#VV 任何#DT 盈利#NN 。#PU
+719 LFA#NR 售价#NN 非常#AD 昂贵#VA 。#PU
+NONE
+720 东照宫#NR 是#VC 供奉#VV 日本#NR 最后#AD 一代#LC 幕府#NR —#PU 江户#NR 幕府#NN 的#DEG 开府#NN 将军#NN 德#NR 川家康#NR 的#DEG 神社#NN 。#PU
+720 东照宫#NR 是#VC 供奉#VV 日本#NR 江户#NN 幕府#NN 的#DEG 最后#NN 一代#LC 将军#NN 德#NR 川家康#NR 的#DEG 神社#NN 。#PU
+NONE
+721 2000#CD 年#M 法国#NR 跆拳道#NN 世界杯#NR ，#PU 台湾#NR 选手#NN 朱木炎#NR 决赛#NN 碰上#VV 法国#NR 本土#NN 选手#NN ，#PU 最后#AD 金牌#NN 被#LB 误判#NN 给#VV 了#AS 法国#NR 选手#NN 。#PU 比赛#NN 结束#VV 后#LC ，#PU 现场#NN 观众#NN 一起#AD 向#P 大会#NN 抗议#VV ，#PU 朱木炎#NR 受到#VV 了#AS 热烈#VA 的#DEC 掌声#NN 鼓励#VV 。#PU
+721 2000#CD 年#M 法国#NR 跆拳道#NN 世界杯#NR ，#PU 台湾#NR 选手#NN 朱木炎#NR 决赛#NN 受到#VV 不#AD 公平#VA 待遇#NN ，#PU 现场#NN 观众#NN 一起#AD 抗议#VV 比赛#NN 判罚#VV 不公#VA 。#PU
+NONE
+722 海湾战争#NN 开打#VV ，#PU 伊拉克#NR 和#CC 科威特#NR 的#DEG 原油#NN 停止#VV 出口#NN ，#PU 油价#NN 上涨#VV
+722 海湾战争#NN 开始#VV ,#PU 因#P 科威特#NR 及#CC 伊拉克#NR 原油#NN 停止#VV 输出#NN ，#PU 造成#VV 油价#NN 上涨#VV
+NONE
+723 故#AD 梵蒂冈城#VV 国#NN 国家元首#NN 若望#VV ·#PU 保禄#VV 二世#NN 为#VC 第#OD 264#CD 任教#VV 宗#M 。#PU
+723 故#AD 梵蒂冈城#VV 国#NN 国家元首#NN 若望#VV ·#PU 保禄#VV 二世#NN 为#VC 第#OD 两#CD 百四十六#CD 任教#VV 宗#M 。#PU
+NONE
+724 全身性#JJ 红斑狼疮#NN 的#DEG 症状#NN 千奇百怪#VV ，#PU 若#CS 千面#NN 女郎#NN 一般#VA ，#PU 每个#DT 人均#JJ 不尽相同#NN 。#PU
+724 每个#DT 被#SB 诊断#VV 为#VC 全身性#JJ 红斑狼疮#NN 的#DEG 患者#NN 症状#NN 均#AD 不尽相同#VV 。#PU
+NONE
+725 中国移动#NR 具有#VV 互联网#NN 国际#NN 联网#NN 单位#NN 经营权#NN 和#CC 国际#NN 出入口#NN 局#NN 业务#NN 经营权#NN 。#PU
+725 中国移动#VV 不#AD 具备#VV 互联网#NN 国际#NN 联网#NN 单位#NN 经营权#NN 和#CC 国际#NN 出入口#NN 局#NN 业务#NN 经营权#NN 。#PU
+NONE
+726 恐龙#NN 消失#VV 于#P 6#CD 千#CD 5#CD 百万年#NT 前#LC ，#PU 通常#JJ 的#DEG 解释#NN 是#VC 一个#AD 撞击#VV 事件#NN 造成#VV 了#AS 灭绝#NN 。#PU
+726 恐龙#NN 消失#VV 于#P 6#CD 千#CD 5#CD 百万年#NT 前#LC ，#PU 通常#JJ 的#DEG 解释#NN 是#VC 一个#AD 撞击#VV 事件#NN 造成#VV 了#AS 恐龙#NN 的#DEG 灭绝#NN 。#PU
+NONE
+727 印尼#NR 观光胜地#NN 巴厘岛#NR 遭到#VV 恐怖分子#NN 的#DEC 炸弹#NN 袭击#NN ，#PU 造成#VV 一百九十#CD 人#NN 死亡#VV 、#PU 三百多#CD 人#NN 受伤#VV 的#DEC 惨剧#NN 。#PU
+727 巴厘岛#NR 遭到#VV 恐怖分子#NN 的#DEG 袭击#NN ，#PU 造成#VV 190#CD 人#NN 死亡#VV 、#PU 300#CD 多人#NN 受伤#VV 。#PU
+NONE
+728 第二位#NR 获得#VV 诺贝尔奖#NN 的#DEC 日本#NR 人#NN 是#VC 田中耕#NR 一#CD
+728 田中耕#NR 一是#AD 继小#VV 柴昌俊#NR 赢得#VV 诺贝尔物理学奖#NR 后#LC ，#PU 今年#NT 第二位#NR 获得#VV 诺贝尔奖#NN 的#DEC 日本#NR 人#NN 。#PU
+NONE
+729 红牛#NN 车队#NN 旗下#NN 车手#NN 赛#NR 巴斯蒂安#NR ·#PU 维#NR 泰尔#NR 则#AD 于#P 2010#NT 、#PU 2011#NT 、#PU 2012#CD 及#CC 2013#CD 年#M 连续#AD 四年#NT 获得#VV F1#NN 年度#NN 车手#NN 总冠军#NN 。#PU
+729 红牛#NN 车队#NN 旗下#NN 车手#NN 赛#NR 巴斯蒂安#NR ·#PU 维#NR 泰尔#NR 则#AD 于#P 2010#NT 至#CC 2013#CD 年#M 连续#AD 四年#NT 获得#VV F1#NN 年度#NN 车手#NN 总冠军#NN 。#PU
+NONE
+730 美国#NR 国家#NN 科学#NN 基金会#NN 连续#AD 31#CD 年#M 将#AD 约翰#NR ·#PU 霍普金斯大学#NR 列为#VV 全美#NR 科研经费#NN 开支#NN 最高#JJ 的#DEG 大学#NN 。#PU
+730 美国#NR 国家#NN 科学#NN 基金会#NN 连续#AD 31#CD 年#M 将#AD 约翰#NR ·#PU 霍普金斯大学#NR 列为#VV 全美#NR 科研经费#NN 开支#NN 最低#JJ 的#DEG 大学#NN 。#PU
+NONE
+731 北京#NR 奥运会#NR 的#DEG 庞大#JJ 商机#NN 已#AD 吸引#VV 三星#NR 、#PU 通用电气#NR 、#PU 戴尔#NR 、#PU 波音#NR 、#PU 西门子#NR 等#ETC 跨国企业#VV 赶赴#VV 中国#NR 设点#VV 拓展#VV 市场#NN
+731 北京#NR 奥运会#NR 庞大#JJ 商机#NN 已#AD 吸引#VV 三星#NR 、#PU 通用电气#NR 、#PU 戴尔#NR 、#PU 波音#NR 等#ETC 跨国企业#VV 赶赴#VV 中国#NR 设点#VV 拓展#VV 市场#NN
+NONE
+732 并非#VC 所有#DT 的#DEG 病毒#NN 都#AD 会#VV 导致#VV 疾病#NN 。#PU
+732 并非#VC 所有#DT 的#DEG 微生物#NN 都#AD 会#VV 导致#VV 疾病#NN 。#PU
+NONE
+733 《#PU 红楼梦#NN 》#PU 被#SB 评为#VV 中国#NR 古典#JJ 章回小说#NN 的#DEG 巅峰#NN 之作#NN ，#PU 思想#NN 价值#NN 和#CC 艺术#NN 价值#NN 极高#NN 。#PU
+733 《#PU 红楼梦#NN 》#PU 可说是#AD 中国#NR 古典#JJ 章回小说#NN 的#DEG 巅峰#NN 之作#NN ，#PU 思想#NN 价值#NN 和#CC 艺术#NN 价值#NN 极高#NN 。#PU
+NONE
+734 居礼#NN 夫人#NN 是#VC 历史#NN 上#LC 第一个#AD 获得#VV 两项#NN 诺贝尔奖#NN 的#DEC 人#NN ，#PU 而且#AD 是#VC 在#P 两个#CD 不同#JJ 的#DEG 领域#NN 获得#VV 诺贝尔奖#NN 。#PU
+734 居礼#NN 夫人#NN 有#VE 不#AD 只#AD 两座#CD 诺贝尔奖#NN 。#PU
+NONE
+735 世界#NN 少棒#NN 大赛#NN 创办#VV 于#P 1947#CD 年#M ，#PU 每年#AD 8#CD 月#NN 在#P 宾州#NR 南#NN 威廉#NR 波特#NR 比赛#NN 。#PU
+735 世界#NN 少棒#NN 大赛#NN 创办#VV 于#P 1947#CD 年#M ，#PU 每年#AD 8#CD 月#NN 在#P 美国#NR 宾州#NR 南#NN 威廉#NR 波特#NR 比赛#NN 。#PU
+NONE
+736 德#NR 川家康#NR 死后#AD 被#LB 尊为#VV 江户#NN 幕府#NN 的#DEG 守护神#NN 东照#NR 大权#NN 现#NT 。#PU
+736 德#NR 川家康#NR 身故#NN 后#LC 被#SB 尊为#VV 江户#NN 幕府#NN 的#DEG 守护神#NN 东照#NR 大权#NN 现#NT 。#PU
+NONE
+737 与#P 黑龙江#NR 与#CC 乌苏里江#NR 交汇处#NN 的#DEG 抚远#NR 三角洲#NN （#PU 中方#NN 称#VV 黑瞎子#NR 岛#NN ，#PU 俄称#VV 大#JJ 乌苏里#NR 岛#NN ）#PU ，#PU 两#CD 国#NN 对于#P 该#DT 地区#NN 归属#VV 问题#NN 签定#VV 《#PU 中#NR 俄国#NR 界#NN 东段#NN 补充#NN 协定#NN 》#PU 。#PU
+737 黑瞎子#NR 岛#NN 与#CC 大#JJ 乌苏里#NN 岛指#NN 的#DEC 是#VC 同一个#NR 地区#NN
+NONE
+738 世界#NN 少棒#NN 大赛#NN 是#VC 美国#NR 的#DEG 世界#NN 少棒#NN 联盟#NN (#PU LLB#NR )#PU 所#MSP 举办#VV 的#DEC 世界性#JJ 少年#NN 棒球#NN 比赛#NN 。#PU
+738 世界#NN 少棒#NN 大赛#NN 是#VC 世界#NN 少棒#NN 联盟#NN (#PU LLB#NR )#PU 所#MSP 举办#VV ，#PU 为#P 世界性#JJ 的#DEG 少年#NN 棒球#NN 比赛#NN 。#PU
+NONE
+739 天满宫#NR 是#VC 指#VV 日本#NR 祭祀#NN 学问#NN 之神#NR 菅#VV 原道#NN 真的#AD 神社#NN ，#PU 遍及#VV 于#P 日本#NR 各地#NN 。#PU
+739 天满宫#NR 是#VC 指#VV 日本#NR 祭祀#NN 学问#NN 之神#NR 菅#VV 原道#NN 真的#AD 神社#NN ，#PU 遍及#VV 于#P 九州#NR 各地#NN 。#PU
+NONE
+740 中国#NR 教育#NN 投入#NN 近年来#AD 持续#VV 快速增长#VV ,#PU 1997#NT 年#NT 至#CC 2002#CD 年#M ,#PU 平均#AD 每年#AD 增幅#NN 达#VV 16.7#CD %#CD
+740 1997#NT 年#NT 至#CC 2002#CD 年#M ,#PU 中国#NR 教育#NN 投入#NN 平均#NN 每年#AD 增幅#NN 达#VV 16.7#CD %#CD
+NONE
+741 大众#NN 特#AD 植物园#NN 占地约#NN 8#CD 公顷#M ，#PU 是#VC 夏威夷#NR 最#AD 古老#VA 的#DEC 植物园#NN 。#PU
+741 大众#NN 特#AD 植物园#NN 占地约#NN 8#CD 公顷#M ，#PU 是#VC 夏威夷#NR 最#AD 古老#VA 的#DEC 热带#NN 植物园#NN 。#PU
+NONE
+742 若望#AD ·#PU 保禄#NR 二世#NN 是#VC 自#P 1522#CD 年#M 哈德良#NR 六世#NN 后#LC 第一位#AD 非#VC 意大利人#NN 教宗#NN 。#PU
+742 1522#CD 年#M 哈德良#NR 六世#NN 是#VC 第一位#OD 非#JJ 意大利人#NN 教宗#NN 。#PU
+NONE
+743 低密度#NN 脂蛋白#NR 胆固醇#NN 体积小#NN ，#PU 易#AD 渗入#VV 血管#NN 壁#NN ，#PU 而#AD 形成#VV 动脉#NN 粥#VV 状#NN 硬化#VV 现象#NN
+743 近#AD 二十多年#NT 来#LC 发现#VV 血清#NN 低密度#NN 脂蛋白#JJ 胆固醇#NN 中#LC 的#DEG 不饱和#JJ 脂肪酸#NN 一旦#CS 被#SB 氧化#VV ，#PU 会#VV 产生#VV 大量#CD 自由基#NN ，#PU 才#AD 是#VC 真正#AD 诱发#VV 动脉#NN 粥#VV 状#NN 硬化#NN 与#CC 许多#CD 老化#VV 现象#NN 的#DEC 导因#NN
+NONE
+744 六方会谈#NN 是#VC 指#VV 中国#NR 、#PU 朝鲜#NR 、#PU 美国#NR 、#PU 韩国#NR 、#PU 俄罗斯#NR 、#PU 日本#NR 六方#NN 协商#NN
+744 六方会谈#VV 的#DEC 国家#NN 有#VE 美国#NR 、#PU 日本#NR 、#PU 俄罗斯#NR 、#PU 中国#NR 、#PU 韩国#NR 、#PU 朝鲜#NR
+NONE
+745 水晶宫#NR （#PU The#DT Crystal#JJ Palace#NN ）#PU 是#VC 十九世纪#NT 的#DEG 英国#NR 建筑#NN 奇观#NN 之一#NN ，#PU 也#AD 是#VC 工业革命#NN 时代#NN 的#DEG 重要#JJ 象征物#NN 。#PU
+745 水晶宫#NR （#PU The#DT Crystal#JJ Palace#NN ）#PU 是#VC 十九世纪#NT 的#DEG 大英帝国#NR 建筑#NN 奇观#NN 之一#NN ，#PU 也#AD 是#VC 工业革命#NN 时代#NN 的#DEG 重要#JJ 象征物#NN 。#PU
+NONE
+746 从#P 拥有#VV 核武器#NN 的#DEC 第一天#OD 起#M ,#PU 中国#NR 就#AD 承诺#VV 无条件#AD 不#AD 对#P 无核武器#NN 国家#NN 和#CC 无核武器#NN 区#NN 使用#VV 或#CC 威胁#VV 使用#VV 核武器#NN 。#PU
+746 中国#NR 在#P 20#OD 世纪#NN 60#CD 年代#NN 拥有#VV 核武器#NN
+NONE
+747 火力发电厂#NR 是#VC 二氧化碳#NN 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+747 火力发电厂#NR 的#DEG 排放#NN 是#VC 二氧化碳#NN 的#DEG 主要#JJ 来源#NN 。#PU
+NONE
+748 红斑#NN 性#NN 狼疮#NN 可能#VV 影响#VV 各种#NN 器官#NN ，#PU 包括#VV 心脏#NN 、#PU 关节#NN 、#PU 皮肤#NN 、#PU 肺#NN 、#PU 血管#NN 、#PU 肝#NN 、#PU 肾脏#NN ，#PU 以及#CC 神经系统#VV 。#PU
+748 红斑#NN 性#NN 狼疮#NN 可能#VV 影响#VV 各种#NN 器官#NN 的#DEG 运作#NN ，#PU 包括#VV 心脏#NN 、#PU 关节#NN 、#PU 皮肤#NN 、#PU 肺#NN 、#PU 血管#NN 、#PU 肝#NN 、#PU 肾脏#NN ，#PU 以及#CC 神经系统#VV 。#PU
+NONE
+749 卡特里娜#NR 飓风#NN 重创#VV 美国#NR 新奥尔良#NR ，#PU 上百万#CD 居民#NN 被迫#AD 撤离#VV ，#PU 州长#NN 宣布#VV 弃城#VV ，#PU 灾情惨重#VV
+749 飓风#NN 卡特里娜#NR 重创#VV 美国#NR 新奥尔良#NR
+NONE
+750 火地#NN 群岛#NN ，#PU 是#VC 南美洲#NR 最南端#NN 的#DEG 岛屿#NN 群#NN 。#PU 它#PN 是#VC 由#P 主岛#NN 大#JJ 火地岛#NR 及#CC 周边#NN 小岛#NN 组成#VV 。#PU
+750 火地#NN 群岛#NN 岛屿#NN 群由主岛#NR 大#JJ 火地岛#NR 及#CC 周边#NN 小岛#NN 组成#VV 。#PU
+NONE
+751 2005#CD 年#M 7#CD 月#M 7#CD 日#M 伦敦#NR 地铁#NN 爆炸事件#VV 的#DEC 地点#NN 是#VC 利物浦#NR 街站#NN 附近#NN
+751 2005#CD 年#M 7#CD 月#M 7#CD 日#M 伦敦#NR 地铁#NN 爆炸事件#VV 的#DEC 地点#NN 是#VC 利物浦#NR 市#NN 附近#NN
+NONE
+752 法国#NR 投票#VV 反对#VV 《#PU 欧盟#NR 宪法#NN 条约#NN 》#PU 是因为#NR 反对派#NN 认为#VV 就业机会#NR 将#AD 受#VV 欧盟#NR 新#JJ 成员国#NN 移民#NN 威胁#NN
+752 法国#NR 投票#VV 反对#VV 《#PU 欧盟#NR 宪法#NN 条约#NN 》#PU 是因为#NR 反对派#NN 认为#VV 欧盟#NR 新#JJ 成员国#NN 移民#NN 会#VV 对#P 法国#NR 人民#NN 的#DEG 就业机会#NN 造成#VV 威胁#NN
+NONE
+753 东照宫#NR 是#VC 供奉#VV 日本#NR 最后#AD 一代#LC 幕府#NR —#PU 江户#NR 幕府#NN 的#DEG 开府#NN 将军#NN 德#NR 川家康#NR 的#DEG 神社#NN 。#PU
+753 东照宫#NR 是#VC 唯一#JJ 供奉#VV 日本#NR 最后#AD 一代#LC 幕府#NR —#PU 江户#NR 幕府#NN 的#DEG 开府#NN 将军#NN 德#NR 川家康#NR 的#DEG 神社#NN 。#PU
+NONE
+754 英国#NR 经济#NN 增长率#NN 大于#VV 欧洲各国#NR
+754 英国#NR 经济#NN 增长率#NN 小于#VV 欧洲各国#NR
+NONE
+755 丁克#JJ 是#VC 英文#NN DINK#NN （#PU Double#VV Income#NN No#NN Kids#NN )#PU 的#DEG 音译#NN ，#PU 意思#NN 是#VC 双#CD 收入#NN 却#AD 不要#VV 孩子#NN
+755 丁克#JJ 族#NN 除了#P 双#CD 薪水#NN 、#PU 无#VE 子女#NN 的#DEC 明显#JJ 定义#NN 之外#LC ，#PU 还有#CC 一些#CD 普遍#JJ 特征#NN
+NONE
+756 截止#P 至#VV 2012#CD 年#M ，#PU 约翰#NR ·#PU 霍普金斯大学#NR 共有#VV 36#CD 名#M 校友#NN 获#VV 诺贝尔奖#NN 。#PU
+756 共有#VV 36#CD 名#M 约翰#NR ·#PU 霍普金斯大学#NR 校友#NN 获#VV 诺贝尔奖#NN 。#PU
+NONE
+757 活字印刷术#VV 的#DEC 发明#NN 使得#VV 欧洲#NR 的#DEG 文盲#NN 大量#AD 减少#VV 。#PU
+757 活字印刷术#VV 的#DEC 发明#NN 使得#VV 欧洲#NR 的#DEG 人#NN 大量#AD 减少#VV 。#PU
+NONE
+758 火力发电厂#NR 是#VC 二氧化碳#NN 的#DEG 主要#JJ 排放#NN 来源#NN 。#PU
+758 火力发电#NN 会#VV 排放#VV 大量#CD 的#DEG 二氧化碳#NN 。#PU
+NONE
+759 中国移动#NR 是#VC 2000#CD 年#M 4#CD 月#NN 20#CD 日#M 成立#VV 的#DEC 中国#NR 国有#JJ 重要#JJ 骨干企业#NN 。#PU
+759 中国移动#NR 骨干#NN 是#VC 2000#CD 年#M 4#CD 月#NN 20#CD 日#M 成立#VV 的#DEC 中国#NR 重要#JJ 国有企业#NN 。#PU
+NONE
+760 始新世#NR （#PU Eocene#NR ）#PU 大约#AD 开始#VV 于#P 5580#NT 万年前#NT ，#PU 终于#AD 3400#CD 万年前#NT 。#PU
+760 3800#CD 万年前#NT 约#AD 为#VC 始新世#NR （#PU Eocene#NR ）#PU 。#PU
+NONE
+761 酸雨#NN ，#PU 又称#VV 酸性#NN 沉降#VV ，#PU 一般#AD 指随#VV 降水#NN 而#MSP 沉降#VV 到#VV 地面#NN 的#DEC 酸性#JJ 物质#NN 。#PU
+761 酸雨#NN ，#PU 又称#VV 酸性#NN 沉降#VV ，#PU 一般#AD 指随#VV 降水#NN 而#MSP 沉降#VV 到#VV 地面#NN 的#DEC 弱酸性#JJ 物质#NN 。#PU
+NONE
+762 一九九七年#NT 香港#NR 发生#VV 当地#NN 居民#NN 感染#VV H5N1#NR 禽流感#NN 病毒#NN 的#DEC 事件#NN
+762 一九九七年#NT 香港#NR 发生#VV 人#NN 感染#VV 禽流感#NN 病毒#NN 事件#NN
+NONE
+763 高仓健#NR 这个#DT 名字#NN ，#PU 对于#P 如今#NT 的#DEG 人们#NN 来说#LC ，#PU 如果#CS 不提#VV 张艺谋#NR 执导#VV 的#DEC 电影#NN 《#PU 千里#NR 走单骑#NN 》#PU ，#PU 恐怕#AD 已经#AD 没有#VE 多少#CD 人#NN 熟悉#VV 。#PU
+763 千里#NR 走单骑#NN 是#VC 张艺谋#NR 所导#VV
+NONE
+764 没完没了#VV 是#VC 一部#NN 由#P 冯小刚#NR 导演#NN 的#DEG 电影#NN
+764 冯小刚#NR 和#CC 陈凯歌#NR 为#VC 导演#NN 一部#NN 电影#NN 吵得#VV 没完没了#VV
+NONE
+765 中国移动#NR 具有#VV 互联网#NN 国际#NN 联网#NN 单位#NN 经营权#NN 和#CC 国际#NN 出入口#NN 局#NN 业务#NN 经营权#NN 。#PU
+765 具有#VV 互联网#NN 国际#NN 联网#NN 单位#NN 经营权#NN 的#DEG 中国移动#NR 也#AD 拥有#VV 国际#NN 出入口#NN 局#NN 业务#NN 经营权#NN 。#PU
+NONE
+766 中国#NR 行动#NN 通讯#NN 拥有#VV 全球#NN 第一#OD 的#DEC 行动#NN 通讯#NN 网络#NN 规模#NN 和#CC 客户#NN 规模#NN ，#PU 连续#AD 多年#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 。#PU
+766 中国#NR 行动#NN 通讯#NN 被#LB 杂志#NN 评为#VV 世界#NN 500#CD 大#JJ 企业#NN 。#PU
+NONE
+767 恐龙#NN 消失#VV 于#P 6#CD 千#CD 5#CD 百万年#NT 前#LC ，#PU 最#AD 被#LB 人#NN 接受#VV 的#DEC 解释#NN 是#VC 一个#AD 撞击#VV 事件#NN 造成#VV 了#AS 灭绝#NN 。#PU
+767 恐龙#NN 6#CD 千#CD 5#CD 百万年#NT 前#LC 的#DEG 消失#NN 原因#NN 有#VE 多种#JJ 说法#NN 。#PU
+NONE
+768 2010#CD 年#M Google#NR 公司#NN 因#P 内容#NN 审查#NN 问题#NN 与#P 中国政府#NR 交涉#VV ，#PU 并#AD 最终#AD 关闭#VV 中国#NR 版#NN 网页#NN 搜寻#NN 服务#NN 。#PU
+768 2010#CD 年#M Google#NR 因#P 内容#NN 审查#NN 问题#NN 与#P 中国政府#NR 交涉#VV ，#PU 并#AD 最终#AD 关闭#VV 中国#NR 版#NN 网页#NN 搜寻#NN 服务#NN 。#PU
+NONE
+769 《#PU 罪与罚#NN 》#PU 是#VC 俄国#NR 文学家#NN 杜斯妥#NR 也#AD 夫斯基#VV 的#DEC 长篇小说#NN 作品#NN ，#PU 出版#VV 于#P 1866#CD 年#M 。#PU
+769 《#PU 罪与罚#NN 》#PU 是#VC 俄国#NR 小说家#NN 杜斯妥#NR 也#AD 夫斯基#VV 的#DEC 长篇#NN 文学作品#NN ，#PU 出版#VV 于#P 1866#CD 年#M 。#PU
+NONE
+770 南北朝#NN 陶弘景#NN 所著#VV 的#DEC 《#PU 名医#NN 别录#NN 》#PU 概括#VV 的#DEC 琥珀#NN 三大#NR 功效#NN 为#VC ：#PU 去#VV 惊#VA 定神#VA ，#PU 活血#AD 散#VV 淤#VA ，#PU 利尿#NN 通淋#NN 。#PU
+770 宋朝#NR 陶弘景#NR 所著#VV 的#DEC 《#PU 名医#NN 别录#NN 》#PU 概括#VV 的#DEC 琥珀#NN 三大#NR 功效#NN 为#VC ：#PU 去#VV 惊#VA 定神#VA ，#PU 活血#AD 散#VV 淤#VA ，#PU 利尿#NN 通淋#NN 。#PU
+NONE
+771 地震#NN 一般#AD 可#VV 分为#VV 人工#JJ 地震#NN 和#CC 天然#JJ 地震#NN 两大类#NN 。#PU
+771 天然#JJ 地震#NN 是#VC 地震#NN 的#DEG 一种#NN 。#PU
+NONE
+772 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电站#NN 的#DEG 发电#NN 成本#NN 仍然#AD 高于#VV 化石#NN 燃料#NN 发电#VV 。#PU
+772 核能#NN 、#PU 化石#NN 燃料#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电站#NN 的#DEG 发电#NN 成本#NN 仍然#AD 高于#VV 太阳能#NN 发电#NN 。#PU
+NONE
+773 近#AD 一百年#CD 来#M 二氧化碳#NN 的#DEG 大量#CD 排放#NN 导致#VV 全球#NN 变暖#VV 。#PU
+773 近#AD 一百年#CD 来#M 全球#NN 温度#NN 上升#VV 。#PU
+NONE
+774 最#AD 年轻#JJ 踏上#VV 红#JJ 磡#NN 体育馆#NN 开#VV 演唱会#NN 的#DEG 为#P 台湾#NR 男歌手#NN 林志颖#NR （#PU 当时#NT 18#CD 岁#M ）#PU 。#PU
+774 其他#DT 踏上#VV 红#JJ 磡#NN 体育馆#NN 开#VV 演唱会#NN 的#DEC 人#NN 都#AD 大于#VV 18#CD 岁#M 。#PU
+NONE
+775 截至#P 2012#CD 年#M 2#CD 月#NN 10#CD 日#M 为止#LC ，#PU 航海家#NN 1#OD 号#M 离#P 太阳#NN 约#AD 179.1#CD 亿#CD 公里#M 。#PU
+775 截至#P 2012#CD 年#M 2#CD 月#NN 10#CD 日#M 为止#LC ，#PU 航海家#NN 1#OD 号#M 离#P 太阳#NN 约#AD 1791#CD 亿#CD 公里#M 。#PU
+NONE
+776 在#P 台湾#NR ，#PU 公民#NN 直选#VV 产生#VV 之#DEC 政府#NN 首长#NN 与#CC 民意代表#NN 的#DEG 去留#NN 能#VV 经由#VV 罢免#NN 、#PU 弹劾#NN 、#PU 不信任案#NN 等#ETC 机制#NN 令其#VV 强制#AD 退场#VV 。#PU
+776 在#P 台湾#NR ，#PU 不能#AD 以#P 公民#NN 直选#VV 选出#VV 政府#NN 首长#NN 。#PU
+NONE
+777 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 的#DEG 参赛者#NN 在#P 比赛#NN 时#LC 必须#VV 未满#VV 20#CD 周岁#NN ，#PU 最高#JJ 学历#NN 为#VC 中学#NN 。#PU
+777 大学生#NN 可以#VV 个人#NN 身分#NN 参加#VV 国际#NN 奥林匹克#NR 数学#NN 竞赛#NN 。#PU
+NONE
+778 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电站#NN 的#DEG 发电#NN 成本#NN 仍然#AD 高于#VV 化石#NN 燃料#NN 发电#VV 。#PU
+778 核能#NN 、#PU 太阳能#NN 、#PU 地热能#NN 、#PU 风能#NN 、#PU 潮汐能#NN 、#PU 水力发电站#NN 的#DEG 发电#NN 成本#NN 仍然#AD 高于#VV 化石#NN 燃料#NN 发电#VV 的#DEC 发电#NN 成本#NN 。#PU
+NONE
+779 二十世纪#NT 开始#VV ，#PU 火葬#NN 在#P 世界各地#NN 得到#VV 提倡#VV ，#PU 以#P 节约#VV 日益#AD 紧张#VA 的#DEC 耕地#NN 。#PU
+779 二十世纪#NT 开始#VV ，#PU 火葬#NN 在#P 世界各地#NN 得到#VV 提倡#VV ，#PU 以#P 节约#VV 无须#VV 紧张#VA 的#DEC 耕地#NN 。#PU
+NONE
+780 20021002#CD 韩国#NR 男队#NN 爆冷门#NR 击败#VV 藤球#NN 强国#NN 泰国队#NR ，#PU 夺下#VV 亚运#NR 藤球#NN 圆场#NN 赛#NN 金牌#NN ，#PU 泰国队#NR 主教练#NN 斯里#NR 亚蓬#NR 差#VV 抨击#VV 裁判#NN 明显#AD 偏向#VV 主队#NN
+780 20021002#CD 韩国#NR 击败#VV 藤球#NN 强国#NN 泰国队#NR ，#PU 夺下#VV 亚运#NR 藤球#NN 圆场#NN 赛#NN 金牌#NN ，#PU 引发#VV 泰国队#NR 主教练#NN 斯里#NR 亚蓬#NR 差#VV 抨击#VV 裁判#NN 不公#VA
+NONE
+781 第二次世界大战#NR （#PU 又#AD 常#AD 被#SB 简称#VV 为#VC 二次大战#VV 、#PU 二战#NR 等#ETC ）#PU 是#VC 一次#AD 自#P 1939#CD 年#M 至#CC 1945#CD 年#M 所#MSP 爆发#VV 的#DEC 全球性#JJ 军事冲突#NN 。#PU
+781 第二次世界大战#OD 是#VC 一次#AD 自#P 1939#CD 年#M 至#CC 1945#CD 年#M 所#MSP 爆发#VV 的#DEC 全球性#JJ 军事冲突#NN 。#PU
+NONE
+782 德#NR 川家康#NR 死后#AD 被#LB 赐#NN 封为#VV 江户#NN 幕府#NN 的#DEG 守护神#NN 东照#NR 大权#NN 现#NT 。#PU
+782 德#NR 川家康#NR 死后#AD 被#LB 尊为#VV 江户#NN 幕府#NN 的#DEG 守护神#NN 东照#NR 大权#NN 现#NT 。#PU
+NONE
+783 同性恋#NN 权益#NN 拥护者#NN 则#AD 对#P 若望#NN ·#PU 保禄#NR 二世#NN 代表#NN 教会#NN 宣示#VV 同#DT 性欲望#NN 是#VC “#PU 明显#VA 的#DEC 病态#NN ”#PU 并#AD 反对#VV 同性#JJ 婚姻#NN 感到#VV 不满#NN 。#PU
+783 同性恋者#NN 则#AD 对#P 若望#NN ·#PU 保禄#NR 二世#NN 代表#NN 教会#NN 宣示#VV 同#DT 性欲望#NN 是#VC “#PU 明显#VA 的#DEC 病态#NN ”#PU 并#AD 反对#VV 同性#JJ 婚姻#NN 感到#VV 不满#NN 。#PU
+NONE
+784 中国#NR 行动#NN 通讯#NN 拥有#VV 全球#NN 第一#OD 的#DEC 行动#NN 通讯#NN 网络#NN 规模#NN 和#CC 客户#NN 规模#NN ，#PU 连续#AD 多年#AD 入选#VV 《#PU 财富#NN 》#PU 杂志#NN 世界#NN 500#CD 强#NN 企业#NN 。#PU
+784 中国#NR 行动#NN 通讯#NN 拥有#VV 全球#NN 第一#OD 的#DEC 客户#NN 规模#NN 。#PU
+NONE
+785 超级#JJ 油轮#NN 诺克#NR ·#PU 耐#VV 维斯#NR 号#NN 曾#AD 名为#VV 海上#NN 巨人#NN 号#NN 、#PU 快乐#NN 巨人#NN 号#NN 、#PU 与#P 亚勒#NR 维京#NR 号#NN 。#PU
+785 超级#JJ 油轮#NN 诺克#NR ·#PU 耐#VV 维斯#NR 号#NN 曾#AD 被#SB 称为#VV 海上#NN 巨人#NN 号#NN 、#PU 快乐#NN 巨人#NN 号#NN 、#PU 与#P 亚勒#NR 维京#NR 号#NN 。#PU
+NONE
+786 二十世纪#NT 初期#NN 科学家#NN 以为#VV 只有#AD H1#NN 、#PU H2#NR 和#CC H3#NR 抗原#NN 型#NN 的#DEG 流感病毒#NN 才#AD 会#VV 感染#VV 人类#NN
+786 20#OD 世纪#NN 初#LC 科学家#NN 认为#VV 只有#AD H1#NN 、#PU H2#NR 和#CC H3#NR 抗原#NN 型#NN 的#DEG 流感病毒#NN 才#AD 会#VV 感染#VV 人类#NN
+NONE
+787 日本#NR 于#P 2005#CD 年#M 发行#VV 上映#VV 的#DEC 动画电影#NN 《#PU 蒸气#NN 男孩#NN 》#PU ，#PU 其#PN 故事#NN 背景#NN 以#P 英国#NR 1851#CD 年#M 万国#NR 博览会#NN 为主#VV 。#PU
+787 日本#NR 于#P 2005#CD 年#M 发行#VV 上映#VV 的#DEC 动画电影#NN 《#PU 蒸气#NN 男孩#NN 》#PU ，#PU 其#PN 故事#NN 背景#NN 以#P 英国#NR 1851#CD 年#M 世界#NN 博览会#NN 为主#VV 。#PU
+NONE
+788 二十世纪#NT 开始#VV ，#PU 火葬#NN 在#P 世界各地#NN 得到#VV 提倡#VV ，#PU 以#P 节约#VV 日益#AD 紧张#VA 的#DEC 耕地#NN 。#PU
+788 火葬#NN 在#P 世界各地#NN 得到#VV 提倡#VV ，#PU 以省#AD 下#VV 越来越少#VV 的#DEC 耕地#NN 。#PU
+NONE
+789 20051113#CD 吉林省#NR 吉林#NR 石化#NN 公司#NN 发生爆炸#VV ，#PU 苯#NN 影响#NN 松花江#NR 水质#NN
+789 20051113#CD 吉林省#NR 吉林#NR 石化#NN 公司#NN 发生爆炸#VV ，#PU 苯#NN 污染物#NN 外泄#VV
+NONE
+790 截止#P 至#VV 2012#CD 年#M ，#PU 约翰#NR ·#PU 霍普金斯大学#NR 共有#VV 36#CD 名#M 校友#NN 获#VV 诺贝尔奖#NN 。#PU
+790 截止#P 至#VV 2036#CD 年#M ，#PU 约翰#NR ·#PU 霍普金斯大学#NR 共有#VV 12#CD 名#M 校友#NN 获#VV 诺贝尔奖#NN 。#PU
+NONE
+791 火地#NN 群岛#NN 总面积#NN 73#CD ,#PU 753#CD 平方公里#M 。#PU
+791 福克兰群岛#NR 总面积#NN 73#CD ,#PU 753#CD 平方公里#M 。#PU
+NONE
+792 主#JJ 校区#NN 位于#VV 巴尔的摩市#NR 的#DEC 约翰#NR ·#PU 霍普金斯大学#NR ，#PU 以#P 医学#NN 、#PU 公共卫生#NN 、#PU 空间科学#NN 、#PU 国际#NN 关系#NN 、#PU 文学#NN 及#CC 音乐#NN 等#ETC 学科#NN 而#MSP 闻名世界#VV 。#PU
+792 约翰#NR ·#PU 霍普金斯大学#NR 主#JJ 校区#NN 位于#VV 巴尔的摩市#NR ，#PU 以#P 医学#NN 、#PU 公共卫生#NN 、#PU 空间科学#NN 、#PU 国际#NN 关系#NN 、#PU 文学#NN 及#CC 音乐#NN 等#ETC 学科#NN 而#MSP 闻名世界#VV 。#PU
+NONE
+793 野口#NR 英世#NR 曾#AD 被#SB 三度#AD 提名#VV 诺贝尔#NR 医学奖#NN ，#PU 而#AD 最后#AD 一次#AD 有#VE 机会#NN 获奖#VV ，#PU 却#AD 因为#P 第一次世界大战#OD 发生#NN ，#PU 而#AD 宣布#VV 取消#VV 颁奖#VV 。#PU
+793 野口#NR 英世#NR 曾#AD 获#VV 诺贝尔#NR 医学奖#NN 。#PU
+NONE
+794 燃煤#NN 所#MSP 排出#VV 的#DEC 二氧化碳#NN 是#VC 温室#NN 气体#NN 之一#NN ，#PU 会#VV 造成#VV 温室效应#NN 。#PU
+794 燃煤#NN 所#MSP 排出#VV 的#DEC 二氧化碳#NN 是#VC 会#VV 造成#VV 温室效应#NN 的#DEG 温室#NN 气体#NN 之一#NN 。#PU
+NONE
+795 207#OD 年#M （#PU 47#CD 岁#M ）#PU ，#PU 刘备#NR 三顾#NR 草卢请#NN 诸葛亮#NR 加入#VV ，#PU 得出#VV 隆中对#NN 的#DEC 战略方针#NN 。#PU
+795 207#OD 年#M （#PU 47#CD 岁#M ）#PU ，#PU 刘备#NR 三顾#NR 草卢请#NN 孔明#NN 加入#VV ，#PU 得出#VV 隆中对#NN 的#DEC 战略方针#NN 。#PU
+NONE
+796 除#P 广东#NR 以外#LC ，#PU 萝#NN 蔔#VV 糕#NN 在#P 台湾#NR 、#PU 新加坡#NR 及#CC 马来西亚#NR 等#ETC 国家#NN ，#PU 甚至#AD 东亚地区#NR 也#AD 极为#AD 普遍#VA 。#PU
+796 除#P 广东#NR 以外#LC ，#PU 萝#NN 蔔#VV 糕#NN 在#P 台湾#NR 、#PU 新加坡#NR 及#CC 马来西亚#NR 等#ETC 东亚地区#NR 国家#NN 也#AD 极为#AD 普遍#VA 。#PU
+NONE
+797 最#AD 年轻#JJ 踏上#VV 红#JJ 磡#NN 体育馆#NN 开#VV 演唱会#NN 的#DEG 为#P 台湾#NR 男歌手#NN 林志颖#NR （#PU 当时#NT 18#CD 岁#M ）#PU 。#PU
+797 台湾#NR 男歌手#NN 林志颖#NR 为#VC 最#AD 年轻#JJ 踏上#VV 红#JJ 磡#NN 体育馆#NN 开#VV 演唱会#NN 的#DEC 纪录#NN 保持者#NN （#PU 当时#NT 18#CD 岁#M ）#PU 。#PU
+NONE
+798 布朗#NR 尼#NR 的#DEG 发明#NN 就#AD 像#P 很多#CD 的#DEG 美食#NN ，#PU 很#AD 可能#VV 只是#AD 无心插柳#VV 所#MSP 带来#VV 的#DEC 结果#NN 。#PU
+798 布朗#NR 尼#NR 的#DEG 发明#NN 就#AD 像#P 很多#CD 的#DEG 美食#NN ，#PU 很#AD 可能#VV 只是#AD 一个#CD 意外#JJ 的#DEG 结果#NN 。#PU
+NONE
+799 阿拉法特#NR 于#P 2004#CD 年#M 11#CD 月#NN 11#CD 日#M 过世#VV
+799 2004#CD 年#M 11#CD 月#NN 11#CD 日#M ,#PU 阿拉法特#NR 去世#VV
+NONE
+800 心肺#NN 复苏#VV 术#NN 是#VC 一种#AD 救助#VV 心跳#NN 停止#VV 病患#NN 的#DEC 急救#NN 措施#NN ，#PU 通过#P 人工#JJ 保持#NN 脑#NN 功能#NN 直到#P 自然#NN 呼吸#NN 和#CC 血液循环#NN 回复#VV 。#PU
+800 心肺#NN 复苏#VV 术#NN 是#VC 一种#AD 救助#VV 呼吸#NN 停止#VV 病患#NN 的#DEC 急救#NN 措施#NN ，#PU 通过#P 人工#JJ 保持#NN 脑#NN 功能#NN 直到#P 自然#NN 呼吸#NN 和#CC 血液循环#NN 回复#VV 。#PU
+NONE
+801 20051113#CD 吉林省#NR 吉林#NR 石化#NN 公司#NN 发生爆炸#VV ，#PU 苯#NN 污染物#NN 外泄#VV
+801 20051113#CD 吉林省#NR 吉林#NR 石化#NN 公司#NN 发生爆炸#VV ，#PU 污染物#NN 外泄#VV
+NONE
+802 《#PU 森林#NN 王子#NN 》#PU 是#VC 华特#NR 迪士尼#NR 生前#AD 亲自#AD 监制#VV 的#DEC 最后#JJ 一部#NN 动画#NN 长#JJ 片#NN
+802 《#PU 欢乐#NN 满#JJ 人间#NN 》#PU 这部#NN 电影#NN 是#VC 华特#NR 迪士尼#NR 生前#AD 亲自#AD 监督#VV 的#DEC 所有#DT 影片#NN 之中#LC 最#AD 精致#VA 、#PU 也#AD 最#AD 动人#VA 的#DEC 一部#NN 。#PU
+NONE
+803 飞人#NN 刘翔#NR 在#P 上海#NR 国际#NN 田径#NN 黄金#NN 大奖赛#NN 男子#NN 110#CD 米栏#NN 决赛#NN 中#LC ，#PU 最终#AD 以#P 13#CD 秒#M 07#NT 后来居上#VV ，#PU 击败#VV 艾伦#NR 约翰逊#NR 夺得#VV 冠军#NN
+803 刘翔#NR 击败#VV 约翰逊#NR 获得#VV 冠军#NN
+NONE

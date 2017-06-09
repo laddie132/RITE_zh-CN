@@ -384,7 +384,7 @@ class TextFeature:
         """
         antonym number ratio
         """
-        # return 0
+        return 0
         num = 0
         for word2 in self.t2_pos:
             for word1 in self.t1_pos:
@@ -400,7 +400,7 @@ class TextFeature:
         """
         synonym number ratio
         """
-        # return 0
+        return 0
         num = 0
         for word2 in self.t2_pos:
             for word1 in self.t1_pos:
